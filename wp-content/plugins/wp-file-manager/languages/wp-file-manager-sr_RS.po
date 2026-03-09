@@ -1,0 +1,2726 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2022-02-28 11:39+0530\n"
+"PO-Revision-Date: 2022-03-01 18:29+0530\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: sr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<12 || n%100>14) ? 1 : 2);\n"
+"X-Generator: Poedit 3.0.1\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: __;_e;esc_attr__;esc_html__\n"
+"X-Poedit-SearchPath-0: languages\n"
+"X-Poedit-SearchPath-1: .\n"
+
+#: file_folder_manager.php:174
+msgid "Themes backup restored successfully."
+msgstr "Резервна копија тема је успешно враћена."
+
+#: file_folder_manager.php:177
+msgid "Unable to restore themes."
+msgstr "Није могуће вратити теме."
+
+#: file_folder_manager.php:207
+msgid "Uploads backup restored successfully."
+msgstr "Резервна копија отпремања је успешно враћена."
+
+#: file_folder_manager.php:211
+msgid "Unable to restore uploads."
+msgstr "Отпремања није могуће вратити."
+
+#: file_folder_manager.php:237
+msgid "Others backup restored successfully."
+msgstr "Остале резервне копије су успешно враћене."
+
+#: file_folder_manager.php:241
+msgid "Unable to restore others."
+msgstr "Није могуће вратити друге."
+
+#: file_folder_manager.php:267
+msgid "Plugins backup restored successfully."
+msgstr "Резервна копија додатака је успешно враћена."
+
+#: file_folder_manager.php:271 file_folder_manager.php:301
+msgid "Unable to restore plugins."
+msgstr "Враћање додатака није успело."
+
+#: file_folder_manager.php:286
+msgid "Database backup restored successfully."
+msgstr "Сигурносна копија базе података је успешно враћена."
+
+#: file_folder_manager.php:286 file_folder_manager.php:297
+#: file_folder_manager.php:588 file_folder_manager.php:592
+msgid "All Done"
+msgstr "Завршено"
+
+#: file_folder_manager.php:289
+msgid "Unable to restore DB backup."
+msgstr "Није могуће вратити сигурносну копију ДБ-а."
+
+#: file_folder_manager.php:347
+msgid "Backups removed successfully!"
+msgstr "Резервне копије су успешно уклоњене!"
+
+#: file_folder_manager.php:349
+msgid "Unable to removed backup!"
+msgstr "Уклањање резервне копије није успело!"
+
+#: file_folder_manager.php:373
+msgid "Database backup done on date "
+msgstr "Прављење резервне копије базе података извршено на датум "
+
+#: file_folder_manager.php:377
+msgid "Plugins backup done on date "
+msgstr "Резервна копија додатака урађена на датум "
+
+#: file_folder_manager.php:381
+msgid "Themes backup done on date "
+msgstr "Прављење резервне копије тема на датум "
+
+#: file_folder_manager.php:385
+msgid "Uploads backup done on date "
+msgstr "Отпрема резервне копије извршене на датум "
+
+#: file_folder_manager.php:389
+msgid "Others backup done on date "
+msgstr "Остале резервне копије урађене на датум "
+
+#: file_folder_manager.php:393 file_folder_manager.php:776
+msgid "Logs"
+msgstr "Трупци"
+
+#: file_folder_manager.php:399
+msgid "No logs found!"
+msgstr "Није пронађен ниједан записник!"
+
+#: file_folder_manager.php:496
+msgid "Nothing selected for backup"
+msgstr "Ништа није изабрано за резервну копију"
+
+#: file_folder_manager.php:516
+msgid "Security Issue."
+msgstr "Безбедност питање."
+
+#: file_folder_manager.php:527
+msgid "Database backup done."
+msgstr "Извршена резервна копија базе података."
+
+#: file_folder_manager.php:530
+msgid "Unable to create database backup."
+msgstr "Није могуће направити резервну копију базе података."
+
+#: file_folder_manager.php:544
+msgid "Plugins backup done."
+msgstr "Резервна копија додатака је урађена."
+
+#: file_folder_manager.php:547
+msgid "Plugins backup failed."
+msgstr "Резервна копија додатака није успела."
+
+#: file_folder_manager.php:556
+msgid "Themes backup done."
+msgstr "Извршена резервна копија тема."
+
+#: file_folder_manager.php:559
+msgid "Themes backup failed."
+msgstr "Резервна копија тема није успела."
+
+#: file_folder_manager.php:569
+msgid "Uploads backup done."
+msgstr "Резервна копија отпремања је завршена."
+
+#: file_folder_manager.php:572
+msgid "Uploads backup failed."
+msgstr "Резервна копија отпремања није успела."
+
+#: file_folder_manager.php:581
+msgid "Others backup done."
+msgstr "Друге резервне копије су урађене."
+
+#: file_folder_manager.php:584
+msgid "Others backup failed."
+msgstr "Друге резервне копије нису успеле."
+
+#: file_folder_manager.php:761 file_folder_manager.php:762
+#: lib/wpfilemanager.php:23
+msgid "WP File Manager"
+msgstr "ВП Филе Манагер"
+
+#: file_folder_manager.php:769
+msgid "Settings"
+msgstr "Подешавања"
+
+#: file_folder_manager.php:771 inc/root.php:48
+msgid "Preferences"
+msgstr "Поставке"
+
+#: file_folder_manager.php:773
+msgid "System Properties"
+msgstr "Системска својства"
+
+#: file_folder_manager.php:775
+msgid "Shortcode - PRO"
+msgstr "Кратки код - ПРО"
+
+#: file_folder_manager.php:777
+msgid "Backup/Restore"
+msgstr "Бацкуп/Ресторе"
+
+#: file_folder_manager.php:1033
+msgid "Buy Pro"
+msgstr "Купи Про"
+
+#: file_folder_manager.php:1034
+msgid "Donate"
+msgstr "Донирајте"
+
+#: file_folder_manager.php:1249
+msgid ""
+"<div class=\"updated settings-error notice is-dismissible\" id=\"setting-"
+"error-settings_updated\"> \n"
+"<p><strong>"
+msgstr ""
+
+#: file_folder_manager.php:1256
+msgid ""
+"<div class=\"error settings-error notice is-dismissible\" id=\"setting-error-"
+"settings_updated\"> \n"
+"<p><strong>"
+msgstr ""
+
+#: file_folder_manager.php:1395 file_folder_manager.php:1483
+msgid "File doesn't exist to download."
+msgstr "Датотека не постоји за преузимање."
+
+#: file_folder_manager.php:1400 file_folder_manager.php:1488
+msgid "Invalid Security Code."
+msgstr "Неважећи сигурносни код."
+
+#: file_folder_manager.php:1405 file_folder_manager.php:1493
+msgid "Missing backup id."
+msgstr "Недостаје резервни ИД."
+
+#: file_folder_manager.php:1408 file_folder_manager.php:1496
+msgid "Missing parameter type."
+msgstr "Недостаје тип параметра."
+
+#: file_folder_manager.php:1411 file_folder_manager.php:1499
+msgid "Missing required parameters."
+msgstr "Недостају потребни параметри."
+
+#: inc/backup.php:24
+msgid ""
+"Error: Unable to restore backup because database backup is heavy in size. "
+"Please try to increase Maximum allowed size  from Preferences settings."
+msgstr ""
+"Грешка: Није могуће вратити резервну копију јер је резервна копија базе "
+"података велика. Покушајте да повећате максималну дозвољену величину у "
+"подешавањима."
+
+#: inc/backup.php:25
+msgid "Select backup(s) to delete!"
+msgstr "Изаберите резервну(е) копију(е) за брисање!"
+
+#: inc/backup.php:26
+msgid "Are you sure want to remove selected backup(s)?"
+msgstr "Да ли стварно желите да уклоните изабране резервне копије?"
+
+#: inc/backup.php:31
+msgid "Backup is running, please wait"
+msgstr "Израда резервне копије, сачекајте"
+
+#: inc/backup.php:32
+msgid "Restore is running, please wait"
+msgstr "Враћање је у току, сачекајте"
+
+#: inc/backup.php:33
+msgid "Nothing selected for backup."
+msgstr "Ништа није изабрано за резервну копију."
+
+#: inc/backup.php:45
+msgid "WP File Manager - Backup/Restore"
+msgstr "ВП Филе Манагер - Израда резервних копија / враћање"
+
+#: inc/backup.php:51
+msgid "Backup Options:"
+msgstr "Резервне опције:"
+
+#: inc/backup.php:58
+msgid "Database Backup"
+msgstr "Резервна копија базе података"
+
+#: inc/backup.php:64
+msgid "Files Backup"
+msgstr "Резервне копије датотека"
+
+#: inc/backup.php:68
+msgid "Plugins"
+msgstr "Додаци"
+
+#: inc/backup.php:71
+msgid "Themes"
+msgstr "Теме"
+
+#: inc/backup.php:74
+msgid "Uploads"
+msgstr "Отпремања"
+
+#: inc/backup.php:77
+msgid "Others (Any other directories found inside wp-content)"
+msgstr ""
+"Остало (Било који други директоријум који се налази унутар вп-садржаја)"
+
+#: inc/backup.php:81
+msgid "Backup Now"
+msgstr "Направите резервну копију одмах"
+
+#: inc/backup.php:89
+msgid "Time now"
+msgstr "Тренутно"
+
+#: inc/backup.php:99
+msgid "SUCCESS"
+msgstr "УСПЕХ"
+
+#: inc/backup.php:101
+msgid "Backup successfully deleted."
+msgstr "Резервна копија је успешно избрисана."
+
+#: inc/backup.php:102
+msgid "Ok"
+msgstr "У реду"
+
+#: inc/backup.php:117
+msgid "DELETE FILES"
+msgstr "БРИСАЊЕ ДАТОТЕКА"
+
+#: inc/backup.php:119
+msgid "Are you sure you want to delete this backup?"
+msgstr "Да ли сте сигурни да желите да избришете ову резервну копију?"
+
+#: inc/backup.php:120 inc/backup.php:139
+msgid "Cancel"
+msgstr "Поништити, отказати"
+
+#: inc/backup.php:121 inc/backup.php:140
+msgid "Confirm"
+msgstr "Потврди"
+
+#: inc/backup.php:136
+msgid "RESTORE FILES"
+msgstr "ВРАЋИ ДАТОТЕКЕ"
+
+#: inc/backup.php:138
+msgid "Are you sure you want to restore this backup?"
+msgstr "Да ли сте сигурни да желите да вратите ову резервну копију?"
+
+#: inc/backup.php:166
+msgid "Last Log Message"
+msgstr "Последња порука дневника"
+
+#: inc/backup.php:169
+msgid "The backup apparently succeeded and is now complete."
+msgstr "Резервна копија је очигледно успела и сада је завршена."
+
+#: inc/backup.php:171
+msgid "No log message"
+msgstr "Нема поруке дневника"
+
+#: inc/backup.php:177
+msgid "Existing Backup(s)"
+msgstr "Постојеће резервне копије"
+
+#: inc/backup.php:184
+msgid "Backup Date"
+msgstr "Датум резервне копије"
+
+#: inc/backup.php:187
+msgid "Backup data (click to download)"
+msgstr "Резервне копије података (кликните за преузимање)"
+
+#: inc/backup.php:190
+msgid "Action"
+msgstr "поступак"
+
+#: inc/backup.php:210
+msgid "Today"
+msgstr "Данас"
+
+#: inc/backup.php:239
+msgid "Restore"
+msgstr "Врати"
+
+#: inc/backup.php:240 inc/backup.php:250
+msgid "Delete"
+msgstr "Избриши"
+
+#: inc/backup.php:241
+msgid "View Log"
+msgstr "Погледај Дневник догађаја"
+
+#: inc/backup.php:246
+msgid "Currently no backup(s) found."
+msgstr "Тренутно није пронађена ниједна резервна копија."
+
+#: inc/backup.php:249
+msgid "Actions upon selected backup(s)"
+msgstr "Радње по изабраним сигурносним копијама"
+
+#: inc/backup.php:251
+msgid "Select All"
+msgstr "Изабери све"
+
+#: inc/backup.php:252
+msgid "Deselect"
+msgstr "Поништи избор"
+
+#: inc/backup.php:254
+msgid "Note:"
+msgstr "Белешка:"
+
+#: inc/backup.php:254
+msgid "Backup files will be under"
+msgstr "Датотеке за резервне копије ће бити испод"
+
+#: inc/contribute.php:3
+msgid "WP File Manager Contribution"
+msgstr "Допринос ВП менаџера датотека"
+
+#: inc/logs.php:7
+msgid ""
+"Note: These are demo screenshots. Please buy File Manager pro to Logs "
+"functions."
+msgstr ""
+"Напомена: Ово су демо снимци екрана. Молимо купите Филе Манагер про за "
+"функције Логс."
+
+#: inc/logs.php:8 lib/wpfilemanager.php:24
+msgid "Click to Buy PRO"
+msgstr "Кликните да бисте купили ПРО"
+
+#: inc/logs.php:8 inc/settings.php:12 inc/settings.php:27
+#: inc/system_properties.php:5 lib/wpfilemanager.php:25
+msgid "Buy PRO"
+msgstr "Купи ПРО"
+
+#: inc/logs.php:9
+msgid "Edit Files Logs"
+msgstr "Уреди евиденције датотека"
+
+#: inc/logs.php:11
+msgid "Download Files Logs"
+msgstr "Преузмите евиденције датотека"
+
+#: inc/logs.php:13
+msgid "Upload Files Logs"
+msgstr "Отпреми евиденције датотека"
+
+#: inc/root.php:43
+msgid "Settings saved."
+msgstr "Подешавања су сачувана."
+
+#: inc/root.php:43 inc/root.php:46
+msgid "Dismiss this notice."
+msgstr "Одбаци ово обавештење."
+
+#: inc/root.php:46
+msgid "You have not made any changes to be saved."
+msgstr "Нисте унели никакве промене да бисте их сачували."
+
+#: inc/root.php:55
+msgid "Public Root Path"
+msgstr "Јавни коренски пут"
+
+#: inc/root.php:58
+msgid "File Manager Root Path, you can change according to your choice."
+msgstr "Корен пут управитеља датотека, можете променити према свом избору."
+
+#: inc/root.php:59
+msgid "Default:"
+msgstr "Уобичајено:"
+
+#: inc/root.php:60
+msgid ""
+"Please change this carefully, wrong path can lead file manager plugin to go "
+"down."
+msgstr ""
+"Молимо вас пажљиво промените ово, погрешна путања може довести до пада "
+"додатка за управљање датотекама."
+
+#: inc/root.php:64
+msgid "Enable Trash?"
+msgstr "Омогућити отпад?"
+
+#: inc/root.php:67
+msgid "After enable trash, your files will go to trash folder."
+msgstr "Након омогућавања отпада, датотеке ће ићи у директоријум за отпатке."
+
+#: inc/root.php:72
+msgid "Enable Files Upload to Media Library?"
+msgstr "Омогућити отпремање датотека у библиотеку медија?"
+
+#: inc/root.php:75
+msgid "After enabling this all files will go to media library."
+msgstr "Након што ово омогућите, све датотеке ће ићи у библиотеку медија."
+
+#: inc/root.php:80
+msgid "Maximum allowed size at the time of database backup restore."
+msgstr ""
+"Максимална дозвољена величина у време враћања резервне копије базе података."
+
+#: inc/root.php:83
+msgid "MB"
+msgstr ""
+
+#: inc/root.php:85
+msgid ""
+"Please increase field value if you are getting error message at the time of "
+"backup restore."
+msgstr ""
+"Повећајте вредност поља ако добијате поруку о грешци у време враћања "
+"резервне копије."
+
+#: inc/root.php:90
+msgid "Save Changes"
+msgstr "Сачувај промене"
+
+#: inc/settings.php:10
+msgid "Settings - General"
+msgstr "Подешавања - Опште"
+
+#: inc/settings.php:11 inc/settings.php:26
+msgid ""
+"Note: This is just a demo screenshot. To get settings please buy our pro "
+"version."
+msgstr ""
+"Напомена: Ово је само демо снимак екрана. Да бисте добили подешавања, купите "
+"нашу про верзију."
+
+#: inc/settings.php:13
+msgid ""
+"Here admin can give access to user roles to use filemanager. Admin can set "
+"Default Access Folder and also control upload size of filemanager."
+msgstr ""
+"Овде администратор може дати приступ корисничким улогама за коришћење "
+"управитеља датотека. Администратор може поставити подразумевану приступну "
+"мапу и такође контролисати величину отпремања управитеља датотека."
+
+#: inc/settings.php:15
+msgid "Settings - Code-editor"
+msgstr "Подешавања - Уређивач кода"
+
+#: inc/settings.php:16
+msgid ""
+"File Manager has a code editor with multiple themes. You can select any "
+"theme for code editor. It will display when you edit any file. Also you can "
+"allow fullscreen mode of code editor."
+msgstr ""
+"Менаџер датотека има уређивач кода са више тема. За уређивач кода можете "
+"одабрати било коју тему. Приказаће се када уредите било коју датотеку. "
+"Такође можете да дозволите режим целог екрана уређивача кода."
+
+#: inc/settings.php:18
+msgid "Code-editor View"
+msgstr "Приказ уређивача кода"
+
+#: inc/settings.php:20
+msgid "Settings - User Restrictions"
+msgstr "Подешавања - Ограничења корисника"
+
+#: inc/settings.php:21
+msgid ""
+"Admin can restrict actions of any user. Also hide files and folders and can "
+"set different - different folders paths for different users."
+msgstr ""
+"Администратор може ограничити радње било ког корисника. Такође сакријте "
+"датотеке и фасцикле и можете поставити различите путање фолдера за различите "
+"кориснике."
+
+#: inc/settings.php:23
+msgid "Settings - User Role Restrictions"
+msgstr "Подешавања - Ограничења улога корисника"
+
+#: inc/settings.php:24
+msgid ""
+"Admin can restrict actions of any userrole. Also hide files and folders and "
+"can set different - different folders paths for different users roles."
+msgstr ""
+"Администратор може ограничити радње било које корисничке улоге. Такође "
+"сакријте датотеке и фасцикле и можете поставити различите путање фолдера за "
+"различите улоге корисника."
+
+#: inc/shortcode_docs.php:11
+msgid "File Manager - Shortcode"
+msgstr "Менаџер датотека – кратки код"
+
+#: inc/shortcode_docs.php:15 inc/shortcode_docs.php:17
+#: inc/shortcode_docs.php:19
+msgid "USE:"
+msgstr "УПОТРЕБА:"
+
+#: inc/shortcode_docs.php:15
+msgid ""
+"It will show file manager on front end. You can control all settings from "
+"file manager settings. It will work same as backend WP File Manager."
+msgstr ""
+"На предњем крају ће се приказати менаџер датотека. Можете да контролишете "
+"сва подешавања из подешавања менаџера датотека. Радиће исто као и бацкенд ВП "
+"Филе Манагер."
+
+#: inc/shortcode_docs.php:17
+msgid ""
+"It will show file manager on front end. But only Administrator can access it "
+"and will control from file manager settings."
+msgstr ""
+"На предњем крају ће се приказати менаџер датотека. Али само администратор "
+"може да му приступи и контролише из подешавања менаџера датотека."
+
+#: inc/shortcode_docs.php:23
+msgid "Parameters:"
+msgstr "Параметри:"
+
+#: inc/shortcode_docs.php:26
+msgid ""
+"It will allow all roles to access file manager on front end or You can "
+"simple use for particular user roles as like allowed_roles=\"editor,author"
+"\" (seprated by comma(,))"
+msgstr ""
+"Омогућиће свим улогама приступ менаџеру датотека на предњем крају или можете "
+"једноставно користити за одређене корисничке улоге као што је "
+"дозвољено_ролес=\"едитор,аутхор\" (одвојено зарезом(,))"
+
+#: inc/shortcode_docs.php:28
+msgid ""
+"Here \"test\" is the name of folder which is located on root directory, or "
+"you can give path for sub folders as like \"wp-content/plugins\". If leave "
+"blank or empty it will access all folders on root directory. Default: Root "
+"directory"
+msgstr ""
+"Овде \"тест\" је име фасцикле која се налази у основном директоријуму, или "
+"можете дати путању за поддиректоријуме као што је \"вп-цонтент/плугинс\". "
+"Ако оставите празно или празно, приступиће свим фасциклама у основном "
+"директоријуму. Подразумевано: Основни директоријум"
+
+#: inc/shortcode_docs.php:30
+msgid "for access to write files permissions, note: true/false, default: false"
+msgstr ""
+"за приступ дозволама за писање датотека, напомена: тачно/нетачно, "
+"подразумевано: нетачно"
+
+#: inc/shortcode_docs.php:32
+msgid "for access to read files permission, note: true/false, default: true"
+msgstr ""
+"за дозволу за приступ читању датотека, напомену: тачно/нетачно, "
+"подразумевано: тачно"
+
+#: inc/shortcode_docs.php:34
+msgid "it will hide mentioned here. Note: seprated by comma(,). Default: Null"
+msgstr ""
+"сакриће се овде поменуто. Напомена: одвојено зарезом (,). Подразумевано: Нулл"
+
+#: inc/shortcode_docs.php:36
+msgid ""
+"It will lock mentioned in commas. you can lock more as like \".php,.css,.js"
+"\" etc. Default: Null"
+msgstr ""
+"Закључаће се поменуто у зарезима. можете закључати више као \".пхп,.цсс,.јс"
+"\" итд. Подразумевано: Нулл"
+
+#: inc/shortcode_docs.php:38
+msgid ""
+"* for all operations and to allow some operation you can mention operation "
+"name as like, allowed_operations=\"upload,download\". Note: seprated by "
+"comma(,). Default: *"
+msgstr ""
+"* за све операције и да бисте дозволили неке операције можете навести назив "
+"операције као, дозвољено_операције=\"уплоад,довнлоад\". Напомена: одвојено "
+"зарезом (,). Уобичајено: *"
+
+#: inc/shortcode_docs.php:42
+msgid "File Operations List:"
+msgstr "Листа операција датотека:"
+
+#: inc/shortcode_docs.php:46
+msgid "mkdir ->"
+msgstr ""
+
+#: inc/shortcode_docs.php:46
+msgid "Make directory or folder"
+msgstr "Направите директоријум или директоријум"
+
+#: inc/shortcode_docs.php:47
+msgid "mkfile ->"
+msgstr ""
+
+#: inc/shortcode_docs.php:47
+msgid "Make file"
+msgstr "Направи датотеку"
+
+#: inc/shortcode_docs.php:48
+msgid "rename ->"
+msgstr ""
+
+#: inc/shortcode_docs.php:48
+msgid "Rename a file or folder"
+msgstr "Преименујте датотеку или фасциклу"
+
+#: inc/shortcode_docs.php:49
+msgid "duplicate ->"
+msgstr ""
+
+#: inc/shortcode_docs.php:49
+msgid "Duplicate or clone a folder or file"
+msgstr "Дупликат или клонирање фасцикле или датотеке"
+
+#: inc/shortcode_docs.php:50
+msgid "paste ->"
+msgstr ""
+
+#: inc/shortcode_docs.php:50
+msgid "Paste a file or folder"
+msgstr "Налепите датотеку или фасциклу"
+
+#: inc/shortcode_docs.php:51
+msgid "ban ->"
+msgstr ""
+
+#: inc/shortcode_docs.php:51
+msgid "Ban"
+msgstr "забранити"
+
+#: inc/shortcode_docs.php:52
+msgid "archive ->"
+msgstr ""
+
+#: inc/shortcode_docs.php:52
+msgid "To make a archive or zip"
+msgstr "Да направите архиву или зип"
+
+#: inc/shortcode_docs.php:53
+msgid "extract ->"
+msgstr ""
+
+#: inc/shortcode_docs.php:53
+msgid "Extract archive or zipped file"
+msgstr "Издвојите архиву или архивирану датотеку"
+
+#: inc/shortcode_docs.php:54
+msgid "copy ->"
+msgstr ""
+
+#: inc/shortcode_docs.php:54
+msgid "Copy files or folders"
+msgstr "Копирајте датотеке или фасцикле"
+
+#: inc/shortcode_docs.php:58
+msgid "cut ->"
+msgstr ""
+
+#: inc/shortcode_docs.php:58
+msgid "Simple cut a file or folder"
+msgstr "Једноставно исеците датотеку или фасциклу"
+
+#: inc/shortcode_docs.php:59
+msgid "edit ->"
+msgstr ""
+
+#: inc/shortcode_docs.php:59
+msgid "Edit a file"
+msgstr "Измените датотеку"
+
+#: inc/shortcode_docs.php:60
+msgid "rm ->"
+msgstr ""
+
+#: inc/shortcode_docs.php:60
+msgid "Remove or delete files and folders"
+msgstr "Уклоните или избришите датотеке и фасцикле"
+
+#: inc/shortcode_docs.php:61
+msgid "download ->"
+msgstr ""
+
+#: inc/shortcode_docs.php:61
+msgid "Download files"
+msgstr "Преузми датотеке"
+
+#: inc/shortcode_docs.php:62
+msgid "upload ->"
+msgstr ""
+
+#: inc/shortcode_docs.php:62
+msgid "Upload files"
+msgstr "Додај фајлове"
+
+#: inc/shortcode_docs.php:63
+msgid "search -> "
+msgstr ""
+
+#: inc/shortcode_docs.php:63
+msgid "Search things"
+msgstr "Претражите ствари"
+
+#: inc/shortcode_docs.php:64
+msgid "info ->"
+msgstr ""
+
+#: inc/shortcode_docs.php:64
+msgid "Info of file"
+msgstr "Информације о датотеци"
+
+#: inc/shortcode_docs.php:65
+msgid "help ->"
+msgstr ""
+
+#: inc/shortcode_docs.php:65
+msgid "Help"
+msgstr "Помоћ"
+
+#: inc/shortcode_docs.php:71
+msgid ""
+"->  It will ban particular users by just putting their ids seprated by "
+"commas(,). If user is Ban then they will not able to access wp file manager "
+"on front end."
+msgstr ""
+"-> Забранит ће одређеним корисницима само стављајући њихове ИД-ове "
+"раздвојене зарезима (,). Ако је корисник Бан, тада неће моћи да приступи вп "
+"менаџеру датотека на предњој страни."
+
+#: inc/shortcode_docs.php:72
+msgid "-> Filemanager UI View. Default: grid"
+msgstr "-> Приказ корисничког интерфејса Филеманагер-а. Подразумевано: grid"
+
+#: inc/shortcode_docs.php:73
+msgid "-> File Modified or Create date format. Default: d M, Y h:i A"
+msgstr "-> Филе Модифиед или Цреате дате формат. Подразумевано: d M, Y h:i A"
+
+#: inc/shortcode_docs.php:74
+msgid "-> File manager Language. Default: English(en)"
+msgstr "-> Језик менаџера датотека. Подразумевано: English(en)"
+
+#: inc/shortcode_docs.php:75
+msgid "-> File Manager Theme. Default: Light"
+msgstr "-> Тема Менаџера датотека. Подразумевано: Light"
+
+#: inc/system_properties.php:5
+msgid "File Manager - System Properties"
+msgstr "Менаџер датотека - Својства система"
+
+#: inc/system_properties.php:10
+msgid "PHP version"
+msgstr "ПХП верзија"
+
+#: inc/system_properties.php:15
+msgid "Maximum file upload size (upload_max_filesize)"
+msgstr "Максимална величина отпремања датотеке (upload_max_filesize)"
+
+#: inc/system_properties.php:20
+msgid "Post maximum file upload size (post_max_size)"
+msgstr "Објави максималну величину отпремања датотеке (post_max_size)"
+
+#: inc/system_properties.php:25
+msgid "Memory Limit (memory_limit)"
+msgstr "Ограничење меморије(memory_limit)"
+
+#: inc/system_properties.php:30
+msgid "Timeout (max_execution_time)"
+msgstr "Временско ограничење (max_execution_time)"
+
+#: inc/system_properties.php:35
+msgid "Browser and OS (HTTP_USER_AGENT)"
+msgstr "Прегледник и ОС (HTTP_USER_AGENT)"
+
+#: lib/jquery/jquery-ui-1.11.4.js:8
+msgid "'"
+msgstr ""
+
+#: lib/wpfilemanager.php:31
+msgid "Change Theme Here:"
+msgstr "Промените тему овде:"
+
+#: lib/wpfilemanager.php:35
+msgid "Default"
+msgstr "Уобичајено"
+
+#: lib/wpfilemanager.php:39
+msgid "Dark"
+msgstr "Мрачно"
+
+#: lib/wpfilemanager.php:43
+msgid "Light"
+msgstr "Светлост"
+
+#: lib/wpfilemanager.php:47
+msgid "Gray"
+msgstr "Греи"
+
+#: lib/wpfilemanager.php:52
+msgid "Windows - 10"
+msgstr ""
+
+#: lib/wpfilemanager.php:85
+msgid "Welcome to File Manager"
+msgstr "Добродошли у Филе Манагер"
+
+#: lib/wpfilemanager.php:88
+msgid ""
+"We love making new friends! Subscribe below and we promise to\n"
+"    keep you up-to-date with our latest new plugins, updates,\n"
+"    awesome deals and a few special offers."
+msgstr ""
+"Волимо да склапамо нове пријатеље! Претплатите се испод и ми то обећавамо\n"
+"    будите у току са нашим најновијим новим додацима, исправкама,\n"
+"    сјајне понуде и неколико специјалних понуда."
+
+#: lib/wpfilemanager.php:99
+msgid "Please Enter First Name."
+msgstr "Унесите име."
+
+#: lib/wpfilemanager.php:107
+msgid "Please Enter Last Name."
+msgstr "Унесите презиме."
+
+#: lib/wpfilemanager.php:116
+msgid "Please Enter Email Address."
+msgstr "Унесите адресу е-поште."
+
+#: lib/wpfilemanager.php:120
+msgid "Verify"
+msgstr "Проверити"
+
+#: lib/wpfilemanager.php:126
+msgid "No Thanks"
+msgstr "Не хвала"
+
+#: lib/wpfilemanager.php:132
+msgid "Terms of Service"
+msgstr "Услови коришћења"
+
+#: lib/wpfilemanager.php:134
+msgid "Privacy Policy"
+msgstr "Правила о приватности"
+
+#: lib/wpfilemanager.php:153
+msgid "Saving..."
+msgstr "Уштеда..."
+
+#: lib/wpfilemanager.php:155
+msgid "OK"
+msgstr "У реду"
+
+#~ msgid "Backup not found!"
+#~ msgstr "Резервна копија није пронађена!"
+
+#~ msgid "Backup removed successfully!"
+#~ msgstr "Резервна копија је успешно уклоњена!"
+
+#~ msgid "<span class=\"fm_console_error\">Nothing selected for backup</span>"
+#~ msgstr ""
+#~ "<span class=\"fm_console_error\">Ништа није изабрано за резервну копију</"
+#~ "span>"
+
+#~ msgid "<span class=\"fm_console_error\">Security Issue.</span>"
+#~ msgstr "<span class=\"fm_console_error\">Безбедносно питање.</span>"
+
+#~ msgid "<span class=\"fm_console_success\">Database backup done.</span>"
+#~ msgstr ""
+#~ "<span class=\"fm_console_success\">Израђена је сигурносна копија базе "
+#~ "података.</span>"
+
+#~ msgid ""
+#~ "<span class=\"fm_console_error\">Unable to create database backup.</span>"
+#~ msgstr ""
+#~ "<span class=\"fm_console_error\">Није могуће направити сигурносну копију "
+#~ "базе података.</span>"
+
+#~ msgid "<span class=\"fm_console_success\">Plugins backup done.</span>"
+#~ msgstr ""
+#~ "<span class=\"fm_console_success\">Израђена је резервна копија додатака.</"
+#~ "span>"
+
+#~ msgid "<span class=\"fm_console_error\">Plugins backup failed.</span>"
+#~ msgstr ""
+#~ "<span class=\"fm_console_error\">Резервна копија додатака није успела.</"
+#~ "span>"
+
+#~ msgid "<span class=\"fm_console_success\">Themes backup done.</span>"
+#~ msgstr ""
+#~ "<span class=\"fm_console_success\">Израђена је сигурносна копија тема.</"
+#~ "span>"
+
+#~ msgid "<span class=\"fm_console_error\">Themes backup failed.</span>"
+#~ msgstr ""
+#~ "<span class=\"fm_console_error\">Резервна копија тема није успела.</span>"
+
+#~ msgid "<span class=\"fm_console_success\">Uploads backup done.</span>"
+#~ msgstr ""
+#~ "<span class=\"fm_console_success\">Отпремање резервне копије је завршено."
+#~ "</span>"
+
+#~ msgid "<span class=\"fm_console_error\">Uploads backup failed.</span>"
+#~ msgstr ""
+#~ "<span class=\"fm_console_error\">Резервна копија отпремања није успела.</"
+#~ "span>"
+
+#~ msgid "<span class=\"fm_console_success\">Others backup done.</span>"
+#~ msgstr ""
+#~ "<span class=\"fm_console_success\">За остале је направљена резервна "
+#~ "копија.</span>"
+
+#~ msgid "<span class=\"fm_console_error\">Others backup failed.</span>"
+#~ msgstr ""
+#~ "<span class=\"fm_console_error\">Резервна копија није успела.</span>"
+
+#~ msgid "<span class=\"fm_console_success\">All Done</span>"
+#~ msgstr "<span class=\"fm_console_success\">Завршено</span>"
+
+#~ msgid ""
+#~ "<code>[wp_file_manager view=\"list\" lang=\"en\" theme=\"light\" "
+#~ "dateformat=\"d M, Y h:i A\" allowed_roles=\"editor,author\" access_folder="
+#~ "\"wp-content/plugins\" write = \"true\" read = \"false\" hide_files = "
+#~ "\"kumar,abc.php\" lock_extensions=\".php,.css\" allowed_operations="
+#~ "\"upload,download\" ban_user_ids=\"2,3\"]"
+#~ msgstr ""
+#~ "<code>[wp_file_manager view=\"list\" lang=\"en\" theme=\"light\" "
+#~ "dateformat=\"d M, Y h:i A\" allowed_roles=\"editor,author\" access_folder="
+#~ "\"wp-content/plugins\" write = \"true\" read = \"false\" hide_files = "
+#~ "\"kumar,abc.php\" lock_extensions=\".php,.css\" allowed_operations="
+#~ "\"upload,download\" ban_user_ids=\"2,3\"]"
+
+#~ msgid "Image"
+#~ msgstr "Слика"
+
+#~ msgid "of"
+#~ msgstr "од"
+
+#~ msgid "Close"
+#~ msgstr "Близу"
+
+#~ msgid ""
+#~ "This feature requires inline frames. You have iframes disabled or your "
+#~ "browser does not support them."
+#~ msgstr ""
+#~ "Ова функција захтева уграђене оквире. Имате онемогућене ифраме-ове или их "
+#~ "прегледач не подржава."
+
+#~ msgid "Theme Editor"
+#~ msgstr "Уређивач тема"
+
+#~ msgid "Plugin Editor"
+#~ msgstr "Уређивач додатака"
+
+#~ msgid "Access Control"
+#~ msgstr "Контрола приступа"
+
+#~ msgid "Notify Me"
+#~ msgstr "Обавести ме"
+
+#~ msgid "Language folder has been downlaoded successfully."
+#~ msgstr "језик је успешно преузет."
+
+#~ msgid "Language folder failed to downlaod."
+#~ msgstr "Пребацивање језичке фасцикле није успело."
+
+#~ msgid "Security token expired!"
+#~ msgstr "Сигурносни токен је истекао!"
+
+#~ msgid " language has been downloaded successfully."
+#~ msgstr "језик је успешно преузет."
+
+#~ msgid "Currently language "
+#~ msgstr "Тренутно језик "
+
+#~ msgid " not available. Please click on the request language link."
+#~ msgstr " није доступно. Кликните на везу за језик захтева."
+
+#~ msgid ""
+#~ "You do not have sufficient permissions to edit plugins for this site."
+#~ msgstr "Немате довољно дозвола за уређивање додатака за ову веб локацију."
+
+#~ msgid "There are no plugins installed on this site."
+#~ msgstr "На овој веб локацији нису инсталирани додаци."
+
+#~ msgid "There are no themes installed on this site."
+#~ msgstr "На овој веб локацији нису инсталиране теме."
+
+#~ msgid "<p class=\"te_error\">Please enter folder name!</p>"
+#~ msgstr "<p class=\"te_error\"> Унесите име директоријума! !</p>"
+
+#~ msgid "<p class=\"te_error\">Please enter file name!</p>"
+#~ msgstr "<p class=\"te_error\">Унесите име датотеке!</p>"
+
+#~ msgid "Open"
+#~ msgstr "Отвори"
+
+#~ msgid "Preview"
+#~ msgstr "Преглед"
+
+#~ msgid "Edit"
+#~ msgstr "Уредити"
+
+#~ msgid "Are you sure you want to abort the file uploading?"
+#~ msgstr "Да ли сте сигурни да желите да прекинете отпремање датотеке?"
+
+#~ msgid "File renamed successfully."
+#~ msgstr "Датотека је успешно преименована."
+
+#~ msgid "Are you sure you want to delete folder?"
+#~ msgstr "Да ли сте сигурни да желите да избришете фасциклу?"
+
+#~ msgid "Folder deleted successfully."
+#~ msgstr "Мапа је успешно избрисана."
+
+#~ msgid "File deleted successfully."
+#~ msgstr "Датотека је успешно избрисана."
+
+#~ msgid "Folder renamed successfully."
+#~ msgstr "Мапа је успешно преименована."
+
+#~ msgid "<p class=\"te_error\">Not allowed more than 30 characters.</p>"
+#~ msgstr "<p class=\"te_error\">Није дозвољено више од 30 знакова.</p>"
+
+#~ msgid "Invalid request!"
+#~ msgstr "Неважећи Упит!"
+
+#~ msgid "No change in file!"
+#~ msgstr "Нема промене у датотеци!"
+
+#~ msgid "File saved successfully!"
+#~ msgstr "Датотека је успешно сачувана!"
+
+#~ msgid "File not saved!"
+#~ msgstr "Датотека није сачувана!"
+
+#~ msgid "Unable to verify security token!"
+#~ msgstr "Није могуће верификовати сигурносни токен!"
+
+#~ msgid "Folder created successfully!"
+#~ msgstr "Мапа је успешно креирана!"
+
+#~ msgid "This folder format is not allowed to upload by wordpress!"
+#~ msgstr "Вордпресс не сме да отпрема овај формат фасцикле!"
+
+#~ msgid "Folder already exists!"
+#~ msgstr "Мапа већ постоји!"
+
+#~ msgid "File created successfully!"
+#~ msgstr "Датотека је успешно креирана!"
+
+#~ msgid "This file extension is not allowed to create!"
+#~ msgstr "Ову екстензију датотеке није дозвољено креирати!"
+
+#~ msgid "File already exists!"
+#~ msgstr "Датотека већ постоји!"
+
+#~ msgid "Please enter a valid file extension!"
+#~ msgstr "Унесите важећу екстензију датотеке!"
+
+#~ msgid "Folder does not exists!"
+#~ msgstr "Мапа не постоји!"
+
+#~ msgid "Folder deleted successfully!"
+#~ msgstr "Мапа је успешно избрисана!"
+
+#~ msgid "File deleted successfully!"
+#~ msgstr "Датотека је успешно избрисана!"
+
+#~ msgid "This file extension is not allowed to upload by wordpress!"
+#~ msgstr ""
+#~ "Учитавање ове екстензије датотеке није дозвољено помоћу вордпресс-а!"
+
+#~ msgid " already exists"
+#~ msgstr " Већ постоји"
+
+#~ msgid "File uploaded successfully: Uploaded file path is "
+#~ msgstr "Датотека је успешно отпремљена: Путања отпремљене датотеке је "
+
+#~ msgid "No file selected"
+#~ msgstr "Није изабрана ниједна датотека"
+
+#~ msgid "Unable to rename file! Try again."
+#~ msgstr "Није могуће преименовати датотеку! Покушајте поново."
+
+#~ msgid "Folder renamed successfully!"
+#~ msgstr "Мапа је успешно преименована!"
+
+#~ msgid "Please enter correct folder name"
+#~ msgstr "Унесите тачно име фасцикле"
+
+#~ msgid "How can we help?"
+#~ msgstr "Како можемо помоћи?"
+
+#~ msgid "Learning resources, professional support and expert help."
+#~ msgstr "Ресурси за учење, стручна подршка и стручна помоћ."
+
+#~ msgid "Documentation"
+#~ msgstr "Документација"
+
+#~ msgid "Find answers quickly from our comprehensive documentation."
+#~ msgstr "Брзо пронађите одговоре из наше свеобухватне документације."
+
+#~ msgid "Learn More"
+#~ msgstr "Брзо пронађите одговоре из наше свеобухватне документације."
+
+#~ msgid "Contact Us"
+#~ msgstr "Контактирајте нас"
+
+#~ msgid "Submit a support ticket for answers on questions you may have."
+#~ msgstr "Пошаљите карту за подршку за одговоре на питања која имате."
+
+#~ msgid "Request a Feature"
+#~ msgstr "Затражите функцију"
+
+#~ msgid "Tell us what you want and will add it to our roadmap."
+#~ msgstr "Реците нам шта желите и додаћете то на наш путоказ."
+
+#~ msgid "Tell us what you think!"
+#~ msgstr "Реците нам шта мислите!"
+
+#~ msgid "Rate and give us a review on Wordpress!"
+#~ msgstr "Оцените и дајте нам рецензију на Вордпресс-у!"
+
+#~ msgid "Leave a Review"
+#~ msgstr "Оставите преглед"
+
+#~ msgid "Update"
+#~ msgstr "ажурирање"
+
+#~ msgid "Click here to install/update "
+#~ msgstr "Кликните овде да бисте инсталирали / ажурирали "
+
+#~ msgid " language translation for Theme Editor."
+#~ msgstr " превод језика за уређивач тема."
+
+#~ msgid "Installed"
+#~ msgstr "Инсталирано"
+
+#~ msgid "English is the default language of Theme Editor. "
+#~ msgstr "Енглески је задати језик уређивача тема. "
+
+#~ msgid "Request "
+#~ msgstr "Захтев "
+
+#~ msgid "Click here to request"
+#~ msgstr "Кликните овде да бисте затражили"
+
+#~ msgid "language translation for Theme Editor"
+#~ msgstr "превод језика за уређивач тема"
+
+#~ msgid "Theme Editor Language:"
+#~ msgstr "Језик уређивача теме:"
+
+#~ msgid " language"
+#~ msgstr "Језик"
+
+#~ msgid "Available languages"
+#~ msgstr "Доступни језици"
+
+#~ msgid "Click here to download all available languages."
+#~ msgstr "Кликните овде да бисте преузели све доступне језике."
+
+#~ msgid "Request a language"
+#~ msgstr "Затражите језик"
+
+#~ msgid "Tell us which language you want to add."
+#~ msgstr "Реците нам који језик желите да додате."
+
+#~ msgid "Contact us"
+#~ msgstr "Контактирајте нас"
+
+#~ msgid "Notifications"
+#~ msgstr "Notifications"
+
+#~ msgid ""
+#~ "<strong>Note: This is just a screenshot. Buy PRO Version for this feature."
+#~ "</strong>"
+#~ msgstr ""
+#~ "<стронг> Напомена: Ово је само снимак екрана. Купите ПРО верзију за ову "
+#~ "функцију. </стронг>"
+
+#~ msgid "Permissions"
+#~ msgstr "Дозволе"
+
+#~ msgid "Edit Plugin"
+#~ msgstr "Едит Плугин"
+
+#~ msgid ""
+#~ "<strong>This plugin is currently activated!</strong> Warning: Making "
+#~ "changes to active plugins is not recommended.\tIf your changes cause a "
+#~ "fatal error, the plugin will be automatically deactivated."
+#~ msgstr ""
+#~ "<strong> Овај додатак је тренутно активиран!</strong> Упозорење: Не "
+#~ "препоручује се уношење промена у активне додатке. Ако ваше промене "
+#~ "изазову фаталну грешку, додатак ће се аутоматски деактивирати."
+
+#~ msgid "Editing <span class=\"current_file\">"
+#~ msgstr "Уређивање <span class=\"current_file\">"
+
+#~ msgid "</span> (active)"
+#~ msgstr "</span> (активан)"
+
+#~ msgid "Browsing <span class=\"current_file\">"
+#~ msgstr "Прегледавање <span class=\"current_file\">"
+
+#~ msgid "</span> (inactive)"
+#~ msgstr "</span> (неактиван)"
+
+#~ msgid "Update File"
+#~ msgstr "Ажурирај датотеку"
+
+#~ msgid "Download Plugin"
+#~ msgstr "Преузми додатак"
+
+#~ msgid ""
+#~ "You need to make this file writable before you can save your changes. See "
+#~ "<a href=\"https://wordpress.org/support/article/changing-file-permissions/"
+#~ "\" target=\"_blank\">the Codex</a> for more information."
+#~ msgstr ""
+#~ "Морате направити ову датотеку за писање да бисте могли да сачувате "
+#~ "промене. Погледајте<a href=\"https://wordpress.org/support/article/"
+#~ "changing-file-permissions/\" target=\"_blank\">Цодек</a> за више "
+#~ "информација."
+
+#~ msgid "Select plugin to edit:"
+#~ msgstr "Изаберите додатак за уређивање:"
+
+#~ msgid "Create Folder and File"
+#~ msgstr "Направите мапу и датотеку"
+
+#~ msgid "Create"
+#~ msgstr "Креирај"
+
+#~ msgid "Remove Folder and File"
+#~ msgstr "Уклоните мапу и датотеку"
+
+#~ msgid "Remove "
+#~ msgstr "Уклоните"
+
+#~ msgid "To"
+#~ msgstr "До"
+
+#~ msgid "Optional: Sub-Directory"
+#~ msgstr "Опционално: поддиректоријум"
+
+#~ msgid "Choose File "
+#~ msgstr "Одаберите датотеку"
+
+#~ msgid "No file Chosen "
+#~ msgstr "Фајл није одабран"
+
+#~ msgid "Create a New Folder: "
+#~ msgstr "Креирате нову фасциклу:"
+
+#~ msgid "New folder will be created in: "
+#~ msgstr "Нова мапа ће бити креирана у:"
+
+#~ msgid "New Folder Name: "
+#~ msgstr "Име нове мапе:"
+
+#~ msgid "Create New Folder"
+#~ msgstr "Направите нову мапу "
+
+#~ msgid "Create a New File: "
+#~ msgstr "Направите нову датотеку:"
+
+#~ msgid "New File will be created in: "
+#~ msgstr "Нова датотека ће бити креирана у:"
+
+#~ msgid "New File Name: "
+#~ msgstr "Ново име датотеке:"
+
+#~ msgid "Create New File"
+#~ msgstr "Направите нову датотеку"
+
+#~ msgid "Warning: please be careful before remove any folder or file."
+#~ msgstr "Упозорење: будите опрезни пре уклањања било које мапе или датотеке."
+
+#~ msgid "Current Theme Path: "
+#~ msgstr "Тренутна тематска путања:"
+
+#~ msgid "Remove Folder: "
+#~ msgstr "Уклони директоријум:"
+
+#~ msgid "Folder Path which you want to remove: "
+#~ msgstr "Путања до мапе коју желите уклонити: "
+
+#~ msgid "Remove Folder"
+#~ msgstr "Уклони директоријум"
+
+#~ msgid "Remove File: "
+#~ msgstr "Назив мапе који желите да уклоните:"
+
+#~ msgid "File Path which you want to remove: "
+#~ msgstr "Путања до датотеке коју желите уклонити: "
+
+#~ msgid "Remove File"
+#~ msgstr "Назив мапе који желите да уклоните"
+
+#~ msgid "Please Enter Valid Email Address."
+#~ msgstr "Унесите важећу адресу е-поште."
+
+#~ msgid "Warning: Please be careful before rename any folder or file."
+#~ msgstr ""
+#~ "Упозорење: Будите опрезни пре него што преименујете било коју фасциклу "
+#~ "или датотеку."
+
+#~ msgid "File/Folder will be rename in: "
+#~ msgstr "Датотека / мапа ће се преименовати у:"
+
+#~ msgid "File/Folder Rename: "
+#~ msgstr "Преименовање датотеке / мапе:"
+
+#~ msgid "Rename File"
+#~ msgstr "Преименовати датотеку"
+
+#~ msgid "Follow us"
+#~ msgstr "Пратите нас"
+
+#~ msgid "Theme Editor Facebook"
+#~ msgstr "Уређивач тема Фацебоок"
+
+#~ msgid "Theme Editor Instagram"
+#~ msgstr "Уређивач тема Инстаграм"
+
+#~ msgid "Theme Editor Twitter"
+#~ msgstr "Уређивач тема Твиттер"
+
+#~ msgid "Theme Editor Linkedin"
+#~ msgstr "Уређивач тема Линкедин"
+
+#~ msgid "Theme Editor Youtube"
+#~ msgstr "Уређивач тема Иоутубе"
+
+#~ msgid "Logo"
+#~ msgstr "Лого"
+
+#~ msgid "Go to ThemeEditor site"
+#~ msgstr "Идите на веб локацију ТхемеЕдитор"
+
+#~ msgid "Theme Editor Links"
+#~ msgstr "Везе до уређивача тема"
+
+#~ msgid "Child Theme"
+#~ msgstr "Дечија тема"
+
+#~ msgid "Child Theme Permissions"
+#~ msgstr "Дозволе за подређену тему"
+
+#~ msgid " is not available. Please click "
+#~ msgstr " није доступан. кликните "
+
+#~ msgid "here"
+#~ msgstr "овде"
+
+#~ msgid "to request language."
+#~ msgstr "тражити језик."
+
+#~ msgid "Click"
+#~ msgstr "Кликните"
+
+#~ msgid "to install "
+#~ msgstr "за инсталацију"
+
+#~ msgid " language translation  for Theme Editor."
+#~ msgstr " превод језика за уређивач тема."
+
+#~ msgid "Success: Settings Saved!"
+#~ msgstr "Успех: Подешавања сачувана!"
+
+#~ msgid "No changes have been made to save."
+#~ msgstr "Нису направљене промене ради уштеде."
+
+#~ msgid "Enable Theme Editor For Themes"
+#~ msgstr "Омогући уређивач тема за теме"
+
+#~ msgid "Yes"
+#~ msgstr "да"
+
+#~ msgid "No"
+#~ msgstr "Не"
+
+#~ msgid ""
+#~ "This will Enable/Disable the theme editor.<br/><strong class=\"defs"
+#~ "\">Default: </strong>Yes"
+#~ msgstr ""
+#~ "Ово ће омогућити / онемогућити уређивач тема.<br/><strong class=\"defs"
+#~ "\">Подразумевано: </strong>Да"
+
+#~ msgid "Disable Default WordPress Theme Editor?"
+#~ msgstr "Онемогућити подразумевани уређивач ВордПресс тема?"
+
+#~ msgid ""
+#~ "This will Enable/Disable the Default theme editor.<br/><strong class="
+#~ "\"defs\">Default: </strong>Yes"
+#~ msgstr ""
+#~ "Ово ће бити омогућити / онемогућити подразумевани уређивач тема.<br/"
+#~ "><strong class=\"defs\">Подразумевано: </strong>Да"
+
+#~ msgid "Enable Plugin Editor For Plugin"
+#~ msgstr "Омогући уређивач додатака за додатак"
+
+#~ msgid ""
+#~ "This will Enable/Disable the plugin editor.<br/><strong class=\"defs"
+#~ "\">Default: </strong>Yes"
+#~ msgstr ""
+#~ "Ово ће омогућити / онемогућити уређивач додатака.<br/><strong class=\"defs"
+#~ "\">Подразумевано: </strong>Да"
+
+#~ msgid "Disable Default WordPress Plugin Editor?"
+#~ msgstr "Онемогућити подразумевани уређивач додатака за ВордПресс?"
+
+#~ msgid ""
+#~ "This will Enable/Disable the Default plugin editor.<br/><strong class="
+#~ "\"defs\">Default: </strong>Yes"
+#~ msgstr ""
+#~ "Ово ће омогућити / онемогућити подразумевани уређивач додатака.<br/"
+#~ "><strong class=\"defs\">Подразумевано: </strong>Да"
+
+#~ msgid "Code Editor"
+#~ msgstr "Уређивач кода"
+
+#~ msgid ""
+#~ "Allows you to select theme for theme editor.<br/><strong class=\"defs"
+#~ "\">Default: </strong>Cobalt"
+#~ msgstr ""
+#~ "Омогућава вам одабир теме за уређивач тема.<br/><strong class=\"defs"
+#~ "\">Подразумевано: </strong>Да"
+
+#~ msgid "Edit Themes"
+#~ msgstr "Уреди теме"
+
+#~ msgid ""
+#~ "<strong>This theme is currently activated!</strong> Warning: Making "
+#~ "changes to active themes is not recommended."
+#~ msgstr ""
+#~ "<strong> Ова тема је тренутно активирана! </strong> Упозорење: Не "
+#~ "препоручује се уношење промена у активне теме."
+
+#~ msgid "Editing"
+#~ msgstr "Уређивање"
+
+#~ msgid "Browsing"
+#~ msgstr "Прегледавање"
+
+#~ msgid "Update File and Attempt to Reactivate"
+#~ msgstr "Ажурирајте датотеку и покушајте да је поново активирате"
+
+#~ msgid "Download Theme"
+#~ msgstr "Преузми тему"
+
+#~ msgid "Select theme to edit:"
+#~ msgstr "Изаберите тему за уређивање:"
+
+#~ msgid "Theme Files"
+#~ msgstr "Тематски фајлови"
+
+#~ msgid "Choose File"
+#~ msgstr "Одаберите датотеку"
+
+#~ msgid "No File Chosen"
+#~ msgstr "Фајл није одабран"
+
+#~ msgid "Warning: Please be careful before remove any folder or file."
+#~ msgstr ""
+#~ "Упозорење: Будите пажљиви пре него што уклоните било коју фасциклу или "
+#~ "датотеку."
+
+#~ msgid "Child Theme Permission"
+#~ msgstr "Дозвола за тему детета"
+
+#~ msgid "Translations"
+#~ msgstr "Преводи"
+
+#~ msgid "create, edit, upload, download, delete Theme Files and folders"
+#~ msgstr ""
+#~ "креирање, уређивање, отпремање, преузимање, брисање датотека са "
+#~ "датотекама и директоријума"
+
+#~ msgid "You do not have the permission to create new child theme."
+#~ msgstr "Немате дозволу за креирање нове подређене теме."
+
+#~ msgid ""
+#~ "You do not have the permission to change configure existing child theme."
+#~ msgstr "Немате дозволу за промену конфигурације постојеће подређене теме."
+
+#~ msgid "You do not have the permission to duplicate the child theme."
+#~ msgstr "Немате дозволу да копирате подређену тему."
+
+#~ msgid "You do not have the permission to access query/ selector menu."
+#~ msgstr "Немате дозволу за приступ менију за упит / селектор."
+
+#~ msgid "You do not have the permission to access web fonts & CSS menu."
+#~ msgstr "Немате дозволу за приступ веб фонтовима и ЦСС менију."
+
+#~ msgid "You do not have the permission to copy files."
+#~ msgstr "Немате дозволу за копирање датотека."
+
+#~ msgid "You do not have the permission to delete child files."
+#~ msgstr "Немате дозволу за брисање подређених датотека."
+
+#~ msgid "You do not have the permission to upload new screenshot."
+#~ msgstr "Немате дозволу за отпремање новог снимка екрана."
+
+#~ msgid "You do not have the permission to upload new images."
+#~ msgstr "Немате дозволу за отпремање нових слика."
+
+#~ msgid "You do not have the permission to delete images."
+#~ msgstr "Немате дозволу за брисање слика."
+
+#~ msgid "You do not have the permission to download file."
+#~ msgstr "Немате дозволу за преузимање датотеке."
+
+#~ msgid "You do not have the permission to create new directory."
+#~ msgstr "Немате дозволу за стварање новог директоријума."
+
+#~ msgid "You do not have the permission to create new file."
+#~ msgstr "Немате дозволу за креирање нове датотеке."
+
+#~ msgid "You don't have permission to update file!"
+#~ msgstr "Немате дозволу за ажурирање датотеке!"
+
+#~ msgid "You don't have permission to create folder!"
+#~ msgstr "Немате дозволу за стварање директоријума!"
+
+#~ msgid "You don't have permission to delete folder!"
+#~ msgstr "Немате дозволу за брисање директоријума!"
+
+#~ msgid "You don't have permission to delete file!"
+#~ msgstr "Немате дозволу за брисање датотеке!"
+
+#~ msgid "You don't have permission to upload file!"
+#~ msgstr "Немате дозволу за отпремање датотеке!"
+
+#~ msgid "Child Theme permissions saved successfully."
+#~ msgstr "Дозволе за подређену тему су успешно сачуване."
+
+#~ msgid ""
+#~ "There are no changes made in the child theme permissions to be saved."
+#~ msgstr "Нема промена у дозволама подређене теме које треба сачувати."
+
+#~ msgid "Child Theme permission message saved successfully."
+#~ msgstr "Порука дозволе за подређену тему је успешно сачувана."
+
+#~ msgid "Users"
+#~ msgstr "Корисници"
+
+#~ msgid "Create New Child Theme"
+#~ msgstr "Направите нову тему за дете"
+
+#~ msgid "Configure an Existing Child Themes"
+#~ msgstr "Конфигуришите постојеће дечје теме"
+
+#~ msgid "Duplicate Child Themes"
+#~ msgstr "Дупликат дечијих тема"
+
+#~ msgid "Query/ Selector"
+#~ msgstr "Упит / Селектор"
+
+#~ msgid "Web/font"
+#~ msgstr "Веб / фонт"
+
+#~ msgid "Copy File Parent Theme To Child Theme"
+#~ msgstr "Копирајте родитељску тему датотеке у подређену тему"
+
+#~ msgid "Deleted Child Files"
+#~ msgstr "Избрисане датотеке детета"
+
+#~ msgid "Upload New Screenshoot"
+#~ msgstr "Отпремите нови снимак екрана"
+
+#~ msgid "Upload New Images"
+#~ msgstr "Отпремите нове слике"
+
+#~ msgid "Deleted Images "
+#~ msgstr "Избрисане слике"
+
+#~ msgid "Download Images"
+#~ msgstr "Довнлоад Имагес"
+
+#~ msgid "Create New Directory"
+#~ msgstr "Направите нови директоријум"
+
+#~ msgid "Create New Files"
+#~ msgstr "Направите нове датотеке"
+
+#~ msgid "Export Theme"
+#~ msgstr "Извоз теме"
+
+#~ msgid "User Roles"
+#~ msgstr "Улоге корисника"
+
+#~ msgid "Query/ Seletor"
+#~ msgstr "Упит / Селетор"
+
+#~ msgid "Deleted Images"
+#~ msgstr "Избрисане слике"
+
+#~ msgid "Child Theme Permission Message"
+#~ msgstr "Порука о дозволи за подређену тему"
+
+#~ msgid "You do not have the permission to create new Child Theme."
+#~ msgstr "Немате дозволу за креирање нове теме за дете."
+
+#~ msgid "Query/Selector"
+#~ msgstr "Упит / Селектор"
+
+#~ msgid "You do not have the permission to access query / selector menu."
+#~ msgstr "Немате дозволу за приступ менију за упит / селектор."
+
+#~ msgid " Web/font"
+#~ msgstr "Веб / фонт"
+
+#~ msgid " Export Theme"
+#~ msgstr "Извоз теме"
+
+#~ msgid "Save Child Theme Message"
+#~ msgstr "Порука о дозволи за подређену тему"
+
+#~ msgid "Please select atleast one image."
+#~ msgstr "Изаберите најмање једну слику."
+
+#~ msgid "You don't have the permission to delete images."
+#~ msgstr "Немате дозволу за брисање слика."
+
+#~ msgid "You don't have the permission to upload new images."
+#~ msgstr "Немате дозволу за отпремање нових слика."
+
+#~ msgid "You don't have the permission to download."
+#~ msgstr "Немате дозволу за преузимање."
+
+#~ msgid "You don't have the permission to create new directory."
+#~ msgstr "Немате дозволу за креирање новог директоријума."
+
+#~ msgid "Please choose file type."
+#~ msgstr "Изаберите врсту датотеке."
+
+#~ msgid "Please enter file name."
+#~ msgstr "Унесите име датотеке."
+
+#~ msgid "You don't have the permission to create new file."
+#~ msgstr "Немате дозволу за стварање нове датотеке."
+
+#~ msgid "Are you sure to copy parent files into child theme?"
+#~ msgstr ""
+#~ "Да ли сте сигурни да сте копирали родитељске датотеке у подређену тему?"
+
+#~ msgid "Please select file(s)."
+#~ msgstr "Молимо одаберите датотеке."
+
+#~ msgid "You don't have the permission to copy files."
+#~ msgstr "Немате дозволу за копирање датотека."
+
+#~ msgid "Are you sure you want to delete selected file(s)?"
+#~ msgstr "Да ли сте сигурни да желите да избришете изабране датотеке?"
+
+#~ msgid "You don't have the permission to delete child files."
+#~ msgstr "Немате дозволу за брисање подређених датотека."
+
+#~ msgid "You don't have the permission to upload new screenshot."
+#~ msgstr "Немате дозволу за отпремање новог снимка екрана."
+
+#~ msgid "You don't have the permission to export theme."
+#~ msgstr "Немате дозволу за извоз теме."
+
+#~ msgid "You don't have the permission to access Query/ Selector menu."
+#~ msgstr "Немате дозволу за приступ менију Куери / Селецтор."
+
+#~ msgid "You don't have the permission to access Web Fonts & CSS menu."
+#~ msgstr "Немате дозволу за приступ менију Веб фонтови и ЦСС."
+
+#~ msgid "Current Analysis Theme:"
+#~ msgstr "Тренутна тема анализе:"
+
+#~ msgid "Preview Theme"
+#~ msgstr "Преглед теме"
+
+#~ msgid "Parent Themes"
+#~ msgstr "Родитељске теме"
+
+#~ msgid "Child Themes"
+#~ msgstr "Дечје теме"
+
+#~ msgid "Error: Settings Not Saved!"
+#~ msgstr "Грешка: Поставке нису сачуване!"
+
+#~ msgid "Email List"
+#~ msgstr "Имејл листа"
+
+#~ msgid "Email Address"
+#~ msgstr "Адреса Е-поште"
+
+#~ msgid "Enter Email"
+#~ msgstr "Унесите е-маил"
+
+#~ msgid "Add More"
+#~ msgstr "Додај још"
+
+#~ msgid ""
+#~ "This address is used for notification purposes, like theme/plugin "
+#~ "notification."
+#~ msgstr ""
+#~ "Ова адреса се користи у сврхе обавештавања, попут обавештења о теми / "
+#~ "додатку."
+
+#~ msgid "Theme Notification"
+#~ msgstr "Обавештење о теми"
+
+#~ msgid "Notify on file update"
+#~ msgstr "Обавести о ажурирању датотеке"
+
+#~ msgid ""
+#~ "Notification on theme file edit or update.<br/><strong>Default: </"
+#~ "strong>Yes"
+#~ msgstr ""
+#~ "Обавештење о уређивању или ажурирању датотеке теме. <br/"
+#~ "><strong>Подразумевано: </strong> Да"
+
+#~ msgid "Notify on files download"
+#~ msgstr "Обавести о преузимању датотека"
+
+#~ msgid ""
+#~ "Notification on theme file edit download.<br/><strong>Default: </"
+#~ "strong>Yes"
+#~ msgstr ""
+#~ "Обавештење о преузимању датотеке за уређивање датотеке. <br/"
+#~ "><strong>Подразумевано: </strong>Да"
+
+#~ msgid "Notify on theme download"
+#~ msgstr "Обавести о преузимању теме"
+
+#~ msgid "Notification on theme download.<br/><strong>Default: </strong>Yes"
+#~ msgstr ""
+#~ "Обавештење о преузимању теме.<br/><strong>Подразумевано: </strong>Да"
+
+#~ msgid "Notify on files upload"
+#~ msgstr "Обавести о отпремању датотека"
+
+#~ msgid ""
+#~ "Notification on files upload in theme.<br/><strong>Default: </strong>Yes"
+#~ msgstr ""
+#~ "Обавештење о отпремању датотека у теми.<br/><strong>Подразумевано: </"
+#~ "strong>Да"
+
+#~ msgid "Notify on create new file/folder"
+#~ msgstr "Обавести о стварању нове датотеке / директоријума"
+
+#~ msgid ""
+#~ "Notification on create new file/folder in theme.<br/><strong>Default: </"
+#~ "strong>Yes"
+#~ msgstr ""
+#~ "Обавештење о стварању нове датотеке / фасцикле у теми.<br/><strong> "
+#~ "Подразумевано: </strong>Да"
+
+#~ msgid "Notify on delete"
+#~ msgstr "Обавести о брисању"
+
+#~ msgid ""
+#~ "Notify on delete any file and folder in themes.<br/><strong>Default: </"
+#~ "strong>Yes"
+#~ msgstr ""
+#~ "Обавести ме о брисању било које датотеке и директоријума у ​​темама.<br/"
+#~ "><strong>Подразумевано: </strong> Да"
+
+#~ msgid "Notify on create New Child theme"
+#~ msgstr "Обавести о стварању теме Ново дете"
+
+#~ msgid ""
+#~ "Notify on Create New Child themes. <br/><strong>Default: </strong>Yes"
+#~ msgstr ""
+#~ "Обавештавајте о темама Стварање новог детета. <br/><strong> "
+#~ "Подразумевано: </strong>Да"
+
+#~ msgid "Notify on configure an Existing Child themes"
+#~ msgstr "Обавести ме о конфигурисању постојећих подређених тема"
+
+#~ msgid ""
+#~ "Notify on configure an Existing Child themes.<br/><strong>Default: </"
+#~ "strong>Yes"
+#~ msgstr ""
+#~ "Обавести ме о конфигурисању постојећих подређених тема. <br/"
+#~ "><strong>Подразумевано: </strong>Да"
+
+#~ msgid "Notify on Duplicate Child themes"
+#~ msgstr "Обавештавајте о темама Дуплицате Цхилд"
+
+#~ msgid ""
+#~ "Notify on Configure an Existing Child themes.<br/><strong>Default: </"
+#~ "strong>Yes"
+#~ msgstr ""
+#~ "Обавести ме о конфигурисању постојећих подређених тема.<br/"
+#~ "><strong>Подразумевано: </strong>Да"
+
+#~ msgid "Plugin Notification"
+#~ msgstr "Обавештење о додатку"
+
+#~ msgid ""
+#~ "Notification on theme file edit or update.<br/><strong>Default: </"
+#~ "strong>yes"
+#~ msgstr ""
+#~ "Обавештење о уређивању или ажурирању датотеке теме.<br/"
+#~ "><strong>Подразумевано: </strong>да"
+
+#~ msgid "Notify on Plugin download"
+#~ msgstr "Обавести о преузимању додатка"
+
+#~ msgid "Notification on Plugin download.<br/><strong>Default: </strong>Yes"
+#~ msgstr ""
+#~ "Обавештење о преузимању додатка.<br/><strong>Подразумевано: </strong>Да"
+
+#~ msgid ""
+#~ "Notification on file upload in theme.<br/><strong>Default: </strong>Yes"
+#~ msgstr ""
+#~ "Обавештење о отпремању датотеке у теми.<br/><strong>Подразумевано: </"
+#~ "strong>Да"
+
+#~ msgid "Permission saved successfully."
+#~ msgstr "Дозвола је успешно сачувана."
+
+#~ msgid "Oops! Permission cannot saved because you have not made any changes."
+#~ msgstr "Упс! Дозвола се не може сачувати јер нисте унели никакве промене."
+
+#~ msgid "Allowed User Roles"
+#~ msgstr "Дозвољене улоге корисника"
+
+#~ msgid "Update theme files"
+#~ msgstr "Ажурирајте датотеке тема"
+
+#~ msgid "Create new theme files and folders"
+#~ msgstr "Направите нове датотеке и фасцикле са темама"
+
+#~ msgid "Upload new theme files and folders"
+#~ msgstr "Отпремите нове датотеке и фасцикле тема"
+
+#~ msgid "Download theme files"
+#~ msgstr "Преузмите датотеке са темама"
+
+#~ msgid "Download theme"
+#~ msgstr "Преузми тему"
+
+#~ msgid "Update plugin files"
+#~ msgstr "Ажурирајте датотеке додатака"
+
+#~ msgid "Create new plugin files and folders"
+#~ msgstr "Креирајте нове датотеке и директоријуме додатака"
+
+#~ msgid "Upload new plugin files and folders"
+#~ msgstr "Отпремите нове датотеке и директоријуме додатака"
+
+#~ msgid "Delete plugin files and folders"
+#~ msgstr "Избришите датотеке и директоријуме додатака"
+
+#~ msgid "Download plugin files"
+#~ msgstr "Преузмите датотеке додатака"
+
+#~ msgid "Download plugin"
+#~ msgstr "Преузми додатак"
+
+#~ msgid ""
+#~ "Theme Editor PRO - Please add your order details below. If Not <a href="
+#~ "\"https://themeeditor.pro/product/theme-editor/\" target=\"_blank\" class="
+#~ "\"page-title-action button button-primary\" title=\"click to buy Licence "
+#~ "Key\">Buy Now</a>"
+#~ msgstr ""
+#~ "Уређивач тема ПРО - Молимо додајте детаље поруџбине у наставку. Ако не <a "
+#~ "href=\"https://themeeditor.pro/product/theme-editor/\" target=\"_blank\" "
+#~ "class=\"page-title-action button button-primary\" title=\"click to buy "
+#~ "Licence Key\">Купи одмах </а>"
+
+#~ msgid "ORDER ID (#) *"
+#~ msgstr "ИД ПОРУЏБИНЕ (#) *"
+
+#~ msgid "Enter Order ID"
+#~ msgstr "Унесите ИД налога"
+
+#~ msgid "Please Check Your email for order ID."
+#~ msgstr "Молимо проверите вашу е-пошту за ИД наруџбе."
+
+#~ msgid "LICENCE KEY *"
+#~ msgstr "КЉУЧ ЛИЦЕНЦЕ *"
+
+#~ msgid "Enter License Key"
+#~ msgstr "Унесите кључ лиценце"
+
+#~ msgid "Please Check Your email for Licence Key."
+#~ msgstr "Молимо провјерите своју е-пошту за кључ лиценце."
+
+#~ msgid "Click To Verify"
+#~ msgstr "Кликните да бисте потврдили"
+
+#~ msgid "URL/None"
+#~ msgstr "УРЛ / Ноне"
+
+#~ msgid "Origin"
+#~ msgstr "Порекло"
+
+#~ msgid "Color 1"
+#~ msgstr "Боја 1"
+
+#~ msgid "Color 2"
+#~ msgstr "Боја 2"
+
+#~ msgid "Width/None"
+#~ msgstr "Ширина / Нема"
+
+#~ msgid "Style"
+#~ msgstr "Style"
+
+#~ msgid "Color"
+#~ msgstr "Боја"
+
+#~ msgid "Configure Child Theme"
+#~ msgstr "Конфигуришите тему детета"
+
+#~ msgid "Duplicate Child theme"
+#~ msgstr "Дупликат дечијих тема"
+
+#~ msgid ""
+#~ "After analyzing, this theme is working fine. You can use this as your "
+#~ "Child Theme."
+#~ msgstr ""
+#~ "Након анализе, ова тема добро функционише. Ово можете користити као своју "
+#~ "тему за дете."
+
+#~ msgid ""
+#~ "After analyzing this child theme appears to be functioning correctly."
+#~ msgstr "Након анализе ове подређене теме изгледа да исправно функционише."
+
+#~ msgid ""
+#~ "This theme loads additional stylesheets after the <code>style.css</code> "
+#~ "file:"
+#~ msgstr ""
+#~ "Ова тема учитава додатне табеле стилова након датотеке <цоде> стиле.цсс </"
+#~ "цоде>:"
+
+#~ msgid "The theme"
+#~ msgstr "Назив теме"
+
+#~ msgid " could not be analyzed because the preview did not render correctly"
+#~ msgstr "није могуће анализирати јер се преглед није правилно приказао"
+
+#~ msgid "This Child Theme has not been configured for this plugin"
+#~ msgstr "Ова подређена тема није конфигурисана за овај додатак"
+
+#~ msgid ""
+#~ "The Configurator makes significant modifications to the child theme, "
+#~ "including stylesheet changes and additional php functions. Please "
+#~ "consider using the DUPLICATE child theme option (see step 1, above) and "
+#~ "keeping the original as a backup."
+#~ msgstr ""
+#~ "Конфигуратор врши значајне модификације подређене теме, укључујући "
+#~ "промене у табелама стилова и додатне пхп функције. Молимо размотрите "
+#~ "могућност коришћења ДУПЛИЦАТЕ подређене теме (погледајте корак 1, горе) и "
+#~ "задржавање оригинала као резервне копије."
+
+#~ msgid "All webfonts/css information saved successfully."
+#~ msgstr "Све информације о веб фонтовима / цсс-у су успешно сачуване."
+
+#~ msgid "Please enter value for webfonts/css."
+#~ msgstr "Унесите вредност за фонтове / цсс."
+
+#~ msgid "You don\\'t have permission to update webfonts/css."
+#~ msgstr "Немате дозволу за ажурирање веб фонтова / цсс-а."
+
+#~ msgid "All information saved successfully."
+#~ msgstr "Све информације су успешно сачуване."
+
+#~ msgid ""
+#~ "Are you sure you wish to RESET? This will destroy any work you have done "
+#~ "in the Configurator."
+#~ msgstr ""
+#~ "Да ли сте сигурни да желите РЕСЕТИРАТИ? Ово ће уништити сваки посао који "
+#~ "сте урадили у конфигуратору."
+
+#~ msgid "Selectors"
+#~ msgstr "Селектори"
+
+#~ msgid "Edit Selector"
+#~ msgstr "Уреди селектор"
+
+#~ msgid "The stylesheet cannot be displayed."
+#~ msgstr "Табела стилова се не може приказати."
+
+#~ msgid "(Child Only)"
+#~ msgstr "(Само за децу)"
+
+#~ msgid "Please enter a valid Child Theme."
+#~ msgstr "Унесите важећу тему за децу."
+
+#~ msgid "Please enter a valid Child Theme name."
+#~ msgstr "Унесите важећи назив теме за децу."
+
+#, php-format
+#~ msgid "<strong>%s</strong> exists. Please enter a different Child Theme"
+#~ msgstr "<strong>%s</strong> постоји. Унесите другу тему за дете"
+
+#~ msgid "The page could not be loaded correctly."
+#~ msgstr "Није могуће правилно учитати страницу."
+
+#~ msgid ""
+#~ "Conflicting or out-of-date jQuery libraries were loaded by another plugin:"
+#~ msgstr "Сукобне или застареле јКуери библиотеке учитао је други додатак:"
+
+#~ msgid "Deactivating or replacing plugins may resolve this issue."
+#~ msgstr "Деактивирање или замена додатака могу решити овај проблем."
+
+#~ msgid "No result found for the selection."
+#~ msgstr "Није пронађен ниједан резултат за избор."
+
+#, php-format
+#~ msgid "%sWhy am I seeing this?%s"
+#~ msgstr "%sЗашто то видим?%s"
+
+#~ msgid "Parent / Child"
+#~ msgstr "Родитељ / дете"
+
+#~ msgid "Select an action:"
+#~ msgstr "Изаберите радњу:"
+
+#~ msgid "Create a new Child Theme"
+#~ msgstr "Направите нову тему за дете"
+
+#~ msgid "Configure an existing Child Theme"
+#~ msgstr "Конфигуришите постојећу тему детета"
+
+#~ msgid "Duplicate an existing Child Theme"
+#~ msgstr "Дупликат постојеће Дечје теме"
+
+#~ msgid "Select a Parent Theme:"
+#~ msgstr "Изаберите родитељску тему:"
+
+#~ msgid "Analyze Parent Theme"
+#~ msgstr "Анализирајте тему родитеља"
+
+#~ msgid ""
+#~ "Click \"Analyze\" to determine stylesheet dependencies and other "
+#~ "potential issues."
+#~ msgstr ""
+#~ "Кликните на „Анализирај“ да бисте утврдили зависности табеле стилова и "
+#~ "друге потенцијалне проблеме."
+
+#~ msgid "Analyze"
+#~ msgstr "Анализирајте"
+
+#~ msgid "Select a Child Theme:"
+#~ msgstr "Изаберите тему за дете:"
+
+#~ msgid "Analyze Child Theme"
+#~ msgstr "Анализирајте тему детета"
+
+#~ msgid "Name the new theme directory:"
+#~ msgstr "Именујте нови директоријум тема:"
+
+#~ msgid "Directory Name"
+#~ msgstr "Име директорија"
+
+#~ msgid "NOTE:"
+#~ msgstr "БЕЛЕШКА:"
+
+#~ msgid ""
+#~ "This is NOT the name of the Child Theme. You can customize the name, "
+#~ "description, etc. in step 7, below."
+#~ msgstr ""
+#~ "Ово НИЈЕ назив Дечје теме. Име, опис итд. Можете прилагодити у кораку 7, "
+#~ "доле."
+
+#~ msgid "Verify Child Theme directory:"
+#~ msgstr "Потврдите именик подређених тема:"
+
+#~ msgid ""
+#~ "For verification only (you cannot modify the directory of an existing "
+#~ "Child Theme)."
+#~ msgstr ""
+#~ "Само за верификацију (не можете да измените директоријум постојеће "
+#~ "подређене теме)."
+
+#~ msgid "Select where to save new styles:"
+#~ msgstr "Изаберите где ћете сачувати нове стилове:"
+
+#~ msgid "Primary Stylesheet (style.css)"
+#~ msgstr "Примарни листови стилова (стиле.цсс)"
+
+#~ msgid ""
+#~ "Save new custom styles directly to the Child Theme primary stylesheet, "
+#~ "replacing the existing values. The primary stylesheet will load in the "
+#~ "order set by the theme."
+#~ msgstr ""
+#~ "Спремите нове прилагођене стилове директно у примарни табелу подређених "
+#~ "тема, замењујући постојеће вредности. Примарни табела стилова учитаће се "
+#~ "редоследом који је поставила тема."
+
+#~ msgid "Separate Stylesheet"
+#~ msgstr "Одвојени табеларни приказ"
+
+#~ msgid ""
+#~ "Save new custom styles to a separate stylesheet and combine any existing "
+#~ "child theme styles with the parent to form baseline. Select this option "
+#~ "if you want to preserve the existing child theme styles instead of "
+#~ "overwriting them. This option also allows you to customize stylesheets "
+#~ "that load after the primary stylesheet."
+#~ msgstr ""
+#~ "Сачувајте нове прилагођене стилове у засебну табелу стилова и комбинујте "
+#~ "све постојеће подређене стилове теме са родитељем да бисте формирали "
+#~ "основну линију. Изаберите ову опцију ако желите да сачувате постојеће "
+#~ "подређене стилове тема уместо да их преписујете. Ова опција такође вам "
+#~ "омогућава да прилагодите табеле стилова које се учитавају након примарног "
+#~ "листа стилова."
+
+#~ msgid "Select Parent Theme stylesheet handling:"
+#~ msgstr "Изаберите руковање табелом с родитељским темама:"
+
+#~ msgid "Use the WordPress style queue."
+#~ msgstr "Користите ред за ВордПресс стил."
+
+#~ msgid ""
+#~ "Let the Configurator determine the appropriate actions and dependencies "
+#~ "and update the functions file automatically."
+#~ msgstr ""
+#~ "Нека Цонфигуратор утврди одговарајуће акције и зависности и аутоматски "
+#~ "ажурира датотеку функција."
+
+#~ msgid "Use <code>@import</code> in the child theme stylesheet."
+#~ msgstr "Употребите <code> @импорт </code> у табели подређених тема теме."
+
+#~ msgid ""
+#~ "Only use this option if the parent stylesheet cannot be loaded using the "
+#~ "WordPress style queue. Using <code>@import</code> is not recommended."
+#~ msgstr ""
+#~ "Ову опцију користите само ако се надређени табела стилова не може учитати "
+#~ "помоћу реда за ВордПресс стил. Коришћење <code> @импорт </code> се не "
+#~ "препоручује."
+
+#~ msgid "Do not add any parent stylesheet handling."
+#~ msgstr "Не додавајте никакве матичне табеле стилова."
+
+#~ msgid ""
+#~ "Select this option if this theme already handles the parent theme "
+#~ "stylesheet or if the parent theme's <code>style.css</code> file is not "
+#~ "used for its appearance."
+#~ msgstr ""
+#~ "Изаберите ову опцију ако ова тема већ обрађује табелу стилова надређене "
+#~ "теме или ако се датотека <code> стиле.цсс </code> надређене теме не "
+#~ "користи за њен изглед."
+
+#~ msgid "Advanced handling options"
+#~ msgstr "Напредне могућности руковања"
+
+#~ msgid "Ignore parent theme stylesheets."
+#~ msgstr "Игноришите табеле стилова надређених тема."
+
+#~ msgid ""
+#~ "Select this option if this theme already handles the parent theme "
+#~ "stylesheet or if the parent theme's style.css file is not used for its "
+#~ "appearance."
+#~ msgstr ""
+#~ "Изаберите ову опцију ако ова тема већ обрађује табелу стилова надређене "
+#~ "теме или ако се датотека стиле.цсс надређене теме не користи за њен "
+#~ "изглед."
+
+#~ msgid "Repair the header template in the child theme."
+#~ msgstr "Поправите предложак заглавља у подређеној теми."
+
+#~ msgid ""
+#~ "Let the Configurator (try to) resolve any stylesheet issues listed above. "
+#~ "This can fix many, but not all, common problems."
+#~ msgstr ""
+#~ "Нека Цонфигуратор (покуша да) реши све горе наведене проблеме са табелом "
+#~ "стилова. Ово може решити многе, али не све уобичајене проблеме."
+
+#~ msgid "Remove stylesheet dependencies"
+#~ msgstr "Уклоните зависности табеле стилова"
+
+#~ msgid ""
+#~ "By default, the order of stylesheets that load prior to the primary "
+#~ "stylesheet is preserved by treating them as dependencies. In some cases, "
+#~ "stylesheets are detected in the preview that are not used site-wide. If "
+#~ "necessary, dependency can be removed for specific stylesheets below."
+#~ msgstr ""
+#~ "Подразумевано се редослед табела стилова који се учитавају пре примарног "
+#~ "листа стилова чува третирајући их као зависности. У неким случајевима се "
+#~ "у прегледу открију табеле стилова које се не користе на целој локацији. "
+#~ "Ако је потребно, зависност се може уклонити за одређене табеле стилова у "
+#~ "наставку."
+
+#~ msgid "Child Theme Name"
+#~ msgstr "Име теме детета"
+
+#~ msgid "Theme Name"
+#~ msgstr "Назив теме"
+
+#~ msgid "Theme Website"
+#~ msgstr "Тхеме Вебсите"
+
+#~ msgid "Author"
+#~ msgstr "Аутор"
+
+#~ msgid "Author Website"
+#~ msgstr "Веб локација аутора"
+
+#~ msgid "Theme Description"
+#~ msgstr "Опис теме"
+
+#~ msgid "Description"
+#~ msgstr "Опис"
+
+#~ msgid "Tags"
+#~ msgstr "Ознаке"
+
+#~ msgid ""
+#~ "Copy Menus, Widgets and other Customizer Settings from the Parent Theme "
+#~ "to the Child Theme:"
+#~ msgstr ""
+#~ "Копирајте меније, виџете и друга подешавања прилагођавача из родитељске "
+#~ "теме у подређену тему:"
+
+#~ msgid ""
+#~ "This option replaces the Child Theme's existing Menus, Widgets and other "
+#~ "Customizer Settings with those from the Parent Theme. You should only "
+#~ "need to use this option the first time you configure a Child Theme."
+#~ msgstr ""
+#~ "Ова опција замењује постојеће меније, виџете и друга подешавања "
+#~ "прилагођавача подређене теме онима из родитељске теме. Ову опцију треба "
+#~ "да користите само први пут када конфигуришете подређену тему."
+
+#~ msgid "Click to run the Configurator:"
+#~ msgstr "Кликните да бисте покренули конфигуратор:"
+
+#~ msgid "Query / Selector"
+#~ msgstr "Упит / Селектор"
+
+#~ msgid ""
+#~ "To find specific selectors within @media query blocks, first choose the "
+#~ "query, then the selector. Use the \"base\" query to edit all other "
+#~ "selectors."
+#~ msgstr ""
+#~ "Да бисте пронашли одређене селекторе унутар блокова упита @media, прво "
+#~ "одаберите упит, а затим селектор. Помоћу упита „основни“ уредите све "
+#~ "остале бираче."
+
+#~ msgid "@media Query"
+#~ msgstr "@media Куери"
+
+#~ msgid "( or \"base\" )"
+#~ msgstr "(или \"база\")"
+
+#~ msgid "Selector"
+#~ msgstr "Селектор"
+
+#~ msgid "Query/Selector Action"
+#~ msgstr "Акција упита / селектора"
+
+#~ msgid "Save Child Values"
+#~ msgstr "Сачувај вредности детета"
+
+#~ msgid "Delete Child Values"
+#~ msgstr "Избриши подређене вредности"
+
+#~ msgid "Property"
+#~ msgstr "Имовина"
+
+#~ msgid "Baseline Value"
+#~ msgstr "Основна вредност"
+
+#~ msgid "Child Value"
+#~ msgstr "Цхилд Валуе"
+
+#~ msgid "error"
+#~ msgstr "грешка"
+
+#~ msgid "You do not have permission to configure child themes."
+#~ msgstr "Немате дозволу за конфигурисање подређених тема."
+
+#, php-format
+#~ msgid "%s does not exist. Please select a valid Parent Theme."
+#~ msgstr "%s не постоји. Изаберите важећу родитељску тему."
+
+#~ msgid "The Functions file is required and cannot be deleted."
+#~ msgstr "Датотека Функције је обавезна и не може се избрисати."
+
+#~ msgid "Please select a valid Parent Theme."
+#~ msgstr "Изаберите важећу родитељску тему."
+
+#~ msgid "Please select a valid Child Theme."
+#~ msgstr "Изаберите важећу тему за дете."
+
+#~ msgid "Please enter a valid Child Theme directory name."
+#~ msgstr "Унесите важеће име директорија подређене теме."
+
+#, php-format
+#~ msgid ""
+#~ "<strong>%s</strong> exists. Please enter a different Child Theme template "
+#~ "name."
+#~ msgstr ""
+#~ "<strong>%s</strong> постоји. Унесите друго име предлошка подређене теме."
+
+#~ msgid "Your theme directories are not writable."
+#~ msgstr "У ваше директоријуме тема не може се писати."
+
+#~ msgid "Could not upgrade child theme"
+#~ msgstr "Није могуће надоградити подређену тему"
+
+#~ msgid "Your stylesheet is not writable."
+#~ msgstr "У вашу табелу стилова није могуће писати."
+
+#~ msgid ""
+#~ "A closing PHP tag was detected in Child theme functions file so \"Parent "
+#~ "Stylesheet Handling\" option was not configured. Closing PHP at the end "
+#~ "of the file is discouraged as it can cause premature HTTP headers. Please "
+#~ "edit <code>functions.php</code> to remove the final <code>?&gt;</code> "
+#~ "tag and click \"Generate/Rebuild Child Theme Files\" again."
+#~ msgstr ""
+#~ "Затворена ПХП ознака је откривена у датотеци функција теме детета, па "
+#~ "опција „Руковање родитељским табелама“ није конфигурисана. Не препоручује "
+#~ "се затварање ПХП-а на крају датотеке јер може проузроковати преурањена "
+#~ "ХТТП заглавља. Измените <code> фунцтионс.пхп </code> да бисте уклонили "
+#~ "коначну ознаку <code>?&gt;</code> и поново кликните на „Генериши / обнови "
+#~ "датотеке подређених тема“."
+
+#, php-format
+#~ msgid "Could not copy file: %s"
+#~ msgstr "Није могуће копирати датотеку: %s"
+
+#, php-format
+#~ msgid "Could not delete %s file."
+#~ msgstr "Није могуће избрисати %s  датотеку."
+
+#, php-format
+#~ msgid "could not copy %s"
+#~ msgstr "нисам могао копирати %s"
+
+#, php-format
+#~ msgid "invalid dir: %s"
+#~ msgstr "неважећи директоријум: %s"
+
+#~ msgid "There were errors while resetting permissions."
+#~ msgstr "Дошло је до грешака приликом ресетовања дозвола."
+
+#~ msgid "Could not upload file."
+#~ msgstr "Отпремање датотеке није успело."
+
+#~ msgid "Invalid theme root directory."
+#~ msgstr "Неважећи основни директоријум теме."
+
+#~ msgid "No writable temp directory."
+#~ msgstr "Нема привременог директорија за писање."
+
+#, php-format
+#~ msgid "Unpack failed -- %s"
+#~ msgstr "Распакивање није успело -- %s"
+
+#, php-format
+#~ msgid "Pack failed -- %s"
+#~ msgstr "Паковање није успело -- %s"
+
+#~ msgid "Maximum number of styles exceeded."
+#~ msgstr "Премашен је максималан број стилова."
+
+#, php-format
+#~ msgid "Error moving file: %s"
+#~ msgstr "Грешка при премештању датотеке: %s"
+
+#~ msgid "Could not set write permissions."
+#~ msgstr "Није могуће поставити дозволе за писање."
+
+#~ msgid "Error:"
+#~ msgstr "Грешка:"
+
+#, php-format
+#~ msgid "Current Analysis Child Theme <strong>%s</strong> has been reset."
+#~ msgstr "Тренутна анализа подређене теме <strong>%s</strong>  је ресетована."
+
+#~ msgid "Update Key saved successfully."
+#~ msgstr "Кључ за ажурирање је успешно сачуван."
+
+#~ msgid "Child Theme files modified successfully."
+#~ msgstr "Датотеке подређених тема су успешно измењене."
+
+#, php-format
+#~ msgid "Child Theme <strong>%s</strong> has been generated successfully."
+#~ msgstr "Подређена тема <strong>%s</strong> је успешно генерисана."
+
+#~ msgid "Web Fonts & CSS"
+#~ msgstr "Веб фонтови и ЦСС"
+
+#~ msgid "Parent Styles"
+#~ msgstr "Родитељски стилови"
+
+#~ msgid "Child Styles"
+#~ msgstr "Цхилд Стилес"
+
+#~ msgid "View Child Images"
+#~ msgstr "Погледајте слике детета"
+
+#~ msgid ""
+#~ "Use <code>@import url( [path] );</code> to link additional stylesheets. "
+#~ "This Plugin uses the <code>@import</code> keyword to identify them and "
+#~ "convert them to <code>&lt;link&gt;</code> tags. <strong>Example:</strong>"
+#~ msgstr ""
+#~ "Користите <code> @import url( [path] );</code> за повезивање додатних "
+#~ "табела стилова. Овај додатак користи кључну реч <code> @импорт </code> да "
+#~ "би их идентификовао и претворио у ознаке <code>&lt;link&gt;</code>. "
+#~ "<strong> Пример: </strong>"
+
+#~ msgid "Save"
+#~ msgstr "сачувати"
+
+#~ msgid "Uploading image with same name will replace with existing image."
+#~ msgstr "Отпремање слике са истим именом замениће се постојећом."
+
+#~ msgid "Upload New Child Theme Image"
+#~ msgstr "Upload New Child Theme Image"
+
+#~ msgid "Delete Selected Images"
+#~ msgstr "Избриши одабране слике"
+
+#~ msgid "Create a New Directory"
+#~ msgstr "Направите нови директоријум"
+
+#~ msgid "New Directory will be created in"
+#~ msgstr "Нови директоријум ће бити креиран у"
+
+#~ msgid "New Directory Name"
+#~ msgstr "Ново име директорија"
+
+#~ msgid "Create a New File"
+#~ msgstr "Направите нову датотеку"
+
+#~ msgid "New File will be created in"
+#~ msgstr "Нова датотека ће бити креирана у"
+
+#~ msgid "New File Name"
+#~ msgstr "Ново име датотеке"
+
+#~ msgid "File Type Extension"
+#~ msgstr "Екстензија типа датотеке"
+
+#~ msgid "Choose File Type"
+#~ msgstr "Изаберите Тип датотеке"
+
+#~ msgid "PHP File"
+#~ msgstr "ПХП датотека"
+
+#~ msgid "CSS File"
+#~ msgstr "ЦСС датотека"
+
+#~ msgid "JS File"
+#~ msgstr "ЈС датотека"
+
+#~ msgid "Text File"
+#~ msgstr "Текстуална датотека"
+
+#~ msgid "PHP File Type"
+#~ msgstr "Тип датотеке ПХП"
+
+#~ msgid "Simple PHP File"
+#~ msgstr "Једноставна ПХП датотека"
+
+#~ msgid "Wordpress Template File"
+#~ msgstr "Вордпресс шаблон датотека"
+
+#~ msgid "Template Name"
+#~ msgstr "Назив предлошка"
+
+#~ msgid "Parent Templates"
+#~ msgstr "Надређени предлошци"
+
+#~ msgid ""
+#~ "Copy PHP templates from the parent theme by selecting them here. The "
+#~ "Configurator defines a template as a Theme PHP file having no PHP "
+#~ "functions or classes. Other PHP files cannot be safely overridden by a "
+#~ "child theme."
+#~ msgstr ""
+#~ "Копирајте ПХП предлошке из надређене теме тако што ћете их овде одабрати. "
+#~ "Конфигуратор дефинише предложак као Тематску ПХП датотеку која нема ПХП "
+#~ "функције или класе. Подређена тема не може сигурно надјачати друге ПХП "
+#~ "датотеке."
+
+#~ msgid ""
+#~ "CAUTION: If your child theme is active, the child theme version of the "
+#~ "file will be used instead of the parent immediately after it is copied."
+#~ msgstr ""
+#~ "ОПРЕЗ: Ако је ваша подређена тема активна, верзија подређене датотеке ће "
+#~ "се користити уместо надређене одмах након копирања."
+
+#~ msgid "The "
+#~ msgstr "Тхе"
+
+#~ msgid " file is generated separately and cannot be copied here. "
+#~ msgstr "датотека се генерише одвојено и овде се не може копирати."
+
+#~ msgid "Copy Selected to Child Theme"
+#~ msgstr "Копирај одабрано у тему детета"
+
+#~ msgid " Child Theme Files "
+#~ msgstr "Дијете тематских датотека"
+
+#~ msgid "Click to edit files using the Theme Editor"
+#~ msgstr "Кликните да бисте уредили датотеке помоћу уређивача тема"
+
+#~ msgid "Delete child theme templates by selecting them here."
+#~ msgstr "Избришите шаблоне подређених тема тако што ћете их овде одабрати."
+
+#~ msgid "Delete Selected"
+#~ msgstr "Избриши изабрано"
+
+#~ msgid "Child Theme Screenshot"
+#~ msgstr "Снимак екрана теме детета"
+
+#~ msgid "Upload New Screenshot"
+#~ msgstr "Отпремите нови снимак екрана"
+
+#~ msgid ""
+#~ "The theme screenshot should be a 4:3 ratio (e.g., 880px x 660px) JPG, PNG "
+#~ "or GIF. It will be renamed"
+#~ msgstr ""
+#~ "Снимак екрана теме треба да буде у омјеру 4: 3 (нпр. 880пк к 660пк) ЈПГ, "
+#~ "ПНГ или ГИФ. Биће преименовано"
+
+#~ msgid "Screenshot"
+#~ msgstr "Снимак екрана"
+
+#~ msgid "Upload New Child Theme Image "
+#~ msgstr "Отпремите нову тему теме детета"
+
+#~ msgid ""
+#~ "Theme images reside under the images directory in your child theme and "
+#~ "are meant for stylesheet use only. Use the Media Library for content "
+#~ "images."
+#~ msgstr ""
+#~ "Тематске слике налазе се у директоријуму слика у вашој подређеној теми и "
+#~ "намењене су само употреби табеле стилова. Медијску библиотеку користите "
+#~ "за слике садржаја."
+
+#~ msgid "Preview Current Child Theme (Current analysis)"
+#~ msgstr "Преглед тренутне подређене теме (тренутна анализа)"
+
+#~ msgid "Preview Current Child Theme"
+#~ msgstr "Преглед тренутне теме детета"
+
+#~ msgid "Export Child Theme as Zip Archive"
+#~ msgstr "Извези подређену тему у Зип архиву"
+
+#~ msgid ""
+#~ "Click \"Export Zip\" to save a backup of the currently loaded child "
+#~ "theme. You can export any of your themes from the Parent/Child tab."
+#~ msgstr ""
+#~ "Кликните на „Извези зип“ да бисте сачували резервну копију тренутно "
+#~ "учитане подређене теме. Можете извести било коју од својих тема са "
+#~ "картице Родитељ / дете."
+
+#~ msgid "Export Child Theme"
+#~ msgstr "Извоз дечје теме"
+
+#~ msgid "Child Theme file(s) copied successfully!"
+#~ msgstr "Датотеке подређених тема су успешно копиране!"
+
+#~ msgid ""
+#~ "The file which you are trying to copy from Parent Templates does not exist"
+#~ msgstr ""
+#~ "Датотека коју покушавате да копирате из Надређених шаблона не постоји"
+
+#~ msgid ""
+#~ "The file which you are trying to copy from Parent Templates is already "
+#~ "present in the Child Theme files."
+#~ msgstr ""
+#~ "Датотека коју покушавате да копирате из Надређених шаблона већ је "
+#~ "присутна у датотекама подређених тема."
+
+#~ msgid "Child "
+#~ msgstr "Дете"
+
+#~ msgid " and Parent "
+#~ msgstr "и Родитељ"
+
+#~ msgid " directories doesn't exist!"
+#~ msgstr "директоријуми не постоје!"
+
+#~ msgid " directory doesn't exist!"
+#~ msgstr "директоријум не постоји!"
+
+#~ msgid "Parent "
+#~ msgstr "Родитељ"
+
+#~ msgid "Unknown error! "
+#~ msgstr "Непозната грешка!"
+
+#~ msgid "You don't have permission to copy the files!"
+#~ msgstr "Немате дозволу за копирање датотека!"
+
+#~ msgid "All selected file(s) have been deleted successfully!"
+#~ msgstr "Све изабране датотеке су успешно избрисане!"
+
+#~ msgid " does not exists!"
+#~ msgstr "не постоји!"
+
+#~ msgid "This file extension is not allowed to upload!"
+#~ msgstr "Отпремање ове екстензије датотеке није дозвољено!"
+
+#~ msgid "Image uploaded successfully!"
+#~ msgstr "Слика је успешно постављена!"
+
+#~ msgid "There is some issue in uploading image!"
+#~ msgstr "Постоји неки проблем у отпремању слике!"
+
+#~ msgid ""
+#~ "This file extension is not allowed to upload as screenshot by wordpress!"
+#~ msgstr ""
+#~ "Ову екстензију датотеке није дозвољено отпремати као снимак екрана од "
+#~ "стране вордпресс!"
+
+#~ msgid "File uploaded successfully!"
+#~ msgstr "Датотека је успешно отпремљена!"
+
+#~ msgid "Child Theme files can't be modified."
+#~ msgstr "Датотеке подређених тема не могу се мењати."
+
+#~ msgid "File(s) deleted successfully!"
+#~ msgstr "Датотеке су успешно избрисане!"
+
+#~ msgid "You don't have permission to delete file(s)!"
+#~ msgstr "Немате дозволу за брисање датотека!"
+
+#~ msgid "Entered directory name already exists"
+#~ msgstr "Унесено име директоријума већ постоји"
+
+#~ msgid "You don't have permission to create directory!"
+#~ msgstr "Немате дозволу за креирање директоријума!"
+
+#~ msgid "Wordpress template file created"
+#~ msgstr "Датотека Вордпресс шаблона је креирана"
+
+#~ msgid "Wordpress template file not created"
+#~ msgstr "Датотека Вордпресс шаблона није креирана"
+
+#~ msgid "PHP created file successfully"
+#~ msgstr "ПХП је успешно креирао датотеку"
+
+#~ msgid "PHP file not created"
+#~ msgstr "ПХП датотека није креирана"
+
+#~ msgid " file not created"
+#~ msgstr "датотека није креирана"
+
+#~ msgid "You don't have permission to create file!"
+#~ msgstr "Немате дозволу за креирање датотеке!"
+
+#~ msgid "Language folder has been downlaoded."
+#~ msgstr "Фасцикла језика је преузета."
+
+#~ msgid "Add single or multiple languages."
+#~ msgstr "Додајте један или више језика."
+
+#~ msgid "Add single language file"
+#~ msgstr "Додајте датотеку са једним језиком"
+
+#~ msgid "Please click on language button."
+#~ msgstr "Кликните на дугме језик."
+
+#~ msgid "Add all languages zip folder"
+#~ msgstr "Додајте зип директоријум свих језика"
+
+#~ msgid "Zip Download"
+#~ msgstr "Зип Довнлоад"

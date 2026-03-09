@@ -1,0 +1,200 @@
+<?php
+
+namespace Elementor;
+
+class Pix_Eor_Product_Add_To_Cart extends Widget_Base {
+
+	public function __construct($data = [], $args = null) {
+		parent::__construct($data, $args);
+	}
+
+	public function get_name() {
+		return 'pix-product-add-to-cart';
+	}
+
+	public function get_title() {
+		return 'Add To Cart';
+	}
+
+	public function get_icon() {
+		return 'eicon-product-add-to-cart pixfort-elementor-element pixfort-elementor-add-to-cart';
+	}
+
+	public function get_categories() {
+		return ['pixfort-products'];
+	}
+
+	public function show_in_panel() {
+		return $this->is_product_template_context();
+	}
+
+	public function get_help_url() {
+		return \PixfortCore::instance()->adminCore->getParam('docs_link');
+	}
+
+	private function is_product_template_context() {
+		if (!Plugin::$instance->editor->is_edit_mode()) {
+			return false;
+		}
+
+		$post_id = Plugin::$instance->editor->get_post_id();
+		if (!$post_id) {
+			return false;
+		}
+
+		if (get_post_type($post_id) !== 'pixfort_template') {
+			return false;
+		}
+
+		$terms = get_the_terms($post_id, 'pixfort_template_type');
+		if ($terms && !is_wp_error($terms)) {
+			foreach ($terms as $term) {
+				if ($term->slug === 'product' || $term->slug === 'template') {
+					return true;
+				}
+			}
+		}
+
+		return false;
+	}
+
+	protected function register_controls() {
+
+		// $this->start_controls_section(
+		// 	'section_style',
+		// 	[
+		// 		'label' => __('Button Style', 'pixfort-core'),
+		// 		'tab' => Controls_Manager::TAB_STYLE,
+		// 	]
+		// );
+
+		// $this->add_control(
+		// 	'button_color',
+		// 	[
+		// 		'label' => __('Button Color', 'pixfort-core'),
+		// 		'type' => Controls_Manager::COLOR,
+		// 		'selectors' => [
+		// 			'{{WRAPPER}} .pix-product-add-to-cart .single_add_to_cart_button' => 'color: {{VALUE}};',
+		// 		],
+		// 	]
+		// );
+
+		// $this->add_control(
+		// 	'button_bg_color',
+		// 	[
+		// 		'label' => __('Button Background', 'pixfort-core'),
+		// 		'type' => Controls_Manager::COLOR,
+		// 		'selectors' => [
+		// 			'{{WRAPPER}} .pix-product-add-to-cart .single_add_to_cart_button' => 'background-color: {{VALUE}};',
+		// 		],
+		// 	]
+		// );
+
+		// $this->add_group_control(
+		// 	Group_Control_Typography::get_type(),
+		// 	[
+		// 		'name' => 'button_typography',
+		// 		'selector' => '{{WRAPPER}} .pix-product-add-to-cart .single_add_to_cart_button',
+		// 	]
+		// );
+
+		// $this->add_group_control(
+		// 	Group_Control_Border::get_type(),
+		// 	[
+		// 		'name' => 'button_border',
+		// 		'selector' => '{{WRAPPER}} .pix-product-add-to-cart .single_add_to_cart_button',
+		// 	]
+		// );
+
+		// $this->add_responsive_control(
+		// 	'button_border_radius',
+		// 	[
+		// 		'label' => __('Border Radius', 'pixfort-core'),
+		// 		'type' => Controls_Manager::DIMENSIONS,
+		// 		'size_units' => ['px', '%'],
+		// 		'selectors' => [
+		// 			'{{WRAPPER}} .pix-product-add-to-cart .single_add_to_cart_button' => 'border-radius: {{TOP}}{{UNIT}} {{RIGHT}}{{UNIT}} {{BOTTOM}}{{UNIT}} {{LEFT}}{{UNIT}};',
+		// 		],
+		// 	]
+		// );
+
+		// $this->add_responsive_control(
+		// 	'button_padding',
+		// 	[
+		// 		'label' => __('Padding', 'pixfort-core'),
+		// 		'type' => Controls_Manager::DIMENSIONS,
+		// 		'size_units' => ['px', 'em', '%'],
+		// 		'selectors' => [
+		// 			'{{WRAPPER}} .pix-product-add-to-cart .single_add_to_cart_button' => 'padding: {{TOP}}{{UNIT}} {{RIGHT}}{{UNIT}} {{BOTTOM}}{{UNIT}} {{LEFT}}{{UNIT}};',
+		// 		],
+		// 	]
+		// );
+
+		// $this->add_responsive_control(
+		// 	'margin',
+		// 	[
+		// 		'label' => __('Margin', 'pixfort-core'),
+		// 		'type' => Controls_Manager::DIMENSIONS,
+		// 		'size_units' => ['px', 'em', '%'],
+		// 		'selectors' => [
+		// 			'{{WRAPPER}} .pix-product-add-to-cart' => 'margin: {{TOP}}{{UNIT}} {{RIGHT}}{{UNIT}} {{BOTTOM}}{{UNIT}} {{LEFT}}{{UNIT}};',
+		// 		],
+		// 	]
+		// );
+
+		// $this->end_controls_section();
+	}
+
+	protected function render() {
+		if (!class_exists('WooCommerce')) {
+			echo '<p>' . __('WooCommerce is not installed.', 'pixfort-core') . '</p>';
+			return;
+		}
+
+		$product = $this->get_product();
+
+		if (!$product) {
+			echo '<p>' . __('No product found to display.', 'pixfort-core') . '</p>';
+			return;
+		}
+
+		global $product;
+		$original_product = $product;
+		$product = $this->get_product();
+
+		echo '<div class="woocommerce pix-product-add-to-cart">';
+		woocommerce_template_single_add_to_cart();
+		echo '</div>';
+
+		$product = $original_product;
+	}
+
+	private function get_product() {
+		global $product;
+
+		if (Plugin::$instance->editor->is_edit_mode()) {
+			$args = array(
+				'post_type' => 'product',
+				'posts_per_page' => 1,
+				'post_status' => 'publish',
+			);
+			$products = get_posts($args);
+			if (!empty($products)) {
+				return wc_get_product($products[0]->ID);
+			}
+			return null;
+		}
+
+		if (is_a($product, 'WC_Product')) {
+			return $product;
+		}
+
+		$post_id = get_the_ID();
+		if ($post_id) {
+			return wc_get_product($post_id);
+		}
+
+		return null;
+	}
+}
+

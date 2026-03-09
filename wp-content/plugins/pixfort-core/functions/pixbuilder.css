@@ -1,0 +1,183 @@
+.vc_ui-template-preview .wpb_pix_accordion  .vc_controls,
+.vc_ui-template-preview .wpb_pix_tabs .vc_controls {
+    display: none
+}
+
+.wpb_pix_accordion .vc_shortcodes_container,
+.wpb_pix_tabs.vc_shortcodes_container {
+    background: 0 0
+}
+
+
+.wpb_pix_accordion >.vc_controls,
+.wpb_pix_tabs >.vc_controls, .wpb_pix_tabs:hover >.vc_controls {
+    opacity: 1!important;
+    filter: alpha(opacity=100)!important;
+    visibility: visible;
+    position: relative;
+    height: 28px;
+    margin: 18px 0 2px !important;
+    padding: 0px !important;
+    left: 0px !important;
+    border: 1px dotted #e6e6e6;
+    border-bottom-width: 0;
+
+}
+
+.wpb_pix_accordion .vc_controls-cc,
+.wpb_pix_tabs .vc_controls-cc {
+	margin-top: -10px !important;
+}
+
+
+.wpb_pix_accordion .vc_shortcodes_container>.wpb_element_wrapper>.vc_container_for_children,
+.wpb_pix_tabs .vc_shortcodes_container>.wpb_element_wrapper>.vc_container_for_children {
+    margin: 0;
+    outline: 0
+}
+
+.wpb_pix_accordion  .wpb_vc_tta_section.vc_shortcodes_container {
+    margin: 0
+}
+
+
+.wpb_pix_tabs .vc_tta-tabs-list li {
+    vertical-align: top
+}
+
+
+.wpb_pix_tabs .wpb_vc_tta_section>.wpb_element_wrapper>.vc_tta-panel-body>.vc_controls {
+    margin-top: -5px
+}
+
+.wpb_pix_tabs .vc_tta.vc_general .vc_tta-tab>a {
+    padding: 10px 14px
+}
+
+.wpb_pix_tabs .vc_tta.vc_general .wpb_vc_tta_section.vc_tta-panel {
+    display: none
+}
+
+.wpb_pix_tabs .vc_tta.vc_general .wpb_vc_tta_section.vc_tta-panel.vc_active {
+    display: block
+}
+
+
+#vc_logo { display: none; }
+
+.vc_ui-panel-header-heading { font-weight: bold !important;}
+.vc_ui-panel-header-content .vc_ui-tabs-line-trigger { font-weight: bold !important; }
+
+.vc_el-container { background: rgba(0,0,0,0);border: 0px;box-shadow: none;margin: 0px;}
+/* .wpb-layout-element-button { border: 1px solid #eee !important;background: #fff !important;margin: 0px; box-shadow: none;}
+.wpb-layout-element-button:hover { border: 1px solid #1274E7 !important;box-shadow: 0 0 0px 2px #1274E7 inset; } */
+
+
+/* Alert */
+.vc_element-icon.pix-icon-vc-alert { background-image:url(img/alert.png); }
+/* Blockquote */
+.vc_element-icon.pix-icon-vc-blockquote { background-image:url(img/blockquote.png); }
+/* Blog */
+.vc_element-icon.pix-icon-vc-blog { background-image:url(img/blog.png); }
+.vc_element-icon.pix-icon-vc-blog-slider { background-image:url(img/blog-slider.png); }
+/* Call to Action */
+.vc_element-icon.pix-icon-vc-cta { background-image:url(img/cta.png); }
+/* Heading */
+.vc_element-icon.pix-icon-vc-heading { background-image:url(img/heading.png); }
+/* Icon Box */
+.vc_element-icon.pix-icon-vc-icon-box { background-image:url(img/icon-box.png); }
+/* Point Icon */
+.vc_element-icon.pix-icon-vc-point-icon { background-image:url(img/point-icon.png); }
+/* Promo box */
+.vc_element-icon.pix-icon-vc-promo-horizontal { background-image:url(img/promo-horizontal.png); }
+.vc_element-icon.pix-icon-vc-promo-vertical { background-image:url(img/promo-vertical.png); }
+/* Deal Box */
+.vc_element-icon.pix-icon-vc-deal-box { background-image:url(img/deal-box.png); }
+/* Map */
+.vc_element-icon.pix-icon-vc-map { background-image:url(img/map.png); }
+/* Chart */
+.vc_element-icon.pix-icon-vc-chart { background-image:url(img/chart.png); }
+/* Counter */
+.vc_element-icon.pix-icon-vc-counter { background-image:url(img/counter.png); }
+/* Levels */
+.vc_element-icon.pix-icon-vc-levels { background-image:url(img/levels.png); }
+/* Photo Box */
+.vc_element-icon.pix-icon-vc-photo-box { background-image:url(img/photo-box.png); }
+/* Clients */
+.vc_element-icon.pix-icon-vc-clients { background-image:url(img/clients.png); }
+.vc_element-icon.pix-icon-vc-clients-slider { background-image:url(img/clients-slider.png); }
+/* Pricing */
+.vc_element-icon.pix-icon-vc-pricing { background-image:url(img/pricing.png); }
+/* Showcase */
+.vc_element-icon.pix-icon-vc-showcase { background-image:url(img/showcase.png); }
+/* Testimonials */
+.vc_element-icon.pix-icon-vc-testimonials { background-image:url(img/testimonials.png); }
+/* Numbers */
+.vc_element-icon.pix-icon-vc-numbers { background-image:url(img/numbers.png); }
+/* Image box */
+.vc_element-icon.pix-icon-vc-image-box { background-image:url(img/image-box.png); }
+/* Countdown */
+.vc_element-icon.pix-icon-vc-countdown { background-image:url(img/countdown.png); }
+
+
+.wpb-elements-list-modal .vc_element-icon.pix-icon-vc-alert,
+.wpb-elements-list-modal .vc_element-icon.pix-icon-vc-blockquote,
+.wpb-elements-list-modal .vc_element-icon.pix-icon-vc-blog,
+.wpb-elements-list-modal .vc_element-icon.pix-icon-vc-blog-slider,
+.wpb-elements-list-modal .vc_element-icon.pix-icon-vc-cta,
+.wpb-elements-list-modal .vc_element-icon.pix-icon-vc-heading,
+.wpb-elements-list-modal .vc_element-icon.pix-icon-vc-icon-box,
+.wpb-elements-list-modal .vc_element-icon.pix-icon-vc-point-icon,
+.wpb-elements-list-modal .vc_element-icon.pix-icon-vc-promo-horizontal,
+.wpb-elements-list-modal .vc_element-icon.pix-icon-vc-promo-vertical,
+.wpb-elements-list-modal .vc_element-icon.pix-icon-vc-deal-box,
+.wpb-elements-list-modal .vc_element-icon.pix-icon-vc-map,
+.wpb-elements-list-modal .vc_element-icon.pix-icon-vc-chart,
+.wpb-elements-list-modal .vc_element-icon.pix-icon-vc-counter,
+.wpb-elements-list-modal .vc_element-icon.pix-icon-vc-levels,
+.wpb-elements-list-modal .vc_element-icon.pix-icon-vc-photo-box,
+.wpb-elements-list-modal .vc_element-icon.pix-icon-vc-clients,
+.wpb-elements-list-modal .vc_element-icon.pix-icon-vc-clients-slider,
+.wpb-elements-list-modal .vc_element-icon.pix-icon-vc-pricing,
+.wpb-elements-list-modal .vc_element-icon.pix-icon-vc-showcase,
+.wpb-elements-list-modal .vc_element-icon.pix-icon-vc-testimonials,
+.wpb-elements-list-modal .vc_element-icon.pix-icon-vc-numbers,
+.wpb-elements-list-modal .vc_element-icon.pix-icon-vc-image-box,
+.wpb-elements-list-modal .vc_element-icon.pix-icon-vc-countdown { width: 40px !important; height: 35px !important; top: 16px !important; left: 8px !important; }
+
+.wpb_vc_column .vc_element-icon.pix-icon-vc-alert,
+.wpb_vc_column .vc_element-icon.pix-icon-vc-blockquote,
+.wpb-elements-list-modal .vc_element-icon.pix-icon-vc-blog,
+.wpb-elements-list-modal .vc_element-icon.pix-icon-vc-blog-slider,
+.wpb-elements-list-modal .vc_element-icon.pix-icon-vc-cta,
+.wpb-elements-list-modal .vc_element-icon.pix-icon-vc-heading,
+.wpb-elements-list-modal .vc_element-icon.pix-icon-vc-icon-box,
+.wpb-elements-list-modal .vc_element-icon.pix-icon-vc-point-icon,
+.wpb-elements-list-modal .vc_element-icon.pix-icon-vc-promo-horizontal,
+.wpb-elements-list-modal .vc_element-icon.pix-icon-vc-promo-vertical,
+.wpb-elements-list-modal .vc_element-icon.pix-icon-vc-deal-box,
+.wpb-elements-list-modal .vc_element-icon.pix-icon-vc-map,
+.wpb-elements-list-modal .vc_element-icon.pix-icon-vc-chart,
+.wpb-elements-list-modal .vc_element-icon.pix-icon-vc-counter,
+.wpb-elements-list-modal .vc_element-icon.pix-icon-vc-levels,
+.wpb-elements-list-modal .vc_element-icon.pix-icon-vc-photo-box,
+.wpb-elements-list-modal .vc_element-icon.pix-icon-vc-clients,
+.wpb-elements-list-modal .vc_element-icon.pix-icon-vc-clients-slider,
+.wpb-elements-list-modal .vc_element-icon.pix-icon-vc-pricing,
+.wpb-elements-list-modal .vc_element-icon.pix-icon-vc-showcase,
+.wpb-elements-list-modal .vc_element-icon.pix-icon-vc-testimonials,
+.wpb-elements-list-modal .vc_element-icon.pix-icon-vc-numbers,
+.wpb-elements-list-modal .vc_element-icon.pix-icon-vc-image-box,
+.wpb-elements-list-modal .vc_element-icon.pix-icon-vc-countdown { width: 40px !important; height: 35px !important; margin: 0 10px 0 0 !important; }
+
+
+.pix-content-box .vc_element.vc_pix-button { display: inline-block !important; }
+
+.compose-mode .vc_element .pix-content-box .vc_element.vc_pix-button, .view-mode .vc_element .pix-content-box .vc_element.vc_pix-button { display: inline-block !important; }
+
+
+
+
+.pix-content-box .vc_element.vc_pix-button { display: inline-block; }
+
+.compose-mode .vc_element .pix-content-box .vc_element.vc_pix-button, .view-mode .vc_element .pix-content-box .vc_element.vc_pix-button { display: inline-block; }

@@ -1,0 +1,2747 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2022-02-28 11:33+0530\n"
+"PO-Revision-Date: 2022-03-01 18:15+0530\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: sq\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 3.0.1\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: __;_e;esc_attr__;esc_html__\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: file_folder_manager.php:174
+msgid "Themes backup restored successfully."
+msgstr "Rezervimi i temave u rikuperua me sukses."
+
+#: file_folder_manager.php:177
+msgid "Unable to restore themes."
+msgstr "Nuk mund të rikthehen temat."
+
+#: file_folder_manager.php:207
+msgid "Uploads backup restored successfully."
+msgstr "Rezervimi i ngarkimeve u restaurua me sukses."
+
+#: file_folder_manager.php:211
+msgid "Unable to restore uploads."
+msgstr "Nuk mund të rikthehen ngarkimet."
+
+#: file_folder_manager.php:237
+msgid "Others backup restored successfully."
+msgstr "Rezervimet e tjera u rikuperuan me sukses."
+
+#: file_folder_manager.php:241
+msgid "Unable to restore others."
+msgstr "Në pamundësi për të rivendosur të tjerët."
+
+#: file_folder_manager.php:267
+msgid "Plugins backup restored successfully."
+msgstr "Rezervimi i shtojcave u rikuperua me sukses."
+
+#: file_folder_manager.php:271 file_folder_manager.php:301
+msgid "Unable to restore plugins."
+msgstr "Nuk mund të rikthehet shtojcat."
+
+#: file_folder_manager.php:286
+msgid "Database backup restored successfully."
+msgstr "Rezervimi i bazës së të dhënave u rikuperua me sukses."
+
+#: file_folder_manager.php:286 file_folder_manager.php:297
+#: file_folder_manager.php:588 file_folder_manager.php:592
+msgid "All Done"
+msgstr "Gjithçka u krye"
+
+#: file_folder_manager.php:289
+msgid "Unable to restore DB backup."
+msgstr "Nuk mund të rikuperohet rezervimi i DB."
+
+#: file_folder_manager.php:347
+msgid "Backups removed successfully!"
+msgstr "Rezervimet u hoqën me sukses!"
+
+#: file_folder_manager.php:349
+msgid "Unable to removed backup!"
+msgstr "Rezervimi nuk mund të hiqet!"
+
+#: file_folder_manager.php:373
+msgid "Database backup done on date "
+msgstr "Rezervimi i bazës së të dhënave është bërë në datë "
+
+#: file_folder_manager.php:377
+msgid "Plugins backup done on date "
+msgstr "Rezervimi i shtojcave është bërë në datë "
+
+#: file_folder_manager.php:381
+msgid "Themes backup done on date "
+msgstr "Rezervimi i temave u bë në datë "
+
+#: file_folder_manager.php:385
+msgid "Uploads backup done on date "
+msgstr "Rezervimet e ngarkimeve bëhen në datë "
+
+#: file_folder_manager.php:389
+msgid "Others backup done on date "
+msgstr "Të tjerët rezervimin e bërë në datën "
+
+#: file_folder_manager.php:393 file_folder_manager.php:776
+msgid "Logs"
+msgstr "Shkrimet"
+
+#: file_folder_manager.php:399
+msgid "No logs found!"
+msgstr "Nuk u gjet asnjë regjistër!"
+
+#: file_folder_manager.php:496
+msgid "Nothing selected for backup"
+msgstr "Asgjë nuk është zgjedhur për kopje rezervë"
+
+#: file_folder_manager.php:516
+msgid "Security Issue."
+msgstr "Çështja e sigurisë."
+
+#: file_folder_manager.php:527
+msgid "Database backup done."
+msgstr "Rezervimi i bazës së të dhënave është kryer."
+
+#: file_folder_manager.php:530
+msgid "Unable to create database backup."
+msgstr "Nuk mund të krijohet një kopje rezervë e bazës së të dhënave."
+
+#: file_folder_manager.php:544
+msgid "Plugins backup done."
+msgstr "Rezervimi i shtojcave u krye."
+
+#: file_folder_manager.php:547
+msgid "Plugins backup failed."
+msgstr "Rezervimi i shtojcave dështoi."
+
+#: file_folder_manager.php:556
+msgid "Themes backup done."
+msgstr "Rezervimi i temave u krye."
+
+#: file_folder_manager.php:559
+msgid "Themes backup failed."
+msgstr "Rezervimi i temave dështoi."
+
+#: file_folder_manager.php:569
+msgid "Uploads backup done."
+msgstr "Rezervimi i ngarkimeve u krye."
+
+#: file_folder_manager.php:572
+msgid "Uploads backup failed."
+msgstr "Rezervimi i ngarkimeve dështoi."
+
+#: file_folder_manager.php:581
+msgid "Others backup done."
+msgstr "Rezervimi i të tjerëve u krye."
+
+#: file_folder_manager.php:584
+msgid "Others backup failed."
+msgstr "Rezervimi i të tjerëve dështoi."
+
+#: file_folder_manager.php:761 file_folder_manager.php:762
+#: lib/wpfilemanager.php:23
+msgid "WP File Manager"
+msgstr "Menaxheri i skedarëve WP"
+
+#: file_folder_manager.php:769
+msgid "Settings"
+msgstr "Cilësimet"
+
+#: file_folder_manager.php:771 inc/root.php:48
+msgid "Preferences"
+msgstr "Preferencat"
+
+#: file_folder_manager.php:773
+msgid "System Properties"
+msgstr "Karakteristikat e sistemit"
+
+#: file_folder_manager.php:775
+msgid "Shortcode - PRO"
+msgstr "Kodi i shkurtër - PRO"
+
+#: file_folder_manager.php:777
+msgid "Backup/Restore"
+msgstr "Rezervimi/Rivendosja"
+
+#: file_folder_manager.php:1033
+msgid "Buy Pro"
+msgstr "Bleni Pro"
+
+#: file_folder_manager.php:1034
+msgid "Donate"
+msgstr "Dhuroni"
+
+#: file_folder_manager.php:1249
+msgid ""
+"<div class=\"updated settings-error notice is-dismissible\" id=\"setting-"
+"error-settings_updated\"> \n"
+"<p><strong>"
+msgstr ""
+
+#: file_folder_manager.php:1256
+msgid ""
+"<div class=\"error settings-error notice is-dismissible\" id=\"setting-error-"
+"settings_updated\"> \n"
+"<p><strong>"
+msgstr ""
+
+#: file_folder_manager.php:1395 file_folder_manager.php:1483
+msgid "File doesn't exist to download."
+msgstr "Skedari nuk ekziston për ta shkarkuar."
+
+#: file_folder_manager.php:1400 file_folder_manager.php:1488
+msgid "Invalid Security Code."
+msgstr "Kod i pavlefshëm i sigurisë."
+
+#: file_folder_manager.php:1405 file_folder_manager.php:1493
+msgid "Missing backup id."
+msgstr "ID-ja e rezervës mungon."
+
+#: file_folder_manager.php:1408 file_folder_manager.php:1496
+msgid "Missing parameter type."
+msgstr "Lloji i parametrit mungon."
+
+#: file_folder_manager.php:1411 file_folder_manager.php:1499
+msgid "Missing required parameters."
+msgstr "Mungojnë parametrat e kërkuar."
+
+#: inc/backup.php:24
+msgid ""
+"Error: Unable to restore backup because database backup is heavy in size. "
+"Please try to increase Maximum allowed size  from Preferences settings."
+msgstr ""
+"Gabim: Rezervimi nuk mund të rivendoset sepse rezervimi i bazës së të "
+"dhënave është i madh në madhësi. Ju lutemi, përpiquni të rritni madhësinë "
+"maksimale të lejuar nga cilësimet e Preferencave."
+
+#: inc/backup.php:25
+msgid "Select backup(s) to delete!"
+msgstr "Zgjidhni kopjet rezervë për t'i fshirë!"
+
+#: inc/backup.php:26
+msgid "Are you sure want to remove selected backup(s)?"
+msgstr "Jeni i sigurt që dëshironi të hiqni rezervat e zgjedhura?"
+
+#: inc/backup.php:31
+msgid "Backup is running, please wait"
+msgstr "Rezervimi po ekzekutohet, ju lutem prisni"
+
+#: inc/backup.php:32
+msgid "Restore is running, please wait"
+msgstr "Rivendosja po funksionon, ju lutemi prisni"
+
+#: inc/backup.php:33
+msgid "Nothing selected for backup."
+msgstr "Asgjë nuk është zgjedhur për kopje rezervë."
+
+#: inc/backup.php:45
+msgid "WP File Manager - Backup/Restore"
+msgstr "Menaxheri i skedarëve WP - Rezervimi / Rikuperimi"
+
+#: inc/backup.php:51
+msgid "Backup Options:"
+msgstr "Opsionet e rezervimit:"
+
+#: inc/backup.php:58
+msgid "Database Backup"
+msgstr "Rezervimi i bazës së të dhënave"
+
+#: inc/backup.php:64
+msgid "Files Backup"
+msgstr "Rezervimi i skedarëve"
+
+#: inc/backup.php:68
+msgid "Plugins"
+msgstr "Shtojca"
+
+#: inc/backup.php:71
+msgid "Themes"
+msgstr "Temat"
+
+#: inc/backup.php:74
+msgid "Uploads"
+msgstr "Ngarkimet"
+
+#: inc/backup.php:77
+msgid "Others (Any other directories found inside wp-content)"
+msgstr "Të tjerët (Çdo direktori tjetër që gjendet brenda përmbajtjes wp)"
+
+#: inc/backup.php:81
+msgid "Backup Now"
+msgstr "Rezervimi Tani"
+
+#: inc/backup.php:89
+msgid "Time now"
+msgstr "Koha tani"
+
+#: inc/backup.php:99
+msgid "SUCCESS"
+msgstr "SUKSES"
+
+#: inc/backup.php:101
+msgid "Backup successfully deleted."
+msgstr "Rezervimi u fshi me sukses."
+
+#: inc/backup.php:102
+msgid "Ok"
+msgstr "Ne rregull"
+
+#: inc/backup.php:117
+msgid "DELETE FILES"
+msgstr "Fshi skedarët"
+
+#: inc/backup.php:119
+msgid "Are you sure you want to delete this backup?"
+msgstr "Je i sigurt që dëshiron ta fshish këtë rezervë?"
+
+#: inc/backup.php:120 inc/backup.php:139
+msgid "Cancel"
+msgstr "Anulo"
+
+#: inc/backup.php:121 inc/backup.php:140
+msgid "Confirm"
+msgstr "Konfirmo"
+
+#: inc/backup.php:136
+msgid "RESTORE FILES"
+msgstr "RISHIKON DOSJAT"
+
+#: inc/backup.php:138
+msgid "Are you sure you want to restore this backup?"
+msgstr "Jeni i sigurt që doni ta riktheni këtë rezervë?"
+
+#: inc/backup.php:166
+msgid "Last Log Message"
+msgstr "Mesazhi i Regjistrimit të Fundit"
+
+#: inc/backup.php:169
+msgid "The backup apparently succeeded and is now complete."
+msgstr "Rezervimi me sa duket pati sukses dhe tani është i plotë."
+
+#: inc/backup.php:171
+msgid "No log message"
+msgstr "Asnjë mesazh regjistri"
+
+#: inc/backup.php:177
+msgid "Existing Backup(s)"
+msgstr "Rezervimet ekzistuese"
+
+#: inc/backup.php:184
+msgid "Backup Date"
+msgstr "Data e rezervimit"
+
+#: inc/backup.php:187
+msgid "Backup data (click to download)"
+msgstr "Të dhënat rezervë (kliko për të shkarkuar)"
+
+#: inc/backup.php:190
+msgid "Action"
+msgstr "Veprimi"
+
+#: inc/backup.php:210
+msgid "Today"
+msgstr "Sot"
+
+#: inc/backup.php:239
+msgid "Restore"
+msgstr "Rikthe"
+
+#: inc/backup.php:240 inc/backup.php:250
+msgid "Delete"
+msgstr "Fshij"
+
+#: inc/backup.php:241
+msgid "View Log"
+msgstr "Shiko Regjistrin"
+
+#: inc/backup.php:246
+msgid "Currently no backup(s) found."
+msgstr "Aktualisht nuk u gjet asnjë rezervë (t)."
+
+#: inc/backup.php:249
+msgid "Actions upon selected backup(s)"
+msgstr "Veprimet pas rezervimit të zgjedhur"
+
+#: inc/backup.php:251
+msgid "Select All"
+msgstr "Selektoj të gjitha"
+
+#: inc/backup.php:252
+msgid "Deselect"
+msgstr "Hiq zgjedhjen"
+
+#: inc/backup.php:254
+msgid "Note:"
+msgstr "Shënim:"
+
+#: inc/backup.php:254
+msgid "Backup files will be under"
+msgstr "Skedarët rezervë do të jenë nën"
+
+#: inc/contribute.php:3
+msgid "WP File Manager Contribution"
+msgstr "Kontributi i Menaxheri i skedarëve WP"
+
+#: inc/logs.php:7
+msgid ""
+"Note: These are demo screenshots. Please buy File Manager pro to Logs "
+"functions."
+msgstr ""
+"Shënim: Këto janë pamje ekrani demo. Ju lutemi blini File Manager pro tek "
+"funksionet Logs."
+
+#: inc/logs.php:8 lib/wpfilemanager.php:24
+msgid "Click to Buy PRO"
+msgstr "Klikoni për të blerë PRO"
+
+#: inc/logs.php:8 inc/settings.php:12 inc/settings.php:27
+#: inc/system_properties.php:5 lib/wpfilemanager.php:25
+msgid "Buy PRO"
+msgstr "Bleni PRO"
+
+#: inc/logs.php:9
+msgid "Edit Files Logs"
+msgstr "Redakto Regjistrat e Skedarëve"
+
+#: inc/logs.php:11
+msgid "Download Files Logs"
+msgstr "Shkarkoni Regjistrat e Skedarëve"
+
+#: inc/logs.php:13
+msgid "Upload Files Logs"
+msgstr "Ngarko Dosjet e Skedarëve"
+
+#: inc/root.php:43
+msgid "Settings saved."
+msgstr "Cilësimet u ruajtën."
+
+#: inc/root.php:43 inc/root.php:46
+msgid "Dismiss this notice."
+msgstr "Hidhe poshtë këtë njoftim."
+
+#: inc/root.php:46
+msgid "You have not made any changes to be saved."
+msgstr "Ju nuk keni bërë asnjë ndryshim për t'u ruajtur."
+
+#: inc/root.php:55
+msgid "Public Root Path"
+msgstr "Rruga e Rrënjës Publike"
+
+#: inc/root.php:58
+msgid "File Manager Root Path, you can change according to your choice."
+msgstr "Skeda Root Rrugor, ju mund të ndryshoni sipas zgjedhjes suaj."
+
+#: inc/root.php:59
+msgid "Default:"
+msgstr "Parazgjedhur:"
+
+#: inc/root.php:60
+msgid ""
+"Please change this carefully, wrong path can lead file manager plugin to go "
+"down."
+msgstr ""
+"Ju lutemi ndryshojeni këtë me kujdes, rruga e gabuar mund të çojë shtojcën e "
+"menaxherit të skedarit."
+
+#: inc/root.php:64
+msgid "Enable Trash?"
+msgstr "Të aktivizohet Plehra?"
+
+#: inc/root.php:67
+msgid "After enable trash, your files will go to trash folder."
+msgstr ""
+"Pas aktivizimit të plehrave, skedarët tuaj do të shkojnë në dosjen e "
+"plehrave."
+
+#: inc/root.php:72
+msgid "Enable Files Upload to Media Library?"
+msgstr "Të aktivizohet ngarkimi i skedarëve në Bibliotekën e mediave?"
+
+#: inc/root.php:75
+msgid "After enabling this all files will go to media library."
+msgstr ""
+"Pasi ta keni mundësuar këtë, të gjitha skedarët do të shkojnë në bibliotekën "
+"e mediave."
+
+#: inc/root.php:80
+msgid "Maximum allowed size at the time of database backup restore."
+msgstr ""
+"Madhësia maksimale e lejuar në kohën e rivendosjes së rezervës së bazës së "
+"të dhënave."
+
+#: inc/root.php:83
+msgid "MB"
+msgstr ""
+
+#: inc/root.php:85
+msgid ""
+"Please increase field value if you are getting error message at the time of "
+"backup restore."
+msgstr ""
+"Ju lutemi rrisni vlerën e fushës nëse po merrni mesazh gabimi në kohën e "
+"rivendosjes së rezervës."
+
+#: inc/root.php:90
+msgid "Save Changes"
+msgstr "Ruaj ndryshimet"
+
+#: inc/settings.php:10
+msgid "Settings - General"
+msgstr "Cilësimet - Të përgjithshme"
+
+#: inc/settings.php:11 inc/settings.php:26
+msgid ""
+"Note: This is just a demo screenshot. To get settings please buy our pro "
+"version."
+msgstr ""
+"Shënim: Kjo është vetëm një pamje ekrani demonstruese. Për të marrë "
+"cilësimet, ju lutemi blini versionin tonë pro."
+
+#: inc/settings.php:13
+msgid ""
+"Here admin can give access to user roles to use filemanager. Admin can set "
+"Default Access Folder and also control upload size of filemanager."
+msgstr ""
+"Këtu administratori mund të japë qasje në rolet e përdoruesit për të "
+"përdorur menaxherin e skedarëve. Admin mund të vendosë Dosjen e Hyrjes së "
+"Paracaktuar dhe gjithashtu të kontrollojë madhësinë e ngarkimit të "
+"administratorit të skedarëve."
+
+#: inc/settings.php:15
+msgid "Settings - Code-editor"
+msgstr "Cilësimet - Redaktuesi i kodit"
+
+#: inc/settings.php:16
+msgid ""
+"File Manager has a code editor with multiple themes. You can select any "
+"theme for code editor. It will display when you edit any file. Also you can "
+"allow fullscreen mode of code editor."
+msgstr ""
+"Skedari ka një redaktues kodi me shumë tema. Mund të zgjidhni çdo temë për "
+"redaktuesin e kodit. Do të shfaqet kur të ndryshoni ndonjë skedar. "
+"Gjithashtu mund të lejoni modalitetin në ekran të plotë të redaktuesit të "
+"kodit."
+
+#: inc/settings.php:18
+msgid "Code-editor View"
+msgstr "Pamja e redaktuesit të kodit"
+
+#: inc/settings.php:20
+msgid "Settings - User Restrictions"
+msgstr "Cilësimet - Kufizimet e Përdoruesit"
+
+#: inc/settings.php:21
+msgid ""
+"Admin can restrict actions of any user. Also hide files and folders and can "
+"set different - different folders paths for different users."
+msgstr ""
+"Admin mund të kufizojë veprimet e çdo përdoruesi. Gjithashtu fshehni "
+"skedarët dhe dosjet dhe mund të vendosni shtigje të ndryshme - të ndryshme "
+"të dosjeve për përdorues të ndryshëm."
+
+#: inc/settings.php:23
+msgid "Settings - User Role Restrictions"
+msgstr "Cilësimet - Kufizimet e rolit të përdoruesit"
+
+#: inc/settings.php:24
+msgid ""
+"Admin can restrict actions of any userrole. Also hide files and folders and "
+"can set different - different folders paths for different users roles."
+msgstr ""
+"Admin mund të kufizojë veprimet e çdo përdoruesi. Gjithashtu fshehni "
+"skedarët dhe dosjet dhe mund të vendosni shtigje të ndryshme - të ndryshme "
+"të dosjeve për role të përdoruesve të ndryshëm."
+
+#: inc/shortcode_docs.php:11
+msgid "File Manager - Shortcode"
+msgstr "Skedari - Kodi i Shkurtër"
+
+#: inc/shortcode_docs.php:15 inc/shortcode_docs.php:17
+#: inc/shortcode_docs.php:19
+msgid "USE:"
+msgstr "P USRDORIMI:"
+
+#: inc/shortcode_docs.php:15
+msgid ""
+"It will show file manager on front end. You can control all settings from "
+"file manager settings. It will work same as backend WP File Manager."
+msgstr ""
+"Do të tregojë menaxherin e skedarëve në pjesën e përparme. Mund të "
+"kontrolloni të gjitha cilësimet nga cilësimet e menaxherit të skedarëve. Do "
+"të funksionojë njësoj si Menaxheri i skedarëve WP."
+
+#: inc/shortcode_docs.php:17
+msgid ""
+"It will show file manager on front end. But only Administrator can access it "
+"and will control from file manager settings."
+msgstr ""
+"Do të tregojë menaxherin e skedarëve në pjesën e përparme. Por vetëm "
+"Administratori mund ta qaset atë dhe do ta kontrollojë nga cilësimet e "
+"menaxherit të skedarëve."
+
+#: inc/shortcode_docs.php:23
+msgid "Parameters:"
+msgstr "Parametrat:"
+
+#: inc/shortcode_docs.php:26
+msgid ""
+"It will allow all roles to access file manager on front end or You can "
+"simple use for particular user roles as like allowed_roles=\"editor,author"
+"\" (seprated by comma(,))"
+msgstr ""
+"Ai do t'i lejojë të gjitha rolet të kenë qasje në menaxherin e skedarëve në "
+"pjesën e përparme ose mund ta përdorni thjesht për role të veçanta "
+"përdoruesi, si p.sh."
+
+#: inc/shortcode_docs.php:28
+msgid ""
+"Here \"test\" is the name of folder which is located on root directory, or "
+"you can give path for sub folders as like \"wp-content/plugins\". If leave "
+"blank or empty it will access all folders on root directory. Default: Root "
+"directory"
+msgstr ""
+"Këtu \"test\" është emri i dosjes që ndodhet në direktoriumin rrënjë, ose "
+"mund të jepni rrugën për nën-dosjet si \"wp-content/plugins\". Nëse lihet "
+"bosh ose bosh, do të ketë akses në të gjitha dosjet në direktorinë rrënjë. "
+"Parazgjedhja: Drejtoria rrënjësore"
+
+#: inc/shortcode_docs.php:30
+msgid "for access to write files permissions, note: true/false, default: false"
+msgstr ""
+"për qasje në lejet e shkrimit të skedarëve, vini re: true/false, default: "
+"false"
+
+#: inc/shortcode_docs.php:32
+msgid "for access to read files permission, note: true/false, default: true"
+msgstr ""
+"për akses në lejen e leximit të skedarëve, vini re: e vërtetë/e gabuar, e "
+"paracaktuar: e vërtetë"
+
+#: inc/shortcode_docs.php:34
+msgid "it will hide mentioned here. Note: seprated by comma(,). Default: Null"
+msgstr ""
+"do të fshihet i përmendur këtu. Shënim: ndahet me presje (,). Parazgjedhja: "
+"Null"
+
+#: inc/shortcode_docs.php:36
+msgid ""
+"It will lock mentioned in commas. you can lock more as like \".php,.css,.js"
+"\" etc. Default: Null"
+msgstr ""
+"Do të kyçet e përmendur në presje. ju mund të kyçni më shumë si \".php,.css,."
+"js\" etj. Parazgjedhja: Null"
+
+#: inc/shortcode_docs.php:38
+msgid ""
+"* for all operations and to allow some operation you can mention operation "
+"name as like, allowed_operations=\"upload,download\". Note: seprated by "
+"comma(,). Default: *"
+msgstr ""
+"* për të gjitha operacionet dhe për të lejuar disa operacione, mund të "
+"përmendni emrin e operacionit si like, allow_operations=\"upload, download"
+"\". Shënim: ndahet me presje (,). Parazgjedhja: *"
+
+#: inc/shortcode_docs.php:42
+msgid "File Operations List:"
+msgstr "Lista e Operacioneve të Dosjeve:"
+
+#: inc/shortcode_docs.php:46
+msgid "mkdir ->"
+msgstr ""
+
+#: inc/shortcode_docs.php:46
+msgid "Make directory or folder"
+msgstr "Bëni direktori ose dosje"
+
+#: inc/shortcode_docs.php:47
+msgid "mkfile ->"
+msgstr ""
+
+#: inc/shortcode_docs.php:47
+msgid "Make file"
+msgstr "Bëni skedarin"
+
+#: inc/shortcode_docs.php:48
+msgid "rename ->"
+msgstr ""
+
+#: inc/shortcode_docs.php:48
+msgid "Rename a file or folder"
+msgstr "Riemërtoni një skedar ose dosje"
+
+#: inc/shortcode_docs.php:49
+msgid "duplicate ->"
+msgstr ""
+
+#: inc/shortcode_docs.php:49
+msgid "Duplicate or clone a folder or file"
+msgstr "Kopjoni ose klononi një dosje ose skedar"
+
+#: inc/shortcode_docs.php:50
+msgid "paste ->"
+msgstr ""
+
+#: inc/shortcode_docs.php:50
+msgid "Paste a file or folder"
+msgstr "Ngjit një skedar ose dosje"
+
+#: inc/shortcode_docs.php:51
+msgid "ban ->"
+msgstr ""
+
+#: inc/shortcode_docs.php:51
+msgid "Ban"
+msgstr "ndalim"
+
+#: inc/shortcode_docs.php:52
+msgid "archive ->"
+msgstr ""
+
+#: inc/shortcode_docs.php:52
+msgid "To make a archive or zip"
+msgstr "Për të bërë një arkiv ose zip"
+
+#: inc/shortcode_docs.php:53
+msgid "extract ->"
+msgstr ""
+
+#: inc/shortcode_docs.php:53
+msgid "Extract archive or zipped file"
+msgstr "Nxjerr arkivin ose skedarin zip"
+
+#: inc/shortcode_docs.php:54
+msgid "copy ->"
+msgstr ""
+
+#: inc/shortcode_docs.php:54
+msgid "Copy files or folders"
+msgstr "Kopjoni skedarë ose dosje"
+
+#: inc/shortcode_docs.php:58
+msgid "cut ->"
+msgstr ""
+
+#: inc/shortcode_docs.php:58
+msgid "Simple cut a file or folder"
+msgstr "Thjesht prerë një skedar ose dosje"
+
+#: inc/shortcode_docs.php:59
+msgid "edit ->"
+msgstr ""
+
+#: inc/shortcode_docs.php:59
+msgid "Edit a file"
+msgstr "Redakto një skedar"
+
+#: inc/shortcode_docs.php:60
+msgid "rm ->"
+msgstr ""
+
+#: inc/shortcode_docs.php:60
+msgid "Remove or delete files and folders"
+msgstr "Hiqni ose fshini skedarët dhe dosjet"
+
+#: inc/shortcode_docs.php:61
+msgid "download ->"
+msgstr ""
+
+#: inc/shortcode_docs.php:61
+msgid "Download files"
+msgstr "Shkarkoni skedarë"
+
+#: inc/shortcode_docs.php:62
+msgid "upload ->"
+msgstr ""
+
+#: inc/shortcode_docs.php:62
+msgid "Upload files"
+msgstr "Ngarko skedarët"
+
+#: inc/shortcode_docs.php:63
+msgid "search -> "
+msgstr ""
+
+#: inc/shortcode_docs.php:63
+msgid "Search things"
+msgstr "Kërkoni gjëra"
+
+#: inc/shortcode_docs.php:64
+msgid "info ->"
+msgstr ""
+
+#: inc/shortcode_docs.php:64
+msgid "Info of file"
+msgstr "Informacioni i skedarit"
+
+#: inc/shortcode_docs.php:65
+msgid "help ->"
+msgstr ""
+
+#: inc/shortcode_docs.php:65
+msgid "Help"
+msgstr "Ndihmoni"
+
+#: inc/shortcode_docs.php:71
+msgid ""
+"->  It will ban particular users by just putting their ids seprated by "
+"commas(,). If user is Ban then they will not able to access wp file manager "
+"on front end."
+msgstr ""
+"-> Do të ndalojë përdorues të veçantë duke vendosur id-të e tyre të ndara me "
+"presje (,). Nëse përdoruesi është Ban, atëherë ata nuk do të kenë mundësi të "
+"hyjnë në menaxherin e skedarëve wp në pjesën e përparme."
+
+#: inc/shortcode_docs.php:72
+msgid "-> Filemanager UI View. Default: grid"
+msgstr "-> Pamja UI e Skedarit. Default: grid"
+
+#: inc/shortcode_docs.php:73
+msgid "-> File Modified or Create date format. Default: d M, Y h:i A"
+msgstr ""
+"-> Skedari Modifikohet ose Krijoni formatin e datës. Default: d M, Y h:i A"
+
+#: inc/shortcode_docs.php:74
+msgid "-> File manager Language. Default: English(en)"
+msgstr "-> Gjuha e menaxherit të skedarëve. Parazgjedhur: English(en)"
+
+#: inc/shortcode_docs.php:75
+msgid "-> File Manager Theme. Default: Light"
+msgstr "-> Tema e Menaxherit të Skedarëve. Default: Light"
+
+#: inc/system_properties.php:5
+msgid "File Manager - System Properties"
+msgstr "Skedari - Karakteristikat e sistemit"
+
+#: inc/system_properties.php:10
+msgid "PHP version"
+msgstr "Versioni PHP"
+
+#: inc/system_properties.php:15
+msgid "Maximum file upload size (upload_max_filesize)"
+msgstr "Madhësia maksimale e ngarkimit të skedarit (upload_max_filesize)"
+
+#: inc/system_properties.php:20
+msgid "Post maximum file upload size (post_max_size)"
+msgstr "Posto madhësinë maksimale të ngarkimit të skedarit (post_max_size)"
+
+#: inc/system_properties.php:25
+msgid "Memory Limit (memory_limit)"
+msgstr "Kufiri i kujtesës (memory_limit)"
+
+#: inc/system_properties.php:30
+msgid "Timeout (max_execution_time)"
+msgstr "Koha e ndërprerjes (max_execution_time)"
+
+#: inc/system_properties.php:35
+msgid "Browser and OS (HTTP_USER_AGENT)"
+msgstr "Shfletuesi dhe OS (HTTP_USER_AGENT)"
+
+#: lib/jquery/jquery-ui-1.11.4.js:8
+msgid "'"
+msgstr ""
+
+#: lib/wpfilemanager.php:31
+msgid "Change Theme Here:"
+msgstr "Ndryshoni Temën Këtu:"
+
+#: lib/wpfilemanager.php:35
+msgid "Default"
+msgstr "Parazgjedhur"
+
+#: lib/wpfilemanager.php:39
+msgid "Dark"
+msgstr "E errët"
+
+#: lib/wpfilemanager.php:43
+msgid "Light"
+msgstr "Drita"
+
+#: lib/wpfilemanager.php:47
+msgid "Gray"
+msgstr "Gri"
+
+#: lib/wpfilemanager.php:52
+msgid "Windows - 10"
+msgstr ""
+
+#: lib/wpfilemanager.php:85
+msgid "Welcome to File Manager"
+msgstr "Mirësevini në File Manager"
+
+#: lib/wpfilemanager.php:88
+msgid ""
+"We love making new friends! Subscribe below and we promise to\n"
+"    keep you up-to-date with our latest new plugins, updates,\n"
+"    awesome deals and a few special offers."
+msgstr ""
+"Na pëlqen të krijojmë miq të rinj! Abonohuni më poshtë dhe ne premtojmë të\n"
+"    ju mbajmë të azhurnuar me shtojcat, azhurnimet tona më të fundit,\n"
+"    marrëveshje të mrekullueshme dhe disa oferta speciale."
+
+#: lib/wpfilemanager.php:99
+msgid "Please Enter First Name."
+msgstr "Ju lutemi shkruani emrin."
+
+#: lib/wpfilemanager.php:107
+msgid "Please Enter Last Name."
+msgstr "Ju lutemi shkruani emrin e modelit."
+
+#: lib/wpfilemanager.php:116
+msgid "Please Enter Email Address."
+msgstr "Ju lutemi shkruani adresën e postës elektronike."
+
+#: lib/wpfilemanager.php:120
+msgid "Verify"
+msgstr "Verifiko"
+
+#: lib/wpfilemanager.php:126
+msgid "No Thanks"
+msgstr "Jo faleminderit"
+
+#: lib/wpfilemanager.php:132
+msgid "Terms of Service"
+msgstr "Kushtet e shërbimit"
+
+#: lib/wpfilemanager.php:134
+msgid "Privacy Policy"
+msgstr "Politika e privatësisë"
+
+#: lib/wpfilemanager.php:153
+msgid "Saving..."
+msgstr "Po kursen ..."
+
+#: lib/wpfilemanager.php:155
+msgid "OK"
+msgstr "Ne rregull"
+
+#~ msgid "Backup not found!"
+#~ msgstr "Rezervimi nuk u gjet!"
+
+#~ msgid "Backup removed successfully!"
+#~ msgstr "Rezervimi u hoq me sukses!"
+
+#~ msgid "<span class=\"fm_console_error\">Nothing selected for backup</span>"
+#~ msgstr ""
+#~ "<span class=\"fm_console_error\">Asgjë nuk është zgjedhur për rezervë</"
+#~ "span>"
+
+#~ msgid "<span class=\"fm_console_error\">Security Issue.</span>"
+#~ msgstr "<span class=\"fm_console_error\">Çështja e Sigurisë. </span>"
+
+#~ msgid "<span class=\"fm_console_success\">Database backup done.</span>"
+#~ msgstr ""
+#~ "<span class=\"fm_console_success\">Rezervimi i bazës së të dhënave u "
+#~ "krye. </span>"
+
+#~ msgid ""
+#~ "<span class=\"fm_console_error\">Unable to create database backup.</span>"
+#~ msgstr ""
+#~ "<span class=\"fm_console_error\">Nuk mund të krijohet një kopje rezervë e "
+#~ "bazës së të dhënave. </span>"
+
+#~ msgid "<span class=\"fm_console_success\">Plugins backup done.</span>"
+#~ msgstr ""
+#~ "<span class=\"fm_console_success\">Rezervimi i shtojcave u krye. </span>"
+
+#~ msgid "<span class=\"fm_console_error\">Plugins backup failed.</span>"
+#~ msgstr ""
+#~ "<span class=\"fm_console_error\">Rezervimi i shtojcave dështoi. </span>"
+
+#~ msgid "<span class=\"fm_console_success\">Themes backup done.</span>"
+#~ msgstr ""
+#~ "<span class=\"fm_console_success\">Rezervimi i temave u krye. </span>"
+
+#~ msgid "<span class=\"fm_console_error\">Themes backup failed.</span>"
+#~ msgstr ""
+#~ "<span class=\"fm_console_error\">Rezervimi i temave dështoi. </span>"
+
+#~ msgid "<span class=\"fm_console_success\">Uploads backup done.</span>"
+#~ msgstr ""
+#~ "<span class=\"fm_console_success\">Rezervimi i ngarkimeve u krye. </span>"
+
+#~ msgid "<span class=\"fm_console_error\">Uploads backup failed.</span>"
+#~ msgstr ""
+#~ "<span class=\"fm_console_error\">Rezervimi i ngarkimeve dështoi. </span>"
+
+#~ msgid "<span class=\"fm_console_success\">Others backup done.</span>"
+#~ msgstr ""
+#~ "<span class=\"fm_console_success\">Rezervimi i të tjerëve u bë. </span>"
+
+#~ msgid "<span class=\"fm_console_error\">Others backup failed.</span>"
+#~ msgstr ""
+#~ "<span class=\"fm_console_error\">Rezervimi i të tjerëve dështoi. </span>"
+
+#~ msgid "<span class=\"fm_console_success\">All Done</span>"
+#~ msgstr "<span class=\"fm_console_success\">Të gjitha të bëra </span>"
+
+#~ msgid ""
+#~ "<code>[wp_file_manager view=\"list\" lang=\"en\" theme=\"light\" "
+#~ "dateformat=\"d M, Y h:i A\" allowed_roles=\"editor,author\" access_folder="
+#~ "\"wp-content/plugins\" write = \"true\" read = \"false\" hide_files = "
+#~ "\"kumar,abc.php\" lock_extensions=\".php,.css\" allowed_operations="
+#~ "\"upload,download\" ban_user_ids=\"2,3\"]"
+#~ msgstr ""
+#~ "<code>[wp_file_manager view=\"list\" lang=\"en\" theme=\"light\" "
+#~ "dateformat=\"d M, Y h:i A\" allowed_roles=\"editor,author\" access_folder="
+#~ "\"wp-content/plugins\" write = \"true\" read = \"false\" hide_files = "
+#~ "\"kumar,abc.php\" lock_extensions=\".php,.css\" allowed_operations="
+#~ "\"upload,download\" ban_user_ids=\"2,3\"]"
+
+#~ msgid "Image"
+#~ msgstr "Imazh"
+
+#~ msgid "of"
+#~ msgstr "e"
+
+#~ msgid "Close"
+#~ msgstr "Mbylle"
+
+#~ msgid ""
+#~ "This feature requires inline frames. You have iframes disabled or your "
+#~ "browser does not support them."
+#~ msgstr ""
+#~ "Kjo karakteristikë kërkon korniza inline. Ju keni iframe të çaktivizuara "
+#~ "ose shfletuesi juaj nuk i mbështet ato."
+
+#~ msgid "Theme Editor"
+#~ msgstr "Redaktuesi i temës"
+
+#~ msgid "Plugin Editor"
+#~ msgstr "Redaktuesi i shtojcave"
+
+#~ msgid "Access Control"
+#~ msgstr "Kontrolli i Hyrjes"
+
+#~ msgid "Notify Me"
+#~ msgstr "Me njofto"
+
+#~ msgid "Language folder has been downlaoded successfully."
+#~ msgstr "gjuha është shkarkuar me sukses."
+
+#~ msgid "Language folder failed to downlaod."
+#~ msgstr "Dosja e gjuhës dështoi të zvogëlohej."
+
+#~ msgid "Security token expired!"
+#~ msgstr "Shenja e sigurisë ka skaduar!"
+
+#~ msgid " language has been downloaded successfully."
+#~ msgstr "gjuha është shkarkuar me sukses."
+
+#~ msgid "Currently language "
+#~ msgstr "Gjuha aktualisht "
+
+#~ msgid " not available. Please click on the request language link."
+#~ msgstr ""
+#~ " i padisponueshem. Ju lutemi klikoni në lidhjen e gjuhës së kërkesës."
+
+#~ msgid ""
+#~ "You do not have sufficient permissions to edit plugins for this site."
+#~ msgstr ""
+#~ "Ju nuk keni leje të mjaftueshme për të redaktuar shtojcat për këtë sit."
+
+#~ msgid "There are no plugins installed on this site."
+#~ msgstr "Nuk ka asnjë shtojcë të instaluar në këtë sit."
+
+#~ msgid "There are no themes installed on this site."
+#~ msgstr "Nuk ka tema të instaluara në këtë sit."
+
+#~ msgid "<p class=\"te_error\">Please enter folder name!</p>"
+#~ msgstr "<p class=\"te_error\">Ju lutemi shkruani emrin e dosjes! </p>"
+
+#~ msgid "<p class=\"te_error\">Please enter file name!</p>"
+#~ msgstr "<p class=\"te_error\">Ju lutemi shkruani emrin e skedarit! </p>"
+
+#~ msgid "Open"
+#~ msgstr "E hapur"
+
+#~ msgid "Preview"
+#~ msgstr "Paraqitje"
+
+#~ msgid "Edit"
+#~ msgstr "Redakto"
+
+#~ msgid "Are you sure you want to abort the file uploading?"
+#~ msgstr "Jeni i sigurt që doni të abortoni ngarkimin e skedarit?"
+
+#~ msgid "File renamed successfully."
+#~ msgstr "Skedari u riemërua me sukses."
+
+#~ msgid "Are you sure you want to delete folder?"
+#~ msgstr "Jeni i sigurt që dëshironi të fshini dosjen?"
+
+#~ msgid "Folder deleted successfully."
+#~ msgstr "Dosja u fshi me sukses."
+
+#~ msgid "File deleted successfully."
+#~ msgstr "Skedari u fshi me sukses."
+
+#~ msgid "Folder renamed successfully."
+#~ msgstr "Dosja u riemërua me sukses."
+
+#~ msgid "<p class=\"te_error\">Not allowed more than 30 characters.</p>"
+#~ msgstr "<p class=\"te_error\">Nuk lejohen më shumë se 30 karaktere.</p>"
+
+#~ msgid "Invalid request!"
+#~ msgstr "Kërkesë e pavlefshme!"
+
+#~ msgid "No change in file!"
+#~ msgstr "Asnjë ndryshim në dosje!"
+
+#~ msgid "File saved successfully!"
+#~ msgstr "Skedari u ruajt me sukses!"
+
+#~ msgid "File not saved!"
+#~ msgstr "Skedari nuk u ruajt!"
+
+#~ msgid "Unable to verify security token!"
+#~ msgstr "Nuk mund të verifikohet shenja e sigurisë!"
+
+#~ msgid "Folder created successfully!"
+#~ msgstr "Dosja u krijua me sukses!"
+
+#~ msgid "This folder format is not allowed to upload by wordpress!"
+#~ msgstr "Ky format i dosjes nuk lejohet të ngarkohet nga wordpress!"
+
+#~ msgid "Folder already exists!"
+#~ msgstr "Dosja tashmë ekziston!"
+
+#~ msgid "File created successfully!"
+#~ msgstr "Skedari u krijua me sukses!"
+
+#~ msgid "This file extension is not allowed to create!"
+#~ msgstr "Kjo shtesë skedari nuk lejohet të krijohet!"
+
+#~ msgid "File already exists!"
+#~ msgstr "Skedari ekziston tashmë!"
+
+#~ msgid "Please enter a valid file extension!"
+#~ msgstr "Ju lutemi shkruani një shtesë të vlefshme skedari!"
+
+#~ msgid "Folder does not exists!"
+#~ msgstr "Dosja nuk ekziston!"
+
+#~ msgid "Folder deleted successfully!"
+#~ msgstr "Dosja u fshi me sukses!"
+
+#~ msgid "File deleted successfully!"
+#~ msgstr "Skedari u fshi me sukses!"
+
+#~ msgid "This file extension is not allowed to upload by wordpress!"
+#~ msgstr "Kjo shtesë skedari nuk lejohet të ngarkohet nga wordpress!"
+
+#~ msgid " already exists"
+#~ msgstr " Tashmë ekziston"
+
+#~ msgid "File uploaded successfully: Uploaded file path is "
+#~ msgstr "Skedari u ngarkua me sukses: Rruga e skedarit të ngarkuar është "
+
+#~ msgid "No file selected"
+#~ msgstr "Asnjë skedar i zgjedhur"
+
+#~ msgid "Unable to rename file! Try again."
+#~ msgstr "Nuk mund të riemërtohet skedari! Provo përsëri."
+
+#~ msgid "Folder renamed successfully!"
+#~ msgstr "Dosja u riemërua me sukses!"
+
+#~ msgid "Please enter correct folder name"
+#~ msgstr "Ju lutemi shkruani emrin e saktë të dosjes"
+
+#~ msgid "How can we help?"
+#~ msgstr "Si mund të ndihmojmë?"
+
+#~ msgid "Learning resources, professional support and expert help."
+#~ msgstr ""
+#~ "Burimet e të mësuarit, mbështetja profesionale dhe ndihma e ekspertëve."
+
+#~ msgid "Documentation"
+#~ msgstr "Dokumentacioni"
+
+#~ msgid "Find answers quickly from our comprehensive documentation."
+#~ msgstr "Gjeni përgjigje shpejt nga dokumentacioni ynë gjithëpërfshirës."
+
+#~ msgid "Learn More"
+#~ msgstr "Mëso më shumë"
+
+#~ msgid "Contact Us"
+#~ msgstr "Na kontaktoni"
+
+#~ msgid "Submit a support ticket for answers on questions you may have."
+#~ msgstr ""
+#~ "Dorëzoni një biletë ndihme për përgjigje në pyetjet që mund të keni."
+
+#~ msgid "Request a Feature"
+#~ msgstr "Kërkoni një veçori"
+
+#~ msgid "Tell us what you want and will add it to our roadmap."
+#~ msgstr "Na tregoni se çfarë dëshironi dhe do ta shtoni në hartën tonë."
+
+#~ msgid "Tell us what you think!"
+#~ msgstr "Na tregoni se çfarë mendoni!"
+
+#~ msgid "Rate and give us a review on Wordpress!"
+#~ msgstr "Vlerësoni dhe na jepni një përmbledhje në Wordpress!"
+
+#~ msgid "Leave a Review"
+#~ msgstr "Lini një përmbledhje"
+
+#~ msgid "Update"
+#~ msgstr "Përditëso"
+
+#~ msgid "Click here to install/update "
+#~ msgstr "Klikoni këtu për të instaluar / azhurnuar "
+
+#~ msgid " language translation for Theme Editor."
+#~ msgstr " jezikovni prevod za urejevalnik tem."
+
+#~ msgid "Installed"
+#~ msgstr "I instaluar"
+
+#~ msgid "English is the default language of Theme Editor. "
+#~ msgstr "Anglishtja është gjuha e paracaktuar e Editor Editor. "
+
+#~ msgid "Request "
+#~ msgstr "Kërkesë "
+
+#~ msgid "Click here to request"
+#~ msgstr "Klikoni këtu për të kërkuar"
+
+#~ msgid "language translation for Theme Editor"
+#~ msgstr "përkthimi i gjuhës për Editor Editor"
+
+#~ msgid "Theme Editor Language:"
+#~ msgstr "Gjuha e redaktuesit të temës:"
+
+#~ msgid " language"
+#~ msgstr " gjuhe"
+
+#~ msgid "Available languages"
+#~ msgstr "Razpoložljivi jeziki"
+
+#~ msgid "Click here to download all available languages."
+#~ msgstr "Kliknite tukaj za prenos vseh razpoložljivih jezikov."
+
+#~ msgid "Request a language"
+#~ msgstr "Zahtevajte jezik"
+
+#~ msgid "Tell us which language you want to add."
+#~ msgstr "Na trego cilën gjuhë dëshiron të shtosh."
+
+#~ msgid "Contact us"
+#~ msgstr "Na kontaktoni"
+
+#~ msgid "Notifications"
+#~ msgstr "Njoftimet"
+
+#~ msgid ""
+#~ "<strong>Note: This is just a screenshot. Buy PRO Version for this feature."
+#~ "</strong>"
+#~ msgstr ""
+#~ "<strong> Shënim: Kjo është vetëm një pamje në ekran. Bleni Versionin PRO "
+#~ "për këtë veçori. </strong>"
+
+#~ msgid "Permissions"
+#~ msgstr "Permissions"
+
+#~ msgid "Edit Plugin"
+#~ msgstr "Redakto shtojcën"
+
+#~ msgid ""
+#~ "<strong>This plugin is currently activated!</strong> Warning: Making "
+#~ "changes to active plugins is not recommended.\tIf your changes cause a "
+#~ "fatal error, the plugin will be automatically deactivated."
+#~ msgstr ""
+#~ "<strong> Kjo shtojcë është aktualisht e aktivizuar! </strong> "
+#~ "Paralajmërim: Bërja e ndryshimeve në shtojcat aktive nuk rekomandohet. "
+#~ "Nëse ndryshimet tuaja shkaktojnë një gabim fatal, shtojca do të "
+#~ "çaktivizohet automatikisht."
+
+#~ msgid "Editing <span class=\"current_file\">"
+#~ msgstr "Redaktimi <span class=\"current_file\">"
+
+#~ msgid "</span> (active)"
+#~ msgstr "</span> (aktiv)"
+
+#~ msgid "Browsing <span class=\"current_file\">"
+#~ msgstr "Shfletimi <span class=\"current_file\">"
+
+#~ msgid "</span> (inactive)"
+#~ msgstr "</span> (joaktiv)"
+
+#~ msgid "Update File"
+#~ msgstr "Dosja e azhurnimit"
+
+#~ msgid "Download Plugin"
+#~ msgstr "Shkarkoni shtojcën"
+
+#~ msgid ""
+#~ "You need to make this file writable before you can save your changes. See "
+#~ "<a href=\"https://wordpress.org/support/article/changing-file-permissions/"
+#~ "\" target=\"_blank\">the Codex</a> for more information."
+#~ msgstr ""
+#~ "Ju duhet ta bëni këtë skedar të shkruara para se të ruani ndryshimet "
+#~ "tuaja. Shikoni <a href=\"https://wordpress.org/support/article/changing-"
+#~ "file-permissions/\" target=\"_blank\"> Codex </a> për më shumë "
+#~ "informacion."
+
+#~ msgid "Select plugin to edit:"
+#~ msgstr "Zgjidhni shtojcën për të ndryshuar:"
+
+#~ msgid "Create Folder and File"
+#~ msgstr "Krijoni Dosje dhe Skedar"
+
+#~ msgid "Create"
+#~ msgstr "Krijoni"
+
+#~ msgid "Remove Folder and File"
+#~ msgstr "Hiq Dosjen dhe Skedarin"
+
+#~ msgid "Remove "
+#~ msgstr "Hiq"
+
+#~ msgid "To"
+#~ msgstr "Për të"
+
+#~ msgid "Optional: Sub-Directory"
+#~ msgstr "Opsionale: Nën-Drejtoria"
+
+#~ msgid "Choose File "
+#~ msgstr "Zgjidhni Skedarin"
+
+#~ msgid "No file Chosen "
+#~ msgstr "Asnjë skedar i zgjedhur "
+
+#~ msgid "Create a New Folder: "
+#~ msgstr "Krijoni një dosje të re:"
+
+#~ msgid "New folder will be created in: "
+#~ msgstr "Dosje e re do të krijohet në:"
+
+#~ msgid "New Folder Name: "
+#~ msgstr "Emri i Dosjes së Re:"
+
+#~ msgid "Create New Folder"
+#~ msgstr "Krijo një dosje të re"
+
+#~ msgid "Create a New File: "
+#~ msgstr "Krijoni një Skedar të Ri:"
+
+#~ msgid "New File will be created in: "
+#~ msgstr "Skedari i ri do të krijohet në:"
+
+#~ msgid "New File Name: "
+#~ msgstr "Emri i ri i skedarit:"
+
+#~ msgid "Create New File"
+#~ msgstr "Krijoni Skedar të Ri"
+
+#~ msgid "Warning: please be careful before remove any folder or file."
+#~ msgstr ""
+#~ "Paralajmërim: ju lutemi kini kujdes para se të hiqni ndonjë dosje ose "
+#~ "skedar."
+
+#~ msgid "Current Theme Path: "
+#~ msgstr "Rruga aktuale e temës:"
+
+#~ msgid "Remove Folder: "
+#~ msgstr "Hiq dosjen:"
+
+#~ msgid "Folder Path which you want to remove: "
+#~ msgstr "Rruga e Dosjes që dëshironi të hiqni: "
+
+#~ msgid "Remove Folder"
+#~ msgstr "Hiq dosjen"
+
+#~ msgid "Remove File: "
+#~ msgstr "Hiq skedarin:"
+
+#~ msgid "File Path which you want to remove: "
+#~ msgstr "Skeda e Rrugës të cilën dëshironi të hiqni: "
+
+#~ msgid "Remove File"
+#~ msgstr "Hiq skedarin"
+
+#~ msgid "Please Enter Valid Email Address."
+#~ msgstr "Ju lutemi shkruani adresën e vlefshme të postës elektronike."
+
+#~ msgid "Warning: Please be careful before rename any folder or file."
+#~ msgstr ""
+#~ "Paralajmërim: Ju lutemi kini kujdes para se të riemërtoni ndonjë dosje "
+#~ "ose skedar."
+
+#~ msgid "File/Folder will be rename in: "
+#~ msgstr "Skedari / Dosja do të riemërtohet në:"
+
+#~ msgid "File/Folder Rename: "
+#~ msgstr "Riemërtoni skedarin / dosjen:"
+
+#~ msgid "Rename File"
+#~ msgstr "Riemërtoni Skedarin"
+
+#~ msgid "Follow us"
+#~ msgstr "Na ndiq"
+
+#~ msgid "Theme Editor Facebook"
+#~ msgstr "Redaktues Temash Facebook"
+
+#~ msgid "Theme Editor Instagram"
+#~ msgstr "Redaktues Temash Instagram"
+
+#~ msgid "Theme Editor Twitter"
+#~ msgstr "Redaktuesi i temës Twitter"
+
+#~ msgid "Theme Editor Linkedin"
+#~ msgstr "Redaktuesi i temës Linkedin"
+
+#~ msgid "Theme Editor Youtube"
+#~ msgstr "Redaktuesi i temës Youtube"
+
+#~ msgid "Logo"
+#~ msgstr "Logoja"
+
+#~ msgid "Go to ThemeEditor site"
+#~ msgstr "Shko tek faqja ThemeEditor"
+
+#~ msgid "Theme Editor Links"
+#~ msgstr "Lidhjet e Redaktorit të Temave"
+
+#~ msgid "Child Theme"
+#~ msgstr "Tema e Fëmijëve"
+
+#~ msgid "Child Theme Permissions"
+#~ msgstr "Lejet e Temës së Fëmijëve"
+
+#~ msgid " is not available. Please click "
+#~ msgstr " nuk është në dispozicion. Ju lutemi klikoni "
+
+#~ msgid "here"
+#~ msgstr "ketu"
+
+#~ msgid "to request language."
+#~ msgstr "për të kërkuar gjuhë."
+
+#~ msgid "Click"
+#~ msgstr "Klikoni"
+
+#~ msgid "to install "
+#~ msgstr "për të instaluar"
+
+#~ msgid " language translation  for Theme Editor."
+#~ msgstr " përkthimi i gjuhës për Editor Editor."
+
+#~ msgid "Success: Settings Saved!"
+#~ msgstr "Suksesi: Cilësimet u ruajtën!"
+
+#~ msgid "No changes have been made to save."
+#~ msgstr "Asnjë ndryshim nuk është bërë për të ruajtur."
+
+#~ msgid "Enable Theme Editor For Themes"
+#~ msgstr "Aktivizo Redaktuesin e Temave për Temat"
+
+#~ msgid "Yes"
+#~ msgstr "po"
+
+#~ msgid "No"
+#~ msgstr "Jo"
+
+#~ msgid ""
+#~ "This will Enable/Disable the theme editor.<br/><strong class=\"defs"
+#~ "\">Default: </strong>Yes"
+#~ msgstr ""
+#~ "Kjo do të Aktivizojë / Çaktivizojë redaktuesin e temës. <br/><strong "
+#~ "class=\"defs\">Parazgjedhja: </strong>Po"
+
+#~ msgid "Disable Default WordPress Theme Editor?"
+#~ msgstr "Të çaktivizohet Redaktori i Parazgjedhur i Themeit WordPress?"
+
+#~ msgid ""
+#~ "This will Enable/Disable the Default theme editor.<br/><strong class="
+#~ "\"defs\">Default: </strong>Yes"
+#~ msgstr ""
+#~ "Kjo do të Aktivizojë / Çaktivizojë redaktuesin e temës Default. <br/"
+#~ "><strong class=\"defs\">Parazgjedhur: </strong>Po"
+
+#~ msgid "Enable Plugin Editor For Plugin"
+#~ msgstr "Aktivizo Redaktuesin e Shtojcave për Shtojcën"
+
+#~ msgid ""
+#~ "This will Enable/Disable the plugin editor.<br/><strong class=\"defs"
+#~ "\">Default: </strong>Yes"
+#~ msgstr ""
+#~ "Kjo do të Aktivizojë / Çaktivizojë redaktuesin e shtojcave. <br/><strong "
+#~ "class=\"defs\">Parazgjedhja: </strong>Po"
+
+#~ msgid "Disable Default WordPress Plugin Editor?"
+#~ msgstr "Të çaktivizohet Redaktori i Parazgjedhur i Shtojcave WordPress?"
+
+#~ msgid ""
+#~ "This will Enable/Disable the Default plugin editor.<br/><strong class="
+#~ "\"defs\">Default: </strong>Yes"
+#~ msgstr ""
+#~ "Kjo do të Aktivizojë / Çaktivizojë Redaktuesin e Shtojcës Default. <br/"
+#~ "><strong class=\"defs\">Parazgjedhur: </strong>Po"
+
+#~ msgid "Code Editor"
+#~ msgstr "Redaktuesi i kodit"
+
+#~ msgid ""
+#~ "Allows you to select theme for theme editor.<br/><strong class=\"defs"
+#~ "\">Default: </strong>Cobalt"
+#~ msgstr ""
+#~ "Ju lejon të zgjidhni temën për redaktuesin e temës. <br/><strong class="
+#~ "\"defs\">Default: </strong>Kobalt"
+
+#~ msgid "Edit Themes"
+#~ msgstr "Redaktoni Temat"
+
+#~ msgid ""
+#~ "<strong>This theme is currently activated!</strong> Warning: Making "
+#~ "changes to active themes is not recommended."
+#~ msgstr ""
+#~ "<strong> Kjo temë është aktivizuar aktualisht! </strong> Paralajmërim: "
+#~ "Bërja e ndryshimeve në temat aktive nuk rekomandohet."
+
+#~ msgid "Editing"
+#~ msgstr "Redaktimi"
+
+#~ msgid "Browsing"
+#~ msgstr "Shfletimi"
+
+#~ msgid "Update File and Attempt to Reactivate"
+#~ msgstr "Azhurnoni skedarin dhe përpiquni të riaktivizoni"
+
+#~ msgid "Download Theme"
+#~ msgstr "Shkarko Temen"
+
+#~ msgid "Select theme to edit:"
+#~ msgstr "Zgjidhni temën për të redaktuar:"
+
+#~ msgid "Theme Files"
+#~ msgstr "Skedarët e temave"
+
+#~ msgid "Choose File"
+#~ msgstr "Zgjidhni Skedarin"
+
+#~ msgid "No File Chosen"
+#~ msgstr "Asnjë Skedar i Zgjedhur"
+
+#~ msgid "Warning: Please be careful before remove any folder or file."
+#~ msgstr ""
+#~ "Paralajmërim: Ju lutemi kini kujdes para se të hiqni ndonjë dosje ose "
+#~ "skedar."
+
+#~ msgid "Child Theme Permission"
+#~ msgstr "Leja e Temës së Fëmijëve"
+
+#~ msgid "Translations"
+#~ msgstr "Përkthime"
+
+#~ msgid "create, edit, upload, download, delete Theme Files and folders"
+#~ msgstr ""
+#~ "krijoni, modifikoni, ngarkoni, shkarkoni, fshini Skedarët e Temave dhe "
+#~ "dosjet"
+
+#~ msgid "You do not have the permission to create new child theme."
+#~ msgstr "Ju nuk keni leje për të krijuar temë të re për fëmijë."
+
+#~ msgid ""
+#~ "You do not have the permission to change configure existing child theme."
+#~ msgstr ""
+#~ "Ju nuk keni lejen për të ndryshuar konfigurimin e temës ekzistuese të "
+#~ "fëmijës."
+
+#~ msgid "You do not have the permission to duplicate the child theme."
+#~ msgstr "Ju nuk keni leje për të kopjuar temën e fëmijës."
+
+#~ msgid "You do not have the permission to access query/ selector menu."
+#~ msgstr "Ju nuk keni leje për të hyrë në menunë e pyetësit / përzgjedhësit."
+
+#~ msgid "You do not have the permission to access web fonts & CSS menu."
+#~ msgstr "Ju nuk keni leje për të hyrë në gërmat e internetit dhe menunë CSS."
+
+#~ msgid "You do not have the permission to copy files."
+#~ msgstr "Ju nuk keni leje për të kopjuar skedarë."
+
+#~ msgid "You do not have the permission to delete child files."
+#~ msgstr "Ju nuk keni leje për të fshirë skedarët e fëmijëve."
+
+#~ msgid "You do not have the permission to upload new screenshot."
+#~ msgstr "Ju nuk keni leje për të ngarkuar pamje të re të ekranit."
+
+#~ msgid "You do not have the permission to upload new images."
+#~ msgstr "Ju nuk keni leje për të ngarkuar imazhe të reja."
+
+#~ msgid "You do not have the permission to delete images."
+#~ msgstr "Ju nuk keni leje për të fshirë imazhe."
+
+#~ msgid "You do not have the permission to download file."
+#~ msgstr "Ju nuk keni leje për të shkarkuar skedarin."
+
+#~ msgid "You do not have the permission to create new directory."
+#~ msgstr "Ju nuk keni lejen për të krijuar një direktori të re."
+
+#~ msgid "You do not have the permission to create new file."
+#~ msgstr "Ju nuk keni leje për të krijuar skedar të ri."
+
+#~ msgid "You don't have permission to update file!"
+#~ msgstr "Ju nuk keni leje për të azhurnuar skedarin!"
+
+#~ msgid "You don't have permission to create folder!"
+#~ msgstr "Ju nuk keni leje për të krijuar dosje!"
+
+#~ msgid "You don't have permission to delete folder!"
+#~ msgstr "Ju nuk keni leje për të fshirë dosjen!"
+
+#~ msgid "You don't have permission to delete file!"
+#~ msgstr "Ju nuk keni leje për të fshirë skedarin!"
+
+#~ msgid "You don't have permission to upload file!"
+#~ msgstr "Ju nuk keni leje për të ngarkuar skedarin!"
+
+#~ msgid "Child Theme permissions saved successfully."
+#~ msgstr "Lejet e temës për fëmijë u ruajtën me sukses."
+
+#~ msgid ""
+#~ "There are no changes made in the child theme permissions to be saved."
+#~ msgstr ""
+#~ "Nuk ka ndryshime të bëra në lejet e temës së fëmijëve për t'u ruajtur."
+
+#~ msgid "Child Theme permission message saved successfully."
+#~ msgstr "Mesazhi i lejes së temës së fëmijës u ruajt me sukses."
+
+#~ msgid "Users"
+#~ msgstr "Përdoruesit"
+
+#~ msgid "Create New Child Theme"
+#~ msgstr "Krijoni një temë të re për fëmijë"
+
+#~ msgid "Configure an Existing Child Themes"
+#~ msgstr "Konfiguroni temat ekzistuese të fëmijëve"
+
+#~ msgid "Duplicate Child Themes"
+#~ msgstr "Dublikoni Temat e Fëmijëve"
+
+#~ msgid "Query/ Selector"
+#~ msgstr "Kërkuesi / Përzgjedhësi"
+
+#~ msgid "Web/font"
+#~ msgstr "Ueb / shkronjë"
+
+#~ msgid "Copy File Parent Theme To Child Theme"
+#~ msgstr "Kopjoni Skedarin Prind Theme tek Fëmija Theme"
+
+#~ msgid "Deleted Child Files"
+#~ msgstr "Skedarët e Fshirë të Fëmijëve"
+
+#~ msgid "Upload New Screenshoot"
+#~ msgstr "Ngarko Skenarin e Ri"
+
+#~ msgid "Upload New Images"
+#~ msgstr "Ngarko imazhe të reja"
+
+#~ msgid "Deleted Images "
+#~ msgstr "Imazhe të fshira"
+
+#~ msgid "Download Images"
+#~ msgstr "Shkarkoni imazhe"
+
+#~ msgid "Create New Directory"
+#~ msgstr "Krijoni Drejtori të Re"
+
+#~ msgid "Create New Files"
+#~ msgstr "Krijoni skedarë të rinj"
+
+#~ msgid "Export Theme"
+#~ msgstr "Eksporto Temën"
+
+#~ msgid "User Roles"
+#~ msgstr "Rolet e përdoruesit"
+
+#~ msgid "Query/ Seletor"
+#~ msgstr "Kërkues / Seletor"
+
+#~ msgid "Deleted Images"
+#~ msgstr "Imazhe të fshira"
+
+#~ msgid "Child Theme Permission Message"
+#~ msgstr "Mesazh për Lejen e Temës së Fëmijëve"
+
+#~ msgid "You do not have the permission to create new Child Theme."
+#~ msgstr "Ju nuk keni lejen për të krijuar një temë të re për fëmijë."
+
+#~ msgid "Query/Selector"
+#~ msgstr "Kërkuesi / Përzgjedhësi"
+
+#~ msgid "You do not have the permission to access query / selector menu."
+#~ msgstr "Ju nuk keni leje për të hyrë në menunë e pyetësit / zgjedhësit."
+
+#~ msgid " Web/font"
+#~ msgstr "Ueb / shkronjë"
+
+#~ msgid " Export Theme"
+#~ msgstr "Eksporto Temën"
+
+#~ msgid "Save Child Theme Message"
+#~ msgstr "Mesazh për Lejen e Temës së Fëmijëve"
+
+#~ msgid "Please select atleast one image."
+#~ msgstr "Ju lutemi zgjidhni së paku një imazh."
+
+#~ msgid "You don't have the permission to delete images."
+#~ msgstr "Ju nuk keni leje për të fshirë imazhe."
+
+#~ msgid "You don't have the permission to upload new images."
+#~ msgstr "Ju nuk keni leje për të ngarkuar imazhe të reja."
+
+#~ msgid "You don't have the permission to download."
+#~ msgstr "Ju nuk keni leje për të shkarkuar."
+
+#~ msgid "You don't have the permission to create new directory."
+#~ msgstr "Ju nuk keni leje për të krijuar një direktori të re."
+
+#~ msgid "Please choose file type."
+#~ msgstr "Ju lutemi zgjidhni llojin e skedarit."
+
+#~ msgid "Please enter file name."
+#~ msgstr "Ju lutemi shkruani emrin e skedarit."
+
+#~ msgid "You don't have the permission to create new file."
+#~ msgstr "Ju nuk keni leje për të krijuar skedar të ri."
+
+#~ msgid "Are you sure to copy parent files into child theme?"
+#~ msgstr ""
+#~ "A jeni i sigurt për të kopjuar skedarët prindër në temën e fëmijëve?"
+
+#~ msgid "Please select file(s)."
+#~ msgstr "Ju lutemi zgjidhni skedarin (et)."
+
+#~ msgid "You don't have the permission to copy files."
+#~ msgstr "Ju nuk keni leje për të kopjuar skedarë."
+
+#~ msgid "Are you sure you want to delete selected file(s)?"
+#~ msgstr "Jeni i sigurt që dëshironi të fshini skedarët (et) e zgjedhur?"
+
+#~ msgid "You don't have the permission to delete child files."
+#~ msgstr "Ju nuk keni lejen për të fshirë skedarët fëmijë."
+
+#~ msgid "You don't have the permission to upload new screenshot."
+#~ msgstr "Ju nuk keni leje për të ngarkuar pamje të re të ekranit."
+
+#~ msgid "You don't have the permission to export theme."
+#~ msgstr "Ju nuk keni lejen për të eksportuar temën."
+
+#~ msgid "You don't have the permission to access Query/ Selector menu."
+#~ msgstr "Ju nuk keni leje për të hyrë në menunë Kërkesë / Përzgjedhësi."
+
+#~ msgid "You don't have the permission to access Web Fonts & CSS menu."
+#~ msgstr "Ju nuk keni leje për të hyrë në menunë e Fonts në Web dhe CSS."
+
+#~ msgid "Current Analysis Theme:"
+#~ msgstr "Tema e analizës aktuale:"
+
+#~ msgid "Preview Theme"
+#~ msgstr "Tema e pamjes paraprake"
+
+#~ msgid "Parent Themes"
+#~ msgstr "Temat e Prindërve"
+
+#~ msgid "Child Themes"
+#~ msgstr "Temat e fëmijëve"
+
+#~ msgid "Error: Settings Not Saved!"
+#~ msgstr "Gabim: Cilësimet nuk janë ruajtur!"
+
+#~ msgid "Email List"
+#~ msgstr "Lista e emailit"
+
+#~ msgid "Email Address"
+#~ msgstr "Adresa e emailit"
+
+#~ msgid "Enter Email"
+#~ msgstr "Vendosni Emailin"
+
+#~ msgid "Add More"
+#~ msgstr "Shto Më shumë"
+
+#~ msgid ""
+#~ "This address is used for notification purposes, like theme/plugin "
+#~ "notification."
+#~ msgstr ""
+#~ "Kjo adresë përdoret për qëllime njoftimi, si njoftimi i temës / shtojcës."
+
+#~ msgid "Theme Notification"
+#~ msgstr "Njoftimi i temës"
+
+#~ msgid "Notify on file update"
+#~ msgstr "Njofto për azhurnimin e skedarit"
+
+#~ msgid ""
+#~ "Notification on theme file edit or update.<br/><strong>Default: </"
+#~ "strong>Yes"
+#~ msgstr ""
+#~ "Njoftimi për modifikimin ose azhurnimin e skedarit të temës. <br/> "
+#~ "<strong> Parazgjedhur: </strong> Po"
+
+#~ msgid "Notify on files download"
+#~ msgstr "Njofto për shkarkimin e skedarëve"
+
+#~ msgid ""
+#~ "Notification on theme file edit download.<br/><strong>Default: </"
+#~ "strong>Yes"
+#~ msgstr ""
+#~ "Njoftimi për shkarkimin e redaktimit të skedarit temë. <br/> <strong> "
+#~ "Parazgjedhur: </strong> Po"
+
+#~ msgid "Notify on theme download"
+#~ msgstr "Njofto për shkarkimin e temës"
+
+#~ msgid "Notification on theme download.<br/><strong>Default: </strong>Yes"
+#~ msgstr ""
+#~ "Njoftimi për shkarkimin e temës. <br/> <strong> Parazgjedhur: </strong> Po"
+
+#~ msgid "Notify on files upload"
+#~ msgstr "Njofto për ngarkimin e skedarëve"
+
+#~ msgid ""
+#~ "Notification on files upload in theme.<br/><strong>Default: </strong>Yes"
+#~ msgstr ""
+#~ "Njoftimi për skedarët e ngarkuar në temë. <br/> <strong> Parazgjedhur: </"
+#~ "strong> Po"
+
+#~ msgid "Notify on create new file/folder"
+#~ msgstr "Njofto për krijimin e skedarit / dosjes së re"
+
+#~ msgid ""
+#~ "Notification on create new file/folder in theme.<br/><strong>Default: </"
+#~ "strong>Yes"
+#~ msgstr ""
+#~ "Njoftimi për krijimin e një skedari / dosjeje të re në temë. <br/> "
+#~ "<strong> Parazgjedhur: </strong> Po"
+
+#~ msgid "Notify on delete"
+#~ msgstr "Njofto mbi fshirjen"
+
+#~ msgid ""
+#~ "Notify on delete any file and folder in themes.<br/><strong>Default: </"
+#~ "strong>Yes"
+#~ msgstr ""
+#~ "Njofto për fshirjen e ndonjë skedari dhe dosjeje në tema. <br/> <strong> "
+#~ "Parazgjedhja: </strong> Po"
+
+#~ msgid "Notify on create New Child theme"
+#~ msgstr "Njofto për krijimin e temës Fëmija i Ri"
+
+#~ msgid ""
+#~ "Notify on Create New Child themes. <br/><strong>Default: </strong>Yes"
+#~ msgstr ""
+#~ "Njoftoni në Krijoni tema të reja për fëmijë. <br/> <strong> Parazgjedhja: "
+#~ "</strong> Po"
+
+#~ msgid "Notify on configure an Existing Child themes"
+#~ msgstr "Njofto për konfigurimin e temave të Fëmijëve Ekzistues"
+
+#~ msgid ""
+#~ "Notify on configure an Existing Child themes.<br/><strong>Default: </"
+#~ "strong>Yes"
+#~ msgstr ""
+#~ "Njofto për konfigurimin e temave të Fëmijëve Ekzistues. <br/> <strong> "
+#~ "Parazgjedhja: </strong> Po"
+
+#~ msgid "Notify on Duplicate Child themes"
+#~ msgstr "Njoftoj në Duplicate temat e fëmijëve"
+
+#~ msgid ""
+#~ "Notify on Configure an Existing Child themes.<br/><strong>Default: </"
+#~ "strong>Yes"
+#~ msgstr ""
+#~ "Njofto për konfigurimin e temave ekzistuese të fëmijëve. <br/> <strong> "
+#~ "Parazgjedhja: </strong> Po"
+
+#~ msgid "Plugin Notification"
+#~ msgstr "Njoftimi i shtojcës"
+
+#~ msgid ""
+#~ "Notification on theme file edit or update.<br/><strong>Default: </"
+#~ "strong>yes"
+#~ msgstr ""
+#~ "Njoftimi për modifikimin ose azhurnimin e skedarit të temës. <br/> "
+#~ "<strong> Parazgjedhur: </strong> po"
+
+#~ msgid "Notify on Plugin download"
+#~ msgstr "Njofto për shkarkimin e Shtojcës"
+
+#~ msgid "Notification on Plugin download.<br/><strong>Default: </strong>Yes"
+#~ msgstr ""
+#~ "Njoftimi për shkarkimin e Shtojcës. <br/> <strong> Parazgjedhur: </"
+#~ "strong> Po"
+
+#~ msgid ""
+#~ "Notification on file upload in theme.<br/><strong>Default: </strong>Yes"
+#~ msgstr ""
+#~ "Njoftimi për ngarkimin e skedarit në temë. <br/> <strong> Parazgjedhur: </"
+#~ "strong> Po"
+
+#~ msgid "Permission saved successfully."
+#~ msgstr "Leja u ruajt me sukses."
+
+#~ msgid "Oops! Permission cannot saved because you have not made any changes."
+#~ msgstr "Oops! Leja nuk mund të ruhet sepse nuk keni bërë asnjë ndryshim."
+
+#~ msgid "Allowed User Roles"
+#~ msgstr "Rolet e lejuara të përdoruesit"
+
+#~ msgid "Update theme files"
+#~ msgstr "Azhurnoni skedarët e temave"
+
+#~ msgid "Create new theme files and folders"
+#~ msgstr "Krijoni skedarë dhe dosje të reja me tema"
+
+#~ msgid "Upload new theme files and folders"
+#~ msgstr "Ngarko skedarë dhe dosje të reja të temave"
+
+#~ msgid "Download theme files"
+#~ msgstr "Shkarkoni skedarët e temave"
+
+#~ msgid "Download theme"
+#~ msgstr "Shkarko temë"
+
+#~ msgid "Update plugin files"
+#~ msgstr "Azhurnoni skedarët e shtojcave"
+
+#~ msgid "Create new plugin files and folders"
+#~ msgstr "Krijoni skedarë dhe dosje të reja shtojcash"
+
+#~ msgid "Upload new plugin files and folders"
+#~ msgstr "Ngarko skedarë dhe dosje të reja shtojcash"
+
+#~ msgid "Delete plugin files and folders"
+#~ msgstr "Fshini skedarët dhe dosjet e shtojcave"
+
+#~ msgid "Download plugin files"
+#~ msgstr "Shkarkoni skedarë shtojcash"
+
+#~ msgid "Download plugin"
+#~ msgstr "Shkarkoni shtojcën"
+
+#~ msgid ""
+#~ "Theme Editor PRO - Please add your order details below. If Not <a href="
+#~ "\"https://themeeditor.pro/product/theme-editor/\" target=\"_blank\" class="
+#~ "\"page-title-action button button-primary\" title=\"click to buy Licence "
+#~ "Key\">Buy Now</a>"
+#~ msgstr ""
+#~ "Editor Editor PRO - Ju lutemi shtoni detajet e porosisë tuaj më poshtë. "
+#~ "Nese jo <a href=\"https://themeeditor.pro/product/theme-editor/\" target="
+#~ "\"_blank\" class=\"page-title-action button button-primary\" title="
+#~ "\"click to buy Licence Key\">Bleni Tani </a>"
+
+#~ msgid "ORDER ID (#) *"
+#~ msgstr "ID e RENDIT (#) *"
+
+#~ msgid "Enter Order ID"
+#~ msgstr "Futni ID-në e Rendit"
+
+#~ msgid "Please Check Your email for order ID."
+#~ msgstr "Ju lutemi kontrolloni emailin tuaj për ID të porosisë."
+
+#~ msgid "LICENCE KEY *"
+#~ msgstr "ÇELEYSI I LICENCS *"
+
+#~ msgid "Enter License Key"
+#~ msgstr "Fut çelësin e licencës"
+
+#~ msgid "Please Check Your email for Licence Key."
+#~ msgstr "Ju lutemi kontrolloni postën elektronike për çelësin e licencës."
+
+#~ msgid "Click To Verify"
+#~ msgstr "Klikoni për të verifikuar"
+
+#~ msgid "URL/None"
+#~ msgstr "URL / Asnjë"
+
+#~ msgid "Origin"
+#~ msgstr "Origjina"
+
+#~ msgid "Color 1"
+#~ msgstr "Ngjyra 1"
+
+#~ msgid "Color 2"
+#~ msgstr "Ngjyra 2"
+
+#~ msgid "Width/None"
+#~ msgstr "Gjerësia / Asnjë"
+
+#~ msgid "Style"
+#~ msgstr "Stili"
+
+#~ msgid "Color"
+#~ msgstr "Ngjyrë"
+
+#~ msgid "Configure Child Theme"
+#~ msgstr "Konfiguro temën e fëmijës"
+
+#~ msgid "Duplicate Child theme"
+#~ msgstr "Dublikoni Temat e Fëmijëve"
+
+#~ msgid ""
+#~ "After analyzing, this theme is working fine. You can use this as your "
+#~ "Child Theme."
+#~ msgstr ""
+#~ "Pas analizimit, kjo temë po funksionon mirë. Ju mund ta përdorni këtë si "
+#~ "temën tuaj të fëmijës."
+
+#~ msgid ""
+#~ "After analyzing this child theme appears to be functioning correctly."
+#~ msgstr ""
+#~ "Pas analizimit, kjo temë për fëmijë duket se po funksionon si duhet."
+
+#~ msgid ""
+#~ "This theme loads additional stylesheets after the <code>style.css</code> "
+#~ "file:"
+#~ msgstr ""
+#~ "Kjo temë ngarkon fletë stilesh shtesë pas skedarit <code> style.css </"
+#~ "code>:"
+
+#~ msgid "The theme"
+#~ msgstr "Emri i temës"
+
+#~ msgid " could not be analyzed because the preview did not render correctly"
+#~ msgstr "nuk mund të analizohej sepse pamja paraprake nuk u dha si duhet"
+
+#~ msgid "This Child Theme has not been configured for this plugin"
+#~ msgstr "Kjo temë për fëmijë nuk është konfiguruar për këtë shtojcë"
+
+#~ msgid ""
+#~ "The Configurator makes significant modifications to the child theme, "
+#~ "including stylesheet changes and additional php functions. Please "
+#~ "consider using the DUPLICATE child theme option (see step 1, above) and "
+#~ "keeping the original as a backup."
+#~ msgstr ""
+#~ "Konfiguruesi bën modifikime të rëndësishme në temën e fëmijës, duke "
+#~ "përfshirë ndryshimet e fletëve të stileve dhe funksione shtesë të php. Ju "
+#~ "lutemi merrni parasysh përdorimin e opsionit DUPLICATE temë për fëmijë "
+#~ "(shih hapin 1, më lart) dhe mbajtjen e origjinalit si një kopje rezervë."
+
+#~ msgid "All webfonts/css information saved successfully."
+#~ msgstr "Të gjitha informacionet në internet / css u ruajtën me sukses."
+
+#~ msgid "Please enter value for webfonts/css."
+#~ msgstr "Ju lutemi shkruani vlerën për webfonts / css."
+
+#~ msgid "You don\\'t have permission to update webfonts/css."
+#~ msgstr "Ju nuk keni leje për të azhurnuar webfonts / css."
+
+#~ msgid "All information saved successfully."
+#~ msgstr "Të gjitha informacionet u ruajtën me sukses."
+
+#~ msgid ""
+#~ "Are you sure you wish to RESET? This will destroy any work you have done "
+#~ "in the Configurator."
+#~ msgstr ""
+#~ "Jeni i sigurt që dëshironi të RISHIKONI? Kjo do të shkatërrojë çdo punë "
+#~ "që keni bërë në Konfiguruesin."
+
+#~ msgid "Selectors"
+#~ msgstr "Përzgjedhësit"
+
+#~ msgid "Edit Selector"
+#~ msgstr "Ndrysho zgjedhësin"
+
+#~ msgid "The stylesheet cannot be displayed."
+#~ msgstr "Stilet e stileve nuk mund të shfaqen."
+
+#~ msgid "(Child Only)"
+#~ msgstr "(Vetëm për fëmijë)"
+
+#~ msgid "Please enter a valid Child Theme."
+#~ msgstr "Ju lutemi shkruani një Temë të vlefshme për Fëmijën."
+
+#~ msgid "Please enter a valid Child Theme name."
+#~ msgstr "Ju lutemi shkruani një emër të vlefshëm të Temës së Fëmijëve."
+
+#, php-format
+#~ msgid "<strong>%s</strong> exists. Please enter a different Child Theme"
+#~ msgstr ""
+#~ "<strong>%s</strong> ekziston Ju lutemi shkruani një temë tjetër për fëmijë"
+
+#~ msgid "The page could not be loaded correctly."
+#~ msgstr "Faqja nuk mund të ngarkohej si duhet."
+
+#~ msgid ""
+#~ "Conflicting or out-of-date jQuery libraries were loaded by another plugin:"
+#~ msgstr ""
+#~ "Bibliotekat jQuery konfliktuale ose të vjetruara u ngarkuan nga një "
+#~ "shtesë tjetër:"
+
+#~ msgid "Deactivating or replacing plugins may resolve this issue."
+#~ msgstr ""
+#~ "Çaktivizimi ose zëvendësimi i shtojcave mund ta zgjidhë këtë çështje."
+
+#~ msgid "No result found for the selection."
+#~ msgstr "Nuk u gjet asnjë rezultat për zgjedhjen."
+
+#, php-format
+#~ msgid "%sWhy am I seeing this?%s"
+#~ msgstr "%sPse po e shoh këtë?%s"
+
+#~ msgid "Parent / Child"
+#~ msgstr "Prindi / Fëmija"
+
+#~ msgid "Select an action:"
+#~ msgstr "Zgjidhni një veprim:"
+
+#~ msgid "Create a new Child Theme"
+#~ msgstr "Krijoni një Temë të re për Fëmijën"
+
+#~ msgid "Configure an existing Child Theme"
+#~ msgstr "Konfiguroni një Temë ekzistuese të Fëmijëve"
+
+#~ msgid "Duplicate an existing Child Theme"
+#~ msgstr "Dublikoni një Temë ekzistuese të Fëmijëve"
+
+#~ msgid "Select a Parent Theme:"
+#~ msgstr "Zgjidhni një temë prindërore:"
+
+#~ msgid "Analyze Parent Theme"
+#~ msgstr "Analizoni Temën e Prindit"
+
+#~ msgid ""
+#~ "Click \"Analyze\" to determine stylesheet dependencies and other "
+#~ "potential issues."
+#~ msgstr ""
+#~ "Klikoni \"Analizo\" për të përcaktuar varësitë e fletëve të stileve dhe "
+#~ "çështje të tjera të mundshme."
+
+#~ msgid "Analyze"
+#~ msgstr "Analizoni"
+
+#~ msgid "Select a Child Theme:"
+#~ msgstr "Zgjidhni një temë për fëmijë:"
+
+#~ msgid "Analyze Child Theme"
+#~ msgstr "Analizoni temën e fëmijës"
+
+#~ msgid "Name the new theme directory:"
+#~ msgstr "Emërtoni direktorinë e temës së re:"
+
+#~ msgid "Directory Name"
+#~ msgstr "Emri i Drejtorisë"
+
+#~ msgid "NOTE:"
+#~ msgstr "SHËNIM:"
+
+#~ msgid ""
+#~ "This is NOT the name of the Child Theme. You can customize the name, "
+#~ "description, etc. in step 7, below."
+#~ msgstr ""
+#~ "Ky NUK është emri i Temës së Fëmijës. Ju mund ta personalizoni emrin, "
+#~ "përshkrimin, etj. Në hapin 7, më poshtë."
+
+#~ msgid "Verify Child Theme directory:"
+#~ msgstr "Verifikoni drejtorinë e temës së fëmijëve:"
+
+#~ msgid ""
+#~ "For verification only (you cannot modify the directory of an existing "
+#~ "Child Theme)."
+#~ msgstr ""
+#~ "Vetëm për verifikim (nuk mund të modifikoni drejtorinë e një teme "
+#~ "ekzistuese për fëmijë)."
+
+#~ msgid "Select where to save new styles:"
+#~ msgstr "Zgjidhni ku të ruani stilet e reja:"
+
+#~ msgid "Primary Stylesheet (style.css)"
+#~ msgstr "Fleta kryesore e stilit (style.css)"
+
+#~ msgid ""
+#~ "Save new custom styles directly to the Child Theme primary stylesheet, "
+#~ "replacing the existing values. The primary stylesheet will load in the "
+#~ "order set by the theme."
+#~ msgstr ""
+#~ "Ruani stilet e reja të personalizuara drejtpërdrejt në fletën kryesore të "
+#~ "stileve të Fëmijëve, duke zëvendësuar vlerat ekzistuese. Fleta kryesore e "
+#~ "stileve do të ngarkohet sipas renditjes së caktuar nga tema."
+
+#~ msgid "Separate Stylesheet"
+#~ msgstr "Fletë stilesh të ndara"
+
+#~ msgid ""
+#~ "Save new custom styles to a separate stylesheet and combine any existing "
+#~ "child theme styles with the parent to form baseline. Select this option "
+#~ "if you want to preserve the existing child theme styles instead of "
+#~ "overwriting them. This option also allows you to customize stylesheets "
+#~ "that load after the primary stylesheet."
+#~ msgstr ""
+#~ "Ruani stilet e reja të personalizuara në një fletë stilesh të veçanta dhe "
+#~ "kombinoni të gjitha stilet ekzistuese të temave për fëmijë me prindin për "
+#~ "të formuar bazën fillestare. Zgjidhni këtë opsion nëse doni të ruani "
+#~ "stilet ekzistuese të temës së fëmijëve në vend që t'i mbishkruani ato. Ky "
+#~ "opsion ju lejon gjithashtu të personalizoni fletët e stileve që ngarkohen "
+#~ "pas fletës kryesore të stileve."
+
+#~ msgid "Select Parent Theme stylesheet handling:"
+#~ msgstr "Zgjidhni trajtimin e fletëve të stileve të temës prindërore:"
+
+#~ msgid "Use the WordPress style queue."
+#~ msgstr "Përdorni radhën e stilit WordPress."
+
+#~ msgid ""
+#~ "Let the Configurator determine the appropriate actions and dependencies "
+#~ "and update the functions file automatically."
+#~ msgstr ""
+#~ "Lëreni Konfiguruesin të përcaktojë veprimet dhe varësitë e duhura dhe "
+#~ "azhurnoni automatikisht skedarin e funksioneve."
+
+#~ msgid "Use <code>@import</code> in the child theme stylesheet."
+#~ msgstr ""
+#~ "Përdorni <code> @import </code> në fletën e stileve të temës për fëmijë."
+
+#~ msgid ""
+#~ "Only use this option if the parent stylesheet cannot be loaded using the "
+#~ "WordPress style queue. Using <code>@import</code> is not recommended."
+#~ msgstr ""
+#~ "Përdorni këtë mundësi vetëm nëse stili i prindit nuk mund të ngarkohet "
+#~ "duke përdorur radhën e stilit WordPress. Përdorimi i <code> @import </"
+#~ "code> nuk rekomandohet."
+
+#~ msgid "Do not add any parent stylesheet handling."
+#~ msgstr "Mos shtoni asnjë trajtim të fletëve të stileve prindërore."
+
+#~ msgid ""
+#~ "Select this option if this theme already handles the parent theme "
+#~ "stylesheet or if the parent theme's <code>style.css</code> file is not "
+#~ "used for its appearance."
+#~ msgstr ""
+#~ "Zgjidhni këtë opsion nëse kjo temë trajton tashmë fletën e stileve të "
+#~ "temës prindërore ose nëse skedari <code> style.css </code> i temës mëmë "
+#~ "nuk përdoret për paraqitjen e saj."
+
+#~ msgid "Advanced handling options"
+#~ msgstr "Opsione të përparuara të trajtimit"
+
+#~ msgid "Ignore parent theme stylesheets."
+#~ msgstr "Injoroni fletët e stileve të temës prindërore."
+
+#~ msgid ""
+#~ "Select this option if this theme already handles the parent theme "
+#~ "stylesheet or if the parent theme's style.css file is not used for its "
+#~ "appearance."
+#~ msgstr ""
+#~ "Zgjidhni këtë opsion nëse kjo temë tashmë trajton fletën e stileve të "
+#~ "temës prindërore ose nëse skedari style.css i temës prindërore nuk "
+#~ "përdoret për paraqitjen e saj."
+
+#~ msgid "Repair the header template in the child theme."
+#~ msgstr "Riparoni modelin e titullit në temën fëmijë."
+
+#~ msgid ""
+#~ "Let the Configurator (try to) resolve any stylesheet issues listed above. "
+#~ "This can fix many, but not all, common problems."
+#~ msgstr ""
+#~ "Lëreni Konfiguruesin (të përpiqet të) zgjidhë çështjet e fletëve të "
+#~ "stileve të renditura më sipër. Kjo mund të rregullojë shumë, por jo të "
+#~ "gjitha, problemet e zakonshme."
+
+#~ msgid "Remove stylesheet dependencies"
+#~ msgstr "Hiqni varësitë e fletëve të stileve"
+
+#~ msgid ""
+#~ "By default, the order of stylesheets that load prior to the primary "
+#~ "stylesheet is preserved by treating them as dependencies. In some cases, "
+#~ "stylesheets are detected in the preview that are not used site-wide. If "
+#~ "necessary, dependency can be removed for specific stylesheets below."
+#~ msgstr ""
+#~ "Si parazgjedhje, rendi i fletëve të stileve që ngarkohen para fletës "
+#~ "kryesore të stileve ruhet duke i trajtuar ato si varësi. Në disa raste, "
+#~ "fletët e stileve zbulohen në pamje paraprake që nuk përdoren në të gjithë "
+#~ "sitin. Nëse është e nevojshme, varësia mund të hiqet për fletët e stileve "
+#~ "specifike më poshtë."
+
+#~ msgid "Child Theme Name"
+#~ msgstr "Emri i temës së fëmijës"
+
+#~ msgid "Theme Name"
+#~ msgstr "Emri i temës"
+
+#~ msgid "Theme Website"
+#~ msgstr "Uebfaqja e temës"
+
+#~ msgid "Author"
+#~ msgstr "Autor"
+
+#~ msgid "Author Website"
+#~ msgstr "Uebfaqja e autorit"
+
+#~ msgid "Theme Description"
+#~ msgstr "Përshkrimi i temës"
+
+#~ msgid "Description"
+#~ msgstr "Përshkrim"
+
+#~ msgid "Tags"
+#~ msgstr "Etiketat"
+
+#~ msgid ""
+#~ "Copy Menus, Widgets and other Customizer Settings from the Parent Theme "
+#~ "to the Child Theme:"
+#~ msgstr ""
+#~ "Kopjoni Menutë, Veglat dhe Cilësimet e tjera të Përshtatësit nga Tema e "
+#~ "Prindit tek Tema e Fëmijëve:"
+
+#~ msgid ""
+#~ "This option replaces the Child Theme's existing Menus, Widgets and other "
+#~ "Customizer Settings with those from the Parent Theme. You should only "
+#~ "need to use this option the first time you configure a Child Theme."
+#~ msgstr ""
+#~ "Ky opsion zëvendëson Menutë ekzistuese të Temës së Fëmijëve, Veglat dhe "
+#~ "Cilësimet e tjera të Përshtatësit me ato nga Tema e Prindit. Këtë opsion "
+#~ "duhet ta përdorni vetëm herën e parë që konfiguroni një Temë për Fëmijët."
+
+#~ msgid "Click to run the Configurator:"
+#~ msgstr "Klikoni për të ekzekutuar Konfiguruesin:"
+
+#~ msgid "Query / Selector"
+#~ msgstr "Kërkuesi / Përzgjedhësi"
+
+#~ msgid ""
+#~ "To find specific selectors within @media query blocks, first choose the "
+#~ "query, then the selector. Use the \"base\" query to edit all other "
+#~ "selectors."
+#~ msgstr ""
+#~ "Për të gjetur përzgjedhës specifik brenda blloqeve të pyetjes @media, së "
+#~ "pari zgjidhni pyetjen, pastaj zgjedhësin. Përdorni pyetjen \"bazë\" për "
+#~ "të redaktuar të gjithë përzgjedhësit e tjerë."
+
+#~ msgid "@media Query"
+#~ msgstr "@ Pyetja mediatike"
+
+#~ msgid "( or \"base\" )"
+#~ msgstr "(ose \"baza\")"
+
+#~ msgid "Selector"
+#~ msgstr "Përzgjedhësi"
+
+#~ msgid "Query/Selector Action"
+#~ msgstr "Veprimi i pyetësit / përzgjedhësit"
+
+#~ msgid "Save Child Values"
+#~ msgstr "Ruaj vlerat e fëmijëve"
+
+#~ msgid "Delete Child Values"
+#~ msgstr "Fshi vlerat e fëmijëve"
+
+#~ msgid "Property"
+#~ msgstr "Prona"
+
+#~ msgid "Baseline Value"
+#~ msgstr "Vlera bazë"
+
+#~ msgid "Child Value"
+#~ msgstr "Vlera e Fëmijës"
+
+#~ msgid "error"
+#~ msgstr "gabim"
+
+#~ msgid "You do not have permission to configure child themes."
+#~ msgstr "Ju nuk keni leje për të konfiguruar temat e fëmijëve."
+
+#, php-format
+#~ msgid "%s does not exist. Please select a valid Parent Theme."
+#~ msgstr ""
+#~ "%s nuk ekziston. Ju lutemi zgjidhni një Temë të vlefshme Prindërore."
+
+#~ msgid "The Functions file is required and cannot be deleted."
+#~ msgstr "Skedari Funksionet kërkohet dhe nuk mund të fshihet."
+
+#~ msgid "Please select a valid Parent Theme."
+#~ msgstr "Ju lutemi zgjidhni një Temë të vlefshme Prindërore."
+
+#~ msgid "Please select a valid Child Theme."
+#~ msgstr "Ju lutemi zgjidhni një Temë të vlefshme për Fëmijën."
+
+#~ msgid "Please enter a valid Child Theme directory name."
+#~ msgstr "Ju lutemi shkruani një emër të vlefshëm të drejtorisë së Fëmijëve."
+
+#, php-format
+#~ msgid ""
+#~ "<strong>%s</strong> exists. Please enter a different Child Theme template "
+#~ "name."
+#~ msgstr ""
+#~ "<strong>%s</strong> ekziston Ju lutemi shkruani një emër tjetër modeli të "
+#~ "Temës së Fëmijëve."
+
+#~ msgid "Your theme directories are not writable."
+#~ msgstr "Drejtoritë tuaja të temave nuk mund të shkruhen."
+
+#~ msgid "Could not upgrade child theme"
+#~ msgstr "Nuk mund të azhurnohet tema e fëmijës"
+
+#~ msgid "Your stylesheet is not writable."
+#~ msgstr "Stili juaj nuk mund të shkruhet."
+
+#~ msgid ""
+#~ "A closing PHP tag was detected in Child theme functions file so \"Parent "
+#~ "Stylesheet Handling\" option was not configured. Closing PHP at the end "
+#~ "of the file is discouraged as it can cause premature HTTP headers. Please "
+#~ "edit <code>functions.php</code> to remove the final <code>?&gt;</code> "
+#~ "tag and click \"Generate/Rebuild Child Theme Files\" again."
+#~ msgstr ""
+#~ "Një etiketë mbyllëse PHP u zbulua në skedarin e funksioneve të temës "
+#~ "Child kështu që opsioni \"Trajtimi i fletëve të stilit prindëror\" nuk "
+#~ "ishte konfiguruar. Mbyllja e PHP në fund të skedarit dekurajohet pasi "
+#~ "mund të shkaktojë header të parakohshëm HTTP. Ju lutemi ndryshoni <code> "
+#~ "Funksionet.php </code> për të hequr etiketën përfundimtare <code>?&gt;</"
+#~ "code> dhe klikoni përsëri \"Gjeneroni / Rindërtoni Skedarët e Temave të "
+#~ "Fëmijëve\" përsëri."
+
+#, php-format
+#~ msgid "Could not copy file: %s"
+#~ msgstr "Skedari nuk mund të kopjohet: %s"
+
+#, php-format
+#~ msgid "Could not delete %s file."
+#~ msgstr "Skedari %s nuk mund të fshihet."
+
+#, php-format
+#~ msgid "could not copy %s"
+#~ msgstr "nuk mund të kopjonte %s"
+
+#, php-format
+#~ msgid "invalid dir: %s"
+#~ msgstr "dir e pavlefshme: %s"
+
+#~ msgid "There were errors while resetting permissions."
+#~ msgstr "Kishte gabime gjatë rivendosjes së lejeve."
+
+#~ msgid "Could not upload file."
+#~ msgstr "Skedari nuk mund të ngarkohej."
+
+#~ msgid "Invalid theme root directory."
+#~ msgstr "Drejtoria rrënjësore e temës së pavlefshme."
+
+#~ msgid "No writable temp directory."
+#~ msgstr "Asnjë direktori e shkruajtshme temp."
+
+#, php-format
+#~ msgid "Unpack failed -- %s"
+#~ msgstr "Shkyçja dështoi -- %s"
+
+#, php-format
+#~ msgid "Pack failed -- %s"
+#~ msgstr "Pakoja dështoi -- %s"
+
+#~ msgid "Maximum number of styles exceeded."
+#~ msgstr "Numri maksimal i stileve është tejkaluar."
+
+#, php-format
+#~ msgid "Error moving file: %s"
+#~ msgstr "Gabim në lëvizjen e skedarit: %s"
+
+#~ msgid "Could not set write permissions."
+#~ msgstr "Nuk mund të vendosen lejet e shkrimit."
+
+#~ msgid "Error:"
+#~ msgstr "Gabim:"
+
+#, php-format
+#~ msgid "Current Analysis Child Theme <strong>%s</strong> has been reset."
+#~ msgstr ""
+#~ "Analiza aktuale Tema e fëmijëve <strong>%s</strong> është rivendosur."
+
+#~ msgid "Update Key saved successfully."
+#~ msgstr "Çelësi i azhurnimit u ruajt me sukses."
+
+#~ msgid "Child Theme files modified successfully."
+#~ msgstr "Skedarët e Temës së Fëmijëve u modifikuan me sukses."
+
+#, php-format
+#~ msgid "Child Theme <strong>%s</strong> has been generated successfully."
+#~ msgstr "Tema e fëmijëve <strong>%s</strong> është gjeneruar me sukses."
+
+#~ msgid "Web Fonts & CSS"
+#~ msgstr "Fonte uebi dhe CSS"
+
+#~ msgid "Parent Styles"
+#~ msgstr "Stilet e prindërve"
+
+#~ msgid "Child Styles"
+#~ msgstr "Stilet e fëmijëve"
+
+#~ msgid "View Child Images"
+#~ msgstr "Shikoni imazhet e fëmijëve"
+
+#~ msgid ""
+#~ "Use <code>@import url( [path] );</code> to link additional stylesheets. "
+#~ "This Plugin uses the <code>@import</code> keyword to identify them and "
+#~ "convert them to <code>&lt;link&gt;</code> tags. <strong>Example:</strong>"
+#~ msgstr ""
+#~ "Përdorni <code> @import url ([shtegu]); </code> për të lidhur fletët "
+#~ "shtesë të stileve. Kjo Shtojcë përdor fjalën kyçe <code> @import </code> "
+#~ "për t'i identifikuar dhe kthyer ato në etiketat <code>&lt;link&gt;</"
+#~ "code>. <strong> Shembull: </strong>"
+
+#~ msgid "Save"
+#~ msgstr "Ruaj"
+
+#~ msgid "Uploading image with same name will replace with existing image."
+#~ msgstr ""
+#~ "Ngarkimi i imazhit me të njëjtin emër do të zëvendësohet me imazhin "
+#~ "ekzistues."
+
+#~ msgid "Upload New Child Theme Image"
+#~ msgstr "Ngarko imazhin e ri të temës së fëmijës"
+
+#~ msgid "Delete Selected Images"
+#~ msgstr "Fshi imazhet e zgjedhura"
+
+#~ msgid "Create a New Directory"
+#~ msgstr "Krijoni një Drejtori të Re"
+
+#~ msgid "New Directory will be created in"
+#~ msgstr "Drejtoria e Re do të krijohet në"
+
+#~ msgid "New Directory Name"
+#~ msgstr "Emri i Re i Drejtorisë"
+
+#~ msgid "Create a New File"
+#~ msgstr "Krijoni një Skedar të Ri"
+
+#~ msgid "New File will be created in"
+#~ msgstr "Skedari i ri do të krijohet në"
+
+#~ msgid "New File Name"
+#~ msgstr "Emri i ri i skedarit"
+
+#~ msgid "File Type Extension"
+#~ msgstr "Zgjerimi i Llojit të Skedarit"
+
+#~ msgid "Choose File Type"
+#~ msgstr "Zgjidhni Llojin e Skedarit"
+
+#~ msgid "PHP File"
+#~ msgstr "Skedari PHP"
+
+#~ msgid "CSS File"
+#~ msgstr "Skedari CSS"
+
+#~ msgid "JS File"
+#~ msgstr "Dosja JS"
+
+#~ msgid "Text File"
+#~ msgstr "Skedari i tekstit"
+
+#~ msgid "PHP File Type"
+#~ msgstr "Lloji i skedarit PHP"
+
+#~ msgid "Simple PHP File"
+#~ msgstr "Skedar i thjeshtë PHP"
+
+#~ msgid "Wordpress Template File"
+#~ msgstr "Skedari i Modelit Wordpress"
+
+#~ msgid "Template Name"
+#~ msgstr "Emri i shabllonit"
+
+#~ msgid "Parent Templates"
+#~ msgstr "Modelet e prindërve"
+
+#~ msgid ""
+#~ "Copy PHP templates from the parent theme by selecting them here. The "
+#~ "Configurator defines a template as a Theme PHP file having no PHP "
+#~ "functions or classes. Other PHP files cannot be safely overridden by a "
+#~ "child theme."
+#~ msgstr ""
+#~ "Kopjoni modelet PHP nga tema mëmë duke i zgjedhur këtu. Konfiguruesi "
+#~ "përcakton një model si një skedar PHP i Temës që nuk ka funksione ose "
+#~ "klasa PHP. Skedarët e tjerë PHP nuk mund të mbivlerësohen në mënyrë të "
+#~ "sigurt nga një temë për fëmijë."
+
+#~ msgid ""
+#~ "CAUTION: If your child theme is active, the child theme version of the "
+#~ "file will be used instead of the parent immediately after it is copied."
+#~ msgstr ""
+#~ "KUJDES: Nëse tema e fëmijës suaj është aktive, versioni i temës fëmijë të "
+#~ "skedarit do të përdoret në vend të prindit menjëherë pasi të kopjohet."
+
+#~ msgid " file is generated separately and cannot be copied here. "
+#~ msgstr "skedari gjenerohet veçmas dhe nuk mund të kopjohet këtu."
+
+#~ msgid "Copy Selected to Child Theme"
+#~ msgstr "Kopjimi i zgjedhur në temën e fëmijës"
+
+#~ msgid " Child Theme Files "
+#~ msgstr "Skedarët e temave për fëmijë"
+
+#~ msgid "Click to edit files using the Theme Editor"
+#~ msgstr "Klikoni për të redaktuar skedarët duke përdorur Editor Editor"
+
+#~ msgid "Delete child theme templates by selecting them here."
+#~ msgstr "Fshini modelet e temave për fëmijë duke i zgjedhur këtu."
+
+#~ msgid "Delete Selected"
+#~ msgstr "Fshij të zgjedhur"
+
+#~ msgid "Child Theme Screenshot"
+#~ msgstr "Foto nga tema e fëmijëve"
+
+#~ msgid "Upload New Screenshot"
+#~ msgstr "Ngarko pamjen e re të ekranit"
+
+#~ msgid ""
+#~ "The theme screenshot should be a 4:3 ratio (e.g., 880px x 660px) JPG, PNG "
+#~ "or GIF. It will be renamed"
+#~ msgstr ""
+#~ "Pamja e ekranit të temës duhet të jetë një raport 4: 3 (p.sh., 880px x "
+#~ "660px) JPG, PNG ose GIF. Do të riemërtohet"
+
+#~ msgid "Screenshot"
+#~ msgstr "Pamja e ekranit"
+
+#~ msgid "Upload New Child Theme Image "
+#~ msgstr "Ngarko imazhin e ri të temës së fëmijës"
+
+#~ msgid ""
+#~ "Theme images reside under the images directory in your child theme and "
+#~ "are meant for stylesheet use only. Use the Media Library for content "
+#~ "images."
+#~ msgstr ""
+#~ "Imazhet e temave gjenden nën drejtorinë e imazheve në temën e fëmijës "
+#~ "tuaj dhe janë të destinuara vetëm për përdorimin e fletëve të stileve. "
+#~ "Përdorni Bibliotekën e Mediave për imazhe me përmbajtje."
+
+#~ msgid "Preview Current Child Theme (Current analysis)"
+#~ msgstr "Shikoni temën aktuale të fëmijës (analiza aktuale)"
+
+#~ msgid "Preview Current Child Theme"
+#~ msgstr "Shikoni temën aktuale të fëmijës"
+
+#~ msgid "Export Child Theme as Zip Archive"
+#~ msgstr "Eksporto temën e fëmijës si arkiv zip"
+
+#~ msgid ""
+#~ "Click \"Export Zip\" to save a backup of the currently loaded child "
+#~ "theme. You can export any of your themes from the Parent/Child tab."
+#~ msgstr ""
+#~ "Klikoni \"Eksporto Zip\" për të ruajtur një kopje rezervë të temës së "
+#~ "ngarkuar aktualisht të fëmijëve. Mund të eksportoni ndonjë nga temat "
+#~ "tuaja nga skeda Prind / Fëmijë."
+
+#~ msgid "Export Child Theme"
+#~ msgstr "Eksporto temën e fëmijës"
+
+#~ msgid "Child Theme file(s) copied successfully!"
+#~ msgstr "Skedarët (temat) e Fëmijëve u kopjuan me sukses!"
+
+#~ msgid ""
+#~ "The file which you are trying to copy from Parent Templates does not exist"
+#~ msgstr ""
+#~ "Skedari që jeni duke u munduar të kopjoni nga Modelet Prindërore nuk "
+#~ "ekziston"
+
+#~ msgid ""
+#~ "The file which you are trying to copy from Parent Templates is already "
+#~ "present in the Child Theme files."
+#~ msgstr ""
+#~ "Skedari të cilin po përpiqeni të kopjoni nga Modelet e Prindërve është "
+#~ "tashmë i pranishëm në skedarët e Temës së Fëmijëve."
+
+#~ msgid "Child "
+#~ msgstr "Fëmijë"
+
+#~ msgid " and Parent "
+#~ msgstr "dhe Prindi"
+
+#~ msgid " directories doesn't exist!"
+#~ msgstr "drejtoritë nuk ekzistojnë!"
+
+#~ msgid " directory doesn't exist!"
+#~ msgstr "direktoria nuk ekziston!"
+
+#~ msgid "Parent "
+#~ msgstr "Prindi"
+
+#~ msgid "Unknown error! "
+#~ msgstr "Gabim i panjohur!"
+
+#~ msgid "You don't have permission to copy the files!"
+#~ msgstr "Ju nuk keni leje për të kopjuar skedarët!"
+
+#~ msgid "All selected file(s) have been deleted successfully!"
+#~ msgstr "Të gjitha skedarët (et) e zgjedhur janë fshirë me sukses!"
+
+#~ msgid " does not exists!"
+#~ msgstr "nuk ekziston!"
+
+#~ msgid "This file extension is not allowed to upload!"
+#~ msgstr "Kjo shtesë e skedarit nuk lejohet të ngarkohet!"
+
+#~ msgid "Image uploaded successfully!"
+#~ msgstr "Imazhi u ngarkua me sukses!"
+
+#~ msgid "There is some issue in uploading image!"
+#~ msgstr "Ka ndonjë problem në ngarkimin e imazhit!"
+
+#~ msgid ""
+#~ "This file extension is not allowed to upload as screenshot by wordpress!"
+#~ msgstr ""
+#~ "Kjo shtesë skedari nuk lejohet të ngarkohet si pamje nga ekrani nga "
+#~ "wordpress!"
+
+#~ msgid "File uploaded successfully!"
+#~ msgstr "Skedari u ngarkua me sukses!"
+
+#~ msgid "Child Theme files can't be modified."
+#~ msgstr "Skedarët e Temës së Fëmijëve nuk mund të modifikohen."
+
+#~ msgid "File(s) deleted successfully!"
+#~ msgstr "Skedari (et) u fshinë me sukses!"
+
+#~ msgid "You don't have permission to delete file(s)!"
+#~ msgstr "Ju nuk keni leje për të fshirë skedarët!"
+
+#~ msgid "Entered directory name already exists"
+#~ msgstr "Emri i regjistrit të futur ekziston tashmë"
+
+#~ msgid "You don't have permission to create directory!"
+#~ msgstr "Ju nuk keni leje për të krijuar direktori!"
+
+#~ msgid "Wordpress template file created"
+#~ msgstr "Skedari i shabllonit Wordpress u krijua"
+
+#~ msgid "Wordpress template file not created"
+#~ msgstr "Skedari i shabllonit Wordpress nuk u krijua"
+
+#~ msgid "PHP created file successfully"
+#~ msgstr "PHP krijoi skedarin me sukses"
+
+#~ msgid "PHP file not created"
+#~ msgstr "Skedari PHP nuk u krijua"
+
+#~ msgid " file not created"
+#~ msgstr "skedari nuk u krijua"
+
+#~ msgid "You don't have permission to create file!"
+#~ msgstr "Ju nuk keni leje për të krijuar skedar!"
+
+#~ msgid "Language folder has been downlaoded."
+#~ msgstr "Dosja e gjuhës është dobësuar."
+
+#~ msgid "Add single or multiple languages."
+#~ msgstr "Shtoni gjuhë të vetme ose të shumëfishta."
+
+#~ msgid "Add single language file"
+#~ msgstr "Shto skedar me një gjuhë"
+
+#~ msgid "Please click on language button."
+#~ msgstr "Ju lutemi klikoni në butonin e gjuhës."
+
+#~ msgid "Add all languages zip folder"
+#~ msgstr "Shtoni të gjitha gjuhët dosje zip"
+
+#~ msgid "Zip Download"
+#~ msgstr "Shkarkim Zip"

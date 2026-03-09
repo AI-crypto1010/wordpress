@@ -1,0 +1,21 @@
+{
+  "apiVersion": 2,
+  "name": "pixfort-core/social-links",
+  "title": "pixfort Social Links",
+  "category": "widgets",
+  "icon": "share",
+  "description": "A block to display social media links with the same styling as the legacy widget.",
+  "supports": {
+    "html": false
+  },
+  "attributes": {
+    "social": {
+      "type": "object",
+      "default": {}
+    }
+  },
+  "textdomain": "pixfort-core",
+  "editorScript": "file:./index.js",
+  "editorStyle": "file:./index.css",
+  "render": "file:./render.php"
+}

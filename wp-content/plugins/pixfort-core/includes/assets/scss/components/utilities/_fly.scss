@@ -1,0 +1,10 @@
+.fly-sm, .fly, .fly-lg {
+    backface-visibility: hidden;
+    * {
+        backface-visibility: hidden;
+    }
+    transition: all 0.4s cubic-bezier(0.165, 0.84, 0.44, 1);
+}
+.fly-sm { @include fly-sm(); }
+.fly { @include fly(); }
+.fly-lg { @include fly-lg(); }

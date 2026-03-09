@@ -1,0 +1,1015 @@
+# Translation of WP File Manager in Russian
+# This file is distributed under the same license as the WP File Manager package.
+msgid ""
+msgstr ""
+"Project-Id-Version: WP File Manager\n"
+"POT-Creation-Date: 2022-02-28 11:21+0530\n"
+"PO-Revision-Date: 2022-03-01 18:25+0530\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ru\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Generator: Poedit 3.0.1\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: file_folder_manager.php:174
+msgid "Themes backup restored successfully."
+msgstr "Резервная копия тем успешно восстановлена."
+
+#: file_folder_manager.php:177
+msgid "Unable to restore themes."
+msgstr "Невозможно восстановить темы."
+
+#: file_folder_manager.php:207
+msgid "Uploads backup restored successfully."
+msgstr "Резервная копия загружена успешно."
+
+#: file_folder_manager.php:211
+msgid "Unable to restore uploads."
+msgstr "Невозможно восстановить загрузки."
+
+#: file_folder_manager.php:237
+msgid "Others backup restored successfully."
+msgstr "Остальные резервные копии успешно восстановлены."
+
+#: file_folder_manager.php:241
+msgid "Unable to restore others."
+msgstr "Невозможно восстановить другие."
+
+#: file_folder_manager.php:267
+msgid "Plugins backup restored successfully."
+msgstr "Резервная копия плагинов успешно восстановлена."
+
+#: file_folder_manager.php:271 file_folder_manager.php:301
+msgid "Unable to restore plugins."
+msgstr "Невозможно восстановить плагины."
+
+#: file_folder_manager.php:286
+msgid "Database backup restored successfully."
+msgstr "Резервная копия базы данных успешно восстановлена."
+
+#: file_folder_manager.php:286 file_folder_manager.php:297
+#: file_folder_manager.php:588 file_folder_manager.php:592
+msgid "All Done"
+msgstr "Все сделано"
+
+#: file_folder_manager.php:289
+msgid "Unable to restore DB backup."
+msgstr "Невозможно восстановить резервную копию БД."
+
+#: file_folder_manager.php:347
+msgid "Backups removed successfully!"
+msgstr "Резервные копии успешно удалены!"
+
+#: file_folder_manager.php:349
+msgid "Unable to removed backup!"
+msgstr "Невозможно удалить резервную копию!"
+
+#: file_folder_manager.php:373
+msgid "Database backup done on date "
+msgstr "Резервное копирование базы данных выполнено на дату "
+
+#: file_folder_manager.php:377
+msgid "Plugins backup done on date "
+msgstr "Резервное копирование плагинов выполнено на дату "
+
+#: file_folder_manager.php:381
+msgid "Themes backup done on date "
+msgstr "Резервное копирование тем выполнено на дату "
+
+#: file_folder_manager.php:385
+msgid "Uploads backup done on date "
+msgstr "Загружает резервную копию, сделанную на дату "
+
+#: file_folder_manager.php:389
+msgid "Others backup done on date "
+msgstr "Остальные резервные копии сделаны на дату "
+
+#: file_folder_manager.php:393 file_folder_manager.php:776
+msgid "Logs"
+msgstr "Журналы"
+
+#: file_folder_manager.php:399
+msgid "No logs found!"
+msgstr "Журналов не найдено!"
+
+#: file_folder_manager.php:496
+msgid "Nothing selected for backup"
+msgstr "Ничего не выбрано для резервного копирования"
+
+#: file_folder_manager.php:516
+msgid "Security Issue."
+msgstr "Проблема безопасности."
+
+#: file_folder_manager.php:527
+msgid "Database backup done."
+msgstr "Бэкап БД сделан."
+
+#: file_folder_manager.php:530
+msgid "Unable to create database backup."
+msgstr "Невозможно создать резервную копию базы данных."
+
+#: file_folder_manager.php:544
+msgid "Plugins backup done."
+msgstr "Бэкап плагинов сделан."
+
+#: file_folder_manager.php:547
+msgid "Plugins backup failed."
+msgstr "Сбой резервного копирования плагинов."
+
+#: file_folder_manager.php:556
+msgid "Themes backup done."
+msgstr "Бэкап темы сделан."
+
+#: file_folder_manager.php:559
+msgid "Themes backup failed."
+msgstr "Не удалось выполнить резервное копирование тем."
+
+#: file_folder_manager.php:569
+msgid "Uploads backup done."
+msgstr "Загружается резервная копия."
+
+#: file_folder_manager.php:572
+msgid "Uploads backup failed."
+msgstr "Не удалось загрузить резервную копию."
+
+#: file_folder_manager.php:581
+msgid "Others backup done."
+msgstr "Сделано резервное копирование других."
+
+#: file_folder_manager.php:584
+msgid "Others backup failed."
+msgstr "Сбой резервного копирования других."
+
+#: file_folder_manager.php:761 file_folder_manager.php:762
+#: lib/wpfilemanager.php:23
+msgid "WP File Manager"
+msgstr "Диспетчер файлов WP"
+
+#: file_folder_manager.php:769
+msgid "Settings"
+msgstr "Настройки"
+
+#: file_folder_manager.php:771 inc/root.php:48
+msgid "Preferences"
+msgstr "Предпочтения"
+
+#: file_folder_manager.php:773
+msgid "System Properties"
+msgstr "Свойства системы"
+
+#: file_folder_manager.php:775
+msgid "Shortcode - PRO"
+msgstr "Шорткод - PRO"
+
+#: file_folder_manager.php:777
+msgid "Backup/Restore"
+msgstr "Резервное восстановление"
+
+#: file_folder_manager.php:1033
+msgid "Buy Pro"
+msgstr "Купить Pro"
+
+#: file_folder_manager.php:1034
+msgid "Donate"
+msgstr "Пожертвовать"
+
+#: file_folder_manager.php:1249
+msgid ""
+"<div class=\"updated settings-error notice is-dismissible\" id=\"setting-"
+"error-settings_updated\"> \n"
+"<p><strong>"
+msgstr ""
+
+#: file_folder_manager.php:1256
+msgid ""
+"<div class=\"error settings-error notice is-dismissible\" id=\"setting-error-"
+"settings_updated\"> \n"
+"<p><strong>"
+msgstr ""
+
+#: file_folder_manager.php:1395 file_folder_manager.php:1483
+msgid "File doesn't exist to download."
+msgstr "Файл не существует для загрузки."
+
+#: file_folder_manager.php:1400 file_folder_manager.php:1488
+msgid "Invalid Security Code."
+msgstr "Неверный код безопасности."
+
+#: file_folder_manager.php:1405 file_folder_manager.php:1493
+msgid "Missing backup id."
+msgstr "Отсутствует идентификатор резервной копии."
+
+#: file_folder_manager.php:1408 file_folder_manager.php:1496
+msgid "Missing parameter type."
+msgstr "Отсутствует тип параметра."
+
+#: file_folder_manager.php:1411 file_folder_manager.php:1499
+msgid "Missing required parameters."
+msgstr "Отсутствуют обязательные параметры."
+
+#: inc/backup.php:24
+msgid ""
+"Error: Unable to restore backup because database backup is heavy in size. "
+"Please try to increase Maximum allowed size  from Preferences settings."
+msgstr ""
+"Ошибка: Невозможно восстановить резервную копию, так как резервная копия "
+"базы данных имеет большой размер. Попробуйте увеличить Максимально "
+"допустимый размер в настройках «Предпочтения»."
+
+#: inc/backup.php:25
+msgid "Select backup(s) to delete!"
+msgstr "Выберите резервные копии для удаления!"
+
+#: inc/backup.php:26
+msgid "Are you sure want to remove selected backup(s)?"
+msgstr "Вы действительно хотите удалить выбранные резервные копии?"
+
+#: inc/backup.php:31
+msgid "Backup is running, please wait"
+msgstr "Резервное копирование выполняется, подождите"
+
+#: inc/backup.php:32
+msgid "Restore is running, please wait"
+msgstr "Идет восстановление, подождите"
+
+#: inc/backup.php:33
+msgid "Nothing selected for backup."
+msgstr "Ничего не выбрано для резервного копирования."
+
+#: inc/backup.php:45
+msgid "WP File Manager - Backup/Restore"
+msgstr "Диспетчер файлов WP - Резервное копирование / восстановление"
+
+#: inc/backup.php:51
+msgid "Backup Options:"
+msgstr "Параметры резервного копирования:"
+
+#: inc/backup.php:58
+msgid "Database Backup"
+msgstr "Резервное копирование базы данных"
+
+#: inc/backup.php:64
+msgid "Files Backup"
+msgstr "Резервное копирование файлов"
+
+#: inc/backup.php:68
+msgid "Plugins"
+msgstr "Плагины"
+
+#: inc/backup.php:71
+msgid "Themes"
+msgstr "Темы"
+
+#: inc/backup.php:74
+msgid "Uploads"
+msgstr "Загрузки"
+
+#: inc/backup.php:77
+msgid "Others (Any other directories found inside wp-content)"
+msgstr "Другое (любые другие каталоги, найденные внутри wp-content)"
+
+#: inc/backup.php:81
+msgid "Backup Now"
+msgstr "Сделать резервную копию сейчас"
+
+#: inc/backup.php:89
+msgid "Time now"
+msgstr "Сделать резервную копию сейчас"
+
+#: inc/backup.php:99
+msgid "SUCCESS"
+msgstr "УСПЕХ"
+
+#: inc/backup.php:101
+msgid "Backup successfully deleted."
+msgstr "Резервная копия успешно удалена."
+
+#: inc/backup.php:102
+msgid "Ok"
+msgstr "ОК"
+
+#: inc/backup.php:117
+msgid "DELETE FILES"
+msgstr "УДАЛИТЬ ФАЙЛЫ"
+
+#: inc/backup.php:119
+msgid "Are you sure you want to delete this backup?"
+msgstr "Вы уверены, что хотите удалить эту резервную копию?"
+
+#: inc/backup.php:120 inc/backup.php:139
+msgid "Cancel"
+msgstr "Отмена"
+
+#: inc/backup.php:121 inc/backup.php:140
+msgid "Confirm"
+msgstr "Подтверждать"
+
+#: inc/backup.php:136
+msgid "RESTORE FILES"
+msgstr "ВОССТАНОВИТЬ ФАЙЛЫ"
+
+#: inc/backup.php:138
+msgid "Are you sure you want to restore this backup?"
+msgstr "Вы уверены, что хотите восстановить эту резервную копию?"
+
+#: inc/backup.php:166
+msgid "Last Log Message"
+msgstr "Последнее сообщение журнала"
+
+#: inc/backup.php:169
+msgid "The backup apparently succeeded and is now complete."
+msgstr "Резервное копирование, по-видимому, выполнено успешно."
+
+#: inc/backup.php:171
+msgid "No log message"
+msgstr "Нет сообщения журнала"
+
+#: inc/backup.php:177
+msgid "Existing Backup(s)"
+msgstr "Существующие резервные копии"
+
+#: inc/backup.php:184
+msgid "Backup Date"
+msgstr "Дата резервного копирования"
+
+#: inc/backup.php:187
+msgid "Backup data (click to download)"
+msgstr "Данные резервного копирования (нажмите, чтобы загрузить)"
+
+#: inc/backup.php:190
+msgid "Action"
+msgstr "Действие"
+
+#: inc/backup.php:210
+msgid "Today"
+msgstr "Сегодня"
+
+#: inc/backup.php:239
+msgid "Restore"
+msgstr "Восстановить"
+
+#: inc/backup.php:240 inc/backup.php:250
+msgid "Delete"
+msgstr "Удалить"
+
+#: inc/backup.php:241
+msgid "View Log"
+msgstr "Посмотреть журнал"
+
+#: inc/backup.php:246
+msgid "Currently no backup(s) found."
+msgstr "В настоящее время резервных копий не найдено."
+
+#: inc/backup.php:249
+msgid "Actions upon selected backup(s)"
+msgstr "Действия с выбранными резервными копиями"
+
+#: inc/backup.php:251
+msgid "Select All"
+msgstr "Выбрать все"
+
+#: inc/backup.php:252
+msgid "Deselect"
+msgstr "Отменить выбор"
+
+#: inc/backup.php:254
+msgid "Note:"
+msgstr "Примечание:"
+
+#: inc/backup.php:254
+msgid "Backup files will be under"
+msgstr "Файлы резервных копий будут в"
+
+#: inc/contribute.php:3
+msgid "WP File Manager Contribution"
+msgstr "Вклад диспетчера файлов WP"
+
+#: inc/logs.php:7
+msgid ""
+"Note: These are demo screenshots. Please buy File Manager pro to Logs "
+"functions."
+msgstr ""
+"Примечание. Это демонстрационные снимки экрана. Пожалуйста, купите File "
+"Manager Pro для работы с журналами."
+
+#: inc/logs.php:8 lib/wpfilemanager.php:24
+msgid "Click to Buy PRO"
+msgstr "Нажмите, чтобы купить PRO"
+
+#: inc/logs.php:8 inc/settings.php:12 inc/settings.php:27
+#: inc/system_properties.php:5 lib/wpfilemanager.php:25
+msgid "Buy PRO"
+msgstr "Купить PRO"
+
+#: inc/logs.php:9
+msgid "Edit Files Logs"
+msgstr "Редактировать журналы файлов"
+
+#: inc/logs.php:11
+msgid "Download Files Logs"
+msgstr "Скачать файлы журналов"
+
+#: inc/logs.php:13
+msgid "Upload Files Logs"
+msgstr "Загрузить файлы журналов"
+
+#: inc/root.php:43
+msgid "Settings saved."
+msgstr "Настройки сохранены."
+
+#: inc/root.php:43 inc/root.php:46
+msgid "Dismiss this notice."
+msgstr "Закрыть это уведомление."
+
+#: inc/root.php:46
+msgid "You have not made any changes to be saved."
+msgstr "Вы не вносили никаких изменений, которые нужно сохранить."
+
+#: inc/root.php:55
+msgid "Public Root Path"
+msgstr "Общедоступный корневой путь"
+
+#: inc/root.php:58
+msgid "File Manager Root Path, you can change according to your choice."
+msgstr ""
+"Корневой путь файлового менеджера, вы можете изменить по своему усмотрению."
+
+#: inc/root.php:59
+msgid "Default:"
+msgstr "По умолчанию:"
+
+#: inc/root.php:60
+msgid ""
+"Please change this carefully, wrong path can lead file manager plugin to go "
+"down."
+msgstr ""
+"Пожалуйста, измените это внимательно, неправильный путь может привести к "
+"отказу плагина файлового менеджера."
+
+#: inc/root.php:64
+msgid "Enable Trash?"
+msgstr "Включить корзину?"
+
+#: inc/root.php:67
+msgid "After enable trash, your files will go to trash folder."
+msgstr "После включения корзины ваши файлы будут отправлены в корзину."
+
+#: inc/root.php:72
+msgid "Enable Files Upload to Media Library?"
+msgstr "Разрешить загрузку файлов в медиатеку?"
+
+#: inc/root.php:75
+msgid "After enabling this all files will go to media library."
+msgstr "После включения все файлы будут отправлены в медиа-библиотеку."
+
+#: inc/root.php:80
+msgid "Maximum allowed size at the time of database backup restore."
+msgstr ""
+"Максимально допустимый размер на момент восстановления резервной копии базы "
+"данных."
+
+#: inc/root.php:83
+msgid "MB"
+msgstr ""
+
+#: inc/root.php:85
+msgid ""
+"Please increase field value if you are getting error message at the time of "
+"backup restore."
+msgstr ""
+"Пожалуйста, увеличьте значение поля, если вы получаете сообщение об ошибке "
+"во время восстановления из резервной копии."
+
+#: inc/root.php:90
+msgid "Save Changes"
+msgstr "Сохранить изменения"
+
+#: inc/settings.php:10
+msgid "Settings - General"
+msgstr "Настройки - Общие"
+
+#: inc/settings.php:11 inc/settings.php:26
+msgid ""
+"Note: This is just a demo screenshot. To get settings please buy our pro "
+"version."
+msgstr ""
+"Примечание. Это всего лишь демонстрационный снимок экрана. Чтобы получить "
+"настройки, пожалуйста, купите нашу профессиональную версию."
+
+#: inc/settings.php:13
+msgid ""
+"Here admin can give access to user roles to use filemanager. Admin can set "
+"Default Access Folder and also control upload size of filemanager."
+msgstr ""
+"Здесь администратор может предоставить доступ к ролям пользователей для "
+"использования файлового менеджера. Администратор может установить папку "
+"доступа по умолчанию, а также контролировать размер загрузки файлового "
+"менеджера."
+
+#: inc/settings.php:15
+msgid "Settings - Code-editor"
+msgstr "Настройки - Код-редактор"
+
+#: inc/settings.php:16
+msgid ""
+"File Manager has a code editor with multiple themes. You can select any "
+"theme for code editor. It will display when you edit any file. Also you can "
+"allow fullscreen mode of code editor."
+msgstr ""
+"В файловом менеджере есть редактор кода с несколькими темами. Вы можете "
+"выбрать любую тему для редактора кода. Он будет отображаться при "
+"редактировании любого файла. Также вы можете разрешить полноэкранный режим "
+"редактора кода."
+
+#: inc/settings.php:18
+msgid "Code-editor View"
+msgstr "Просмотр редактора кода"
+
+#: inc/settings.php:20
+msgid "Settings - User Restrictions"
+msgstr "Настройки - Ограничения для пользователей"
+
+#: inc/settings.php:21
+msgid ""
+"Admin can restrict actions of any user. Also hide files and folders and can "
+"set different - different folders paths for different users."
+msgstr ""
+"Администратор может ограничить действия любого пользователя. Также можно "
+"скрыть файлы и папки и установить разные пути к папкам для разных "
+"пользователей."
+
+#: inc/settings.php:23
+msgid "Settings - User Role Restrictions"
+msgstr "Настройки - Ограничения ролей пользователей"
+
+#: inc/settings.php:24
+msgid ""
+"Admin can restrict actions of any userrole. Also hide files and folders and "
+"can set different - different folders paths for different users roles."
+msgstr ""
+"Администратор может ограничить действия любой пользовательской роли. Также "
+"можно скрыть файлы и папки и установить разные пути к папкам для разных "
+"ролей пользователей."
+
+#: inc/shortcode_docs.php:11
+msgid "File Manager - Shortcode"
+msgstr "Файловый менеджер - шорткод"
+
+#: inc/shortcode_docs.php:15 inc/shortcode_docs.php:17
+#: inc/shortcode_docs.php:19
+msgid "USE:"
+msgstr "ИСПОЛЬЗОВАТЬ:"
+
+#: inc/shortcode_docs.php:15
+msgid ""
+"It will show file manager on front end. You can control all settings from "
+"file manager settings. It will work same as backend WP File Manager."
+msgstr ""
+"Он покажет файловый менеджер на переднем конце. Вы можете контролировать все "
+"настройки из настроек файлового менеджера. Он будет работать так же, как "
+"бэкэнд Диспетчер файлов WP."
+
+#: inc/shortcode_docs.php:17
+msgid ""
+"It will show file manager on front end. But only Administrator can access it "
+"and will control from file manager settings."
+msgstr ""
+"Он покажет файловый менеджер на переднем конце. Но только администратор "
+"может получить к нему доступ и будет управлять настройками файлового "
+"менеджера."
+
+#: inc/shortcode_docs.php:23
+msgid "Parameters:"
+msgstr "Параметры:"
+
+#: inc/shortcode_docs.php:26
+msgid ""
+"It will allow all roles to access file manager on front end or You can "
+"simple use for particular user roles as like allowed_roles=\"editor,author"
+"\" (seprated by comma(,))"
+msgstr ""
+"Это позволит всем ролям получить доступ к файловому менеджеру на внешнем "
+"интерфейсе, или вы можете просто использовать для определенных ролей "
+"пользователей, например, allow_roles=\"editor,author\" (разделенные запятой "
+"(,))"
+
+#: inc/shortcode_docs.php:28
+msgid ""
+"Here \"test\" is the name of folder which is located on root directory, or "
+"you can give path for sub folders as like \"wp-content/plugins\". If leave "
+"blank or empty it will access all folders on root directory. Default: Root "
+"directory"
+msgstr ""
+"Здесь «тест» — это имя папки, расположенной в корневом каталоге, или вы "
+"можете указать путь для подпапок, например «wp-content/plugins». Если "
+"оставить пустым или пустым, он будет иметь доступ ко всем папкам в корневом "
+"каталоге. По умолчанию: корневой каталог"
+
+#: inc/shortcode_docs.php:30
+msgid "for access to write files permissions, note: true/false, default: false"
+msgstr ""
+"для доступа к разрешениям на запись файлов, примечание: true/false, по "
+"умолчанию: false"
+
+#: inc/shortcode_docs.php:32
+msgid "for access to read files permission, note: true/false, default: true"
+msgstr ""
+"для доступа к разрешению на чтение файлов, примечание: true/false, по "
+"умолчанию: true"
+
+#: inc/shortcode_docs.php:34
+msgid "it will hide mentioned here. Note: seprated by comma(,). Default: Null"
+msgstr ""
+"это скроет упомянутое здесь. Примечание: через запятую (,). По умолчанию: "
+"ноль"
+
+#: inc/shortcode_docs.php:36
+msgid ""
+"It will lock mentioned in commas. you can lock more as like \".php,.css,.js"
+"\" etc. Default: Null"
+msgstr ""
+"Это заблокирует указанное через запятую. вы можете заблокировать больше, "
+"например \".php,.css,.js\" и т. д. По умолчанию: Null"
+
+#: inc/shortcode_docs.php:38
+msgid ""
+"* for all operations and to allow some operation you can mention operation "
+"name as like, allowed_operations=\"upload,download\". Note: seprated by "
+"comma(,). Default: *"
+msgstr ""
+"* для всех операций и для разрешения какой-либо операции вы можете указать "
+"имя операции, например, allow_operations=\"upload,download\". Примечание: "
+"через запятую (,). По умолчанию: *"
+
+#: inc/shortcode_docs.php:42
+msgid "File Operations List:"
+msgstr "Список файловых операций:"
+
+#: inc/shortcode_docs.php:46
+msgid "mkdir ->"
+msgstr ""
+
+#: inc/shortcode_docs.php:46
+msgid "Make directory or folder"
+msgstr "Сделать каталог или папку"
+
+#: inc/shortcode_docs.php:47
+msgid "mkfile ->"
+msgstr ""
+
+#: inc/shortcode_docs.php:47
+msgid "Make file"
+msgstr "Сделать файл"
+
+#: inc/shortcode_docs.php:48
+msgid "rename ->"
+msgstr ""
+
+#: inc/shortcode_docs.php:48
+msgid "Rename a file or folder"
+msgstr "Переименовать файл или папку"
+
+#: inc/shortcode_docs.php:49
+msgid "duplicate ->"
+msgstr ""
+
+#: inc/shortcode_docs.php:49
+msgid "Duplicate or clone a folder or file"
+msgstr "Дублировать или клонировать папку или файл"
+
+#: inc/shortcode_docs.php:50
+msgid "paste ->"
+msgstr ""
+
+#: inc/shortcode_docs.php:50
+msgid "Paste a file or folder"
+msgstr "Вставить файл или папку"
+
+#: inc/shortcode_docs.php:51
+msgid "ban ->"
+msgstr ""
+
+#: inc/shortcode_docs.php:51
+msgid "Ban"
+msgstr "Запретить"
+
+#: inc/shortcode_docs.php:52
+msgid "archive ->"
+msgstr ""
+
+#: inc/shortcode_docs.php:52
+msgid "To make a archive or zip"
+msgstr "Сделать архив или zip"
+
+#: inc/shortcode_docs.php:53
+msgid "extract ->"
+msgstr ""
+
+#: inc/shortcode_docs.php:53
+msgid "Extract archive or zipped file"
+msgstr "Извлечь архив или заархивированный файл"
+
+#: inc/shortcode_docs.php:54
+msgid "copy ->"
+msgstr ""
+
+#: inc/shortcode_docs.php:54
+msgid "Copy files or folders"
+msgstr "Копировать файлы или папки"
+
+#: inc/shortcode_docs.php:58
+msgid "cut ->"
+msgstr ""
+
+#: inc/shortcode_docs.php:58
+msgid "Simple cut a file or folder"
+msgstr "Просто вырезать файл или папку"
+
+#: inc/shortcode_docs.php:59
+msgid "edit ->"
+msgstr ""
+
+#: inc/shortcode_docs.php:59
+msgid "Edit a file"
+msgstr "Редактировать файл"
+
+#: inc/shortcode_docs.php:60
+msgid "rm ->"
+msgstr ""
+
+#: inc/shortcode_docs.php:60
+msgid "Remove or delete files and folders"
+msgstr "Удалить или удалить файлы и папки"
+
+#: inc/shortcode_docs.php:61
+msgid "download ->"
+msgstr ""
+
+#: inc/shortcode_docs.php:61
+msgid "Download files"
+msgstr "Скачать файлы"
+
+#: inc/shortcode_docs.php:62
+msgid "upload ->"
+msgstr ""
+
+#: inc/shortcode_docs.php:62
+msgid "Upload files"
+msgstr "Загрузить файлы"
+
+#: inc/shortcode_docs.php:63
+msgid "search -> "
+msgstr ""
+
+#: inc/shortcode_docs.php:63
+msgid "Search things"
+msgstr "Искать вещи"
+
+#: inc/shortcode_docs.php:64
+msgid "info ->"
+msgstr ""
+
+#: inc/shortcode_docs.php:64
+msgid "Info of file"
+msgstr "Информация о файле"
+
+#: inc/shortcode_docs.php:65
+msgid "help ->"
+msgstr ""
+
+#: inc/shortcode_docs.php:65
+msgid "Help"
+msgstr "Помощь"
+
+#: inc/shortcode_docs.php:71
+msgid ""
+"->  It will ban particular users by just putting their ids seprated by "
+"commas(,). If user is Ban then they will not able to access wp file manager "
+"on front end."
+msgstr ""
+"-> Он заблокирует определенных пользователей, просто поместив их "
+"идентификаторы через запятую (,). Если пользователь заблокирован, он не "
+"сможет получить доступ к файловому менеджеру wp через интерфейс пользователя."
+
+#: inc/shortcode_docs.php:72
+msgid "-> Filemanager UI View. Default: grid"
+msgstr ""
+"-> Просмотр пользовательского интерфейса Filemanager. По умолчанию: grid"
+
+#: inc/shortcode_docs.php:73
+msgid "-> File Modified or Create date format. Default: d M, Y h:i A"
+msgstr "-> Файл изменен или формат даты создания. По умолчанию: d M, Y h: i A"
+
+#: inc/shortcode_docs.php:74
+msgid "-> File manager Language. Default: English(en)"
+msgstr "-> Язык файлового менеджера. По умолчанию: English(en)"
+
+#: inc/shortcode_docs.php:75
+msgid "-> File Manager Theme. Default: Light"
+msgstr "-> Тема файлового менеджера. По умолчанию: Light"
+
+#: inc/system_properties.php:5
+msgid "File Manager - System Properties"
+msgstr "Файловый менеджер - Свойства системы"
+
+#: inc/system_properties.php:10
+msgid "PHP version"
+msgstr "Версия PHP"
+
+#: inc/system_properties.php:15
+msgid "Maximum file upload size (upload_max_filesize)"
+msgstr "Максимальный размер загружаемого файла (upload_max_filesize)"
+
+#: inc/system_properties.php:20
+msgid "Post maximum file upload size (post_max_size)"
+msgstr "Максимальный размер загружаемого файла (post_max_size)"
+
+#: inc/system_properties.php:25
+msgid "Memory Limit (memory_limit)"
+msgstr "Лимит памяти (memory_limit)"
+
+#: inc/system_properties.php:30
+msgid "Timeout (max_execution_time)"
+msgstr "Время вышло (max_execution_time)"
+
+#: inc/system_properties.php:35
+msgid "Browser and OS (HTTP_USER_AGENT)"
+msgstr "Браузер и ОС (HTTP_USER_AGENT)"
+
+#: lib/jquery/jquery-ui-1.11.4.js:8
+msgid "'"
+msgstr ""
+
+#: lib/wpfilemanager.php:31
+msgid "Change Theme Here:"
+msgstr "Изменить тему здесь:"
+
+#: lib/wpfilemanager.php:35
+msgid "Default"
+msgstr "По умолчанию"
+
+#: lib/wpfilemanager.php:39
+msgid "Dark"
+msgstr "Темный"
+
+#: lib/wpfilemanager.php:43
+msgid "Light"
+msgstr "Свет"
+
+#: lib/wpfilemanager.php:47
+msgid "Gray"
+msgstr "серый"
+
+#: lib/wpfilemanager.php:52
+msgid "Windows - 10"
+msgstr ""
+
+#: lib/wpfilemanager.php:85
+msgid "Welcome to File Manager"
+msgstr "Добро пожаловать в файловый менеджер"
+
+#: lib/wpfilemanager.php:88
+msgid ""
+"We love making new friends! Subscribe below and we promise to\n"
+"    keep you up-to-date with our latest new plugins, updates,\n"
+"    awesome deals and a few special offers."
+msgstr ""
+"Мы любим заводить новых друзей! Подпишитесь ниже, и мы обещаем\n"
+"    держать вас в курсе наших последних новых плагинов, обновлений,\n"
+"    отличные предложения и несколько специальных предложений."
+
+#: lib/wpfilemanager.php:99
+msgid "Please Enter First Name."
+msgstr "Пожалуйста, введите имя."
+
+#: lib/wpfilemanager.php:107
+msgid "Please Enter Last Name."
+msgstr "Пожалуйста, введите фамилию."
+
+#: lib/wpfilemanager.php:116
+msgid "Please Enter Email Address."
+msgstr "Пожалуйста, введите адрес электронной почты."
+
+#: lib/wpfilemanager.php:120
+msgid "Verify"
+msgstr "Проверять"
+
+#: lib/wpfilemanager.php:126
+msgid "No Thanks"
+msgstr "Нет, спасибо"
+
+#: lib/wpfilemanager.php:132
+msgid "Terms of Service"
+msgstr "Условия использования"
+
+#: lib/wpfilemanager.php:134
+msgid "Privacy Policy"
+msgstr "Политика конфиденциальности"
+
+#: lib/wpfilemanager.php:153
+msgid "Saving..."
+msgstr "Сохранение ..."
+
+#: lib/wpfilemanager.php:155
+msgid "OK"
+msgstr "ОК"
+
+#~ msgid "Backup not found!"
+#~ msgstr "Резервная копия не найдена!"
+
+#~ msgid "Backup removed successfully!"
+#~ msgstr "Резервная копия успешно удалена!"
+
+#~ msgid "<span class=\"fm_console_error\">Nothing selected for backup</span>"
+#~ msgstr ""
+#~ "<span class=\"fm_console_error\">Ничего не выбрано для резервного "
+#~ "копирования</span>"
+
+#~ msgid "<span class=\"fm_console_error\">Security Issue.</span>"
+#~ msgstr "<span class=\"fm_console_error\">Проблема безопасности. </span>"
+
+#~ msgid "<span class=\"fm_console_success\">Database backup done.</span>"
+#~ msgstr ""
+#~ "<span class=\"fm_console_success\">Резервное копирование базы данных "
+#~ "выполнено.</span>"
+
+#~ msgid ""
+#~ "<span class=\"fm_console_error\">Unable to create database backup.</span>"
+#~ msgstr ""
+#~ "<span class=\"fm_console_error\">Невозможно создать резервную копию базы "
+#~ "данных.</span>"
+
+#~ msgid "<span class=\"fm_console_success\">Plugins backup done.</span>"
+#~ msgstr ""
+#~ "<span class=\"fm_console_success\">Ничего не выбрано для резервного "
+#~ "копирования</span>"
+
+#~ msgid "<span class=\"fm_console_error\">Plugins backup failed.</span>"
+#~ msgstr ""
+#~ "<span class=\"fm_console_error\">Не удалось выполнить резервное "
+#~ "копирование плагинов.</span>"
+
+#~ msgid "<span class=\"fm_console_success\">Themes backup done.</span>"
+#~ msgstr ""
+#~ "<span class=\"fm_console_success\">Резервное копирование тем выполнено.</"
+#~ "span>"
+
+#~ msgid "<span class=\"fm_console_error\">Themes backup failed.</span>"
+#~ msgstr ""
+#~ "<span class=\"fm_console_error\">Не удалось выполнить резервное "
+#~ "копирование тем.</span>"
+
+#~ msgid "<span class=\"fm_console_success\">Uploads backup done.</span>"
+#~ msgstr ""
+#~ "<span class=\"fm_console_success\">Резервное копирование загружено.</span>"
+
+#~ msgid "<span class=\"fm_console_error\">Uploads backup failed.</span>"
+#~ msgstr ""
+#~ "<span class=\"fm_console_error\">Не удалось загрузить резервную копию.</"
+#~ "span>"
+
+#~ msgid "<span class=\"fm_console_success\">Others backup done.</span>"
+#~ msgstr ""
+#~ "<span class=\"fm_console_success\">Остальные резервные копии сделаны.</"
+#~ "span>"
+
+#~ msgid "<span class=\"fm_console_error\">Others backup failed.</span>"
+#~ msgstr ""
+#~ "<span class=\"fm_console_error\">Остальные резервные копии не удались.</"
+#~ "span>"
+
+#~ msgid "<span class=\"fm_console_success\">All Done</span>"
+#~ msgstr "<span class=\"fm_console_success\">Все готово</span>"
+
+#~ msgid ""
+#~ "<code>[wp_file_manager view=\"list\" lang=\"en\" theme=\"light\" "
+#~ "dateformat=\"d M, Y h:i A\" allowed_roles=\"editor,author\" access_folder="
+#~ "\"wp-content/plugins\" write = \"true\" read = \"false\" hide_files = "
+#~ "\"kumar,abc.php\" lock_extensions=\".php,.css\" allowed_operations="
+#~ "\"upload,download\" ban_user_ids=\"2,3\"]"
+#~ msgstr ""
+#~ "<code>[wp_file_manager view=\"list\" lang=\"en\" theme=\"light\" "
+#~ "dateformat=\"d M, Y h:i A\" allowed_roles=\"editor,author\" access_folder="
+#~ "\"wp-content/plugins\" write = \"true\" read = \"false\" hide_files = "
+#~ "\"kumar,abc.php\" lock_extensions=\".php,.css\" allowed_operations="
+#~ "\"upload,download\" ban_user_ids=\"2,3\"]"
+
+#~ msgid ""
+#~ "Please contribute some donation, to make plugin more stable. You can pay "
+#~ "amount of your choice."
+#~ msgstr ""
+#~ "Пожалуйста, внесите пожертвование, чтобы сделать плагин более стабильным. "
+#~ "Вы можете внести сумму на ваш выбор."
+
+#~ msgid "Manage your WP files."
+#~ msgstr "Управление файлами в WP."
+
+#~ msgid "Extensions"
+#~ msgstr "Расширения"

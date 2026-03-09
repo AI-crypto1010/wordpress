@@ -1,0 +1,2711 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2022-02-28 11:09+0530\n"
+"PO-Revision-Date: 2022-02-28 11:13+0530\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Poedit 3.0.1\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: __;_e;esc_attr;esc_html\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: file_folder_manager.php:174
+msgid "Themes backup restored successfully."
+msgstr "Backup de temas restaurado com sucesso."
+
+#: file_folder_manager.php:177
+msgid "Unable to restore themes."
+msgstr "Incapaz de restaurar temas."
+
+#: file_folder_manager.php:207
+msgid "Uploads backup restored successfully."
+msgstr "Backup de uploads restaurado com sucesso."
+
+#: file_folder_manager.php:211
+msgid "Unable to restore uploads."
+msgstr "Incapaz de restaurar uploads."
+
+#: file_folder_manager.php:237
+msgid "Others backup restored successfully."
+msgstr "Outros backups restaurados com sucesso."
+
+#: file_folder_manager.php:241
+msgid "Unable to restore others."
+msgstr "Incapaz de restaurar outros."
+
+#: file_folder_manager.php:267
+msgid "Plugins backup restored successfully."
+msgstr "Backup de plug-ins restaurado com sucesso."
+
+#: file_folder_manager.php:271 file_folder_manager.php:301
+msgid "Unable to restore plugins."
+msgstr "Não foi possível restaurar os plug-ins."
+
+#: file_folder_manager.php:286
+msgid "Database backup restored successfully."
+msgstr "Backup do banco de dados restaurado com sucesso."
+
+#: file_folder_manager.php:286 file_folder_manager.php:297
+#: file_folder_manager.php:588 file_folder_manager.php:592
+msgid "All Done"
+msgstr "Tudo feito"
+
+#: file_folder_manager.php:289
+msgid "Unable to restore DB backup."
+msgstr "Incapaz de restaurar o backup do banco de dados."
+
+#: file_folder_manager.php:347
+msgid "Backups removed successfully!"
+msgstr "Backups removidos com sucesso!"
+
+#: file_folder_manager.php:349
+msgid "Unable to removed backup!"
+msgstr "Incapaz de remover o backup!"
+
+#: file_folder_manager.php:373
+msgid "Database backup done on date "
+msgstr "Backup de banco de dados feito na data "
+
+#: file_folder_manager.php:377
+msgid "Plugins backup done on date "
+msgstr "Backup de plug-ins feito na data "
+
+#: file_folder_manager.php:381
+msgid "Themes backup done on date "
+msgstr "Backup de temas feito na data "
+
+#: file_folder_manager.php:385
+msgid "Uploads backup done on date "
+msgstr "Backup de uploads feito na data "
+
+#: file_folder_manager.php:389
+msgid "Others backup done on date "
+msgstr "Outros backups feitos na data "
+
+#: file_folder_manager.php:393 file_folder_manager.php:776
+msgid "Logs"
+msgstr "Histórica"
+
+#: file_folder_manager.php:399
+msgid "No logs found!"
+msgstr "Nenhum registro encontrado!"
+
+#: file_folder_manager.php:496
+msgid "Nothing selected for backup"
+msgstr "Nada selecionado para backup"
+
+#: file_folder_manager.php:516
+msgid "Security Issue."
+msgstr "Problema de segurança."
+
+#: file_folder_manager.php:527
+msgid "Database backup done."
+msgstr "Backup de banco de dados feito."
+
+#: file_folder_manager.php:530
+msgid "Unable to create database backup."
+msgstr "Não foi possível criar o backup do banco de dados."
+
+#: file_folder_manager.php:544
+msgid "Plugins backup done."
+msgstr "Backup de plugins feito."
+
+#: file_folder_manager.php:547
+msgid "Plugins backup failed."
+msgstr "Falha no backup de plug-ins."
+
+#: file_folder_manager.php:556
+msgid "Themes backup done."
+msgstr "Backup de temas feito."
+
+#: file_folder_manager.php:559
+msgid "Themes backup failed."
+msgstr "Falha no backup de temas."
+
+#: file_folder_manager.php:569
+msgid "Uploads backup done."
+msgstr "Backup de uploads concluído."
+
+#: file_folder_manager.php:572
+msgid "Uploads backup failed."
+msgstr "Falha no backup de uploads."
+
+#: file_folder_manager.php:581
+msgid "Others backup done."
+msgstr "Outros backup feito."
+
+#: file_folder_manager.php:584
+msgid "Others backup failed."
+msgstr "Outros backup falhou."
+
+#: file_folder_manager.php:761 file_folder_manager.php:762
+#: lib/wpfilemanager.php:23
+msgid "WP File Manager"
+msgstr "WP File Manager"
+
+#: file_folder_manager.php:769
+msgid "Settings"
+msgstr "Definições"
+
+#: file_folder_manager.php:771 inc/root.php:48
+msgid "Preferences"
+msgstr "Preferências"
+
+#: file_folder_manager.php:773
+msgid "System Properties"
+msgstr "Propriedades do sistema"
+
+#: file_folder_manager.php:775
+msgid "Shortcode - PRO"
+msgstr "Shortcode - PRO"
+
+#: file_folder_manager.php:777
+msgid "Backup/Restore"
+msgstr "Restauração de backup"
+
+#: file_folder_manager.php:1033
+msgid "Buy Pro"
+msgstr "Compre Pro"
+
+#: file_folder_manager.php:1034
+msgid "Donate"
+msgstr "Doar"
+
+#: file_folder_manager.php:1249
+msgid ""
+"<div class=\"updated settings-error notice is-dismissible\" id=\"setting-"
+"error-settings_updated\"> \n"
+"<p><strong>"
+msgstr ""
+
+#: file_folder_manager.php:1256
+msgid ""
+"<div class=\"error settings-error notice is-dismissible\" id=\"setting-error-"
+"settings_updated\"> \n"
+"<p><strong>"
+msgstr ""
+
+#: file_folder_manager.php:1395 file_folder_manager.php:1483
+msgid "File doesn't exist to download."
+msgstr "O arquivo não existe para download."
+
+#: file_folder_manager.php:1400 file_folder_manager.php:1488
+msgid "Invalid Security Code."
+msgstr "Código de segurança inválido."
+
+#: file_folder_manager.php:1405 file_folder_manager.php:1493
+msgid "Missing backup id."
+msgstr "ID de backup ausente."
+
+#: file_folder_manager.php:1408 file_folder_manager.php:1496
+msgid "Missing parameter type."
+msgstr "Tipo de parâmetro ausente."
+
+#: file_folder_manager.php:1411 file_folder_manager.php:1499
+msgid "Missing required parameters."
+msgstr "Parâmetros obrigatórios ausentes."
+
+#: inc/backup.php:24
+msgid ""
+"Error: Unable to restore backup because database backup is heavy in size. "
+"Please try to increase Maximum allowed size  from Preferences settings."
+msgstr ""
+"Erro: não é possível restaurar o backup porque o backup do banco de dados é "
+"muito grande. Por favor, tente aumentar o tamanho máximo permitido nas "
+"configurações de Preferências."
+
+#: inc/backup.php:25
+msgid "Select backup(s) to delete!"
+msgstr "Selecione backup(s) para excluir!"
+
+#: inc/backup.php:26
+msgid "Are you sure want to remove selected backup(s)?"
+msgstr "Tem certeza que deseja remover o (s) backup (s) selecionado (s)?"
+
+#: inc/backup.php:31
+msgid "Backup is running, please wait"
+msgstr "O backup está em execução, por favor aguarde"
+
+#: inc/backup.php:32
+msgid "Restore is running, please wait"
+msgstr "A restauração está em execução, aguarde"
+
+#: inc/backup.php:33
+msgid "Nothing selected for backup."
+msgstr "Nada selecionado para backup."
+
+#: inc/backup.php:45
+msgid "WP File Manager - Backup/Restore"
+msgstr "WP File Manager - Backup / Restauração"
+
+#: inc/backup.php:51
+msgid "Backup Options:"
+msgstr "Opções de backup:"
+
+#: inc/backup.php:58
+msgid "Database Backup"
+msgstr "Backup de banco de dados"
+
+#: inc/backup.php:64
+msgid "Files Backup"
+msgstr "Backup de arquivos"
+
+#: inc/backup.php:68
+msgid "Plugins"
+msgstr "Plugins"
+
+#: inc/backup.php:71
+msgid "Themes"
+msgstr "Temas"
+
+#: inc/backup.php:74
+msgid "Uploads"
+msgstr "Uploads"
+
+#: inc/backup.php:77
+msgid "Others (Any other directories found inside wp-content)"
+msgstr "Outros (quaisquer outros diretórios encontrados dentro de wp-content)"
+
+#: inc/backup.php:81
+msgid "Backup Now"
+msgstr "Faça backup agora"
+
+#: inc/backup.php:89
+msgid "Time now"
+msgstr "Hora agora"
+
+#: inc/backup.php:99
+msgid "SUCCESS"
+msgstr "SUCESSO"
+
+#: inc/backup.php:101
+msgid "Backup successfully deleted."
+msgstr "Backup excluído com sucesso."
+
+#: inc/backup.php:102
+msgid "Ok"
+msgstr "OK"
+
+#: inc/backup.php:117
+msgid "DELETE FILES"
+msgstr "DELETAR ARQUIVOS"
+
+#: inc/backup.php:119
+msgid "Are you sure you want to delete this backup?"
+msgstr "Tem certeza que deseja excluir este backup?"
+
+#: inc/backup.php:120 inc/backup.php:139
+msgid "Cancel"
+msgstr "Cancelar"
+
+#: inc/backup.php:121 inc/backup.php:140
+msgid "Confirm"
+msgstr "confirme"
+
+#: inc/backup.php:136
+msgid "RESTORE FILES"
+msgstr "RESTAURAR ARQUIVOS"
+
+#: inc/backup.php:138
+msgid "Are you sure you want to restore this backup?"
+msgstr "Tem certeza que deseja restaurar este backup?"
+
+#: inc/backup.php:166
+msgid "Last Log Message"
+msgstr "Última mensagem de registro"
+
+#: inc/backup.php:169
+msgid "The backup apparently succeeded and is now complete."
+msgstr "O backup aparentemente foi bem-sucedido e agora está completo."
+
+#: inc/backup.php:171
+msgid "No log message"
+msgstr "Sem mensagem de log"
+
+#: inc/backup.php:177
+msgid "Existing Backup(s)"
+msgstr "Backup (s) existente (s)"
+
+#: inc/backup.php:184
+msgid "Backup Date"
+msgstr "Data de Backup"
+
+#: inc/backup.php:187
+msgid "Backup data (click to download)"
+msgstr "Dados de backup (clique para baixar)"
+
+#: inc/backup.php:190
+msgid "Action"
+msgstr "Açao"
+
+#: inc/backup.php:210
+msgid "Today"
+msgstr "Hoje"
+
+#: inc/backup.php:239
+msgid "Restore"
+msgstr "Restaurar"
+
+#: inc/backup.php:240 inc/backup.php:250
+msgid "Delete"
+msgstr "Excluir"
+
+#: inc/backup.php:241
+msgid "View Log"
+msgstr "Ver Log"
+
+#: inc/backup.php:246
+msgid "Currently no backup(s) found."
+msgstr "Atualmente nenhum (s) backup (s) encontrado (s)."
+
+#: inc/backup.php:249
+msgid "Actions upon selected backup(s)"
+msgstr "Ações após backup (s) selecionado (s)"
+
+#: inc/backup.php:251
+msgid "Select All"
+msgstr "Selecionar tudo"
+
+#: inc/backup.php:252
+msgid "Deselect"
+msgstr "Deselecionar"
+
+#: inc/backup.php:254
+msgid "Note:"
+msgstr "Observação:"
+
+#: inc/backup.php:254
+msgid "Backup files will be under"
+msgstr "Os arquivos de backup estarão em"
+
+#: inc/contribute.php:3
+msgid "WP File Manager Contribution"
+msgstr "Contribuição do gerenciador de arquivos WP"
+
+#: inc/logs.php:7
+msgid ""
+"Note: These are demo screenshots. Please buy File Manager pro to Logs "
+"functions."
+msgstr ""
+"Nota: Estas são capturas de tela de demonstração. Adquira o File Manager pro "
+"para funções de Logs."
+
+#: inc/logs.php:8 lib/wpfilemanager.php:24
+msgid "Click to Buy PRO"
+msgstr "Clique para comprar PRO"
+
+#: inc/logs.php:8 inc/settings.php:12 inc/settings.php:27
+#: inc/system_properties.php:5 lib/wpfilemanager.php:25
+msgid "Buy PRO"
+msgstr "Compre PRO"
+
+#: inc/logs.php:9
+msgid "Edit Files Logs"
+msgstr "Editar Arquivos de Logs"
+
+#: inc/logs.php:11
+msgid "Download Files Logs"
+msgstr "Baixar registros de arquivos"
+
+#: inc/logs.php:13
+msgid "Upload Files Logs"
+msgstr "Fazer upload de registros de arquivos"
+
+#: inc/root.php:43
+msgid "Settings saved."
+msgstr "Configurações salvas."
+
+#: inc/root.php:43 inc/root.php:46
+msgid "Dismiss this notice."
+msgstr "Descartar essa notificação."
+
+#: inc/root.php:46
+msgid "You have not made any changes to be saved."
+msgstr "Você não fez nenhuma alteração para ser salvo."
+
+#: inc/root.php:55
+msgid "Public Root Path"
+msgstr "Caminho de raiz pública"
+
+#: inc/root.php:58
+msgid "File Manager Root Path, you can change according to your choice."
+msgstr ""
+"Caminho raiz do gerenciador de arquivos, você pode alterar de acordo com sua "
+"escolha."
+
+#: inc/root.php:59
+msgid "Default:"
+msgstr "Padrão:"
+
+#: inc/root.php:60
+msgid ""
+"Please change this carefully, wrong path can lead file manager plugin to go "
+"down."
+msgstr ""
+"Por favor, mude isso com cuidado, o caminho errado pode fazer com que o "
+"plugin do gerenciador de arquivos caia."
+
+#: inc/root.php:64
+msgid "Enable Trash?"
+msgstr "Ativar Lixo?"
+
+#: inc/root.php:67
+msgid "After enable trash, your files will go to trash folder."
+msgstr ""
+"Depois de habilitar a lixeira, seus arquivos irão para a pasta da lixeira."
+
+#: inc/root.php:72
+msgid "Enable Files Upload to Media Library?"
+msgstr "Ativar upload de arquivos para biblioteca de mídia?"
+
+#: inc/root.php:75
+msgid "After enabling this all files will go to media library."
+msgstr ""
+"Depois de habilitar isso, todos os arquivos irão para a biblioteca de mídia."
+
+#: inc/root.php:80
+msgid "Maximum allowed size at the time of database backup restore."
+msgstr ""
+"Tamanho máximo permitido no momento da restauração do backup do banco de "
+"dados."
+
+#: inc/root.php:83
+msgid "MB"
+msgstr ""
+
+#: inc/root.php:85
+msgid ""
+"Please increase field value if you are getting error message at the time of "
+"backup restore."
+msgstr ""
+"Aumente o valor do campo se estiver recebendo uma mensagem de erro no "
+"momento da restauração do backup."
+
+#: inc/root.php:90
+msgid "Save Changes"
+msgstr "Salvar alterações"
+
+#: inc/settings.php:10
+msgid "Settings - General"
+msgstr "Configurações - Geral"
+
+#: inc/settings.php:11 inc/settings.php:26
+msgid ""
+"Note: This is just a demo screenshot. To get settings please buy our pro "
+"version."
+msgstr ""
+"Nota: esta é apenas uma captura de tela de demonstração. Para obter as "
+"configurações, compre nossa versão profissional."
+
+#: inc/settings.php:13
+msgid ""
+"Here admin can give access to user roles to use filemanager. Admin can set "
+"Default Access Folder and also control upload size of filemanager."
+msgstr ""
+"Aqui, o administrador pode dar acesso às funções do usuário para usar o "
+"gerenciador de arquivos. O administrador pode definir a pasta de acesso "
+"padrão e também controlar o tamanho de upload do gerenciador de arquivos."
+
+#: inc/settings.php:15
+msgid "Settings - Code-editor"
+msgstr "Configurações - editor de código"
+
+#: inc/settings.php:16
+msgid ""
+"File Manager has a code editor with multiple themes. You can select any "
+"theme for code editor. It will display when you edit any file. Also you can "
+"allow fullscreen mode of code editor."
+msgstr ""
+"O Gerenciador de arquivos possui um editor de código com vários temas. Você "
+"pode selecionar qualquer tema para o editor de código. Ele será exibido "
+"quando você editar qualquer arquivo. Além disso, você pode permitir o modo "
+"de tela cheia do editor de código."
+
+#: inc/settings.php:18
+msgid "Code-editor View"
+msgstr "Visualização do editor de código"
+
+#: inc/settings.php:20
+msgid "Settings - User Restrictions"
+msgstr "Configurações - Restrições do usuário"
+
+#: inc/settings.php:21
+msgid ""
+"Admin can restrict actions of any user. Also hide files and folders and can "
+"set different - different folders paths for different users."
+msgstr ""
+"O administrador pode restringir as ações de qualquer usuário. Também oculta "
+"arquivos e pastas e pode definir diferentes - caminhos de pastas diferentes "
+"para usuários diferentes."
+
+#: inc/settings.php:23
+msgid "Settings - User Role Restrictions"
+msgstr "Configurações - Restrições de função do usuário"
+
+#: inc/settings.php:24
+msgid ""
+"Admin can restrict actions of any userrole. Also hide files and folders and "
+"can set different - different folders paths for different users roles."
+msgstr ""
+"O administrador pode restringir as ações de qualquer função de usuário. "
+"Também oculta arquivos e pastas e pode definir diferentes - caminhos de "
+"pastas diferentes para funções de usuários diferentes."
+
+#: inc/shortcode_docs.php:11
+msgid "File Manager - Shortcode"
+msgstr "Gerenciador de Arquivos - Shortcode"
+
+#: inc/shortcode_docs.php:15 inc/shortcode_docs.php:17
+#: inc/shortcode_docs.php:19
+msgid "USE:"
+msgstr "USAR:"
+
+#: inc/shortcode_docs.php:15
+msgid ""
+"It will show file manager on front end. You can control all settings from "
+"file manager settings. It will work same as backend WP File Manager."
+msgstr ""
+"Ele mostrará o gerenciador de arquivos no front-end. Você pode controlar "
+"todas as configurações nas configurações do gerenciador de arquivos. Ele "
+"funcionará da mesma forma que o WP File Manager de back-end."
+
+#: inc/shortcode_docs.php:17
+msgid ""
+"It will show file manager on front end. But only Administrator can access it "
+"and will control from file manager settings."
+msgstr ""
+"Ele mostrará o gerenciador de arquivos no front-end. Mas apenas o "
+"Administrador pode acessá-lo e controlará as configurações do gerenciador de "
+"arquivos."
+
+#: inc/shortcode_docs.php:23
+msgid "Parameters:"
+msgstr "Parâmetros:"
+
+#: inc/shortcode_docs.php:26
+msgid ""
+"It will allow all roles to access file manager on front end or You can "
+"simple use for particular user roles as like allowed_roles=\"editor,author"
+"\" (seprated by comma(,))"
+msgstr ""
+"Ele permitirá que todas as funções acessem o gerenciador de arquivos no "
+"front-end ou você pode usar simplesmente para funções de usuário "
+"específicas, como allowed_roles=\"editor,author\" (separado por vírgula (,))"
+
+#: inc/shortcode_docs.php:28
+msgid ""
+"Here \"test\" is the name of folder which is located on root directory, or "
+"you can give path for sub folders as like \"wp-content/plugins\". If leave "
+"blank or empty it will access all folders on root directory. Default: Root "
+"directory"
+msgstr ""
+"Aqui \"teste\" é o nome da pasta que está localizada no diretório raiz, ou "
+"você pode fornecer o caminho para subpastas como \"wp-content/plugins\". Se "
+"deixar em branco ou vazio, ele acessará todas as pastas no diretório raiz. "
+"Padrão: diretório raiz"
+
+#: inc/shortcode_docs.php:30
+msgid "for access to write files permissions, note: true/false, default: false"
+msgstr ""
+"para acesso a permissões de gravação de arquivos, observe: true/false, "
+"padrão: false"
+
+#: inc/shortcode_docs.php:32
+msgid "for access to read files permission, note: true/false, default: true"
+msgstr ""
+"para acesso à permissão de leitura de arquivos, observe: true/false, padrão: "
+"true"
+
+#: inc/shortcode_docs.php:34
+msgid "it will hide mentioned here. Note: seprated by comma(,). Default: Null"
+msgstr ""
+"ele vai esconder mencionado aqui. Nota: separados por vírgula(,). Padrão: "
+"Nulo"
+
+#: inc/shortcode_docs.php:36
+msgid ""
+"It will lock mentioned in commas. you can lock more as like \".php,.css,.js"
+"\" etc. Default: Null"
+msgstr ""
+"Ele irá bloquear mencionado entre vírgulas. você pode bloquear mais como \"."
+"php,.css,.js\" etc. Padrão: Null"
+
+#: inc/shortcode_docs.php:38
+msgid ""
+"* for all operations and to allow some operation you can mention operation "
+"name as like, allowed_operations=\"upload,download\". Note: seprated by "
+"comma(,). Default: *"
+msgstr ""
+"* para todas as operações e para permitir alguma operação, você pode "
+"mencionar o nome da operação como, allowed_operations=\"upload,download\". "
+"Nota: separados por vírgula(,). Predefinição: *"
+
+#: inc/shortcode_docs.php:42
+msgid "File Operations List:"
+msgstr "Lista de operações de arquivo:"
+
+#: inc/shortcode_docs.php:46
+msgid "mkdir ->"
+msgstr ""
+
+#: inc/shortcode_docs.php:46
+msgid "Make directory or folder"
+msgstr "Criar diretório ou pasta"
+
+#: inc/shortcode_docs.php:47
+msgid "mkfile ->"
+msgstr ""
+
+#: inc/shortcode_docs.php:47
+msgid "Make file"
+msgstr "Criar arquivo"
+
+#: inc/shortcode_docs.php:48
+msgid "rename ->"
+msgstr ""
+
+#: inc/shortcode_docs.php:48
+msgid "Rename a file or folder"
+msgstr "Renomear um arquivo ou pasta"
+
+#: inc/shortcode_docs.php:49
+msgid "duplicate ->"
+msgstr ""
+
+#: inc/shortcode_docs.php:49
+msgid "Duplicate or clone a folder or file"
+msgstr "Duplicar ou clonar uma pasta ou arquivo"
+
+#: inc/shortcode_docs.php:50
+msgid "paste ->"
+msgstr ""
+
+#: inc/shortcode_docs.php:50
+msgid "Paste a file or folder"
+msgstr "Cole um arquivo ou pasta"
+
+#: inc/shortcode_docs.php:51
+msgid "ban ->"
+msgstr ""
+
+#: inc/shortcode_docs.php:51
+msgid "Ban"
+msgstr "banimento"
+
+#: inc/shortcode_docs.php:52
+msgid "archive ->"
+msgstr ""
+
+#: inc/shortcode_docs.php:52
+msgid "To make a archive or zip"
+msgstr "Para fazer um arquivo ou zip"
+
+#: inc/shortcode_docs.php:53
+msgid "extract ->"
+msgstr ""
+
+#: inc/shortcode_docs.php:53
+msgid "Extract archive or zipped file"
+msgstr "Extrair arquivo ou arquivo compactado"
+
+#: inc/shortcode_docs.php:54
+msgid "copy ->"
+msgstr ""
+
+#: inc/shortcode_docs.php:54
+msgid "Copy files or folders"
+msgstr "Copiar arquivos ou pastas"
+
+#: inc/shortcode_docs.php:58
+msgid "cut ->"
+msgstr ""
+
+#: inc/shortcode_docs.php:58
+msgid "Simple cut a file or folder"
+msgstr "Simples recorte um arquivo ou pasta"
+
+#: inc/shortcode_docs.php:59
+msgid "edit ->"
+msgstr ""
+
+#: inc/shortcode_docs.php:59
+msgid "Edit a file"
+msgstr "Editar um arquivo"
+
+#: inc/shortcode_docs.php:60
+msgid "rm ->"
+msgstr ""
+
+#: inc/shortcode_docs.php:60
+msgid "Remove or delete files and folders"
+msgstr "Remover ou excluir arquivos e pastas"
+
+#: inc/shortcode_docs.php:61
+msgid "download ->"
+msgstr ""
+
+#: inc/shortcode_docs.php:61
+msgid "Download files"
+msgstr "Baixar arquivos"
+
+#: inc/shortcode_docs.php:62
+msgid "upload ->"
+msgstr ""
+
+#: inc/shortcode_docs.php:62
+msgid "Upload files"
+msgstr "Fazer upload de arquivos"
+
+#: inc/shortcode_docs.php:63
+msgid "search -> "
+msgstr ""
+
+#: inc/shortcode_docs.php:63
+msgid "Search things"
+msgstr "Pesquisar coisas"
+
+#: inc/shortcode_docs.php:64
+msgid "info ->"
+msgstr ""
+
+#: inc/shortcode_docs.php:64
+msgid "Info of file"
+msgstr "Informação do arquivo"
+
+#: inc/shortcode_docs.php:65
+msgid "help ->"
+msgstr ""
+
+#: inc/shortcode_docs.php:65
+msgid "Help"
+msgstr "Ajuda"
+
+#: inc/shortcode_docs.php:71
+msgid ""
+"->  It will ban particular users by just putting their ids seprated by "
+"commas(,). If user is Ban then they will not able to access wp file manager "
+"on front end."
+msgstr ""
+"->  Ele irá banir usuários específicos apenas colocando seus ids separados "
+"por vírgulas (,). Se o usuário for Ban, então ele não será capaz de acessar "
+"o gerenciador de arquivos wp no front end."
+
+#: inc/shortcode_docs.php:72
+msgid "-> Filemanager UI View. Default: grid"
+msgstr "-> Visualização da IU do gerenciador de arquivos. Padrão: grid"
+
+#: inc/shortcode_docs.php:73
+msgid "-> File Modified or Create date format. Default: d M, Y h:i A"
+msgstr "-> Arquivo modificado ou Criar formato de data. Padrão: d M, Y h:i A"
+
+#: inc/shortcode_docs.php:74
+msgid "-> File manager Language. Default: English(en)"
+msgstr "-> Idioma do gerenciador de arquivos. Padrão: English(en)"
+
+#: inc/shortcode_docs.php:75
+msgid "-> File Manager Theme. Default: Light"
+msgstr "-> Tema do gerenciador de arquivos. Padrão: Light"
+
+#: inc/system_properties.php:5
+msgid "File Manager - System Properties"
+msgstr "Gerenciador de arquivos - Propriedades do sistema"
+
+#: inc/system_properties.php:10
+msgid "PHP version"
+msgstr "Versão PHP"
+
+#: inc/system_properties.php:15
+msgid "Maximum file upload size (upload_max_filesize)"
+msgstr "Tamanho máximo de upload de arquivo (upload_max_filesize)"
+
+#: inc/system_properties.php:20
+msgid "Post maximum file upload size (post_max_size)"
+msgstr "Tamanho máximo de upload de arquivo da postagem (post_max_size)"
+
+#: inc/system_properties.php:25
+msgid "Memory Limit (memory_limit)"
+msgstr "Limite de memória (memory_limit)"
+
+#: inc/system_properties.php:30
+msgid "Timeout (max_execution_time)"
+msgstr "Tempo limite (max_execution_time)"
+
+#: inc/system_properties.php:35
+msgid "Browser and OS (HTTP_USER_AGENT)"
+msgstr "Navegador e sistema operacional (HTTP_USER_AGENT)"
+
+#: lib/jquery/jquery-ui-1.11.4.js:8
+msgid "'"
+msgstr ""
+
+#: lib/wpfilemanager.php:31
+msgid "Change Theme Here:"
+msgstr "Mude o tema aqui:"
+
+#: lib/wpfilemanager.php:35
+msgid "Default"
+msgstr "Padrão"
+
+#: lib/wpfilemanager.php:39
+msgid "Dark"
+msgstr "Escura"
+
+#: lib/wpfilemanager.php:43
+msgid "Light"
+msgstr "Luz"
+
+#: lib/wpfilemanager.php:47
+msgid "Gray"
+msgstr "cinza"
+
+#: lib/wpfilemanager.php:52
+msgid "Windows - 10"
+msgstr ""
+
+#: lib/wpfilemanager.php:85
+msgid "Welcome to File Manager"
+msgstr "Bem-vindo ao gerenciador de arquivos"
+
+#: lib/wpfilemanager.php:88
+msgid ""
+"We love making new friends! Subscribe below and we promise to\n"
+"    keep you up-to-date with our latest new plugins, updates,\n"
+"    awesome deals and a few special offers."
+msgstr ""
+"Adoramos fazer novos amigos! Inscreva-se abaixo e nós prometemos\n"
+"    mantê-lo atualizado com nossos novos plug-ins, atualizações,\n"
+"    promoções incríveis e algumas ofertas especiais."
+
+#: lib/wpfilemanager.php:99
+msgid "Please Enter First Name."
+msgstr "Por favor, insira o primeiro nome."
+
+#: lib/wpfilemanager.php:107
+msgid "Please Enter Last Name."
+msgstr "Digite o sobrenome."
+
+#: lib/wpfilemanager.php:116
+msgid "Please Enter Email Address."
+msgstr "Digite o endereço de e-mail."
+
+#: lib/wpfilemanager.php:120
+msgid "Verify"
+msgstr "Verificar"
+
+#: lib/wpfilemanager.php:126
+msgid "No Thanks"
+msgstr "Não, obrigado"
+
+#: lib/wpfilemanager.php:132
+msgid "Terms of Service"
+msgstr "Termos de serviço"
+
+#: lib/wpfilemanager.php:134
+msgid "Privacy Policy"
+msgstr "Política de Privacidade"
+
+#: lib/wpfilemanager.php:153
+msgid "Saving..."
+msgstr "Salvando ..."
+
+#: lib/wpfilemanager.php:155
+msgid "OK"
+msgstr "OK"
+
+#~ msgid "Backup not found!"
+#~ msgstr "Backup não encontrado!"
+
+#~ msgid "Backup removed successfully!"
+#~ msgstr "Backup removido com sucesso!"
+
+#~ msgid "<span class=\"fm_console_error\">Nothing selected for backup</span>"
+#~ msgstr ""
+#~ "<span class=\"fm_console_error\">Nada selecionado para backup</span>"
+
+#~ msgid "<span class=\"fm_console_error\">Security Issue.</span>"
+#~ msgstr "<span class=\"fm_console_error\">Problema de segurança. </span>"
+
+#~ msgid "<span class=\"fm_console_success\">Database backup done.</span>"
+#~ msgstr ""
+#~ "<span class=\"fm_console_success\">Backup de banco de dados feito. </span>"
+
+#~ msgid ""
+#~ "<span class=\"fm_console_error\">Unable to create database backup.</span>"
+#~ msgstr ""
+#~ "<span class=\"fm_console_error\">Não foi possível criar o backup do banco "
+#~ "de dados. </span>"
+
+#~ msgid "<span class=\"fm_console_success\">Plugins backup done.</span>"
+#~ msgstr ""
+#~ "<span class=\"fm_console_success\">Backup de plug-ins feito. </span>"
+
+#~ msgid "<span class=\"fm_console_error\">Plugins backup failed.</span>"
+#~ msgstr ""
+#~ "<span class=\"fm_console_error\">Falha no backup dos plug-ins. </span>"
+
+#~ msgid "<span class=\"fm_console_success\">Themes backup done.</span>"
+#~ msgstr ""
+#~ "<span class=\"fm_console_success\">Backup de temas concluído. </span>"
+
+#~ msgid "<span class=\"fm_console_error\">Themes backup failed.</span>"
+#~ msgstr "<span class=\"fm_console_error\">Falha no backup dos temas. </span>"
+
+#~ msgid "<span class=\"fm_console_success\">Uploads backup done.</span>"
+#~ msgstr ""
+#~ "<span class=\"fm_console_success\">Backup de uploads concluído. </span>"
+
+#~ msgid "<span class=\"fm_console_error\">Uploads backup failed.</span>"
+#~ msgstr ""
+#~ "<span class=\"fm_console_error\">Falha no backup dos uploads. </span>"
+
+#~ msgid "<span class=\"fm_console_success\">Others backup done.</span>"
+#~ msgstr "<span class=\"fm_console_success\">Outros backups feitos. </span>"
+
+#~ msgid "<span class=\"fm_console_error\">Others backup failed.</span>"
+#~ msgstr "<span class=\"fm_console_error\">Outros backups falhou. </span>"
+
+#~ msgid "<span class=\"fm_console_success\">All Done</span>"
+#~ msgstr "<span class=\"fm_console_success\">Tudo Concluído </span>"
+
+#~ msgid ""
+#~ "<code>[wp_file_manager view=\"list\" lang=\"en\" theme=\"light\" "
+#~ "dateformat=\"d M, Y h:i A\" allowed_roles=\"editor,author\" access_folder="
+#~ "\"wp-content/plugins\" write = \"true\" read = \"false\" hide_files = "
+#~ "\"kumar,abc.php\" lock_extensions=\".php,.css\" allowed_operations="
+#~ "\"upload,download\" ban_user_ids=\"2,3\"]"
+#~ msgstr ""
+#~ "<code>[wp_file_manager view=\"list\" lang=\"en\" theme=\"light\" "
+#~ "dateformat=\"d M, Y h:i A\" allowed_roles=\"editor,author\" access_folder="
+#~ "\"wp-content/plugins\" write = \"true\" read = \"false\" hide_files = "
+#~ "\"kumar,abc.php\" lock_extensions=\".php,.css\" allowed_operations="
+#~ "\"upload,download\" ban_user_ids=\"2,3\"]"
+
+#~ msgid "Image"
+#~ msgstr "Imagem"
+
+#~ msgid "of"
+#~ msgstr "de"
+
+#~ msgid "Close"
+#~ msgstr "Perto"
+
+#~ msgid ""
+#~ "This feature requires inline frames. You have iframes disabled or your "
+#~ "browser does not support them."
+#~ msgstr ""
+#~ "Este recurso requer frames embutidos. Você desativou os iframes ou seu "
+#~ "navegador não os suporta."
+
+#~ msgid "Theme Editor"
+#~ msgstr "Editor de Tema"
+
+#~ msgid "Plugin Editor"
+#~ msgstr "Editor de Plugin"
+
+#~ msgid "Access Control"
+#~ msgstr "Controle de acesso"
+
+#~ msgid "Notify Me"
+#~ msgstr "Me avise"
+
+#~ msgid "Language folder has been downlaoded successfully."
+#~ msgstr "o idioma foi baixado com sucesso."
+
+#~ msgid "Language folder failed to downlaod."
+#~ msgstr "ਭਾਸ਼ਾ ਫੋਲਡਰ ਡਾlaਨਲੋਡ ਕਰਨ ਵਿੱਚ ਅਸਫਲ."
+
+#~ msgid "Security token expired!"
+#~ msgstr "Token de segurança expirado!"
+
+#~ msgid " language has been downloaded successfully."
+#~ msgstr "o idioma foi baixado com sucesso."
+
+#~ msgid "Currently language "
+#~ msgstr "Idioma atual "
+
+#~ msgid " not available. Please click on the request language link."
+#~ msgstr " não disponível. Clique no link do idioma de solicitação."
+
+#~ msgid ""
+#~ "You do not have sufficient permissions to edit plugins for this site."
+#~ msgstr ""
+#~ "Você não tem permissões suficientes para editar plug-ins para este site."
+
+#~ msgid "There are no plugins installed on this site."
+#~ msgstr "Não há plug-ins instalados neste site."
+
+#~ msgid "There are no themes installed on this site."
+#~ msgstr "Não há temas instalados neste site."
+
+#~ msgid "<p class=\"te_error\">Please enter folder name!</p>"
+#~ msgstr "<p class=\"te_error\"> Digite o nome da pasta! </p>"
+
+#~ msgid "<p class=\"te_error\">Please enter file name!</p>"
+#~ msgstr "<p class=\"te_error\">Digite o nome do arquivo! </p>"
+
+#~ msgid "Open"
+#~ msgstr "Abrir"
+
+#~ msgid "Preview"
+#~ msgstr "Antevisão"
+
+#~ msgid "Edit"
+#~ msgstr "Editar"
+
+#~ msgid "Are you sure you want to abort the file uploading?"
+#~ msgstr "Tem certeza de que deseja abortar o envio do arquivo?"
+
+#~ msgid "File renamed successfully."
+#~ msgstr "Arquivo renomeado com sucesso."
+
+#~ msgid "Are you sure you want to delete folder?"
+#~ msgstr "Tem certeza que deseja excluir a pasta?"
+
+#~ msgid "Folder deleted successfully."
+#~ msgstr "Pasta excluída com sucesso."
+
+#~ msgid "File deleted successfully."
+#~ msgstr "Arquivo excluído com sucesso."
+
+#~ msgid "Folder renamed successfully."
+#~ msgstr "Pasta renomeada com sucesso."
+
+#~ msgid "<p class=\"te_error\">Not allowed more than 30 characters.</p>"
+#~ msgstr "<p class=\"te_error\">Não permitido mais de 30 caracteres.</p>"
+
+#~ msgid "Invalid request!"
+#~ msgstr "Pedido inválido!"
+
+#~ msgid "No change in file!"
+#~ msgstr "Nenhuma mudança no arquivo!"
+
+#~ msgid "File saved successfully!"
+#~ msgstr "Arquivo salvo com sucesso!"
+
+#~ msgid "File not saved!"
+#~ msgstr "Arquivo não salvo!"
+
+#~ msgid "Unable to verify security token!"
+#~ msgstr "Não foi possível verificar o token de segurança!"
+
+#~ msgid "Folder created successfully!"
+#~ msgstr "Pasta criada com sucesso!"
+
+#~ msgid "This folder format is not allowed to upload by wordpress!"
+#~ msgstr "Este formato de pasta não pode ser carregado por wordpress!"
+
+#~ msgid "Folder already exists!"
+#~ msgstr "A pasta já existe!"
+
+#~ msgid "File created successfully!"
+#~ msgstr "Arquivo criado com sucesso!"
+
+#~ msgid "This file extension is not allowed to create!"
+#~ msgstr "Esta extensão de arquivo não tem permissão para criar!"
+
+#~ msgid "File already exists!"
+#~ msgstr "O arquivo já existe!"
+
+#~ msgid "Please enter a valid file extension!"
+#~ msgstr "Por favor, insira uma extensão de arquivo válida!"
+
+#~ msgid "Folder does not exists!"
+#~ msgstr "A pasta não existe!"
+
+#~ msgid "Folder deleted successfully!"
+#~ msgstr "Pasta excluída com sucesso!"
+
+#~ msgid "File deleted successfully!"
+#~ msgstr "Arquivo excluído com sucesso!"
+
+#~ msgid "This file extension is not allowed to upload by wordpress!"
+#~ msgstr "Esta extensão de arquivo não é permitida para upload por wordpress!"
+
+#~ msgid " already exists"
+#~ msgstr " Já existe"
+
+#~ msgid "File uploaded successfully: Uploaded file path is "
+#~ msgstr "Arquivo carregado com sucesso: o caminho do arquivo carregado é "
+
+#~ msgid "No file selected"
+#~ msgstr "Nenhum arquivo selecionado"
+
+#~ msgid "Unable to rename file! Try again."
+#~ msgstr "Incapaz de renomear o arquivo! Tente novamente."
+
+#~ msgid "Folder renamed successfully!"
+#~ msgstr "Pasta renomeada com sucesso!"
+
+#~ msgid "Please enter correct folder name"
+#~ msgstr "Por favor, insira o nome correto da pasta"
+
+#~ msgid "How can we help?"
+#~ msgstr "Como podemos ajudar?"
+
+#~ msgid "Learning resources, professional support and expert help."
+#~ msgstr ""
+#~ "Recursos de aprendizagem, suporte profissional e ajuda especializada."
+
+#~ msgid "Documentation"
+#~ msgstr "Documentação"
+
+#~ msgid "Find answers quickly from our comprehensive documentation."
+#~ msgstr "Encontre respostas rapidamente em nossa documentação abrangente."
+
+#~ msgid "Learn More"
+#~ msgstr "Saber mais"
+
+#~ msgid "Contact Us"
+#~ msgstr "Contate-Nos"
+
+#~ msgid "Submit a support ticket for answers on questions you may have."
+#~ msgstr ""
+#~ "Envie um tíquete de suporte para obter respostas sobre suas dúvidas."
+
+#~ msgid "Request a Feature"
+#~ msgstr "Solicite um recurso"
+
+#~ msgid "Tell us what you want and will add it to our roadmap."
+#~ msgstr "iga-nos o que deseja e irá adicioná-lo ao nosso roteiro."
+
+#~ msgid "Tell us what you think!"
+#~ msgstr "Nos diga o que você acha!"
+
+#~ msgid "Rate and give us a review on Wordpress!"
+#~ msgstr "Avalie e dê-nos uma revisão no Wordpress!"
+
+#~ msgid "Leave a Review"
+#~ msgstr "Deixe um comentário"
+
+#~ msgid "Update"
+#~ msgstr "Atualizar"
+
+#~ msgid "Click here to install/update "
+#~ msgstr "Clique aqui para instalar / atualizar "
+
+#~ msgid " language translation for Theme Editor."
+#~ msgstr " tradução de idioma para o Theme Editor."
+
+#~ msgid "Installed"
+#~ msgstr "Instalado"
+
+#~ msgid "English is the default language of Theme Editor. "
+#~ msgstr "Inglês é o idioma padrão do Theme Editor. "
+
+#~ msgid "Request "
+#~ msgstr "Solicitação"
+
+#~ msgid "Click here to request"
+#~ msgstr "Clique aqui para solicitar"
+
+#~ msgid "language translation for Theme Editor"
+#~ msgstr "tradução de linguagem para Theme Editor"
+
+#~ msgid "Theme Editor Language:"
+#~ msgstr "Linguagem do editor de temas:"
+
+#~ msgid " language"
+#~ msgstr " língua"
+
+#~ msgid "Available languages"
+#~ msgstr "Idiomas disponíveis"
+
+#~ msgid "Click here to download all available languages."
+#~ msgstr "Clique aqui para baixar todos os idiomas disponíveis."
+
+#~ msgid "Request a language"
+#~ msgstr "Solicite um idioma"
+
+#~ msgid "Tell us which language you want to add."
+#~ msgstr "Diga-nos qual idioma você deseja adicionar."
+
+#~ msgid "Contact us"
+#~ msgstr "Contate-Nos"
+
+#~ msgid "Notifications"
+#~ msgstr "Notificações"
+
+#~ msgid ""
+#~ "<strong>Note: This is just a screenshot. Buy PRO Version for this feature."
+#~ "</strong>"
+#~ msgstr ""
+#~ "<strong> Observação: esta é apenas uma captura de tela. Compre a versão "
+#~ "PRO para este recurso. </strong>"
+
+#~ msgid "Permissions"
+#~ msgstr "Permissões"
+
+#~ msgid "Edit Plugin"
+#~ msgstr "Editar Plugin"
+
+#~ msgid ""
+#~ "<strong>This plugin is currently activated!</strong> Warning: Making "
+#~ "changes to active plugins is not recommended.\tIf your changes cause a "
+#~ "fatal error, the plugin will be automatically deactivated."
+#~ msgstr ""
+#~ "<strong> Este plug-in está ativado no momento! </strong> Aviso: Não é "
+#~ "recomendado fazer alterações nos plug-ins ativos. Se suas alterações "
+#~ "causarem um erro fatal, o plugin será automaticamente desativado."
+
+#~ msgid "Editing <span class=\"current_file\">"
+#~ msgstr "Editando <span class=\"current_file\">"
+
+#~ msgid "</span> (active)"
+#~ msgstr "</span> (ativo)"
+
+#~ msgid "Browsing <span class=\"current_file\">"
+#~ msgstr "Navegando <span class=\"current_file\">"
+
+#~ msgid "</span> (inactive)"
+#~ msgstr "</span> (inativo)"
+
+#~ msgid "Update File"
+#~ msgstr "Atualizar arquivo"
+
+#~ msgid "Download Plugin"
+#~ msgstr "Baixe o plugin"
+
+#~ msgid ""
+#~ "You need to make this file writable before you can save your changes. See "
+#~ "<a href=\"https://wordpress.org/support/article/changing-file-permissions/"
+#~ "\" target=\"_blank\">the Codex</a> for more information."
+#~ msgstr ""
+#~ "Você precisa tornar este arquivo gravável antes de salvar suas "
+#~ "alterações. Consulte <a href=\"https://wordpress.org/support/article/"
+#~ "changing-file-permissions/\" target=\"_blank\"> o Codex </a> para obter "
+#~ "mais informações."
+
+#~ msgid "Select plugin to edit:"
+#~ msgstr "Selecione o plugin para editar:"
+
+#~ msgid "Create Folder and File"
+#~ msgstr "Criar pasta e arquivo"
+
+#~ msgid "Create"
+#~ msgstr "Crio"
+
+#~ msgid "Remove Folder and File"
+#~ msgstr "Remover pasta e arquivo"
+
+#~ msgid "Remove "
+#~ msgstr "Remover"
+
+#~ msgid "To"
+#~ msgstr "Para"
+
+#~ msgid "Optional: Sub-Directory"
+#~ msgstr "Opcional: subdiretório"
+
+#~ msgid "Choose File "
+#~ msgstr "Escolher arquivo"
+
+#~ msgid "No file Chosen "
+#~ msgstr "Nenhum arquivo selecionado "
+
+#~ msgid "Create a New Folder: "
+#~ msgstr "Criar uma nova pasta:"
+
+#~ msgid "New folder will be created in: "
+#~ msgstr "A nova pasta será criada em:"
+
+#~ msgid "New Folder Name: "
+#~ msgstr "Novo nome da pasta:"
+
+#~ msgid "Create New Folder"
+#~ msgstr "Criar nova pasta"
+
+#~ msgid "Create a New File: "
+#~ msgstr "Crie um novo arquivo:"
+
+#~ msgid "New File will be created in: "
+#~ msgstr "O novo arquivo será criado em:"
+
+#~ msgid "New File Name: "
+#~ msgstr "Novo nome de arquivo:"
+
+#~ msgid "Create New File"
+#~ msgstr "Criar novo arquivo"
+
+#~ msgid "Warning: please be careful before remove any folder or file."
+#~ msgstr "Aviso: tenha cuidado antes de remover qualquer pasta ou arquivo."
+
+#~ msgid "Current Theme Path: "
+#~ msgstr "Caminho do tema atual:"
+
+#~ msgid "Remove Folder: "
+#~ msgstr "Remover pasta:"
+
+#~ msgid "Folder Path which you want to remove: "
+#~ msgstr "Caminho da pasta que você deseja remover: "
+
+#~ msgid "Remove Folder"
+#~ msgstr "Remover pasta"
+
+#~ msgid "Remove File: "
+#~ msgstr "Remover arquivo:"
+
+#~ msgid "File Path which you want to remove: "
+#~ msgstr "Caminho do arquivo que você deseja remover: "
+
+#~ msgid "Remove File"
+#~ msgstr "Remover arquivo"
+
+#~ msgid "Please Enter Valid Email Address."
+#~ msgstr "Por favor insira o endereço de e-mail válido."
+
+#~ msgid "Warning: Please be careful before rename any folder or file."
+#~ msgstr "Aviso: tenha cuidado antes de renomear qualquer pasta ou arquivo."
+
+#~ msgid "File/Folder will be rename in: "
+#~ msgstr "O arquivo / pasta será renomeado em:"
+
+#~ msgid "File/Folder Rename: "
+#~ msgstr "Renomear arquivo / pasta:"
+
+#~ msgid "Rename File"
+#~ msgstr "Renomear arquivo"
+
+#~ msgid "Follow us"
+#~ msgstr "Siga-nos"
+
+#~ msgid "Theme Editor Facebook"
+#~ msgstr "Editor de temas do Facebook"
+
+#~ msgid "Theme Editor Instagram"
+#~ msgstr "Theme Editor Instagram"
+
+#~ msgid "Theme Editor Twitter"
+#~ msgstr "Editor de temas no Twitter"
+
+#~ msgid "Theme Editor Linkedin"
+#~ msgstr "Editor de Tema Linkedin"
+
+#~ msgid "Theme Editor Youtube"
+#~ msgstr "Theme Editor Youtube"
+
+#~ msgid "Go to ThemeEditor site"
+#~ msgstr "Vá para o site ThemeEditor"
+
+#~ msgid "Theme Editor Links"
+#~ msgstr "Links do Editor de Tema"
+
+#~ msgid "Child Theme"
+#~ msgstr "Tema Infantil"
+
+#~ msgid "Child Theme Permissions"
+#~ msgstr "Permissões de tema filho"
+
+#~ msgid " is not available. Please click "
+#~ msgstr " não está disponível. Por favor clique "
+
+#~ msgid "here"
+#~ msgstr "aqui"
+
+#~ msgid "to request language."
+#~ msgstr "para solicitar o idioma."
+
+#~ msgid "Click"
+#~ msgstr "Clique"
+
+#~ msgid "to install "
+#~ msgstr "para instalar"
+
+#~ msgid " language translation  for Theme Editor."
+#~ msgstr " tradução de idioma para o Theme Editor."
+
+#~ msgid "Success: Settings Saved!"
+#~ msgstr "Sucesso: configurações salvas!"
+
+#~ msgid "No changes have been made to save."
+#~ msgstr "Nenhuma alteração foi feita para salvar."
+
+#~ msgid "Enable Theme Editor For Themes"
+#~ msgstr "Habilitar Editor de Tema para Temas"
+
+#~ msgid "Yes"
+#~ msgstr "sim"
+
+#~ msgid "No"
+#~ msgstr "Não"
+
+#~ msgid ""
+#~ "This will Enable/Disable the theme editor.<br/><strong class=\"defs"
+#~ "\">Default: </strong>Yes"
+#~ msgstr ""
+#~ "Isso irá ativar / desativar o editor de tema.<br/><strong class=\"defs"
+#~ "\">Padrão: </strong>Sim"
+
+#~ msgid "Disable Default WordPress Theme Editor?"
+#~ msgstr "Desativar Editor de temas padrão do WordPress?"
+
+#~ msgid ""
+#~ "This will Enable/Disable the Default theme editor.<br/><strong class="
+#~ "\"defs\">Default: </strong>Yes"
+#~ msgstr ""
+#~ "Isso irá ativar / desativar o editor de tema padrão.<br/><strong class="
+#~ "\"defs\">Padrão: </strong>Sim"
+
+#~ msgid "Enable Plugin Editor For Plugin"
+#~ msgstr "Habilitar Editor de Plug-in para Plug-in"
+
+#~ msgid ""
+#~ "This will Enable/Disable the plugin editor.<br/><strong class=\"defs"
+#~ "\">Default: </strong>Yes"
+#~ msgstr ""
+#~ "Isso irá ativar / desativar o editor de plugins.<br/><strong class=\"defs"
+#~ "\">Padrão: </strong>Sim"
+
+#~ msgid "Disable Default WordPress Plugin Editor?"
+#~ msgstr "Desativar Editor de Plug-in do WordPress padrão?"
+
+#~ msgid ""
+#~ "This will Enable/Disable the Default plugin editor.<br/><strong class="
+#~ "\"defs\">Default: </strong>Yes"
+#~ msgstr ""
+#~ "Isso irá ativar / desativar o editor de plugin padrão.<br/><strong class="
+#~ "\"defs\">Padrão: </strong>Sim"
+
+#~ msgid "Code Editor"
+#~ msgstr "Editor de Código"
+
+#~ msgid ""
+#~ "Allows you to select theme for theme editor.<br/><strong class=\"defs"
+#~ "\">Default: </strong>Cobalt"
+#~ msgstr ""
+#~ "Permite que você selecione um tema para o editor de temas.<br/><strong "
+#~ "class=\"defs\">Padrão: </strong> Cobalto"
+
+#~ msgid "Edit Themes"
+#~ msgstr "Editar Temas"
+
+#~ msgid ""
+#~ "<strong>This theme is currently activated!</strong> Warning: Making "
+#~ "changes to active themes is not recommended."
+#~ msgstr ""
+#~ "<strong> Este tema está ativado no momento! </strong> Aviso: Não é "
+#~ "recomendável fazer alterações nos temas ativos."
+
+#~ msgid "Editing"
+#~ msgstr "Editando"
+
+#~ msgid "Browsing"
+#~ msgstr "Navegando"
+
+#~ msgid "Update File and Attempt to Reactivate"
+#~ msgstr "Atualizar arquivo e tentar reativar"
+
+#~ msgid "Download Theme"
+#~ msgstr "Baixar tema"
+
+#~ msgid "Select theme to edit:"
+#~ msgstr "Selecione o tema para editar:"
+
+#~ msgid "Theme Files"
+#~ msgstr "Arquivos de tema"
+
+#~ msgid "Choose File"
+#~ msgstr "Escolher arquivo"
+
+#~ msgid "No File Chosen"
+#~ msgstr "Nenhum arquivo selecionado"
+
+#~ msgid "Warning: Please be careful before remove any folder or file."
+#~ msgstr "Aviso: tenha cuidado antes de remover qualquer pasta ou arquivo."
+
+#~ msgid "Child Theme Permission"
+#~ msgstr "Permissão de tema infantil"
+
+#~ msgid "Translations"
+#~ msgstr "Traduções"
+
+#~ msgid "create, edit, upload, download, delete Theme Files and folders"
+#~ msgstr ""
+#~ "criar, editar, fazer upload, baixar, excluir arquivos e pastas de temas"
+
+#~ msgid "You do not have the permission to create new child theme."
+#~ msgstr "Você não tem permissão para criar um novo tema filho."
+
+#~ msgid ""
+#~ "You do not have the permission to change configure existing child theme."
+#~ msgstr ""
+#~ "Você não tem permissão para alterar a configuração do tema filho "
+#~ "existente."
+
+#~ msgid "You do not have the permission to duplicate the child theme."
+#~ msgstr "Você não tem permissão para duplicar o tema filho."
+
+#~ msgid "You do not have the permission to access query/ selector menu."
+#~ msgstr "Você não tem permissão para acessar o menu de consulta / seletor."
+
+#~ msgid "You do not have the permission to access web fonts & CSS menu."
+#~ msgstr "Você não tem permissão para acessar as fontes da web e o menu CSS."
+
+#~ msgid "You do not have the permission to copy files."
+#~ msgstr "Você não tem permissão para copiar arquivos."
+
+#~ msgid "You do not have the permission to delete child files."
+#~ msgstr "Você não tem permissão para excluir arquivos secundários."
+
+#~ msgid "You do not have the permission to upload new screenshot."
+#~ msgstr ""
+#~ "Você não tem permissão para fazer upload de uma nova captura de tela."
+
+#~ msgid "You do not have the permission to upload new images."
+#~ msgstr "Você não tem permissão para fazer upload de novas imagens."
+
+#~ msgid "You do not have the permission to delete images."
+#~ msgstr "Você não tem permissão para excluir imagens."
+
+#~ msgid "You do not have the permission to download file."
+#~ msgstr "Você não tem permissão para baixar o arquivo."
+
+#~ msgid "You do not have the permission to create new directory."
+#~ msgstr "Você não tem permissão para criar um novo diretório."
+
+#~ msgid "You do not have the permission to create new file."
+#~ msgstr "Você não tem permissão para criar um novo arquivo."
+
+#~ msgid "You don't have permission to update file!"
+#~ msgstr "Você não tem permissão para atualizar o arquivo!"
+
+#~ msgid "You don't have permission to create folder!"
+#~ msgstr "Você não tem permissão para criar pasta!"
+
+#~ msgid "You don't have permission to delete folder!"
+#~ msgstr "Você não tem permissão para excluir a pasta!"
+
+#~ msgid "You don't have permission to delete file!"
+#~ msgstr "Você não tem permissão para excluir o arquivo!"
+
+#~ msgid "You don't have permission to upload file!"
+#~ msgstr "Você não tem permissão para enviar o arquivo!"
+
+#~ msgid "Child Theme permissions saved successfully."
+#~ msgstr "Permissões de tema infantil salvas com sucesso."
+
+#~ msgid ""
+#~ "There are no changes made in the child theme permissions to be saved."
+#~ msgstr ""
+#~ "Não há alterações feitas nas permissões do tema filho a serem salvas."
+
+#~ msgid "Child Theme permission message saved successfully."
+#~ msgstr "Mensagem de permissão do tema infantil salva com sucesso."
+
+#~ msgid "Users"
+#~ msgstr "Comercial"
+
+#~ msgid "Create New Child Theme"
+#~ msgstr "Criar Novo Tema Infantil"
+
+#~ msgid "Configure an Existing Child Themes"
+#~ msgstr "Configurar Temas Filhos Existentes"
+
+#~ msgid "Duplicate Child Themes"
+#~ msgstr "Duplicar temas filho"
+
+#~ msgid "Query/ Selector"
+#~ msgstr "Consulta / Seletor"
+
+#~ msgid "Web/font"
+#~ msgstr "Web / fonte"
+
+#~ msgid "Copy File Parent Theme To Child Theme"
+#~ msgstr "Copiar arquivo tema pai para tema filho"
+
+#~ msgid "Deleted Child Files"
+#~ msgstr "Arquivos Filhos Deletados"
+
+#~ msgid "Upload New Screenshoot"
+#~ msgstr "Carregar nova sessão de tela"
+
+#~ msgid "Upload New Images"
+#~ msgstr "Carregar novas imagens"
+
+#~ msgid "Deleted Images "
+#~ msgstr "Imagens excluídas"
+
+#~ msgid "Download Images"
+#~ msgstr "Baixar imagens"
+
+#~ msgid "Create New Directory"
+#~ msgstr "Criar novo diretório"
+
+#~ msgid "Create New Files"
+#~ msgstr "Criar novos arquivos"
+
+#~ msgid "Export Theme"
+#~ msgstr "Exportar tema"
+
+#~ msgid "User Roles"
+#~ msgstr "Funções do usuário"
+
+#~ msgid "Query/ Seletor"
+#~ msgstr "Consulta / Seletor"
+
+#~ msgid "Deleted Images"
+#~ msgstr "Imagens excluídas"
+
+#~ msgid "Child Theme Permission Message"
+#~ msgstr "Mensagem de permissão do tema infantil"
+
+#~ msgid "You do not have the permission to create new Child Theme."
+#~ msgstr "Você não tem permissão para criar um novo tema filho."
+
+#~ msgid "Query/Selector"
+#~ msgstr "Consulta / Seletor"
+
+#~ msgid "You do not have the permission to access query / selector menu."
+#~ msgstr "Você não tem permissão para acessar o menu de consulta / seletor."
+
+#~ msgid " Web/font"
+#~ msgstr "Web / fonte"
+
+#~ msgid " Export Theme"
+#~ msgstr "Exportar tema"
+
+#~ msgid "Save Child Theme Message"
+#~ msgstr "Mensagem de permissão do tema infantil"
+
+#~ msgid "Please select atleast one image."
+#~ msgstr "Selecione pelo menos uma imagem."
+
+#~ msgid "You don't have the permission to delete images."
+#~ msgstr "Você não tem permissão para excluir imagens."
+
+#~ msgid "You don't have the permission to upload new images."
+#~ msgstr "Você não tem permissão para fazer upload de novas imagens."
+
+#~ msgid "You don't have the permission to download."
+#~ msgstr "Você não tem permissão para fazer download."
+
+#~ msgid "You don't have the permission to create new directory."
+#~ msgstr "Você não tem permissão para criar um novo diretório."
+
+#~ msgid "Please choose file type."
+#~ msgstr "Escolha o tipo de arquivo."
+
+#~ msgid "Please enter file name."
+#~ msgstr "Por favor, insira o nome do arquivo."
+
+#~ msgid "You don't have the permission to create new file."
+#~ msgstr "Você não tem permissão para criar um novo arquivo."
+
+#~ msgid "Are you sure to copy parent files into child theme?"
+#~ msgstr ""
+#~ "Tem certeza de que deseja copiar os arquivos principais para o tema "
+#~ "secundário?"
+
+#~ msgid "Please select file(s)."
+#~ msgstr "Selecione o (s) arquivo (s)."
+
+#~ msgid "You don't have the permission to copy files."
+#~ msgstr "Você não tem permissão para copiar arquivos."
+
+#~ msgid "Are you sure you want to delete selected file(s)?"
+#~ msgstr "Tem certeza que deseja excluir o (s) arquivo (s) selecionado (s)?"
+
+#~ msgid "You don't have the permission to delete child files."
+#~ msgstr "Você não tem permissão para excluir arquivos secundários."
+
+#~ msgid "You don't have the permission to upload new screenshot."
+#~ msgstr ""
+#~ "Você não tem permissão para fazer upload de uma nova captura de tela."
+
+#~ msgid "You don't have the permission to export theme."
+#~ msgstr "Você não tem permissão para exportar o tema."
+
+#~ msgid "You don't have the permission to access Query/ Selector menu."
+#~ msgstr "Você não tem permissão para acessar o menu Consulta / Seletor."
+
+#~ msgid "You don't have the permission to access Web Fonts & CSS menu."
+#~ msgstr "Você não tem permissão para acessar o menu Web Fonts e CSS."
+
+#~ msgid "Current Analysis Theme:"
+#~ msgstr "Tema de análise atual:"
+
+#~ msgid "Preview Theme"
+#~ msgstr "Pré-visualizar Tema"
+
+#~ msgid "Parent Themes"
+#~ msgstr "Temas Pais"
+
+#~ msgid "Child Themes"
+#~ msgstr "Temas Infantis"
+
+#~ msgid "Error: Settings Not Saved!"
+#~ msgstr "Erro: configurações não salvas!"
+
+#~ msgid "Email List"
+#~ msgstr "Lista de Emails"
+
+#~ msgid "Email Address"
+#~ msgstr "Endereço de e-mail"
+
+#~ msgid "Enter Email"
+#~ msgstr "Digite o e-mail"
+
+#~ msgid "Add More"
+#~ msgstr "Adicione mais"
+
+#~ msgid ""
+#~ "This address is used for notification purposes, like theme/plugin "
+#~ "notification."
+#~ msgstr ""
+#~ "Este endereço é usado para fins de notificação, como notificação de "
+#~ "tema / plugin."
+
+#~ msgid "Theme Notification"
+#~ msgstr "Notificação de tema"
+
+#~ msgid "Notify on file update"
+#~ msgstr "Notificar sobre atualização de arquivo"
+
+#~ msgid ""
+#~ "Notification on theme file edit or update.<br/><strong>Default: </"
+#~ "strong>Yes"
+#~ msgstr ""
+#~ "Notificação sobre a edição ou atualização do arquivo de tema. <br/> "
+#~ "<strong> Padrão: </strong> Sim"
+
+#~ msgid "Notify on files download"
+#~ msgstr "Notificar sobre download de arquivos"
+
+#~ msgid ""
+#~ "Notification on theme file edit download.<br/><strong>Default: </"
+#~ "strong>Yes"
+#~ msgstr ""
+#~ "Notificação sobre download de edição de arquivo de tema. <br/> <strong> "
+#~ "Padrão: </strong> Sim"
+
+#~ msgid "Notify on theme download"
+#~ msgstr "Notificar sobre o download do tema"
+
+#~ msgid "Notification on theme download.<br/><strong>Default: </strong>Yes"
+#~ msgstr ""
+#~ "Notificação sobre o download do tema. <br/><strong> Padrão: </strong> Sim"
+
+#~ msgid "Notify on files upload"
+#~ msgstr "Notificar sobre upload de arquivos"
+
+#~ msgid ""
+#~ "Notification on files upload in theme.<br/><strong>Default: </strong>Yes"
+#~ msgstr ""
+#~ "Notificação sobre upload de arquivos no tema. <br/><strong> Padrão: </"
+#~ "strong> Sim"
+
+#~ msgid "Notify on create new file/folder"
+#~ msgstr "Notificar ao criar novo arquivo / pasta"
+
+#~ msgid ""
+#~ "Notification on create new file/folder in theme.<br/><strong>Default: </"
+#~ "strong>Yes"
+#~ msgstr ""
+#~ "Notificação sobre a criação de um novo arquivo / pasta no tema. <br/"
+#~ "><strong> Padrão: </strong> Sim"
+
+#~ msgid "Notify on delete"
+#~ msgstr "Notificar na exclusão"
+
+#~ msgid ""
+#~ "Notify on delete any file and folder in themes.<br/><strong>Default: </"
+#~ "strong>Yes"
+#~ msgstr ""
+#~ "Notificar ao excluir qualquer arquivo e pasta nos temas. <br/><strong> "
+#~ "Padrão: </strong> Sim"
+
+#~ msgid "Notify on create New Child theme"
+#~ msgstr "Notificar ao criar um novo tema filho"
+
+#~ msgid ""
+#~ "Notify on Create New Child themes. <br/><strong>Default: </strong>Yes"
+#~ msgstr ""
+#~ "Notifique sobre os temas Criar Novos Filhos. <br/><strong> Padrão: </"
+#~ "strong> Sim"
+
+#~ msgid "Notify on configure an Existing Child themes"
+#~ msgstr "Notificar sobre a configuração de temas filhos existentes"
+
+#~ msgid ""
+#~ "Notify on configure an Existing Child themes.<br/><strong>Default: </"
+#~ "strong>Yes"
+#~ msgstr ""
+#~ "Notificar sobre a configuração de temas Filhos Existentes. <br/><strong> "
+#~ "Padrão: </strong> Sim"
+
+#~ msgid "Notify on Duplicate Child themes"
+#~ msgstr "Notificar sobre temas-filho duplicados"
+
+#~ msgid ""
+#~ "Notify on Configure an Existing Child themes.<br/><strong>Default: </"
+#~ "strong>Yes"
+#~ msgstr ""
+#~ "Notificar ao configurar temas filho existentes. <br/><strong> Padrão: </"
+#~ "strong> Sim"
+
+#~ msgid "Plugin Notification"
+#~ msgstr "Notificação de plug-in"
+
+#~ msgid ""
+#~ "Notification on theme file edit or update.<br/><strong>Default: </"
+#~ "strong>yes"
+#~ msgstr ""
+#~ "Notificação sobre a edição ou atualização do arquivo de tema. <br/"
+#~ "><strong> Padrão: </strong> sim"
+
+#~ msgid "Notify on Plugin download"
+#~ msgstr "Notificar no download do plug-in"
+
+#~ msgid "Notification on Plugin download.<br/><strong>Default: </strong>Yes"
+#~ msgstr ""
+#~ "Notificação no download do plug-in. <br/><strong> Padrão: </strong> Sim"
+
+#~ msgid ""
+#~ "Notification on file upload in theme.<br/><strong>Default: </strong>Yes"
+#~ msgstr ""
+#~ "Notificação sobre upload de arquivo no tema. <br/><strong> Padrão: </"
+#~ "strong> Sim"
+
+#~ msgid "Permission saved successfully."
+#~ msgstr "Permissão salva com sucesso."
+
+#~ msgid "Oops! Permission cannot saved because you have not made any changes."
+#~ msgstr ""
+#~ "Ops! A permissão não pode ser salva porque você não fez nenhuma alteração."
+
+#~ msgid "Allowed User Roles"
+#~ msgstr "Funções de usuário permitidas"
+
+#~ msgid "Update theme files"
+#~ msgstr "Atualizar arquivos de tema"
+
+#~ msgid "Create new theme files and folders"
+#~ msgstr "Crie novos arquivos e pastas de tema"
+
+#~ msgid "Upload new theme files and folders"
+#~ msgstr "Faça upload de novos arquivos e pastas de tema"
+
+#~ msgid "Download theme files"
+#~ msgstr "Baixar arquivos de tema"
+
+#~ msgid "Download theme"
+#~ msgstr "Baixar tema"
+
+#~ msgid "Update plugin files"
+#~ msgstr "Atualizar arquivos de plug-in"
+
+#~ msgid "Create new plugin files and folders"
+#~ msgstr "Crie novos arquivos e pastas de plug-in"
+
+#~ msgid "Upload new plugin files and folders"
+#~ msgstr "Faça upload de novos arquivos e pastas de plug-in"
+
+#~ msgid "Delete plugin files and folders"
+#~ msgstr "Excluir arquivos e pastas de plug-ins"
+
+#~ msgid "Download plugin files"
+#~ msgstr "Baixar arquivos de plugin"
+
+#~ msgid "Download plugin"
+#~ msgstr "Baixar plugin"
+
+#~ msgid ""
+#~ "Theme Editor PRO - Please add your order details below. If Not <a href="
+#~ "\"https://themeeditor.pro/product/theme-editor/\" target=\"_blank\" class="
+#~ "\"page-title-action button button-primary\" title=\"click to buy Licence "
+#~ "Key\">Buy Now</a>"
+#~ msgstr ""
+#~ "Theme Editor PRO - Por favor, adicione os detalhes do seu pedido abaixo. "
+#~ "Se não <a href=\"https://themeeditor.pro/product/theme-editor/\" target="
+#~ "\"_blank\" class=\"page-title-action button button-primary\" title="
+#~ "\"click to buy Licence Key\">Compre agora </a>"
+
+#~ msgid "ORDER ID (#) *"
+#~ msgstr "ID DO PEDIDO (#) *"
+
+#~ msgid "Enter Order ID"
+#~ msgstr "Insira o ID do pedido"
+
+#~ msgid "Please Check Your email for order ID."
+#~ msgstr "Verifique seu e-mail para obter o ID do pedido."
+
+#~ msgid "LICENCE KEY *"
+#~ msgstr "CHAVE DE LICENÇA *"
+
+#~ msgid "Enter License Key"
+#~ msgstr "Insira chave da licença"
+
+#~ msgid "Please Check Your email for Licence Key."
+#~ msgstr "Verifique seu e-mail para obter a chave de licença."
+
+#~ msgid "Click To Verify"
+#~ msgstr "Clique para verificar"
+
+#~ msgid "URL/None"
+#~ msgstr "URL / nenhum"
+
+#~ msgid "Origin"
+#~ msgstr "Origem"
+
+#~ msgid "Color 1"
+#~ msgstr "Cor 1"
+
+#~ msgid "Color 2"
+#~ msgstr "Cor 2"
+
+#~ msgid "Width/None"
+#~ msgstr "Largura / Nenhum"
+
+#~ msgid "Style"
+#~ msgstr "Estilo"
+
+#~ msgid "Color"
+#~ msgstr "Cor"
+
+#~ msgid "Configure Child Theme"
+#~ msgstr "Configurar Tema Infantil"
+
+#~ msgid "Duplicate Child theme"
+#~ msgstr "Duplicar temas filho"
+
+#~ msgid ""
+#~ "After analyzing, this theme is working fine. You can use this as your "
+#~ "Child Theme."
+#~ msgstr ""
+#~ "Depois de analisar, este tema está funcionando bem. Você pode usar isso "
+#~ "como seu tema infantil."
+
+#~ msgid ""
+#~ "After analyzing this child theme appears to be functioning correctly."
+#~ msgstr ""
+#~ "Depois de analisar, este tema filho parece estar funcionando corretamente."
+
+#~ msgid ""
+#~ "This theme loads additional stylesheets after the <code>style.css</code> "
+#~ "file:"
+#~ msgstr ""
+#~ "Este tema carrega folhas de estilo adicionais após o arquivo <code> style."
+#~ "css </code>:"
+
+#~ msgid "The theme"
+#~ msgstr "Nome do Tema"
+
+#~ msgid " could not be analyzed because the preview did not render correctly"
+#~ msgstr ""
+#~ "não pôde ser analisado porque a visualização não foi renderizada "
+#~ "corretamente"
+
+#~ msgid "This Child Theme has not been configured for this plugin"
+#~ msgstr "Este tema infantil não foi configurado para este plugin"
+
+#~ msgid ""
+#~ "The Configurator makes significant modifications to the child theme, "
+#~ "including stylesheet changes and additional php functions. Please "
+#~ "consider using the DUPLICATE child theme option (see step 1, above) and "
+#~ "keeping the original as a backup."
+#~ msgstr ""
+#~ "O Configurador faz modificações significativas no tema filho, incluindo "
+#~ "alterações na folha de estilo e funções adicionais de php. Considere usar "
+#~ "a opção de tema filho DUPLICAR (consulte a etapa 1, acima) e manter o "
+#~ "original como backup."
+
+#~ msgid "All webfonts/css information saved successfully."
+#~ msgstr "Todas as informações de webfonts / css foram salvas com sucesso."
+
+#~ msgid "Please enter value for webfonts/css."
+#~ msgstr "Insira o valor para webfonts / css."
+
+#~ msgid "You don\\'t have permission to update webfonts/css."
+#~ msgstr "Você não tem permissão para atualizar webfonts / css."
+
+#~ msgid "All information saved successfully."
+#~ msgstr "Todas as informações foram salvas com sucesso."
+
+#~ msgid ""
+#~ "Are you sure you wish to RESET? This will destroy any work you have done "
+#~ "in the Configurator."
+#~ msgstr ""
+#~ "Tem certeza que deseja RESET? Isso irá destruir qualquer trabalho que "
+#~ "você tenha feito no Configurador."
+
+#~ msgid "Selectors"
+#~ msgstr "Seletores"
+
+#~ msgid "Edit Selector"
+#~ msgstr "Editar Seletor"
+
+#~ msgid "The stylesheet cannot be displayed."
+#~ msgstr "A folha de estilo não pode ser exibida."
+
+#~ msgid "(Child Only)"
+#~ msgstr "(Apenas para crianças)"
+
+#~ msgid "Please enter a valid Child Theme."
+#~ msgstr "Insira um tema infantil válido."
+
+#~ msgid "Please enter a valid Child Theme name."
+#~ msgstr "Insira um nome válido para o tema infantil."
+
+#, php-format
+#~ msgid "<strong>%s</strong> exists. Please enter a different Child Theme"
+#~ msgstr "<strong>%s</strong> existe. Insira um tema infantil diferente"
+
+#~ msgid "The page could not be loaded correctly."
+#~ msgstr "A página não pôde ser carregada corretamente."
+
+#~ msgid ""
+#~ "Conflicting or out-of-date jQuery libraries were loaded by another plugin:"
+#~ msgstr ""
+#~ "Bibliotecas jQuery conflitantes ou desatualizadas foram carregadas por "
+#~ "outro plug-in:"
+
+#~ msgid "Deactivating or replacing plugins may resolve this issue."
+#~ msgstr "Desativar ou substituir plug-ins pode resolver esse problema."
+
+#~ msgid "No result found for the selection."
+#~ msgstr "Nenhum resultado encontrado para a seleção."
+
+#, php-format
+#~ msgid "%sWhy am I seeing this?%s"
+#~ msgstr "%sPor que estou vendo isso?%s"
+
+#~ msgid "Parent / Child"
+#~ msgstr "Pai / Filho"
+
+#~ msgid "Select an action:"
+#~ msgstr "Selecione uma ação:"
+
+#~ msgid "Create a new Child Theme"
+#~ msgstr "Crie um novo tema infantil"
+
+#~ msgid "Configure an existing Child Theme"
+#~ msgstr "Crie um novo Tema Infantil; configure um Tema Infantil existente"
+
+#~ msgid "Duplicate an existing Child Theme"
+#~ msgstr "Duplicar um tema filho existente"
+
+#~ msgid "Select a Parent Theme:"
+#~ msgstr "Selecione um tema pai:"
+
+#~ msgid "Analyze Parent Theme"
+#~ msgstr "Analisar o tema pai"
+
+#~ msgid ""
+#~ "Click \"Analyze\" to determine stylesheet dependencies and other "
+#~ "potential issues."
+#~ msgstr ""
+#~ "Clique em \"Analisar\" para determinar as dependências da folha de estilo "
+#~ "e outros problemas potenciais."
+
+#~ msgid "Analyze"
+#~ msgstr "Analisar"
+
+#~ msgid "Select a Child Theme:"
+#~ msgstr "Selecione um tema infantil:"
+
+#~ msgid "Analyze Child Theme"
+#~ msgstr "Analisar o tema infantil"
+
+#~ msgid "Name the new theme directory:"
+#~ msgstr "Nomeie o novo diretório de tema:"
+
+#~ msgid "Directory Name"
+#~ msgstr "Nome do diretório"
+
+#~ msgid "NOTE:"
+#~ msgstr "NOTA:"
+
+#~ msgid ""
+#~ "This is NOT the name of the Child Theme. You can customize the name, "
+#~ "description, etc. in step 7, below."
+#~ msgstr ""
+#~ "Este NÃO é o nome do tema filho. Você pode personalizar o nome, a "
+#~ "descrição, etc. na etapa 7 abaixo."
+
+#~ msgid "Verify Child Theme directory:"
+#~ msgstr "Verifique o diretório do tema filho:"
+
+#~ msgid ""
+#~ "For verification only (you cannot modify the directory of an existing "
+#~ "Child Theme)."
+#~ msgstr ""
+#~ "Apenas para verificação (você não pode modificar o diretório de um Tema "
+#~ "filho existente)."
+
+#~ msgid "Select where to save new styles:"
+#~ msgstr "Selecione onde salvar os novos estilos:"
+
+#~ msgid "Primary Stylesheet (style.css)"
+#~ msgstr "Folha de estilo primária (style.css)"
+
+#~ msgid ""
+#~ "Save new custom styles directly to the Child Theme primary stylesheet, "
+#~ "replacing the existing values. The primary stylesheet will load in the "
+#~ "order set by the theme."
+#~ msgstr ""
+#~ "Salve novos estilos personalizados diretamente na folha de estilo "
+#~ "principal do Tema filho, substituindo os valores existentes. A folha de "
+#~ "estilo principal será carregada na ordem definida pelo tema."
+
+#~ msgid "Separate Stylesheet"
+#~ msgstr "Folha de estilo separada"
+
+#~ msgid ""
+#~ "Save new custom styles to a separate stylesheet and combine any existing "
+#~ "child theme styles with the parent to form baseline. Select this option "
+#~ "if you want to preserve the existing child theme styles instead of "
+#~ "overwriting them. This option also allows you to customize stylesheets "
+#~ "that load after the primary stylesheet."
+#~ msgstr ""
+#~ "Salve novos estilos personalizados em uma folha de estilo separada e "
+#~ "combine quaisquer estilos de tema filho existentes com o pai para formar "
+#~ "a linha de base. Selecione esta opção se desejar preservar os estilos de "
+#~ "tema filho existentes em vez de substituí-los. Esta opção também permite "
+#~ "que você personalize as folhas de estilo que carregam após a folha de "
+#~ "estilo principal."
+
+#~ msgid "Select Parent Theme stylesheet handling:"
+#~ msgstr "Selecione o manuseio da folha de estilo do tema pai:"
+
+#~ msgid "Use the WordPress style queue."
+#~ msgstr "Use a fila de estilo do WordPress."
+
+#~ msgid ""
+#~ "Let the Configurator determine the appropriate actions and dependencies "
+#~ "and update the functions file automatically."
+#~ msgstr ""
+#~ "Deixe o Configurador determinar as ações e dependências apropriadas e "
+#~ "atualize o arquivo de funções automaticamente."
+
+#~ msgid "Use <code>@import</code> in the child theme stylesheet."
+#~ msgstr "Use <code> @import </code> na folha de estilo do tema filho."
+
+#~ msgid ""
+#~ "Only use this option if the parent stylesheet cannot be loaded using the "
+#~ "WordPress style queue. Using <code>@import</code> is not recommended."
+#~ msgstr ""
+#~ "Use esta opção apenas se a folha de estilo pai não puder ser carregada "
+#~ "usando a fila de estilo do WordPress. Usar <code> @import </code> não é "
+#~ "recomendado."
+
+#~ msgid "Do not add any parent stylesheet handling."
+#~ msgstr "Não adicione nenhuma manipulação de folha de estilo pai."
+
+#~ msgid ""
+#~ "Select this option if this theme already handles the parent theme "
+#~ "stylesheet or if the parent theme's <code>style.css</code> file is not "
+#~ "used for its appearance."
+#~ msgstr ""
+#~ "Selecione esta opção se este tema já manipular a folha de estilo do tema "
+#~ "pai ou se o arquivo <code> style.css </code> do tema pai não for usado "
+#~ "para sua aparência."
+
+#~ msgid "Advanced handling options"
+#~ msgstr "Opções avançadas de manuseio"
+
+#~ msgid "Ignore parent theme stylesheets."
+#~ msgstr "Ignore as folhas de estilo do tema pai."
+
+#~ msgid ""
+#~ "Select this option if this theme already handles the parent theme "
+#~ "stylesheet or if the parent theme's style.css file is not used for its "
+#~ "appearance."
+#~ msgstr ""
+#~ "Selecione esta opção se este tema já manipular a folha de estilo do tema "
+#~ "pai ou se o arquivo style.css do tema pai não for usado para sua "
+#~ "aparência."
+
+#~ msgid "Repair the header template in the child theme."
+#~ msgstr "Repare o modelo de cabeçalho no tema filho."
+
+#~ msgid ""
+#~ "Let the Configurator (try to) resolve any stylesheet issues listed above. "
+#~ "This can fix many, but not all, common problems."
+#~ msgstr ""
+#~ "Deixe o Configurador (tente) resolver quaisquer problemas de folha de "
+#~ "estilo listados acima. Isso pode resolver muitos problemas comuns, mas "
+#~ "não todos."
+
+#~ msgid "Remove stylesheet dependencies"
+#~ msgstr "Remover dependências da folha de estilo"
+
+#~ msgid ""
+#~ "By default, the order of stylesheets that load prior to the primary "
+#~ "stylesheet is preserved by treating them as dependencies. In some cases, "
+#~ "stylesheets are detected in the preview that are not used site-wide. If "
+#~ "necessary, dependency can be removed for specific stylesheets below."
+#~ msgstr ""
+#~ "Por padrão, a ordem das folhas de estilo carregadas antes da folha de "
+#~ "estilo principal é preservada tratando-as como dependências. Em alguns "
+#~ "casos, as folhas de estilo são detectadas na visualização e não são "
+#~ "usadas em todo o site. Se necessário, a dependência pode ser removida "
+#~ "para folhas de estilo específicas abaixo."
+
+#~ msgid "Child Theme Name"
+#~ msgstr "Nome do tema infantil"
+
+#~ msgid "Theme Name"
+#~ msgstr "Nome do Tema"
+
+#~ msgid "Theme Website"
+#~ msgstr "Site do tema"
+
+#~ msgid "Author"
+#~ msgstr "Autor"
+
+#~ msgid "Author Website"
+#~ msgstr "Site do autor"
+
+#~ msgid "Theme Description"
+#~ msgstr "Descrição do tema"
+
+#~ msgid "Description"
+#~ msgstr "Descrição"
+
+#~ msgid "Tags"
+#~ msgstr "Tag"
+
+#~ msgid ""
+#~ "Copy Menus, Widgets and other Customizer Settings from the Parent Theme "
+#~ "to the Child Theme:"
+#~ msgstr ""
+#~ "Copie menus, widgets e outras configurações do personalizador do tema pai "
+#~ "para o tema filho:"
+
+#~ msgid ""
+#~ "This option replaces the Child Theme's existing Menus, Widgets and other "
+#~ "Customizer Settings with those from the Parent Theme. You should only "
+#~ "need to use this option the first time you configure a Child Theme."
+#~ msgstr ""
+#~ "Esta opção substitui os menus, widgets e outras configurações do "
+#~ "Customizer existentes do tema filho pelos do tema pai. Você só deve "
+#~ "precisar usar esta opção na primeira vez que configurar um Tema filho."
+
+#~ msgid "Click to run the Configurator:"
+#~ msgstr "Clique para executar o Configurador:"
+
+#~ msgid "Query / Selector"
+#~ msgstr "Consulta / Seletor"
+
+#~ msgid ""
+#~ "To find specific selectors within @media query blocks, first choose the "
+#~ "query, then the selector. Use the \"base\" query to edit all other "
+#~ "selectors."
+#~ msgstr ""
+#~ "Para encontrar seletores específicos nos blocos de consulta @media, "
+#~ "primeiro escolha a consulta e, em seguida, o seletor. Use a consulta "
+#~ "\"base\" para editar todos os outros seletores."
+
+#~ msgid "@media Query"
+#~ msgstr "@media Query"
+
+#~ msgid "( or \"base\" )"
+#~ msgstr "(ou \"base\")"
+
+#~ msgid "Selector"
+#~ msgstr "Seletor"
+
+#~ msgid "Query/Selector Action"
+#~ msgstr "Consulta / Ação do Seletor"
+
+#~ msgid "Save Child Values"
+#~ msgstr "Salvar valores infantis"
+
+#~ msgid "Delete Child Values"
+#~ msgstr "Excluir valores filho"
+
+#~ msgid "Property"
+#~ msgstr "Propriedade"
+
+#~ msgid "Baseline Value"
+#~ msgstr "Valor de linha de base"
+
+#~ msgid "Child Value"
+#~ msgstr "Valor infantil"
+
+#~ msgid "error"
+#~ msgstr "erro"
+
+#~ msgid "You do not have permission to configure child themes."
+#~ msgstr "Você não tem permissão para configurar temas filho."
+
+#, php-format
+#~ msgid "%s does not exist. Please select a valid Parent Theme."
+#~ msgstr "%s não existe. Selecione um tema pai válido."
+
+#~ msgid "The Functions file is required and cannot be deleted."
+#~ msgstr "O arquivo de funções é necessário e não pode ser excluído."
+
+#~ msgid "Please select a valid Parent Theme."
+#~ msgstr "Selecione um tema pai válido."
+
+#~ msgid "Please select a valid Child Theme."
+#~ msgstr "Selecione um tema infantil válido."
+
+#~ msgid "Please enter a valid Child Theme directory name."
+#~ msgstr "Insira um nome de diretório de tema infantil válido."
+
+#, php-format
+#~ msgid ""
+#~ "<strong>%s</strong> exists. Please enter a different Child Theme template "
+#~ "name."
+#~ msgstr ""
+#~ "<strong>%s</strong>existe. Insira um nome de modelo de tema infantil "
+#~ "diferente."
+
+#~ msgid "Your theme directories are not writable."
+#~ msgstr "Seus diretórios de tema não são graváveis."
+
+#~ msgid "Could not upgrade child theme"
+#~ msgstr "Não foi possível atualizar o tema filho"
+
+#~ msgid "Your stylesheet is not writable."
+#~ msgstr "Sua folha de estilo não é gravável."
+
+#~ msgid ""
+#~ "A closing PHP tag was detected in Child theme functions file so \"Parent "
+#~ "Stylesheet Handling\" option was not configured. Closing PHP at the end "
+#~ "of the file is discouraged as it can cause premature HTTP headers. Please "
+#~ "edit <code>functions.php</code> to remove the final <code>?&gt;</code> "
+#~ "tag and click \"Generate/Rebuild Child Theme Files\" again."
+#~ msgstr ""
+#~ "Uma tag PHP de fechamento foi detectada no arquivo de funções do tema "
+#~ "filho, portanto a opção \"Manipulação da folha de estilo pai\" não foi "
+#~ "configurada. Fechar o PHP no final do arquivo é desencorajado, pois pode "
+#~ "causar cabeçalhos HTTP prematuros. Edite <code> functions.php </code> "
+#~ "para remover a tag final <code>?&gt; </code> e clique em \"Gerar / "
+#~ "reconstruir arquivos de tema filho\" novamente."
+
+#, php-format
+#~ msgid "Could not copy file: %s"
+#~ msgstr "Não foi possível copiar o arquivo: %s"
+
+#, php-format
+#~ msgid "Could not delete %s file."
+#~ msgstr "Não foi possível excluir o arquivo %s."
+
+#, php-format
+#~ msgid "could not copy %s"
+#~ msgstr "não foi possível copiar %s"
+
+#, php-format
+#~ msgid "invalid dir: %s"
+#~ msgstr "dir inválido: %s"
+
+#~ msgid "There were errors while resetting permissions."
+#~ msgstr "Ocorreram erros ao redefinir as permissões."
+
+#~ msgid "Could not upload file."
+#~ msgstr "Não foi possível fazer upload do arquivo."
+
+#~ msgid "Invalid theme root directory."
+#~ msgstr "Diretório raiz de tema inválido."
+
+#~ msgid "No writable temp directory."
+#~ msgstr "Nenhum diretório temporário gravável."
+
+#, php-format
+#~ msgid "Unpack failed -- %s"
+#~ msgstr "Descompactar falhou -- %s"
+
+#, php-format
+#~ msgid "Pack failed -- %s"
+#~ msgstr "Pacote falhou -- %s"
+
+#~ msgid "Maximum number of styles exceeded."
+#~ msgstr "Número máximo de estilos excedido."
+
+#, php-format
+#~ msgid "Error moving file: %s"
+#~ msgstr "Erro ao mover o arquivo: %s"
+
+#~ msgid "Could not set write permissions."
+#~ msgstr "Não foi possível definir permissões de gravação."
+
+#~ msgid "Error:"
+#~ msgstr "Erro:"
+
+#, php-format
+#~ msgid "Current Analysis Child Theme <strong>%s</strong> has been reset."
+#~ msgstr "O tema filho da análise atual <strong>%s </strong> foi redefinido."
+
+#~ msgid "Update Key saved successfully."
+#~ msgstr "Chave de atualização salva com sucesso."
+
+#~ msgid "Child Theme files modified successfully."
+#~ msgstr "Arquivos de tema infantil modificados com sucesso."
+
+#, php-format
+#~ msgid "Child Theme <strong>%s</strong> has been generated successfully."
+#~ msgstr "O tema filho <strong>%s </strong> foi gerado com sucesso."
+
+#~ msgid "Web Fonts & CSS"
+#~ msgstr "Fontes da web e CSS"
+
+#~ msgid "Parent Styles"
+#~ msgstr "Estilos Pais"
+
+#~ msgid "Child Styles"
+#~ msgstr "Estilos Infantis"
+
+#~ msgid "View Child Images"
+#~ msgstr "Ver imagens de crianças"
+
+#~ msgid ""
+#~ "Use <code>@import url( [path] );</code> to link additional stylesheets. "
+#~ "This Plugin uses the <code>@import</code> keyword to identify them and "
+#~ "convert them to <code>&lt;link&gt;</code> tags. <strong>Example:</strong>"
+#~ msgstr ""
+#~ "Use <code> @import url ([path]); </code> para vincular folhas de estilo "
+#~ "adicionais. Este plug-in usa a palavra-chave <code> @import </code> para "
+#~ "identificá-los e convertê-los em tags <code> &lt;link&gt; </code>tag. "
+#~ "<strong> Exemplo: </strong>"
+
+#~ msgid "Save"
+#~ msgstr "Salve"
+
+#~ msgid "Uploading image with same name will replace with existing image."
+#~ msgstr "Carregar imagem com o mesmo nome irá substituir a imagem existente."
+
+#~ msgid "Upload New Child Theme Image"
+#~ msgstr "Carregar nova imagem de tema infantil"
+
+#~ msgid "Delete Selected Images"
+#~ msgstr "Excluir imagens selecionadas"
+
+#~ msgid "Create a New Directory"
+#~ msgstr "Crie um novo diretório"
+
+#~ msgid "New Directory will be created in"
+#~ msgstr "Novo diretório será criado em"
+
+#~ msgid "New Directory Name"
+#~ msgstr "Novo nome de diretório"
+
+#~ msgid "Create a New File"
+#~ msgstr "Criar um novo arquivo"
+
+#~ msgid "New File will be created in"
+#~ msgstr "Novo arquivo será criado em"
+
+#~ msgid "New File Name"
+#~ msgstr "Novo nome de arquivo"
+
+#~ msgid "File Type Extension"
+#~ msgstr "Extensão de tipo de arquivo"
+
+#~ msgid "Choose File Type"
+#~ msgstr "Escolha o tipo de arquivo"
+
+#~ msgid "PHP File"
+#~ msgstr "Arquivo PHP"
+
+#~ msgid "CSS File"
+#~ msgstr "Arquivo CSS"
+
+#~ msgid "JS File"
+#~ msgstr "Arquivo JS"
+
+#~ msgid "Text File"
+#~ msgstr "Arquivo de texto"
+
+#~ msgid "PHP File Type"
+#~ msgstr "Tipo de arquivo PHP"
+
+#~ msgid "Simple PHP File"
+#~ msgstr "Arquivo PHP Simples"
+
+#~ msgid "Wordpress Template File"
+#~ msgstr "Arquivo de modelo do Wordpress"
+
+#~ msgid "Template Name"
+#~ msgstr "Nome do modelo"
+
+#~ msgid "Parent Templates"
+#~ msgstr "Modelos pai"
+
+#~ msgid ""
+#~ "Copy PHP templates from the parent theme by selecting them here. The "
+#~ "Configurator defines a template as a Theme PHP file having no PHP "
+#~ "functions or classes. Other PHP files cannot be safely overridden by a "
+#~ "child theme."
+#~ msgstr ""
+#~ "Copie os modelos PHP do tema pai selecionando-os aqui. O Configurator "
+#~ "define um template como um arquivo Theme PHP sem funções ou classes PHP. "
+#~ "Outros arquivos PHP não podem ser substituídos com segurança por um tema "
+#~ "filho."
+
+#~ msgid ""
+#~ "CAUTION: If your child theme is active, the child theme version of the "
+#~ "file will be used instead of the parent immediately after it is copied."
+#~ msgstr ""
+#~ "CUIDADO: Se o seu tema filho estiver ativo, a versão do tema filho do "
+#~ "arquivo será usada no lugar do pai imediatamente após a cópia."
+
+#~ msgid "The "
+#~ msgstr "O"
+
+#~ msgid " file is generated separately and cannot be copied here. "
+#~ msgstr "o arquivo é gerado separadamente e não pode ser copiado aqui."
+
+#~ msgid "Copy Selected to Child Theme"
+#~ msgstr "Copiar selecionado para tema filho"
+
+#~ msgid " Child Theme Files "
+#~ msgstr "Arquivos de tema infantil"
+
+#~ msgid "Click to edit files using the Theme Editor"
+#~ msgstr "Clique para editar os arquivos usando o Theme Editor"
+
+#~ msgid "Delete child theme templates by selecting them here."
+#~ msgstr "Exclua os modelos de tema filho selecionando-os aqui."
+
+#~ msgid "Delete Selected"
+#~ msgstr "Apagar Selecionado"
+
+#~ msgid "Child Theme Screenshot"
+#~ msgstr "Captura de tela do tema infantil"
+
+#~ msgid "Upload New Screenshot"
+#~ msgstr "Carregar nova captura de tela"
+
+#~ msgid ""
+#~ "The theme screenshot should be a 4:3 ratio (e.g., 880px x 660px) JPG, PNG "
+#~ "or GIF. It will be renamed"
+#~ msgstr ""
+#~ "A captura de tela do tema deve ter uma proporção de 4: 3 (por exemplo, "
+#~ "880px x 660px) JPG, PNG ou GIF. Será renomeado"
+
+#~ msgid "Screenshot"
+#~ msgstr "Captura de tela"
+
+#~ msgid "Upload New Child Theme Image "
+#~ msgstr "Carregar nova imagem de tema infantil"
+
+#~ msgid ""
+#~ "Theme images reside under the images directory in your child theme and "
+#~ "are meant for stylesheet use only. Use the Media Library for content "
+#~ "images."
+#~ msgstr ""
+#~ "As imagens do tema residem no diretório de imagens do seu tema filho e "
+#~ "são destinadas apenas ao uso da folha de estilo. Use a Biblioteca de "
+#~ "mídia para imagens de conteúdo."
+
+#~ msgid "Preview Current Child Theme (Current analysis)"
+#~ msgstr "Pré-visualizar o tema filho atual (análise atual)"
+
+#~ msgid "Preview Current Child Theme"
+#~ msgstr "Pré-visualizar o tema infantil atual"
+
+#~ msgid "Export Child Theme as Zip Archive"
+#~ msgstr "Exportar tema filho como arquivo zip"
+
+#~ msgid ""
+#~ "Click \"Export Zip\" to save a backup of the currently loaded child "
+#~ "theme. You can export any of your themes from the Parent/Child tab."
+#~ msgstr ""
+#~ "Clique em \"Exportar Zip\" para salvar um backup do tema filho carregado "
+#~ "no momento. Você pode exportar qualquer um dos seus temas na guia Pai / "
+#~ "Filho."
+
+#~ msgid "Export Child Theme"
+#~ msgstr "Exportar tema filho"
+
+#~ msgid "Child Theme file(s) copied successfully!"
+#~ msgstr "Arquivo (s) de tema infantil copiado (s) com sucesso!"
+
+#~ msgid ""
+#~ "The file which you are trying to copy from Parent Templates does not exist"
+#~ msgstr "O arquivo que você está tentando copiar dos modelos pais não existe"
+
+#~ msgid ""
+#~ "The file which you are trying to copy from Parent Templates is already "
+#~ "present in the Child Theme files."
+#~ msgstr ""
+#~ "O arquivo que você está tentando copiar dos modelos principais já está "
+#~ "presente nos arquivos do tema filho."
+
+#~ msgid "Child "
+#~ msgstr "Filho"
+
+#~ msgid " and Parent "
+#~ msgstr "e pai"
+
+#~ msgid " directories doesn't exist!"
+#~ msgstr "diretórios não existe!"
+
+#~ msgid " directory doesn't exist!"
+#~ msgstr "diretório não existe!"
+
+#~ msgid "Parent "
+#~ msgstr "Parent "
+
+#~ msgid "Unknown error! "
+#~ msgstr "Erro desconhecido!"
+
+#~ msgid "You don't have permission to copy the files!"
+#~ msgstr "Você não tem permissão para copiar os arquivos!"
+
+#~ msgid "All selected file(s) have been deleted successfully!"
+#~ msgstr "Todos os arquivos selecionados foram excluídos com sucesso!"
+
+#~ msgid " does not exists!"
+#~ msgstr "não existe!"
+
+#~ msgid "This file extension is not allowed to upload!"
+#~ msgstr "Esta extensão de arquivo não pode ser carregada!"
+
+#~ msgid "Image uploaded successfully!"
+#~ msgstr "Imagem enviada com sucesso!"
+
+#~ msgid "There is some issue in uploading image!"
+#~ msgstr "Há algum problema no upload da imagem!"
+
+#~ msgid ""
+#~ "This file extension is not allowed to upload as screenshot by wordpress!"
+#~ msgstr ""
+#~ "Esta extensão de arquivo não pode ser carregada como imagem do wordpress!"
+
+#~ msgid "File uploaded successfully!"
+#~ msgstr "Arquivo carregado com sucesso!"
+
+#~ msgid "Child Theme files can't be modified."
+#~ msgstr "Os arquivos do tema filho não podem ser modificados."
+
+#~ msgid "File(s) deleted successfully!"
+#~ msgstr "Arquivo (s) excluído (s) com sucesso!"
+
+#~ msgid "You don't have permission to delete file(s)!"
+#~ msgstr "Você não tem permissão para excluir arquivo (s)!"
+
+#~ msgid "Entered directory name already exists"
+#~ msgstr "O nome do diretório inserido já existe"
+
+#~ msgid "You don't have permission to create directory!"
+#~ msgstr "Você não tem permissão para criar diretório!"
+
+#~ msgid "Wordpress template file created"
+#~ msgstr "Arquivo de modelo Wordpress criado"
+
+#~ msgid "Wordpress template file not created"
+#~ msgstr "Arquivo de modelo Wordpress não criado"
+
+#~ msgid "PHP created file successfully"
+#~ msgstr "PHP criado arquivo com sucesso"
+
+#~ msgid "PHP file not created"
+#~ msgstr "Arquivo PHP não criado"
+
+#~ msgid " file not created"
+#~ msgstr "arquivo não criado"
+
+#~ msgid "You don't have permission to create file!"
+#~ msgstr "Você não tem permissão para criar o arquivo!"
+
+#~ msgid "Language folder has been downlaoded."
+#~ msgstr "A pasta de idiomas foi baixada."

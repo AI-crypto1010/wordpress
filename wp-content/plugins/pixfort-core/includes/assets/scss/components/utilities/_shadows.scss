@@ -1,0 +1,60 @@
+// stylelint-disable declaration-no-important
+.shadow-sm,
+.shadow,
+.shadow-lg,
+.shadow-hover-sm,
+.shadow-hover,
+.shadow-hover-lg,
+.shadow-inverse-sm,
+.shadow-inverse,
+.shadow-inverse-lg {
+    backface-visibility: hidden;
+    transition: $box-shadow-transition;
+}
+.shadow-0 {
+    box-shadow:  none !important;
+}
+.shadow-sm {
+    box-shadow: $box-shadow-sm !important;
+}
+.shadow-hover-sm:hover {
+    box-shadow: $box-shadow-hover-sm !important;
+}
+
+.shadow {
+    box-shadow: $box-shadow !important;
+}
+.shadow-hover:hover {
+    box-shadow: $box-shadow-hover !important;
+}
+
+.shadow-lg {
+    box-shadow: $box-shadow-lg !important;
+}
+.shadow-hover-lg:hover {
+    box-shadow: $box-shadow-hover-lg !important;
+}
+
+.shadow-inverse-sm {
+    box-shadow: $box-shadow-hover-sm !important;
+}
+.shadow-inverse-hover-sm:hover {
+    box-shadow: $box-shadow-sm !important;
+}
+
+.shadow-inverse {
+    box-shadow: $box-shadow-hover !important;
+}
+.shadow-inverse-hover:hover {
+    box-shadow: $box-shadow !important;
+}
+
+.shadow-inverse-lg {
+    box-shadow: $box-shadow-hover-lg !important;
+}
+.shadow-inverse-hover-lg:hover {
+    box-shadow: $box-shadow-lg !important;
+}
+
+.shadow-none { box-shadow: none !important; }
+

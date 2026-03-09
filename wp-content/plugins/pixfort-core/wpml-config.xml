@@ -1,0 +1,1277 @@
+<wpml-config>
+
+    
+
+
+    <built-with-page-builder>/\[vc_row\]/</built-with-page-builder>
+	<shortcode-list>pix_badge,pix_pricing,vc_row,vc_empty_space,vc_separator,vc_column,vc_column_inner,vc_raw_html,vc_column_text,vc_text_separator,vc_message,vc_toggle,vc_tta_accordion,vc_tta_tour,vc_tta_tabs,vc_tta_pageable,vc_tta_section,vc_custom_heading,vc_progress_bar,vc_pie,vc_round_chart,vc_btn,vc_cta,vc_line_chart,vc_single_image,vc_gallery,vc_images_carousel,vc_widget_sidebar,vc_posts_slider,vc_video,vc_gmaps,vc_flickr,vc_wp_search,vc_wp_meta,vc_wp_recentcomments,vc_wp_calendar,vc_wp_pages,vc_wp_tagcloud,vc_wp_custommenu,vc_wp_text,vc_wp_posts,vc_wp_categories,vc_wp_archives,vc_wp_rss,vc_hoverbox,vc_accordion,vc_accordion_tab,vc_basic_grid,vc_button,vc_button2,vc_carousel,vc_cta_button,vc_cta_button2,vc_masonry_grid,vc_masonry_media_grid,vc_media_grid,vc_posts_grid,vc_tab,vc_tabs,vc_tour,vc_tweetmeme,contact-form-7,ult_buttons,ult_countdown,ult_dualbutton,ultimate_exp_section,ultimate_fancytext,icon_counter,ultimate_google_map,ultimate_heading,ultimate_ctation,ult_hotspot_items,icon_timeline_sep,icon_timeline_item,icon_timeline_feat,single_icon,ultimate_img_separator,ult_ihover_item,ultimate_info_banner,bsf-info-box,info_circle_item,info_list_item,info_list_item,ultimate_info_table,interactive_banner_2,interactive_banner,just_icon,ult_createlink,ultimate_icon_list_item,ultimate_modal,ultimate_pricing,stat_counter,swatch_container,swatch_item,ult_tab_element,single_tab,ult_team,ultimate_video_banner</shortcode-list>
+	<custom-types>
+		<custom-type translate="1">vc_grid_item</custom-type>
+		<custom-type translate="1">pixheader</custom-type>
+		<custom-type translate="1">portfolio</custom-type>
+		<custom-type translate="1">pixfooter</custom-type>
+		<custom-type translate="1">pixpopup</custom-type>
+	</custom-types>
+    <custom-fields>
+        <custom-field action="ignore">_vc_post_settings</custom-field>
+        <!-- <custom-field action="copy">_wpb_shortcodes_custom_css</custom-field> -->
+    </custom-fields>
+    <shortcodes>
+        <shortcode>
+            <tag>vc_column_text</tag>
+        </shortcode>
+        <shortcode>
+            <tag>vc_text_separator</tag>
+            <attributes>
+                <attribute encoding="allow_html_tags">title</attribute>
+            </attributes>
+        </shortcode>
+        <shortcode>
+            <tag>vc_message</tag>
+        </shortcode>
+        <shortcode>
+            <tag>vc_toggle</tag>
+            <attributes>
+                <attribute encoding="allow_html_tags">title</attribute>
+            </attributes>
+        </shortcode>
+        <shortcode>
+            <tag>vc_tta_accordion</tag>
+            <attributes>
+                <attribute encoding="allow_html_tags">title</attribute>
+            </attributes>
+        </shortcode>
+        <shortcode>
+            <tag>vc_tta_tour</tag>
+            <attributes>
+                <attribute encoding="allow_html_tags">title</attribute>
+            </attributes>
+        </shortcode>
+        <shortcode>
+            <tag>vc_tta_tabs</tag>
+            <attributes>
+                <attribute encoding="allow_html_tags">title</attribute>
+            </attributes>
+        </shortcode>
+        <shortcode>
+            <tag>vc_tta_pageable</tag>
+            <attributes>
+                <attribute encoding="allow_html_tags">title</attribute>
+            </attributes>
+        </shortcode>
+        <shortcode>
+            <tag>vc_tta_section</tag>
+            <attributes>
+                <attribute encoding="allow_html_tags">title</attribute>
+            </attributes>
+        </shortcode>
+        <shortcode>
+            <tag>vc_custom_heading</tag>
+            <attributes>
+                <attribute encoding="allow_html_tags">text</attribute>
+                <attribute encoding="vc_link" type="link">link</attribute>
+            </attributes>
+        </shortcode>
+        <shortcode>
+            <tag>vc_progress_bar</tag>
+            <attributes>
+                <attribute encoding="allow_html_tags">title</attribute>
+                <attribute type="area" encoding="urlencoded_json">values</attribute>
+            </attributes>
+        </shortcode>
+        <shortcode>
+            <tag>vc_pie</tag>
+            <attributes>
+                <attribute encoding="allow_html_tags">title</attribute>
+                <attribute>label_value</attribute>
+            </attributes>
+        </shortcode>
+        <shortcode>
+            <tag>vc_round_chart</tag>
+            <attributes>
+                <attribute encoding="allow_html_tags">title</attribute>
+                <attribute type="area" encoding="urlencoded_json">values</attribute>
+            </attributes>
+        </shortcode>
+        <shortcode>
+            <tag>vc_btn</tag>
+            <attributes>
+                <attribute encoding="allow_html_tags">title</attribute>
+                <attribute encoding="vc_link" type="link">link</attribute>
+            </attributes>
+        </shortcode>
+        <shortcode>
+            <tag>vc_cta</tag>
+            <attributes>
+                <attribute encoding="allow_html_tags">h2</attribute>
+                <attribute encoding="allow_html_tags">h4</attribute>
+                <attribute encoding="allow_html_tags">btn_title</attribute>
+                <attribute encoding="vc_link" type="link">btn_link</attribute>
+                <attribute encoding="vc_link" type="link">i_link</attribute>
+            </attributes>
+        </shortcode>
+        <shortcode>
+            <tag>vc_line_chart</tag>
+            <attributes>
+                <attribute encoding="allow_html_tags">title</attribute>
+                <attribute>x_values</attribute>
+                <attribute type="area" encoding="urlencoded_json">values</attribute>
+            </attributes>
+        </shortcode>
+        <shortcode>
+            <tag>vc_single_image</tag>
+            <attributes>
+                <attribute encoding="allow_html_tags">title</attribute>
+                <attribute type="media-ids">image</attribute>
+                <attribute encoding="vc_link" type="link">link</attribute>
+            </attributes>
+        </shortcode>
+        <shortcode>
+            <tag>vc_gallery</tag>
+            <attributes>
+                <attribute encoding="allow_html_tags">title</attribute>
+                <attribute encoding="vc_safe">custom_links</attribute>
+                <attribute type="media-ids">images</attribute>
+            </attributes>
+        </shortcode>
+        <shortcode>
+            <tag>vc_images_carousel</tag>
+            <attributes>
+                <attribute encoding="allow_html_tags">title</attribute>
+                <attribute encoding="vc_safe">custom_links</attribute>
+                <attribute type="media-ids">images</attribute>
+            </attributes>
+        </shortcode>
+        <shortcode>
+            <tag>vc_widget_sidebar</tag>
+            <attributes>
+                <attribute encoding="allow_html_tags">title</attribute>
+            </attributes>
+        </shortcode>
+        <shortcode>
+            <tag>vc_posts_slider</tag>
+            <attributes>
+                <attribute encoding="allow_html_tags">title</attribute>
+            </attributes>
+        </shortcode>
+        <shortcode>
+            <tag>vc_video</tag>
+            <attributes>
+                <attribute encoding="allow_html_tags">title</attribute>
+            </attributes>
+        </shortcode>
+        <shortcode>
+            <tag>vc_gmaps</tag>
+            <attributes>
+                <attribute encoding="allow_html_tags">title</attribute>
+            </attributes>
+        </shortcode>
+        <shortcode>
+            <tag>vc_flickr</tag>
+            <attributes>
+                <attribute encoding="allow_html_tags">title</attribute>
+            </attributes>
+        </shortcode>
+        <shortcode>
+            <tag>vc_wp_search</tag>
+            <attributes>
+                <attribute encoding="allow_html_tags">title</attribute>
+            </attributes>
+        </shortcode>
+        <shortcode>
+            <tag>vc_wp_meta</tag>
+            <attributes>
+                <attribute encoding="allow_html_tags">title</attribute>
+            </attributes>
+        </shortcode>
+        <shortcode>
+            <tag>vc_wp_recentcomments</tag>
+            <attributes>
+                <attribute encoding="allow_html_tags">title</attribute>
+            </attributes>
+        </shortcode>
+        <shortcode>
+            <tag>vc_wp_calendar</tag>
+            <attributes>
+                <attribute encoding="allow_html_tags">title</attribute>
+            </attributes>
+        </shortcode>
+        <shortcode>
+            <tag>vc_wp_pages</tag>
+            <attributes>
+                <attribute encoding="allow_html_tags">title</attribute>
+            </attributes>
+        </shortcode>
+        <shortcode>
+            <tag>vc_wp_tagcloud</tag>
+            <attributes>
+                <attribute encoding="allow_html_tags">title</attribute>
+            </attributes>
+        </shortcode>
+        <shortcode>
+            <tag>vc_wp_custommenu</tag>
+            <attributes>
+                <attribute encoding="allow_html_tags">title</attribute>
+            </attributes>
+        </shortcode>
+        <shortcode>
+            <tag>vc_wp_text</tag>
+            <attributes>
+                <attribute encoding="allow_html_tags">title</attribute>
+            </attributes>
+        </shortcode>
+        <shortcode>
+            <tag>vc_wp_posts</tag>
+            <attributes>
+                <attribute encoding="allow_html_tags">title</attribute>
+            </attributes>
+        </shortcode>
+        <shortcode>
+            <tag>vc_wp_categories</tag>
+            <attributes>
+                <attribute encoding="allow_html_tags">title</attribute>
+            </attributes>
+        </shortcode>
+        <shortcode>
+            <tag>vc_wp_archives</tag>
+            <attributes>
+                <attribute encoding="allow_html_tags">title</attribute>
+            </attributes>
+        </shortcode>
+        <shortcode>
+            <tag>vc_wp_rss</tag>
+             <attributes>
+                <attribute encoding="allow_html_tags">title</attribute>
+            </attributes>
+        </shortcode>
+        <shortcode>
+            <tag>vc_hoverbox</tag>
+            <attributes>
+                <attribute encoding="allow_html_tags">primary_title</attribute>
+                <attribute encoding="vc_link" type="link">primary_title_link</attribute>
+                <attribute encoding="allow_html_tags">hover_title</attribute>
+                <attribute>content</attribute>
+                <attribute encoding="vc_link" type="link">hover_title_link</attribute>
+                <attribute encoding="allow_html_tags">hover_btn_title</attribute>
+                <attribute encoding="vc_link" type="link">hover_btn_link</attribute>
+                <attribute type="media-ids">image</attribute>
+            </attributes>
+        </shortcode>
+        <shortcode>
+            <tag>vc_accordion</tag>
+            <attributes>
+                <attribute encoding="allow_html_tags">title</attribute>
+            </attributes>
+        </shortcode>
+        <shortcode>
+            <tag>vc_accordion_tab</tag>
+            <attributes>
+                <attribute encoding="allow_html_tags">title</attribute>
+            </attributes>
+        </shortcode>
+        <shortcode>
+            <tag>vc_basic_grid</tag>
+            <attributes>
+                <attribute encoding="allow_html_tags">btn_custom_text</attribute>
+            </attributes>
+        </shortcode>
+        <shortcode>
+            <tag>vc_button</tag>
+            <attributes>
+                <attribute encoding="allow_html_tags">title</attribute>
+                <attribute encoding="vc_link" type="link">href</attribute>
+            </attributes>
+        </shortcode>
+        <shortcode>
+            <tag>vc_button2</tag>
+            <attributes>
+                <attribute encoding="vc_link" type="link">link</attribute>
+                <attribute encoding="allow_html_tags">title</attribute>
+            </attributes>
+        </shortcode>
+        <shortcode>
+            <tag>vc_carousel</tag>
+            <attributes>
+                <attribute encoding="allow_html_tags">title</attribute>
+            </attributes>
+        </shortcode>
+        <shortcode>
+            <tag>vc_cta_button</tag>
+            <attributes>
+                <attribute>call_text</attribute>
+                <attribute encoding="allow_html_tags">title</attribute>
+                <attribute encoding="vc_link" type="link">href</attribute>
+            </attributes>
+        </shortcode>
+        <shortcode>
+            <tag>vc_cta_button2</tag>
+            <attributes>
+                <attribute encoding="allow_html_tags">h2</attribute>
+                <attribute encoding="allow_html_tags">h4</attribute>
+                <attribute encoding="vc_link" type="link">link</attribute>
+                <attribute encoding="allow_html_tags">title</attribute>
+            </attributes>
+        </shortcode>
+        <shortcode>
+            <tag>vc_masonry_grid</tag>
+            <attributes>
+                <attribute encoding="allow_html_tags">btn_title</attribute>
+                <attribute>btn_outline_custom_hover_text</attribute>
+            </attributes>
+        </shortcode>
+        <shortcode>
+            <tag>vc_masonry_media_grid</tag>
+            <attributes>
+                <attribute encoding="allow_html_tags">btn_title</attribute>
+                <attribute>btn_custom_text</attribute>
+                <attribute>btn_outline_custom_hover_text</attribute>
+                <attribute type="media-ids">include</attribute>
+            </attributes>
+        </shortcode>
+        <shortcode>
+            <tag>vc_media_grid</tag>
+            <attributes>
+                <attribute encoding="allow_html_tags">btn_title</attribute>
+                <attribute>btn_custom_text</attribute>
+                <attribute>btn_outline_custom_hover_text</attribute>
+                <attribute type="media-ids">include</attribute>
+            </attributes>
+        </shortcode>
+        <shortcode>
+            <tag>vc_posts_grid</tag>
+            <attributes>
+                <attribute encoding="allow_html_tags">title</attribute>
+            </attributes>
+        </shortcode>
+        <shortcode>
+            <tag>vc_tab</tag>
+            <attributes>
+                <attribute encoding="allow_html_tags">title</attribute>
+            </attributes>
+        </shortcode>
+        <shortcode>
+            <tag>vc_tabs</tag>
+            <attributes>
+                <attribute encoding="allow_html_tags">title</attribute>
+            </attributes>
+        </shortcode>
+        <shortcode>
+            <tag>vc_tour</tag>
+            <attributes>
+                <attribute encoding="allow_html_tags">title</attribute>
+            </attributes>
+        </shortcode>
+        <shortcode>
+            <tag>vc_tweetmeme</tag>
+            <attributes>
+                <attribute>share_text_page_title</attribute>
+                <attribute>share_text_custom_text</attribute>
+            </attributes>
+        </shortcode>
+        <shortcode>
+            <tag>contact-form-7</tag>
+            <attributes>
+                <attribute>id</attribute>
+            </attributes>
+        </shortcode>
+		<shortcode>
+			<tag raw-html="1" encoding="base64">vc_raw_html</tag>
+		</shortcode>
+		<shortcode>
+			<tag raw-html="1" encoding="base64">md_live_text</tag>
+		</shortcode>
+        <shortcode>
+            <tag>vc_column_inner</tag>
+            <attributes>
+                <attribute type="link">column_link</attribute>
+            </attributes>
+        </shortcode>
+        <shortcode>
+            <tag>vc_column</tag>
+            <attributes>
+                <attribute type="link">column_link</attribute>
+            </attributes>
+        </shortcode>
+        <shortcode>
+            <tag>vc_icon</tag>
+            <attributes>
+                <attribute>title</attribute>
+            </attributes>
+        </shortcode>
+
+
+
+        <!-- START pixfort elements -->
+        <shortcode>
+                <tag label="3D Box">pix_3d_box</tag>
+                <attributes>
+                    <attribute encoding="allow_html_tags" label="3D Box title">title</attribute>
+                    <attribute encoding="allow_html_tags" label="3D Box text">text</attribute>
+                    <attribute encoding="allow_html_tags" label="3D Box button text">btn_text</attribute>
+                </attributes>
+        </shortcode>
+        <shortcode>
+                <tag label="Accorion Tab">pix_accordion_tab</tag>
+                <attributes>
+                    <attribute encoding="allow_html_tags" label="Accordion title">title</attribute>
+                </attributes>
+        </shortcode>
+        <shortcode>
+                <tag label="Alert">alertblock</tag>
+                <attributes>
+                    <attribute encoding="allow_html_tags" label="Alert title">title</attribute>
+                </attributes>
+        </shortcode>
+        <shortcode>
+                <tag label="Animated Heading">animated-heading</tag>
+                <attributes>
+                    <attribute encoding="allow_html_tags" label="Animated heading title">title</attribute>
+                </attributes>
+        </shortcode>
+        <shortcode>
+                <tag label="Badge">pix_badge</tag>
+                <attributes>
+                    <attribute encoding="allow_html_tags" label="Badge text">text</attribute>
+                </attributes>
+        </shortcode>
+        <shortcode>
+                <tag label="Button">pix_button</tag>
+                <attributes>
+                    <attribute encoding="allow_html_tags" label="Button text">btn_text</attribute>
+                    <attribute encoding="allow_html_tags" label="Button link">btn_link</attribute>
+                </attributes>
+        </shortcode>
+        <shortcode>
+                <tag label="Card Wide">pix_card_wide</tag>
+                <attributes>
+                    <attribute encoding="allow_html_tags" label="Card wide title">title</attribute>
+                    <attribute encoding="allow_html_tags" label="Card wide text">text</attribute>
+                    <attribute encoding="allow_html_tags" label="Card wide link_text">link_text</attribute>
+                    <attribute encoding="allow_html_tags" label="Card wide link">link</attribute>
+                </attributes>
+        </shortcode>
+        <shortcode>
+                <tag label="Card">pix_card</tag>
+                <attributes>
+                    <attribute encoding="allow_html_tags" label="Card title">title</attribute>
+                    <attribute encoding="allow_html_tags" label="Card text">text</attribute>
+                    <attribute encoding="allow_html_tags" label="Card link_text">link_text</attribute>
+                    <attribute encoding="allow_html_tags" label="Card link">link</attribute>
+                </attributes>
+        </shortcode>
+        <shortcode>
+                <tag label="Chart">chart</tag>
+                <attributes>
+                    <attribute encoding="allow_html_tags" label="Chart percent">percent</attribute>
+                    <attribute encoding="allow_html_tags" label="Chart text">text</attribute>
+                </attributes>
+        </shortcode>
+        <shortcode>
+                <tag label="Comparison Table">pix_comparison_table</tag>
+                <attributes>
+                    <attribute encoding="allow_html_tags" label="Comparison table items">items</attribute>
+                    <attribute encoding="allow_html_tags" label="Comparison table title">table_title</attribute>
+                    <attribute encoding="allow_html_tags" label="Comparison table Col 1 title">col_1_title</attribute>
+                    <attribute encoding="allow_html_tags" label="Comparison table Col 2 title">col_2_title</attribute>
+                    <attribute encoding="allow_html_tags" label="Comparison table Col 3 title">col_3_title</attribute>
+                </attributes>
+        </shortcode>
+        <shortcode>
+                <tag label="Content tab">pix_content_tab</tag>
+                <attributes>
+                    <attribute encoding="allow_html_tags" label="tab title">title</attribute>
+                </attributes>
+        </shortcode>
+        <shortcode>
+                <tag label="Tabs">pix_vertical_tabs</tag>
+                <attributes>
+                    <attribute encoding="allow_html_tags" label="Vertical tabs badge">badge_text</attribute>
+                    <attribute encoding="allow_html_tags" label="Vertical tabs title">title</attribute>
+                    <attribute encoding="allow_html_tags" label="Vertical tabs text">text_content</attribute>
+                </attributes>
+        </shortcode>
+        <shortcode>
+                <tag label="Countdown">pix_countdown</tag>
+                <attributes>
+                    <attribute encoding="allow_html_tags" label="Countdown date">date</attribute>
+                    <attribute encoding="allow_html_tags" label="Countdown link">link</attribute>
+                </attributes>
+        </shortcode>
+        <shortcode>
+                <tag label="CTA">pix_cta</tag>
+                <attributes>
+                    <attribute encoding="allow_html_tags" label="CTA title">title</attribute>
+                    <attribute encoding="allow_html_tags" label="CTA text">text</attribute>
+                    <attribute encoding="allow_html_tags" label="CTA Button text">btn_text</attribute>
+                    <attribute encoding="allow_html_tags" label="CTA Button link">btn_link</attribute>
+                </attributes>
+        </shortcode>
+        <shortcode>
+                <tag label="Event">pix_event</tag>
+                <attributes>
+                    <attribute encoding="allow_html_tags" label="Event items">features</attribute>
+                </attributes>
+        </shortcode>
+        <shortcode>
+                <tag label="Fancy Box">fancy_box</tag>
+                <attributes>
+                    <attribute encoding="allow_html_tags" label="Fancy box title">title</attribute>
+                    <attribute encoding="allow_html_tags" label="Fancy box text">text</attribute>
+                    <attribute encoding="allow_html_tags" label="Fancy box link">link</attribute>
+                    <attribute encoding="allow_html_tags" label="Fancy box alt">alt</attribute>
+                </attributes>
+        </shortcode>
+        <shortcode>
+                <tag label="FAQ">pix_faq</tag>
+                <attributes>
+                    <attribute encoding="allow_html_tags" label="FAQ title">title</attribute>
+                </attributes>
+        </shortcode>
+        <shortcode>
+                <tag label="Features List">pix_feature_list</tag>
+                <attributes>
+                    <attribute type="area" encoding="urlencoded_json" label="Features list items">features</attribute>
+                </attributes>
+        </shortcode>
+        <shortcode>
+                <tag label="Feature">pix_feature</tag>
+                <attributes>
+                    <attribute encoding="allow_html_tags" label="Feature title">title</attribute>
+					<attribute encoding="allow_html_tags" label="Feature link">link</attribute>
+                </attributes>
+        </shortcode>
+        <shortcode>
+                <tag label="Gallery">pix_gallery</tag>
+                <attributes>
+                    <attribute type="area" encoding="urlencoded_json" label="Gallery items">items</attribute>
+                    <attribute encoding="allow_html_tags" label="Feature title">title</attribute>
+                </attributes>
+        </shortcode>
+        <shortcode>
+                <tag label="Heading">heading</tag>
+                <attributes>
+                    <attribute label="Heading Title">title</attribute>
+                </attributes>
+        </shortcode>
+        <shortcode>
+                <tag label="Highlighted Box">pix_highlight_box</tag>
+        </shortcode>
+        <shortcode>
+                <tag label="Highlighted Text">pix_highlighted_text</tag>
+                <attributes>
+                    <attribute type="area" encoding="urlencoded_json" label="Highlighted text">items</attribute>
+                </attributes>
+        </shortcode>
+        <shortcode>
+                <tag label="Icon">pix_icon</tag>
+                <attributes>
+                    <attribute encoding="allow_html_tags" label="Icon link">link</attribute>
+                </attributes>
+        </shortcode>
+        <shortcode>
+                <tag label="Image Box">pix_img_box</tag>
+                <attributes>
+                    <attribute encoding="allow_html_tags" label="Image title">title</attribute>
+                    <attribute encoding="allow_html_tags" label="Image alt">alt</attribute>
+                    <attribute encoding="allow_html_tags" label="Image text">text</attribute>
+                </attributes>
+        </shortcode>
+        <shortcode>
+                <tag label="Image Carousel">pix_img_carousel</tag>
+                <attributes>
+                    <attribute type="area" encoding="urlencoded_json" label="Image carousel items">items</attribute>
+                </attributes>
+        </shortcode>
+        <shortcode>
+                <tag label="Image Slider">pix_img_slider</tag>
+                <attributes>
+                    <attribute type="area" encoding="urlencoded_json" label="Image slider items">items</attribute>
+                </attributes>
+        </shortcode>
+        <shortcode>
+                <tag label="Image">pix_img</tag>
+                <attributes>
+                    <attribute encoding="allow_html_tags" label="Image alt">alt</attribute>
+                    <attribute encoding="allow_html_tags" label="Image link">link</attribute>
+                </attributes>
+        </shortcode>
+        <shortcode>
+                <tag label="Levels">pix_levels</tag>
+                <attributes>
+                    <attribute type="area" encoding="urlencoded_json" label="Levels items">items</attribute>
+                </attributes>
+        </shortcode>
+        <shortcode>
+                <tag label="Map">pix_map</tag>
+                <attributes>
+                    <attribute encoding="allow_html_tags" label="Map address">address</attribute>
+                </attributes>
+        </shortcode>
+        <shortcode>
+                <tag label="Numbers">pix_numbers</tag>
+                <attributes>
+                    <attribute encoding="allow_html_tags" label="Numbers text_before">text_before</attribute>
+                    <attribute encoding="allow_html_tags" label="Numbers number">number</attribute>
+                    <attribute encoding="allow_html_tags" label="Numbers text_after">text_after</attribute>
+                </attributes>
+        </shortcode>
+        <shortcode>
+                <tag label="Photo box">pix_photo_box</tag>
+                <attributes>
+                    <attribute encoding="allow_html_tags" label="Photo box title">title</attribute>
+                    <attribute encoding="allow_html_tags" label="Photo box badge">badge</attribute>
+                    <attribute encoding="allow_html_tags" label="Photo box alt">alt</attribute>
+                    <attribute encoding="allow_html_tags" label="Photo box link">link</attribute>
+                </attributes>
+        </shortcode>
+        <shortcode>
+                <tag label="Photo stack">pix_photo_stack</tag>
+                <attributes>
+                    <attribute type="area" encoding="urlencoded_json" label="Photo stack items">items</attribute>
+                    <attribute encoding="allow_html_tags" label="Photo stack link">link</attribute>
+                </attributes>
+        </shortcode>
+        <shortcode>
+                <tag label="Pricing">pix_pricing</tag>
+                <attributes>
+                    <attribute encoding="allow_html_tags" label="Pricing title">title</attribute>
+                    <attribute encoding="allow_html_tags" label="Pricing currency">currency</attribute>
+                    <attribute encoding="allow_html_tags" label="Pricing price">price</attribute>
+                    <attribute encoding="allow_html_tags" label="Pricing period">period</attribute>
+                    <attribute encoding="allow_html_tags" label="Pricing subtitle">subtitle</attribute>
+                    <attribute encoding="allow_html_tags" label="Pricing link_title">link_title</attribute>
+                    <attribute encoding="allow_html_tags" label="Pricing link">link</attribute>
+                    <attribute type="area" encoding="urlencoded_json" label="Pricing features">features</attribute>
+                    <attribute encoding="allow_html_tags" label="Pricing button text">btn_text</attribute>
+                    <attribute encoding="allow_html_tags" label="Pricing button link">btn_link</attribute>
+                </attributes>
+        </shortcode>
+        <shortcode>
+                <tag label="Progress bars">pix_progress_bars</tag>
+                <attributes>
+                    <attribute type="area" encoding="urlencoded_json" label="Progress bars items">items</attribute>
+                </attributes>
+        </shortcode>
+        <shortcode>
+                <tag label="Promo box">pix_promo_box</tag>
+                <attributes>
+                    <attribute encoding="allow_html_tags" label="Promo box link_text">link_text</attribute>
+                    <attribute encoding="allow_html_tags" label="Promo box title">title</attribute>
+                    <attribute encoding="allow_html_tags" label="Promo box badge">badge</attribute>
+                    <attribute encoding="allow_html_tags" label="Promo box alt">alt</attribute>
+                </attributes>
+        </shortcode>
+        <shortcode>
+                <tag label="Review">pix_review</tag>
+                <attributes>
+                    <attribute encoding="allow_html_tags" label="Review name">name</attribute>
+                    <attribute encoding="allow_html_tags" label="Review title">title</attribute>
+                    <attribute encoding="allow_html_tags" label="Review link">link</attribute>
+                    <attribute encoding="allow_html_tags" label="Review title">title</attribute>
+                </attributes>
+        </shortcode>
+        <shortcode>
+                <tag label="Reviews Slider">pix_reviews_slider</tag>
+                <attributes>
+                    <attribute encoding="allow_html_tags" label="Reviews sliders title">title</attribute>
+                    <attribute type="area" encoding="urlencoded_json" label="Reviews sliders items">slides</attribute>
+                </attributes>
+        </shortcode>
+        <shortcode>
+                <tag label="Shop Category">pix_shop_category</tag>
+                <attributes>
+                    <attribute encoding="allow_html_tags" label="Shop category link_text">link_text</attribute>
+                    <attribute encoding="allow_html_tags" label="Shop category title">title</attribute>
+                    <attribute encoding="allow_html_tags" label="Shop category alt">alt</attribute>
+                    <attribute encoding="allow_html_tags" label="Shop category link">link</attribute>
+                </attributes>
+        </shortcode>
+        <shortcode>
+                <tag label="Slider">pix_slider</tag>
+                <attributes>
+                    <attribute type="area" encoding="urlencoded_json" label="Slider items">items</attribute>
+                </attributes>
+        </shortcode>
+        <shortcode>
+                <tag label="Sliding Text">sliding-text</tag>
+        </shortcode>
+        <shortcode>
+                <tag label="Social Icons">pix-social-icons</tag>
+                <attributes>
+                    <attribute type="area" encoding="urlencoded_json" label="Social icons items">items</attribute>
+                </attributes>
+        </shortcode>
+        <shortcode>
+                <tag>pix_story</tag>
+                <attributes>
+                    <attribute encoding="allow_html_tags" label="Story alt">alt</attribute>
+                    <attribute encoding="allow_html_tags" label="Story title">title</attribute>
+                </attributes>
+        </shortcode>
+        <shortcode>
+                <tag label="Team member circle">pix_team_member_circle</tag>
+                <attributes>
+                    <attribute encoding="allow_html_tags" label="Team member name">name</attribute>
+                    <attribute encoding="allow_html_tags" label="Team member title">title</attribute>
+                    <attribute encoding="allow_html_tags" label="Team member description">description</attribute>
+                    <attribute type="area" encoding="urlencoded_json" label="Team member social">items</attribute>
+                </attributes>
+        </shortcode>
+        <shortcode>
+                <tag label="Team member">pix_team_member</tag>
+                <attributes>
+                    <attribute encoding="allow_html_tags" label="Team member name">name</attribute>
+                    <attribute encoding="allow_html_tags" label="Team member title">title</attribute>
+                    <attribute encoding="allow_html_tags" label="Team member description">description</attribute>
+                    <attribute type="area" encoding="urlencoded_json" label="Team member social">items</attribute>
+                </attributes>
+        </shortcode>
+        <shortcode>
+                <tag label="Testimonial Masonry">pix_testimonial_masonry</tag>
+                <attributes>
+                    <attribute type="area" encoding="urlencoded_json" label="Testimonial social">items</attribute>
+                </attributes>
+        </shortcode>
+        <shortcode>
+                <tag label="Testimonial">pix_testimonial</tag>
+                <attributes>
+                    <attribute encoding="allow_html_tags" label="Testimonial title">title</attribute>
+                    <attribute encoding="allow_html_tags" label="Testimonial name">name</attribute>
+                    <attribute encoding="allow_html_tags" label="Testimonial text">text</attribute>
+                    <attribute encoding="allow_html_tags" label="Testimonial link">link</attribute>
+                </attributes>
+        </shortcode>
+        <shortcode>
+                <tag label="Testimonials Slider">testimonials_slider</tag>
+                <attributes>
+                    <attribute type="area" encoding="urlencoded_json" label="Testimonials items">testimonials</attribute>
+                    <attribute encoding="allow_html_tags" label="testimonials title">title</attribute>
+                </attributes>
+        </shortcode>
+        <shortcode>
+                <tag label="Pix Text">pix_text</tag>
+        </shortcode>        
+        <shortcode>
+                <tag label="Pix Advanced Text">pix_advanced_text</tag>
+                <content-type>html</content-type>
+                <fields>
+                    <field action="translate" field="content">CONTENT</field>
+                </fields>
+        </shortcode>      
+        <shortcode>
+                <tag label="Circles">circles</tag>
+                <attributes>
+                    <attribute type="area" encoding="urlencoded_json" label="Circles">circles</attribute>
+                    <attribute encoding="allow_html_tags" label="Circles button text">btn_text</attribute>
+                    <attribute encoding="allow_html_tags" label="Circles button link">btn_link</attribute>
+                </attributes>
+        </shortcode> 
+        <!-- END pixfort elements -->
+
+
+    </shortcodes>
+
+    
+
+    <custom-fields>
+    	<custom-field action="translate" encoding="json">pix-highlights</custom-field>
+  	</custom-fields>
+  	<custom-fields-texts>
+    	<key name="pix-highlights">
+      		<key name="*">
+        		<key name="title" />
+        		<key name="value" />
+      		</key>
+    	</key>
+  	</custom-fields-texts>
+
+
+    <gutenberg-blocks>
+		<gutenberg-block type="pixfort-core/pix-promo-box" translate="1">
+			<key name="badge" />
+			<key name="heading" />
+			<key name="link_text" />
+			<key name="link" type="link" />
+			<key name="bg_img_url" type="link" />
+		</gutenberg-block>
+  	</gutenberg-blocks>
+
+	<!-- Elementor translations -->
+
+  	<elementor-widgets>
+    <widget name="pix-alert">
+      <fields>
+        <field>title</field>
+        <field>link_text</field>
+        <field>link>url</field>
+        <field>char</field>
+        <field>image>url</field>
+        <field>image>id</field>
+        <field>image>alt</field>
+      </fields>
+    </widget>
+    <widget name="pix-animated-heading">
+      <fields>
+        <field>slogan</field>
+        <field>title</field>
+        <field>words</field>
+        <field>text_after</field>
+      </fields>
+      <fields-in-item items_of="words">
+        <field>word</field>
+      </fields-in-item>
+    </widget>
+    <widget name="pix-event">
+      <fields>
+        <field>features</field>
+      </fields>
+      <fields-in-item items_of="features">
+        <field>time</field>
+        <field>title</field>
+        <field>text</field>
+      </fields-in-item>
+    </widget>
+	<widget name="pix-button">
+		<fields>
+            <field>btn_text</field>
+			<field>btn_link>url</field>
+		</fields>
+	</widget>
+	<widget name="pix-circles">
+		<fields>
+			<field>btn_text</field>
+			<field>btn_link>url</field>
+			<field>circles</field>
+		</fields>
+		<fields-in-item items_of="circles">
+			<field>img>url</field>
+			<field>img>alt</field>
+			<field>title</field>
+			<field type="link" key_of="link">url</field>
+		</fields-in-item>
+	</widget>
+    <widget name="pix-card-wide">
+      <fields>
+        <field>title</field>
+        <field>text</field>
+        <field>image>url</field>
+        <field>image>alt</field>
+		<field>feature_image>url</field>
+		<field>feature_image>alt</field>
+		<field>rounded_img</field>
+        <field>link>url</field>
+      </fields>
+    </widget>
+    <widget name="pix-card">
+      <fields>
+        <field>title</field>
+        <field>text</field>
+        <field>link_text</field>
+        <field>link>url</field>
+      </fields>
+    </widget>
+    <widget name="pix-auto-video">
+      <fields>
+        <field>mp4_video</field>
+        <field>poster>id</field>
+        <field>poster>url</field>
+        <field>poster>alt</field>
+        <field>link>url</field>
+      </fields>
+    </widget>
+    <widget name="pix-clients-carousel">
+      <fields>
+        <field>clients</field>
+      </fields>
+      <fields-in-item items_of="clients">
+        <field>image>url</field>
+        <field>image>alt</field>
+        <field>title</field>
+        <field type="link" key_of="link">url</field>
+      </fields-in-item>
+    </widget>
+    <widget name="pix-clients">
+      <fields>
+        <field>clients</field>
+      </fields>
+      <fields-in-item items_of="clients">
+        <field>image>url</field>
+        <field>image>alt</field>
+        <field>title</field>
+        <field type="link" key_of="link">url</field>
+      </fields-in-item>
+    </widget>
+    <widget name="pix-comparison-table">
+      <fields>
+        <field>table_title</field>
+        <field>items</field>
+        <field>col_1_title</field>
+        <field>col_2_title</field>
+        <field>col_3_title</field>
+      </fields>
+      <fields-in-item items_of="items">
+        <field>title</field>
+        <field>title_tooltip</field>
+        <field>text</field>
+        <field>col_1_text</field>
+        <field>col_1_tooltip</field>
+        <field>col_2_text</field>
+        <field>col_2_tooltip</field>
+        <field>col_3_text</field>
+        <field>col_3_tooltip</field>
+      </fields-in-item>
+    </widget>
+    <widget name="pix-countdown">
+      <fields>
+        <field>link>url</field>
+      </fields>
+    </widget>
+    <widget name="pix-fancy-mockup">
+      <fields>
+        <field>image>url</field>
+        <field>image>alt</field>
+        <field>alt</field>
+        <field>link>url</field>
+      </fields>
+    </widget>
+    <widget name="pix-gallery">
+      <fields>
+        <field>items</field>
+      </fields>
+      <fields-in-item items_of="items">
+        <field>image>url</field>
+        <field>image>alt</field>
+        <field>title</field>
+        <field>desc</field>
+        <field type="link" key_of="link">url</field>
+      </fields-in-item>
+    </widget>
+    <widget name="pix-icon">
+      <fields>
+        <field>char</field>
+        <field>link>url</field>
+      </fields>
+    </widget>
+    <widget name="pix-img-carousel">
+      <fields>
+        <field>items</field>
+      </fields>
+      <fields-in-item items_of="items">
+        <field>image>url</field>
+        <field>image>alt</field>
+        <field>alt</field>
+        <field type="link" key_of="link">url</field>
+      </fields-in-item>
+    </widget>
+    <widget name="pix-img">
+      <fields>
+        <field>image>alt</field>
+        <field>alt</field>
+        <field>link>url</field>
+      </fields>
+    </widget>
+    <widget name="pix-img-slider">
+      <fields>
+        <field>items</field>
+      </fields>
+      <fields-in-item items_of="items">
+        <field>image>url</field>
+        <field>image>alt</field>
+        <field>alt</field>
+        <field type="link" key_of="link">url</field>
+      </fields-in-item>
+    </widget>
+    <widget name="pix-marquee">
+      <fields>
+        <field>items</field>
+      </fields>
+      <fields-in-item items_of="items">
+        <field>text</field>
+        <field>text_image>url</field>
+        <field>text_image>alt</field>
+		<field>image>url</field>
+		<field>image>alt</field>
+        <field type="link" key_of="link">url</field>
+      </fields-in-item>
+    </widget>
+    <widget name="pix-portfolio-slider">
+      <fields>
+        <field>category</field>
+      </fields>
+    </widget>
+    <widget name="pix-portfolio">
+      <fields>
+        <field>category</field>
+      </fields>
+    </widget>
+    <widget name="pix-social-icons">
+      <fields>
+        <field>items</field>
+      </fields>
+      <fields-in-item items_of="items">
+        <field type="link" key_of="item_link">url</field>
+        <field>aria_label</field>
+      </fields-in-item>
+    </widget>
+    <widget name="pix-video-slider">
+      <fields>
+        <field>items</field>
+      </fields>
+      <fields-in-item items_of="items">
+        <field>embed_code</field>
+      </fields-in-item>
+    </widget>
+	<widget name="pix-products-carousel">
+      <fields>
+        <field>count</field>
+        <field>delay</field>
+        <field>autoplay_time</field>
+      </fields>
+    </widget>
+	<widget name="pix-cta">
+      <fields>
+        <field>title</field>
+        <field>text</field>
+        <field>btn_text</field>
+        <field>btn_link>url</field>
+      </fields>
+    </widget>
+	<widget name="pix-fancybox">
+      <fields>
+        <field>title</field>
+        <field>text</field>
+        <field>bg_img>url</field>
+        <field>bg_img>alt</field>
+        <field>alt</field>
+        <field>link>url</field>
+      </fields>
+    </widget>
+	<widget name="pix-feature">
+      <fields>
+        <field>title</field>
+        <field>content</field>
+        <field>link>url</field>
+      </fields>
+    </widget>
+	<widget name="pix-feature-list">
+      <fields>
+        <field>features</field>
+      </fields>
+      <fields-in-item items_of="features">
+        <field>text</field>
+        <field type="link" key_of="link">url</field>
+      </fields-in-item>
+    </widget>
+	<widget name="pix-img-box">
+      <fields>
+        <field>image>url</field>
+        <field>image>alt</field>
+        <field>title</field>
+        <field>content</field>
+        <field>link>url</field>
+      </fields>
+    </widget>
+	<widget name="pix-photo-box">
+		<fields>
+			<field>image>url</field>
+			<field>image>alt</field>
+			<field>title</field>
+			<field>link>url</field>
+		</fields>
+	</widget>
+	<widget name="pix-photo-stack">
+      <fields>
+        <field>images</field>
+      </fields>
+      <fields-in-item items_of="images">
+        <field>image>url</field>
+        <field>image>alt</field>
+        <field>alt</field>
+      </fields-in-item>
+    </widget>
+	<widget name="pix-pricing">
+      <fields>
+        <field>title</field>
+		<field>subtitle</field>
+		<field>price</field>
+		<field>currency</field>
+		<field>period</field>
+		<field>btn_text</field>
+		<field>btn_link>url</field>
+        <field>features</field>
+      </fields>
+      <fields-in-item items_of="features">
+        <field>text</field>
+      </fields-in-item>
+    </widget>
+	<widget name="pix-promo-box">
+      <fields>
+        <field>title</field>
+        <field>badge</field>
+        <field>link_text</field>
+        <field>link>url</field>
+		<field>image>url</field>
+		<field>image>alt</field>
+		<field>alt</field>
+      </fields>
+    </widget>
+	<widget name="pix-review">
+		<fields>
+			<field>name</field>
+			<field>title</field>
+			<field>content</field>
+			<field>rating</field>
+			<field>link>url</field>
+			<field>image>url</field>
+			<field>image>alt</field>
+		</fields>
+	</widget>
+	<widget name="pix-reviews-slider">
+		<fields>
+			<field>slides</field>
+		</fields>
+		<fields-in-item items_of="slides">
+			<field>name</field>
+			<field>title</field>
+			<field>content</field>
+			<field>rating</field>
+			<field type="link" key_of="link">url</field>
+			<field>image>url</field>
+			<field>image>alt</field>
+		</fields-in-item>
+	</widget>
+	<widget name="pix-slider">
+		<fields>
+			<field>items</field>
+		</fields>
+		<fields-in-item items_of="items">
+			<field>image>url</field>
+			<field>image>alt</field>
+			<field>alt</field>
+			<field>title</field>
+			<field>text</field>
+			<field>btn_text</field>
+			<field type="link" key_of="link">url</field>
+		</fields-in-item>
+	</widget>
+	<widget name="pix-story">
+		<fields>
+			<field>title</field>
+			<field>text</field>
+			<field>alt</field>
+			<field>link>url</field>
+			<field>image>url</field>
+			<field>image>alt</field>
+			<field>stories</field>
+		</fields>
+		<fields-in-item items_of="stories">
+			<field>img>url</field>
+			<field>img>alt</field>
+		</fields-in-item>
+	</widget>
+	<widget name="pix-team-member-circle">
+		<fields>
+			<field>image>url</field>
+			<field>image>alt</field>
+			<field>name</field>	
+			<field>title</field>
+			<field>description</field>
+			<field>items</field>
+		</fields>
+		<fields-in-item items_of="items">
+			<field type="link" key_of="item_link">url</field>
+		</fields-in-item>
+	</widget>
+	<widget name="pix-team-member">
+		<fields>
+			<field>image>url</field>
+			<field>image>alt</field>
+			<field>name</field>
+			<field>title</field>
+			<field>description</field>
+			<field>items</field>
+		</fields>
+		<fields-in-item items_of="items">
+			<field type="link" key_of="item_link">url</field>
+		</fields-in-item>
+	</widget>
+	<widget name="pix-testimonial-masonry">
+		<fields>
+			<field>items</field>
+		</fields>
+		<fields-in-item items_of="items">
+			<field>name</field>
+			<field>title</field>
+			<field>text</field>
+			<field type="link" key_of="link">url</field>
+			<field>image>url</field>
+			<field>image>alt</field>
+		</fields-in-item>
+	</widget>
+	<widget name="pix-testimonial">
+		<fields>
+			<field>name</field>
+			<field>title</field>
+			<field>text</field>
+			<field>link>url</field>
+			<field>image>url</field>
+			<field>image>alt</field>
+		</fields>
+	</widget>
+	<widget name="pix-testimonials-slider">
+		<fields>
+			<field>testimonials</field>
+		</fields>
+		<fields-in-item items_of="testimonials">
+			<field>text</field>
+			<field>name</field>
+			<field>title</field>
+			<field type="link" key_of="link">url</field>
+			<field>image>url</field>
+			<field>image>alt</field>
+		</fields-in-item>
+	</widget>
+	<widget name="pix-horizontal-tabs">
+		<fields>
+			<field>items</field>
+		</fields>
+		<fields-in-item items_of="items">
+			<field>title</field>
+			<field>content</field>
+		</fields-in-item>
+	</widget>
+	<widget name="pix-vertical-tabs">
+		<fields>
+			<field>badge_text</field>
+			<field>title</field>
+			<field>content</field>
+			<field>text_content</field>
+			<field>items</field>
+		</fields>
+		<fields-in-item items_of="items">
+			<field>title</field>
+			<field>content</field>
+		</fields-in-item>
+	</widget>
+	<widget name="pix-3d-box">
+		<fields>
+			<field>title</field>
+			<field>text</field>
+			<field>btn_link>url</field>
+			<field>bg_img>url</field>
+			<field>bg_img>alt</field>
+		</fields>
+	</widget>
+     <widget name="pix-levels">
+      <fields>
+        <field>items</field>
+      </fields>
+      <fields-in-item items_of="items">
+        <field>title</field>
+        <field>text</field>
+        <field type="link" key_of="link">url</field>
+      </fields-in-item>
+    </widget>
+
+  </elementor-widgets>
+</wpml-config>

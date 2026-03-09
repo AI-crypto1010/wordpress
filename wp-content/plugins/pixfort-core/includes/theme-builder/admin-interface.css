@@ -1,0 +1,112 @@
+/**
+ * Theme Builder Admin Interface Styles
+ */
+
+/* Main tabs wrapper */
+.pix-admin-tabs {
+    margin: 20px 0 0 0;
+    padding: 0 20px 0 0;
+}
+
+/* Tabs description */
+.pix-admin-tabs-description {
+    margin-bottom: 20px;
+    margin-top: 30px;
+}
+
+.pix-admin-tabs-description p {
+    margin: 0;
+    color: #1d2327;
+    font-size: 14px;
+    line-height: 1.5;
+}
+
+/* Tab-specific descriptions */
+.pix-admin-tabs-specific {
+    margin: 20px 0;
+}
+
+.pix-admin-tab-description {
+    padding: 15px;
+    background: #fff;
+    border: 1px solid #ccc;
+    border-left: 4px solid #ccc;
+    border-radius: 2px;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.pix-admin-tab-description.active {
+    display: flex;
+}
+
+.pix-admin-tab-description.inactive {
+    display: none;
+}
+
+.pix-admin-tab-description-content {
+    display: flex;
+    align-items: flex-start;
+    flex: 1;
+    margin-right: 20px;
+}
+
+.pix-admin-tab-description-content .dashicons-info {
+    font-size: 20px;
+    width: 20px;
+    height: 20px;
+    margin-right: 6px;
+    color: #bbb;
+    flex-shrink: 0;
+}
+
+.pix-admin-tab-description-content p {
+    margin: 0;
+    color: #1d2327;
+    font-size: 14px;
+    line-height: 1.5;
+}
+
+/* Learn more button */
+.pix-admin-learn-more {
+    text-decoration: none;
+    font-size: 11px;
+    display: inline-flex !important;
+    align-items: center;
+    padding: 1px 6px;
+    height: auto;
+    white-space: nowrap;
+}
+
+.pix-admin-learn-more .dashicons-book {
+    font-size: 12px;
+    width: 12px;
+    height: 12px;
+    margin-right: 4px;
+}
+
+/* Add new template section */
+.pix-admin-tabs-add-new {
+    margin-top: 15px;
+}
+
+.pix-admin-add-new-btn {
+    text-decoration: none;
+    font-size: 12px !important;
+    display: inline-flex !important;
+    align-items: center;
+    padding: 1px 6px;
+    height: auto;
+    white-space: nowrap;
+}
+
+.pix-admin-add-new-btn .dashicons-plus-alt2 {
+    font-size: 16px;
+    width: 16px;
+    height: 16px;
+    margin-right: 4px;
+}
+
+body.edit-php .wp-heading-inline, body.edit-php .page-title-action {
+    display: none !important;
+}

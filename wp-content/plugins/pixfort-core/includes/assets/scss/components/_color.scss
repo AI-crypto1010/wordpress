@@ -1,0 +1,257 @@
+// Dynamic gray colors
+$dynamic-gray-colors: (
+    'pix-dynamic-gray-950': $pix-dynamic-gray-950,
+    'pix-dynamic-gray-900': $pix-dynamic-gray-900,
+    'pix-dynamic-gray-800': $pix-dynamic-gray-800,
+    'pix-dynamic-gray-700': $pix-dynamic-gray-700,
+    'pix-dynamic-gray-600': $pix-dynamic-gray-600,
+    'pix-dynamic-gray-500': $pix-dynamic-gray-500,
+    'pix-dynamic-gray-400': $pix-dynamic-gray-400,
+    'pix-dynamic-gray-300': $pix-dynamic-gray-300,
+    'pix-dynamic-gray-200': $pix-dynamic-gray-200,
+    'pix-dynamic-gray-100': $pix-dynamic-gray-100,
+    'pix-dynamic-gray-50': $pix-dynamic-gray-50,
+    'pix-dynamic-background': $pix-dynamic-background,
+    'pix-dynamic-heading': $pix-dynamic-heading
+);
+
+:root {    
+    @each $color-name, $color-value in $dynamic-gray-colors {
+        @if variable-exists(#{$color-name}) {
+            --#{$color-name}: #{$color-value};
+        }
+    }
+    --pix-base-background: #fff;
+    --pix-dark-blur: rgba(29, 29, 31, 0.72);
+    --pix-light-blur: rgba(255,255,255,0.8);
+}
+
+.pix-base-background {
+    background-color: var(--pix-base-background);
+}
+[class^='btn-dynamic-'], [class*=' btn-dynamic-'], 
+[class^='btn-c-'], [class*=' btn-c-'] { 
+    @extend %base-btn-style;
+    color: var(--pix-btn-color) !important;
+    &:hover, 
+    &:focus,
+    &.focus {
+        color: color-mix(in srgb, transparent 30%, var(--pix-btn-color));
+    }
+}
+[class^='btn-outline-dynamic-'], [class*=' btn-outline-dynamic-'], 
+[class^='btn-outline-c-'], [class*=' btn-outline-c-'] { 
+    &:hover, 
+    &:focus,
+    &.focus {
+        color: var(--pix-btn-color);
+    }
+}
+@each $color-name, $color-value in $dynamic-gray-colors {
+    @if variable-exists(#{$color-name}) {
+        $class-name: str-slice($color-name, 5); // Remove "pix-" prefix (4 characters + 1)
+        .text-#{$class-name} {
+            color: var(--#{$color-name}) !important;
+        }
+        .bg-#{$class-name} {
+            --pix-bg-color: var(--#{$color-name});
+        }
+        .btn-#{$class-name}, .btn-line-#{$class-name}, .btn-outline-#{$class-name}, .btn-underline-#{$class-name}, .btn-blink-#{$class-name} {
+            --pix-btn-background: var(--#{$color-name});
+            --pix-btn-line-color: var(--#{$color-name});
+            --pix-btn-outline-color: var(--#{$color-name});
+            --pix-btn-underline-color: var(--#{$color-name});
+            --pix-btn-color: #{color-yiq-ld($color-value, $yiq-text-dark, $yiq-text-light, 90%)};
+            --pix-btn-blink-color: var(--#{$color-name});
+            --pix-btn-blink-color-hover: #{color-yiq-ld($color-value, $yiq-text-dark, $yiq-text-light, 90%)};
+        }
+    }
+}
+
+
+.btn-blink-gradient-primary {
+    color: $gradient-primary-1;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    @if $middle-gradient == 'yes' {
+        @include button-gradient-blink-variant(linear-gradient($gradient-direction, $gradient-primary-1, $gradient-primary-middle, $gradient-primary-2) fixed, #fff);
+    } @else {
+        @include button-gradient-blink-variant(linear-gradient($gradient-direction, $gradient-primary-1, $gradient-primary-2) fixed, #fff);
+    }
+}
+.btn-underline-gradient-primary {
+    @include button-gradient-underline-variant($gradient-primary-1);
+}
+.btn-line-gradient-primary {
+    @include button-gradient-line-variant($gradient-primary-1);
+}
+
+.text-gradient-primary {
+    background-color: $primary;
+    @if $middle-gradient == 'yes' {
+        background-image: -webkit-gradient(linear-gradient($gradient-direction, $gradient-primary-1, $gradient-primary-middle, $gradient-primary-2)) !important;
+        background-image: linear-gradient($gradient-direction, $gradient-primary-1, $gradient-primary-middle, $gradient-primary-2) !important;
+    } @else {
+        background-image: -webkit-gradient(linear-gradient($gradient-direction, $gradient-primary-1, $gradient-primary-2)) !important;
+        background-image: linear-gradient($gradient-direction, $gradient-primary-1, $gradient-primary-2) !important;
+    }
+    background-size: 100%;
+    -webkit-box-decoration-break: clone;
+    -webkit-background-clip: text !important;
+    -moz-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    -moz-text-fill-color: transparent;
+    box-decoration-break: clone;
+    background-attachment: fixed;
+    background-position: 0 0;
+    background-repeat: repeat;
+    --pf-icon-color: url(#svg-gradient-primary) !important;
+    span {
+        backface-visibility: initial;
+    }
+    .pix-words-wrapper span {
+        background-size: 100%;
+        -webkit-box-decoration-break: clone;
+        -webkit-background-clip: text !important;
+        -moz-background-clip: text;
+        -webkit-text-fill-color: transparent;
+        -moz-text-fill-color: transparent;
+        box-decoration-break: clone;
+        background-attachment: fixed;
+        background-position: 0 0;
+        background-repeat: repeat;
+        @if $middle-gradient == 'yes' {
+            background-image: -webkit-gradient(linear-gradient($gradient-direction, $gradient-primary-1, $gradient-primary-middle, $gradient-primary-2)) !important;
+            background-image: linear-gradient($gradient-direction, $gradient-primary-1, $gradient-primary-middle, $gradient-primary-2) !important;
+        } @else {
+            background-image: -webkit-gradient(linear-gradient($gradient-direction, $gradient-primary-1, $gradient-primary-2)) !important;
+            background-image: linear-gradient($gradient-direction, $gradient-primary-1, $gradient-primary-2) !important;
+        }
+    }
+}
+.text-gradient-primary-initial {
+    background-size: initial !important;
+    background-position: initial !important;
+    background-attachment: local !important;
+}
+.text-attachment-fix {
+    background-attachment: local !important;
+}
+
+.bg-gradient-primary {
+    @if $middle-gradient == 'yes' {
+        background-image: linear-gradient($gradient-direction, $gradient-primary-1, $gradient-primary-middle, $gradient-primary-2) !important;
+    } @else {
+        background-image: linear-gradient($gradient-direction, $gradient-primary-1, $gradient-primary-2) !important;
+    }
+    @if not variable-exists(disable-fixed-gradient) {
+        background-attachment: fixed !important;
+    }
+    background-repeat: repeat-y;
+    &.pix-bg-attachment-scroll {
+        background-attachment: scroll !important;
+    }
+}
+svg {
+    .bg-gradient-primary {
+        fill: url(#svg-gradient-primary);
+    }
+    .bg-gradient-primary-light {
+        fill: url(#svg-gradient-primary-light);
+        
+    }
+}
+.svg-gradient-stop-1 {
+    stop-color: rgba(lighten($gradient-primary-1, 20%), 0.15);
+}
+.svg-gradient-stop-2 {
+    @if $middle-gradient == 'yes' {
+        stop-color: rgba(lighten($gradient-primary-middle, 20%), 0.15);
+    }    
+}
+.svg-gradient-stop-3 {
+    stop-color: rgba(lighten($gradient-primary-2, 20%), 0.15);
+}
+
+.bg-gradient-primary-hover {
+    transition: var(--transition-base);
+    &:hover {
+        @if $middle-gradient == 'yes' {
+            background-image: linear-gradient($gradient-direction, $gradient-primary-1, $gradient-primary-middle, $gradient-primary-2) !important;
+        } @else {
+            background-image: linear-gradient($gradient-direction, $gradient-primary-1, $gradient-primary-2) !important;
+        }
+        @if not variable-exists(disable-fixed-gradient) {
+            background-attachment: fixed !important;
+        }
+    }
+}
+.pix-bg-attachment-scroll {
+    background-attachment: scroll !important;
+}
+.bg-gradient-primary-hover:hover {
+    transition: var(--transition-base);
+    @if $middle-gradient == 'yes' {
+        background: linear-gradient($gradient-direction, $gradient-primary-1, $gradient-primary-middle, $gradient-primary-2) fixed !important;
+    } @else {
+        background: linear-gradient($gradient-direction, $gradient-primary-1, $gradient-primary-2) fixed !important;
+    }
+}
+.btn-gradient-primary {
+    transition: var(--transition-base);
+    @if $middle-gradient == 'yes' {
+        background: linear-gradient($gradient-direction, $gradient-primary-1, $gradient-primary-middle, $gradient-primary-2) !important;
+    } @else {
+        background: linear-gradient($gradient-direction, $gradient-primary-1, $gradient-primary-2) !important;
+    }
+    &:hover {
+        opacity: 0.7;
+    }
+}
+
+::-moz-selection {
+    background: rgba($primary, 0.5); /* WebKit/Blink Browsers */
+    color: #fff;
+}
+
+::selection {
+    background: rgba($primary, 0.5); /* WebKit/Blink Browsers */
+    color: #fff;
+}
+::-moz-selection {
+    background: rgba($primary, 0.5); /* Gecko Browsers */
+    color: #fff;
+}
+
+.bg-gradient-dark {
+    background: linear-gradient($gradient-direction, #111, #333) !important;
+    @if not variable-exists(disable-fixed-gradient) {
+        background-attachment: fixed !important;
+    }
+}
+
+.bg-dynamic-blur:before,
+.bg-dark-blur:before,
+.bg-light-blur:before {
+    content: '' !important;
+    transition: none;
+    position: absolute;
+    overflow: hidden;
+    width: 100%;
+    background: rgba(29, 29, 31, 0.72) !important;
+    height: 100%;
+    border-radius: inherit;
+    z-index: -1;
+}
+.bg-light-blur:not(.temp-hide):before,
+.bg-dynamic-blur:not(.temp-hide):before,
+.bg-dark-blur:not(.temp-hide):before { -webkit-backdrop-filter: saturate(180%) blur(20px); backdrop-filter: saturate(180%) blur(20px); }
+.bg-light-blur,
+.bg-light-blur,
+.bg-dark-blur { background: transparent !important; -webkit-backdrop-filter: initial !important; backdrop-filter: initial !important; }
+.bg-dark-blur:before { background: rgba(29, 29, 31, 0.72) !important; }
+.bg-light-blur:before { background: rgba(255,255,255,0.8) !important; }
+.bg-dynamic-blur:before { background: var(--pix-dynamic-blur) !important; }
+.elementor-element.bg-dynamic-blur:before, .elementor-element.bg-dark-blur:before, .elementor-element.bg-light-blur:before {
+    z-index: 0;
+}

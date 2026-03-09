@@ -1,0 +1,924 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WP File Manager\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-02-25 17:51+0530\n"
+"PO-Revision-Date: 2022-02-25 18:16+0530\n"
+"Last-Translator: admin <kajal.gill@mysenseinc.in>\n"
+"Language-Team: \n"
+"Language: fa_IR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Poedit 3.0.1\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: file_folder_manager.php:174
+msgid "Themes backup restored successfully."
+msgstr "پشتیبان‌گیری از طرح‌های زمینه با موفقیت بازیابی شد."
+
+#: file_folder_manager.php:177
+msgid "Unable to restore themes."
+msgstr "امکان بازیابی تم ها وجود ندارد."
+
+#: file_folder_manager.php:207
+msgid "Uploads backup restored successfully."
+msgstr "پشتیبان آپلودها با موفقیت بازیابی شد."
+
+#: file_folder_manager.php:211
+msgid "Unable to restore uploads."
+msgstr "امکان بازیابی آپلودها وجود ندارد."
+
+#: file_folder_manager.php:237
+msgid "Others backup restored successfully."
+msgstr "سایر نسخه های پشتیبان با موفقیت بازیابی شدند."
+
+#: file_folder_manager.php:241
+msgid "Unable to restore others."
+msgstr "قادر به بازیابی دیگران نیست."
+
+#: file_folder_manager.php:267
+msgid "Plugins backup restored successfully."
+msgstr "پشتیبان‌گیری افزونه‌ها با موفقیت بازیابی شد."
+
+#: file_folder_manager.php:271 file_folder_manager.php:301
+msgid "Unable to restore plugins."
+msgstr "امکان بازیابی افزونه ها وجود ندارد."
+
+#: file_folder_manager.php:286
+msgid "Database backup restored successfully."
+msgstr "پشتیبان گیری از پایگاه داده با موفقیت بازیابی شد."
+
+#: file_folder_manager.php:286 file_folder_manager.php:297
+#: file_folder_manager.php:588 file_folder_manager.php:592
+msgid "All Done"
+msgstr "همه انجام شد"
+
+#: file_folder_manager.php:289
+msgid "Unable to restore DB backup."
+msgstr "امکان بازیابی نسخه پشتیبان DB وجود ندارد."
+
+#: file_folder_manager.php:347
+msgid "Backups removed successfully!"
+msgstr "پشتیبان گیری با موفقیت حذف شد!"
+
+#: file_folder_manager.php:349
+msgid "Unable to removed backup!"
+msgstr "پشتیبان حذف نشد!"
+
+#: file_folder_manager.php:373
+msgid "Database backup done on date "
+msgstr "پشتیبان گیری از پایگاه داده در تاریخ انجام شد"
+
+#: file_folder_manager.php:377
+msgid "Plugins backup done on date "
+msgstr "پشتیبان‌گیری از پلاگین‌ها در تاریخ انجام شد"
+
+#: file_folder_manager.php:381
+msgid "Themes backup done on date "
+msgstr "پشتیبان‌گیری از تم‌ها در تاریخ انجام شد"
+
+#: file_folder_manager.php:385
+msgid "Uploads backup done on date "
+msgstr "آپلودهای پشتیبان در تاریخ انجام شده است"
+
+#: file_folder_manager.php:389
+msgid "Others backup done on date "
+msgstr "پشتیبان گیری دیگران در تاریخ انجام شد"
+
+#: file_folder_manager.php:393 file_folder_manager.php:776
+msgid "Logs"
+msgstr "سیاهههای مربوط"
+
+#: file_folder_manager.php:399
+msgid "No logs found!"
+msgstr "هیچ گزارشی پیدا نشد!"
+
+#: file_folder_manager.php:496
+msgid "Nothing selected for backup"
+msgstr "هیچ چیزی برای پشتیبان گیری انتخاب نشده است"
+
+#: file_folder_manager.php:516
+msgid "Security Issue."
+msgstr "مشکل امنیتی."
+
+#: file_folder_manager.php:527
+msgid "Database backup done."
+msgstr "پشتیبان گیری از پایگاه داده انجام شد."
+
+#: file_folder_manager.php:530
+msgid "Unable to create database backup."
+msgstr "ایجاد نسخه پشتیبان از پایگاه داده ممکن نیست."
+
+#: file_folder_manager.php:544
+msgid "Plugins backup done."
+msgstr "پشتیبان گیری از افزونه ها انجام شد."
+
+#: file_folder_manager.php:547
+msgid "Plugins backup failed."
+msgstr "پشتیبان‌گیری از افزونه‌ها انجام نشد."
+
+#: file_folder_manager.php:556
+msgid "Themes backup done."
+msgstr "پشتیبان‌گیری از تم‌ها انجام شد."
+
+#: file_folder_manager.php:559
+msgid "Themes backup failed."
+msgstr "پشتیبان‌گیری از طرح‌های زمینه انجام نشد."
+
+#: file_folder_manager.php:569
+msgid "Uploads backup done."
+msgstr "پشتیبان‌گیری آپلود انجام شد."
+
+#: file_folder_manager.php:572
+msgid "Uploads backup failed."
+msgstr "پشتیبان‌گیری آپلود انجام نشد."
+
+#: file_folder_manager.php:581
+msgid "Others backup done."
+msgstr "پشتیبان گیری بقیه انجام شد"
+
+#: file_folder_manager.php:584
+msgid "Others backup failed."
+msgstr "پشتیبان گیری دیگران انجام نشد."
+
+#: file_folder_manager.php:761 file_folder_manager.php:762
+#: lib/wpfilemanager.php:23
+msgid "WP File Manager"
+msgstr "WP مدیر فایل "
+
+#: file_folder_manager.php:769
+msgid "Settings"
+msgstr "تنظیمات"
+
+#: file_folder_manager.php:771 inc/root.php:48
+msgid "Preferences"
+msgstr "اولویت ها"
+
+#: file_folder_manager.php:773
+msgid "System Properties"
+msgstr "خصوصیات سیستم"
+
+#: file_folder_manager.php:775
+msgid "Shortcode - PRO"
+msgstr "کوتاه - PRO"
+
+#: file_folder_manager.php:777
+msgid "Backup/Restore"
+msgstr "پشتیبان گیری بازیابی"
+
+#: file_folder_manager.php:1033
+msgid "Buy Pro"
+msgstr "خرید حرفه ای"
+
+#: file_folder_manager.php:1034
+msgid "Donate"
+msgstr "اهدا کنید"
+
+#: file_folder_manager.php:1249
+msgid ""
+"<div class=\"updated settings-error notice is-dismissible\" id=\"setting-"
+"error-settings_updated\"> \n"
+"<p><strong>"
+msgstr ""
+
+#: file_folder_manager.php:1256
+msgid ""
+"<div class=\"error settings-error notice is-dismissible\" id=\"setting-error-"
+"settings_updated\"> \n"
+"<p><strong>"
+msgstr ""
+
+#: file_folder_manager.php:1395 file_folder_manager.php:1483
+msgid "File doesn't exist to download."
+msgstr "فایل برای دانلود وجود ندارد."
+
+#: file_folder_manager.php:1400 file_folder_manager.php:1488
+msgid "Invalid Security Code."
+msgstr "کد امنیتی نامعتبر است."
+
+#: file_folder_manager.php:1405 file_folder_manager.php:1493
+msgid "Missing backup id."
+msgstr "شناسه پشتیبان موجود نیست."
+
+#: file_folder_manager.php:1408 file_folder_manager.php:1496
+msgid "Missing parameter type."
+msgstr "نوع پارامتر موجود نیست."
+
+#: file_folder_manager.php:1411 file_folder_manager.php:1499
+msgid "Missing required parameters."
+msgstr "عدم وجود پارامترهای مورد نیاز"
+
+#: inc/backup.php:24
+msgid ""
+"Error: Unable to restore backup because database backup is heavy in size. "
+"Please try to increase Maximum allowed size  from Preferences settings."
+msgstr ""
+"خطا: امکان بازیابی نسخه پشتیبان وجود ندارد زیرا نسخه پشتیبان پایگاه داده حجم "
+"بالایی دارد. لطفاً سعی کنید حداکثر اندازه مجاز را از تنظیمات برگزیده افزایش "
+"دهید."
+
+#: inc/backup.php:25
+msgid "Select backup(s) to delete!"
+msgstr "پشتیبان (های) را برای حذف انتخاب کنید!"
+
+#: inc/backup.php:26
+msgid "Are you sure want to remove selected backup(s)?"
+msgstr "آیا مطمئن هستید که می خواهید پشتیبان(های) انتخابی را حذف کنید؟"
+
+#: inc/backup.php:31
+msgid "Backup is running, please wait"
+msgstr "پشتیبان‌گیری در حال اجرا است، لطفاً صبر کنید"
+
+#: inc/backup.php:32
+msgid "Restore is running, please wait"
+msgstr "بازیابی در حال اجرا است، لطفاً صبر کنید"
+
+#: inc/backup.php:33
+msgid "Nothing selected for backup."
+msgstr "هیچ چیزی برای پشتیبان گیری انتخاب نشده است."
+
+#: inc/backup.php:45
+msgid "WP File Manager - Backup/Restore"
+msgstr "مدیریت فایل WP - پشتیبان گیری / بازیابی"
+
+#: inc/backup.php:51
+msgid "Backup Options:"
+msgstr "گزینه های پشتیبان گیری:"
+
+#: inc/backup.php:58
+msgid "Database Backup"
+msgstr "پشتیبان گیری از پایگاه داده"
+
+#: inc/backup.php:64
+msgid "Files Backup"
+msgstr "پشتیبان گیری از فایل ها"
+
+#: inc/backup.php:68
+msgid "Plugins"
+msgstr "پلاگین ها"
+
+#: inc/backup.php:71
+msgid "Themes"
+msgstr "تم ها"
+
+#: inc/backup.php:74
+msgid "Uploads"
+msgstr "آپلودها"
+
+#: inc/backup.php:77
+msgid "Others (Any other directories found inside wp-content)"
+msgstr "سایرین (هر دایرکتوری دیگری که در داخل wp-content یافت می شود)"
+
+#: inc/backup.php:81
+msgid "Backup Now"
+msgstr "همین حالا نسخه پشتیبان تهیه کن"
+
+#: inc/backup.php:89
+msgid "Time now"
+msgstr "ساعت هم اکنون"
+
+#: inc/backup.php:99
+msgid "SUCCESS"
+msgstr "موفقیت"
+
+#: inc/backup.php:101
+msgid "Backup successfully deleted."
+msgstr "پشتیبان گیری با موفقیت حذف شد."
+
+#: inc/backup.php:102
+msgid "Ok"
+msgstr "خوب"
+
+#: inc/backup.php:117
+msgid "DELETE FILES"
+msgstr "فایلهاروحذف کن"
+
+#: inc/backup.php:119
+msgid "Are you sure you want to delete this backup?"
+msgstr "آیا مطمئن هستید که می خواهید این نسخه پشتیبان را حذف کنید؟"
+
+#: inc/backup.php:120 inc/backup.php:139
+msgid "Cancel"
+msgstr "لغو کنید"
+
+#: inc/backup.php:121 inc/backup.php:140
+msgid "Confirm"
+msgstr "تایید"
+
+#: inc/backup.php:136
+msgid "RESTORE FILES"
+msgstr "بازیابی فایل ها"
+
+#: inc/backup.php:138
+msgid "Are you sure you want to restore this backup?"
+msgstr "آیا مطمئن هستید که می خواهید این نسخه پشتیبان را بازیابی کنید؟"
+
+#: inc/backup.php:166
+msgid "Last Log Message"
+msgstr "آخرین پیام ورود"
+
+#: inc/backup.php:169
+msgid "The backup apparently succeeded and is now complete."
+msgstr "ظاهراً نسخه پشتیبان با موفقیت انجام شد و اکنون کامل شده است."
+
+#: inc/backup.php:171
+msgid "No log message"
+msgstr "پیامی وجود ندارد"
+
+#: inc/backup.php:177
+msgid "Existing Backup(s)"
+msgstr "پشتیبان (های) موجود"
+
+#: inc/backup.php:184
+msgid "Backup Date"
+msgstr "تاریخ پشتیبان گیری"
+
+#: inc/backup.php:187
+msgid "Backup data (click to download)"
+msgstr "پشتیبان گیری از اطلاعات (برای دانلود کلیک کنید)"
+
+#: inc/backup.php:190
+msgid "Action"
+msgstr "عمل"
+
+#: inc/backup.php:210
+msgid "Today"
+msgstr "امروز"
+
+#: inc/backup.php:239
+msgid "Restore"
+msgstr "بازگرداندن"
+
+#: inc/backup.php:240 inc/backup.php:250
+msgid "Delete"
+msgstr "حذف"
+
+#: inc/backup.php:241
+msgid "View Log"
+msgstr "مشاهده گزارش"
+
+#: inc/backup.php:246
+msgid "Currently no backup(s) found."
+msgstr "در حال حاضر هیچ نسخه پشتیبان (ها) یافت نشد."
+
+#: inc/backup.php:249
+msgid "Actions upon selected backup(s)"
+msgstr "اقدامات مربوط به پشتیبان (های) انتخاب شده"
+
+#: inc/backup.php:251
+msgid "Select All"
+msgstr "انتخاب همه"
+
+#: inc/backup.php:252
+msgid "Deselect"
+msgstr "لغو انتخاب کنید"
+
+#: inc/backup.php:254
+msgid "Note:"
+msgstr "توجه داشته باشید:"
+
+#: inc/backup.php:254
+msgid "Backup files will be under"
+msgstr "فایل های پشتیبان در زیر قرار خواهند گرفت"
+
+#: inc/contribute.php:3
+msgid "WP File Manager Contribution"
+msgstr "مشارکت مدیریت فایل WP"
+
+#: inc/logs.php:7
+msgid ""
+"Note: These are demo screenshots. Please buy File Manager pro to Logs "
+"functions."
+msgstr ""
+"توجه: این ها اسکرین شات های نمایشی هستند. لطفاً توابع مدیر فایل حرفه ای را "
+"بخرید."
+
+#: inc/logs.php:8 lib/wpfilemanager.php:24
+msgid "Click to Buy PRO"
+msgstr "برای خرید PRO کلیک کنید"
+
+#: inc/logs.php:8 inc/settings.php:12 inc/settings.php:27
+#: inc/system_properties.php:5 lib/wpfilemanager.php:25
+msgid "Buy PRO"
+msgstr "خرید PRO"
+
+#: inc/logs.php:9
+msgid "Edit Files Logs"
+msgstr "ویرایش فایل‌های گزارش"
+
+#: inc/logs.php:11
+msgid "Download Files Logs"
+msgstr "لاگ فایل ها را دانلود کنید"
+
+#: inc/logs.php:13
+msgid "Upload Files Logs"
+msgstr "گزارش فایل‌ها را آپلود کنید"
+
+#: inc/root.php:43
+msgid "Settings saved."
+msgstr "تنظیمات ذخیره شد."
+
+#: inc/root.php:43 inc/root.php:46
+msgid "Dismiss this notice."
+msgstr "این اطلاعیه را رد کنید"
+
+#: inc/root.php:46
+msgid "You have not made any changes to be saved."
+msgstr "شما هیچ تغییری ایجاد نکرده اید تا ذخیره شود."
+
+#: inc/root.php:55
+msgid "Public Root Path"
+msgstr "مسیر ریشه عمومی"
+
+#: inc/root.php:58
+msgid "File Manager Root Path, you can change according to your choice."
+msgstr "مسیر ریشه فایل منیجر را می توانید بنا به انتخاب خود تغییر دهید."
+
+#: inc/root.php:59
+msgid "Default:"
+msgstr "پیش فرض:"
+
+#: inc/root.php:60
+msgid ""
+"Please change this carefully, wrong path can lead file manager plugin to go "
+"down."
+msgstr ""
+"لطفاً این را با دقت تغییر دهید، مسیر اشتباه می‌تواند منجر به از کار افتادن "
+"افزونه مدیر فایل شود."
+
+#: inc/root.php:64
+msgid "Enable Trash?"
+msgstr "حذف‌شده‌ها فعال شود؟"
+
+#: inc/root.php:67
+msgid "After enable trash, your files will go to trash folder."
+msgstr "پس از فعال کردن سطل زباله، فایل های شما به پوشه سطل زباله می روند."
+
+#: inc/root.php:72
+msgid "Enable Files Upload to Media Library?"
+msgstr "آپلود فایل ها در کتابخانه رسانه فعال شود؟"
+
+#: inc/root.php:75
+msgid "After enabling this all files will go to media library."
+msgstr "پس از فعال کردن این، همه فایل‌ها به کتابخانه رسانه خواهند رفت."
+
+#: inc/root.php:80
+msgid "Maximum allowed size at the time of database backup restore."
+msgstr "حداکثر اندازه مجاز در زمان بازیابی نسخه پشتیبان از پایگاه داده."
+
+#: inc/root.php:83
+msgid "MB"
+msgstr ""
+
+#: inc/root.php:85
+msgid ""
+"Please increase field value if you are getting error message at the time of "
+"backup restore."
+msgstr ""
+"اگر در زمان بازیابی نسخه پشتیبان پیام خطا دریافت می کنید، لطفاً مقدار فیلد را "
+"افزایش دهید."
+
+#: inc/root.php:90
+msgid "Save Changes"
+msgstr "ذخیره تغییرات"
+
+#: inc/settings.php:10
+msgid "Settings - General"
+msgstr "تنظیمات - عمومی"
+
+#: inc/settings.php:11 inc/settings.php:26
+msgid ""
+"Note: This is just a demo screenshot. To get settings please buy our pro "
+"version."
+msgstr ""
+"توجه: این فقط یک عکس نسخه ی نمایشی است. برای دریافت تنظیمات لطفا نسخه حرفه "
+"ای ما را بخرید."
+
+#: inc/settings.php:13
+msgid ""
+"Here admin can give access to user roles to use filemanager. Admin can set "
+"Default Access Folder and also control upload size of filemanager."
+msgstr ""
+"در اینجا مدیر می تواند دسترسی به نقش های کاربر را برای استفاده از مدیر فایل "
+"استفاده کند. Admin می تواند پوشه پیش فرض دسترسی را تنظیم کند و اندازه آپلود "
+"فایل manager را نیز کنترل کند."
+
+#: inc/settings.php:15
+msgid "Settings - Code-editor"
+msgstr "تنظیمات - کد ویراستار"
+
+#: inc/settings.php:16
+msgid ""
+"File Manager has a code editor with multiple themes. You can select any "
+"theme for code editor. It will display when you edit any file. Also you can "
+"allow fullscreen mode of code editor."
+msgstr ""
+"مدیر فایل دارای یک ویرایشگر کد با چندین تم است. شما می توانید هر تم برای "
+"ویرایشگر کد را انتخاب کنید. هنگامی که شما هر فایل را ویرایش می کنید، آن "
+"نمایش داده می شود. همچنین شما می توانید حالت تمام صفحه ویرایشگر کد را اجازه "
+"دهید."
+
+#: inc/settings.php:18
+msgid "Code-editor View"
+msgstr "کد ویرایشگر نمایش"
+
+#: inc/settings.php:20
+msgid "Settings - User Restrictions"
+msgstr "تنظیمات - محدودیت کاربر"
+
+#: inc/settings.php:21
+msgid ""
+"Admin can restrict actions of any user. Also hide files and folders and can "
+"set different - different folders paths for different users."
+msgstr ""
+"مدیر می تواند اعمال هر کاربر را محدود کند. همچنین فایل ها و پوشه ها را مخفی "
+"کنید و می توانید راه های مختلف پوشه های مختلف را برای کاربران مختلف تنظیم "
+"کنید."
+
+#: inc/settings.php:23
+msgid "Settings - User Role Restrictions"
+msgstr "تنظیمات - محدودیت های نقش کاربر"
+
+#: inc/settings.php:24
+msgid ""
+"Admin can restrict actions of any userrole. Also hide files and folders and "
+"can set different - different folders paths for different users roles."
+msgstr ""
+"Admin می تواند اعمال هر کاربر را محدود کند. همچنین فایل ها و پوشه ها را مخفی "
+"کنید و می توانید راه های مختلف پوشه های مختلف را برای نقش های مختلف کاربران "
+"تنظیم کنید."
+
+#: inc/shortcode_docs.php:11
+msgid "File Manager - Shortcode"
+msgstr "مدیر فایل - کد کوتاه"
+
+#: inc/shortcode_docs.php:15 inc/shortcode_docs.php:17
+#: inc/shortcode_docs.php:19
+msgid "USE:"
+msgstr "استفاده کنید:"
+
+#: inc/shortcode_docs.php:15
+msgid ""
+"It will show file manager on front end. You can control all settings from "
+"file manager settings. It will work same as backend WP File Manager."
+msgstr ""
+"این فایل منیجر را در قسمت جلویی نمایش می دهد. شما می توانید تمام تنظیمات را "
+"از تنظیمات مدیر فایل کنترل کنید. مانند مدیریت فایل WP باطن کار خواهد کرد."
+
+#: inc/shortcode_docs.php:17
+msgid ""
+"It will show file manager on front end. But only Administrator can access it "
+"and will control from file manager settings."
+msgstr ""
+"این فایل منیجر را در قسمت جلویی نمایش می دهد. اما فقط مدیر می تواند به آن "
+"دسترسی داشته باشد و از تنظیمات مدیر فایل کنترل می کند."
+
+#: inc/shortcode_docs.php:23
+msgid "Parameters:"
+msgstr "مولفه های:"
+
+#: inc/shortcode_docs.php:26
+msgid ""
+"It will allow all roles to access file manager on front end or You can "
+"simple use for particular user roles as like allowed_roles=\"editor,author"
+"\" (seprated by comma(,))"
+msgstr ""
+"به همه نقش‌ها اجازه می‌دهد به مدیر فایل در قسمت جلویی دسترسی داشته باشند یا "
+"می‌توانید برای نقش‌های کاربری خاص مانند allow_roles=\"editor,author\" به سادگی "
+"استفاده کنید (با کاما(،) جدا شده‌اند."
+
+#: inc/shortcode_docs.php:28
+msgid ""
+"Here \"test\" is the name of folder which is located on root directory, or "
+"you can give path for sub folders as like \"wp-content/plugins\". If leave "
+"blank or empty it will access all folders on root directory. Default: Root "
+"directory"
+msgstr ""
+"در اینجا \"test\" نام پوشه ای است که در دایرکتوری ریشه قرار دارد، یا می "
+"توانید مسیر را برای زیر پوشه ها مانند \"wp-content/plugins\" بدهید. اگر خالی "
+"یا خالی بماند، به تمام پوشه‌های دایرکتوری ریشه دسترسی خواهد داشت. پیش فرض: "
+"دایرکتوری ریشه"
+
+#: inc/shortcode_docs.php:30
+msgid "for access to write files permissions, note: true/false, default: false"
+msgstr ""
+"برای دسترسی به مجوزهای نوشتن فایل، توجه داشته باشید: true/false، default: "
+"false"
+
+#: inc/shortcode_docs.php:32
+msgid "for access to read files permission, note: true/false, default: true"
+msgstr ""
+"برای دسترسی به مجوز خواندن فایل ها، توجه داشته باشید: true/false، پیش فرض: "
+"true"
+
+#: inc/shortcode_docs.php:34
+msgid "it will hide mentioned here. Note: seprated by comma(,). Default: Null"
+msgstr ""
+"در اینجا ذکر شده پنهان خواهد شد. توجه: با کاما (،) جدا شده است. پیش فرض: صفر"
+
+#: inc/shortcode_docs.php:36
+msgid ""
+"It will lock mentioned in commas. you can lock more as like \".php,.css,.js"
+"\" etc. Default: Null"
+msgstr ""
+"قفل خواهد شد که در کاما ذکر شده است. شما می توانید موارد بیشتری مانند \"."
+"php,.css،.js\" و غیره قفل کنید. پیش فرض: تهی"
+
+#: inc/shortcode_docs.php:38
+msgid ""
+"* for all operations and to allow some operation you can mention operation "
+"name as like, allowed_operations=\"upload,download\". Note: seprated by "
+"comma(,). Default: *"
+msgstr ""
+"* برای همه عملیات و اجازه دادن به برخی از عملیات، می توانید نام عملیات را به "
+"عنوان like, allow_operations=\"upload,download\" ذکر کنید. توجه: با کاما (،) "
+"جدا شده است. پیش فرض: *"
+
+#: inc/shortcode_docs.php:42
+msgid "File Operations List:"
+msgstr "لیست عملیات فایل:"
+
+#: inc/shortcode_docs.php:46
+msgid "mkdir ->"
+msgstr ""
+
+#: inc/shortcode_docs.php:46
+msgid "Make directory or folder"
+msgstr "دایرکتوری یا پوشه بسازید"
+
+#: inc/shortcode_docs.php:47
+msgid "mkfile ->"
+msgstr ""
+
+#: inc/shortcode_docs.php:47
+msgid "Make file"
+msgstr "فایل درست کنید"
+
+#: inc/shortcode_docs.php:48
+msgid "rename ->"
+msgstr ""
+
+#: inc/shortcode_docs.php:48
+msgid "Rename a file or folder"
+msgstr "تغییر نام فایل یا پوشه"
+
+#: inc/shortcode_docs.php:49
+msgid "duplicate ->"
+msgstr ""
+
+#: inc/shortcode_docs.php:49
+msgid "Duplicate or clone a folder or file"
+msgstr "یک پوشه یا فایل را کپی یا شبیه سازی کنید"
+
+#: inc/shortcode_docs.php:50
+msgid "paste ->"
+msgstr ""
+
+#: inc/shortcode_docs.php:50
+msgid "Paste a file or folder"
+msgstr "یک فایل یا پوشه را جایگذاری کنید"
+
+#: inc/shortcode_docs.php:51
+msgid "ban ->"
+msgstr ""
+
+#: inc/shortcode_docs.php:51
+msgid "Ban"
+msgstr "ممنوع کردن"
+
+#: inc/shortcode_docs.php:52
+msgid "archive ->"
+msgstr ""
+
+#: inc/shortcode_docs.php:52
+msgid "To make a archive or zip"
+msgstr "برای ایجاد آرشیو یا زیپ"
+
+#: inc/shortcode_docs.php:53
+msgid "extract ->"
+msgstr ""
+
+#: inc/shortcode_docs.php:53
+msgid "Extract archive or zipped file"
+msgstr "بایگانی یا فایل فشرده را استخراج کنید"
+
+#: inc/shortcode_docs.php:54
+msgid "copy ->"
+msgstr ""
+
+#: inc/shortcode_docs.php:54
+msgid "Copy files or folders"
+msgstr "فایل ها یا پوشه ها را کپی کنید"
+
+#: inc/shortcode_docs.php:58
+msgid "cut ->"
+msgstr ""
+
+#: inc/shortcode_docs.php:58
+msgid "Simple cut a file or folder"
+msgstr "به سادگی یک فایل یا پوشه را برش دهید"
+
+#: inc/shortcode_docs.php:59
+msgid "edit ->"
+msgstr ""
+
+#: inc/shortcode_docs.php:59
+msgid "Edit a file"
+msgstr "یک فایل را ویرایش کنید"
+
+#: inc/shortcode_docs.php:60
+msgid "rm ->"
+msgstr ""
+
+#: inc/shortcode_docs.php:60
+msgid "Remove or delete files and folders"
+msgstr "فایل ها و پوشه ها را حذف یا حذف کنید"
+
+#: inc/shortcode_docs.php:61
+msgid "download ->"
+msgstr ""
+
+#: inc/shortcode_docs.php:61
+msgid "Download files"
+msgstr "دانلود فایل ها"
+
+#: inc/shortcode_docs.php:62
+msgid "upload ->"
+msgstr ""
+
+#: inc/shortcode_docs.php:62
+msgid "Upload files"
+msgstr "فایل ها را آپلود کنید"
+
+#: inc/shortcode_docs.php:63
+msgid "search -> "
+msgstr ""
+
+#: inc/shortcode_docs.php:63
+msgid "Search things"
+msgstr "چیزها را جستجو کنید"
+
+#: inc/shortcode_docs.php:64
+msgid "info ->"
+msgstr ""
+
+#: inc/shortcode_docs.php:64
+msgid "Info of file"
+msgstr "اطلاعات فایل"
+
+#: inc/shortcode_docs.php:65
+msgid "help ->"
+msgstr ""
+
+#: inc/shortcode_docs.php:65
+msgid "Help"
+msgstr "کمک"
+
+#: inc/shortcode_docs.php:71
+msgid ""
+"->  It will ban particular users by just putting their ids seprated by "
+"commas(,). If user is Ban then they will not able to access wp file manager "
+"on front end."
+msgstr ""
+"-> فقط با قرار دادن شناسه های آنها که با کاما (،) جدا شده اند، کاربران خاصی "
+"را ممنوع می کند. اگر کاربر Ban باشد، نمی‌تواند به مدیریت فایل wp در فرانت اند "
+"دسترسی پیدا کند."
+
+#: inc/shortcode_docs.php:72
+msgid "-> Filemanager UI View. Default: grid"
+msgstr "-> نمای UI Filemager. پیش فرض: شبکه"
+
+#: inc/shortcode_docs.php:73
+msgid "-> File Modified or Create date format. Default: d M, Y h:i A"
+msgstr "-> فایل اصلاح شده یا ایجاد فرمت تاریخ. پیش‌فرض: d M، Y h:i A"
+
+#: inc/shortcode_docs.php:74
+msgid "-> File manager Language. Default: English(en)"
+msgstr "-> زبان مدیر فایل. پیش فرض: انگلیسی (en)"
+
+#: inc/shortcode_docs.php:75
+msgid "-> File Manager Theme. Default: Light"
+msgstr "-> تم مدیر فایل. پیش فرض: نور"
+
+#: inc/system_properties.php:5
+msgid "File Manager - System Properties"
+msgstr "مدیر فایل - ویژگی های سیستم"
+
+#: inc/system_properties.php:10
+msgid "PHP version"
+msgstr "نسخه پی اچ پی"
+
+#: inc/system_properties.php:15
+msgid "Maximum file upload size (upload_max_filesize)"
+msgstr "حداکثر اندازه آپلود فایل (upload_max_filesize)"
+
+#: inc/system_properties.php:20
+msgid "Post maximum file upload size (post_max_size)"
+msgstr "حداکثر اندازه بارگذاری فایل ارسال (post_max_size)"
+
+#: inc/system_properties.php:25
+msgid "Memory Limit (memory_limit)"
+msgstr "محدودیت حافظه (memory_limit)"
+
+#: inc/system_properties.php:30
+msgid "Timeout (max_execution_time)"
+msgstr "وقفه (max_execution_time)"
+
+#: inc/system_properties.php:35
+msgid "Browser and OS (HTTP_USER_AGENT)"
+msgstr "مرورگر و سیستم عامل (HTTP_USER_AGENT)"
+
+#: lib/jquery/jquery-ui-1.11.4.js:8
+msgid "'"
+msgstr ""
+
+#: lib/wpfilemanager.php:31
+msgid "Change Theme Here:"
+msgstr "تم را در اینجا تغییر دهید:"
+
+#: lib/wpfilemanager.php:35
+msgid "Default"
+msgstr "پیش فرض"
+
+#: lib/wpfilemanager.php:39
+msgid "Dark"
+msgstr "تاریک"
+
+#: lib/wpfilemanager.php:43
+msgid "Light"
+msgstr "سبک"
+
+#: lib/wpfilemanager.php:47
+msgid "Gray"
+msgstr "خاکستری"
+
+#: lib/wpfilemanager.php:52
+msgid "Windows - 10"
+msgstr ""
+
+#: lib/wpfilemanager.php:85
+msgid "Welcome to File Manager"
+msgstr "به File Manager خوش آمدید"
+
+#: lib/wpfilemanager.php:88
+msgid ""
+"We love making new friends! Subscribe below and we promise to\n"
+"    keep you up-to-date with our latest new plugins, updates,\n"
+"    awesome deals and a few special offers."
+msgstr ""
+"ما عاشق پیدا کردن دوستان جدید هستیم! در زیر مشترک شوید و ما قول می دهیم که "
+"شما را از آخرین افزونه های جدید، به روز رسانی ها، معاملات عالی و چند پیشنهاد "
+"ویژه به روز نگه داریم."
+
+#: lib/wpfilemanager.php:99
+msgid "Please Enter First Name."
+msgstr "لطفا نام را وارد کنید"
+
+#: lib/wpfilemanager.php:107
+msgid "Please Enter Last Name."
+msgstr "لطفا نام خانوادگی را وارد کنید"
+
+#: lib/wpfilemanager.php:116
+msgid "Please Enter Email Address."
+msgstr "لطفا آدرس ایمیل را وارد کنید"
+
+#: lib/wpfilemanager.php:120
+msgid "Verify"
+msgstr "تایید کنید"
+
+#: lib/wpfilemanager.php:126
+msgid "No Thanks"
+msgstr "نه ممنون"
+
+#: lib/wpfilemanager.php:132
+msgid "Terms of Service"
+msgstr "شرایط استفاده از خدمات"
+
+#: lib/wpfilemanager.php:134
+msgid "Privacy Policy"
+msgstr "سیاست حفظ حریم خصوصی"
+
+#: lib/wpfilemanager.php:153
+msgid "Saving..."
+msgstr "صرفه جویی در..."
+
+#: lib/wpfilemanager.php:155
+msgid "OK"
+msgstr "خوب"
+
+#~ msgid "Manage your WP files."
+#~ msgstr "فایل های WP خود را مدیریت کنید."
+
+#~ msgid "Extensions"
+#~ msgstr "برنامه های افزودنی"
+
+#~ msgid ""
+#~ "Please contribute some donation, to make plugin more stable. You can pay "
+#~ "amount of your choice."
+#~ msgstr ""
+#~ "لطفا کمی کمک مالی کنید تا پلاگین را پایدار نگه دارید. شما می توانید مقدار "
+#~ "انتخاب خود را پرداخت کنید."

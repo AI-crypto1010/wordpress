@@ -1,0 +1,21 @@
+{
+  "apiVersion": 2,
+  "name": "pixfort-core/categories",
+  "title": "Categories",
+  "category": "widgets",
+  "icon": "category",
+  "description": "A block to display categories.",
+  "supports": {
+    "html": false
+  },
+  "attributes": {
+    "title": {
+      "type": "string",
+      "default": "Categories"
+    }
+  },
+  "textdomain": "pixfort-core",
+  "editorScript": "file:./index.js",
+  "editorStyle": "file:./style-index.css",
+  "render": "file:./render.php"
+}

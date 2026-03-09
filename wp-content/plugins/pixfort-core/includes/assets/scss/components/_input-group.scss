@@ -1,0 +1,28 @@
+//
+// Base styles
+//
+.form-control {
+	background-color: var(--pix-base-background);
+	border: 0px solid transparent;
+	box-shadow: 0 1px 3px 0 rgba(#000, .1);
+}
+
+// .form-control:focus,
+// .form-control:active {
+// 	outline: none;
+// 	border: 0px solid transparent;
+// 	background-color: var(--pix-base-background);
+// 	box-shadow: 0 1px 3px 0 rgba($black, .1);
+// }
+
+// input:-webkit-autofill {
+// 	outline: none;
+// 	border: 0px solid transparent;
+// 	background-color: var(--pix-base-background);
+// }
+
+// input:-webkit-autofill,
+// textarea:-webkit-autofill,
+// select:-webkit-autofill {
+// 	border: 0px solid transparent;
+// }

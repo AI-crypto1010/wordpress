@@ -1,0 +1,52 @@
+// Embedded responsive styles
+// Using modern CSS aspect-ratio property
+
+.embed-responsive {
+    position: relative;
+    display: block;
+    width: 100%;
+    overflow: hidden;
+
+    iframe,
+    embed,
+    object,
+    video {
+        position: absolute;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100%;
+        border: 0;
+    }
+}
+
+// Aspect ratios using modern CSS aspect-ratio property
+.embed-responsive-21by9 {
+    aspect-ratio: 21 / 9;
+}
+
+.embed-responsive-16by9 {
+    aspect-ratio: 16 / 9;
+}
+
+.embed-responsive-4by3 {
+    aspect-ratio: 4 / 3;
+}
+
+.embed-responsive-1by1 {
+    aspect-ratio: 1 / 1;
+}
+
+.embed-responsive-9by16 {
+    aspect-ratio: 9 / 16;
+}
+
+.pix-dialog-container:has(.embed-responsive-9by16) {
+    width: fit-content !important;
+    .pix-dialog-inner {
+        width: auto;
+        .embed-responsive-9by16 {
+            height: 80dvh;
+        }
+    }
+}

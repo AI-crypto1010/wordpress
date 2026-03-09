@@ -1,0 +1,257 @@
+@keyframes pix_rotating {
+	from {
+		transform: rotate(0deg);
+	}
+	to {
+		transform: rotate(360deg);
+	}
+}
+.pix-rotating {
+	animation: pix_rotating 50s linear infinite;
+}
+.pix-rotating {
+	animation-name: pix_rotating;
+	animation-duration: 50s;
+	animation-timing-function: linear;
+	animation-fill-mode: both;
+	animation-iteration-count: infinite;
+	will-change: transform;
+}
+
+@keyframes pix_rotating_inverse {
+	from {
+		transform: rotate(0deg);
+	}
+	to {
+		transform: rotate(-360deg);
+	}
+}
+.pix-rotating-inverse {
+	will-change: transform;
+	animation-name: pix_rotating_inverse;
+	animation-duration: 50s;
+	animation-timing-function: linear;
+	animation-fill-mode: both;
+	animation-iteration-count: infinite;
+}
+.pix-rotating-inverse,
+.pix-rotating {
+	&.pix-duration-fast {
+		animation-duration: 20s;
+	}
+	&.pix-duration-md {
+		animation-duration: 50s;
+	}
+	&.pix-duration-slow {
+		animation-duration: 80s;
+	}
+}
+
+@keyframes pix_bounce_sm {
+	0% {
+		transform: translateY(0);
+	}
+	50% {
+		transform: translateY(10%);
+	}
+	100% {
+		transform: translateY(0);
+	}
+}
+@keyframes pix_bounce_md {
+	0% {
+		transform: translateY(0);
+	}
+	50% {
+		transform: translateY(20%);
+	}
+	100% {
+		transform: translateY(0);
+	}
+}
+@keyframes pix_bounce_lg {
+	0% {
+		transform: translateY(0);
+	}
+	50% {
+		transform: translateY(40%);
+	}
+	100% {
+		transform: translateY(0);
+	}
+}
+
+.pix-bounce-fast {
+	will-change: transform;
+	animation: pix_bounce 6s ease infinite;
+}
+
+.pix-bounce {
+	will-change: transform;
+	animation: pix_bounce 3s ease-in-out infinite;
+}
+
+.pix-bounce-sm,
+.pix-bounce-md,
+.pix-bounce-lg,
+.pix-scale-sm,
+.pix-scale-md,
+.pix-scale-lg,
+.pix-fade {
+	will-change: transform;
+	animation-duration: 5s;
+	animation-timing-function: ease-in-out;
+	animation-fill-mode: both;
+	animation-iteration-count: infinite;
+}
+.pix-bounce-sm {
+	animation-name: pix_bounce_sm;
+}
+.pix-bounce-md {
+	animation-name: pix_bounce_md;
+}
+.pix-bounce-lg {
+	animation-name: pix_bounce_lg;
+}
+
+@keyframes pix_fade {
+	0% {
+		opacity: 1;
+	}
+	50% {
+		opacity: 0.6;
+	}
+	100% {
+		opacity: 1;
+	}
+}
+@keyframes pix_scale_sm {
+	0% {
+		transform: none;
+	}
+	50% {
+		transform: scale(1.1);
+	}
+	100% {
+		transform: none;
+	}
+}
+@keyframes pix_scale_md {
+	0% {
+		transform: none;
+	}
+	50% {
+		transform: scale(1.4);
+	}
+	100% {
+		transform: none;
+	}
+}
+@keyframes pix_scale_lg {
+	0% {
+		transform: none;
+	}
+	50% {
+		transform: scale(1.8);
+	}
+	100% {
+		transform: none;
+	}
+}
+
+
+.pix-scale-sm {
+	animation-name: pix_scale_sm;
+}
+.pix-scale-md {
+	animation-name: pix_scale_md;
+}
+.pix-scale-lg {
+	animation-name: pix_scale_lg;
+}
+.pix-fade {
+	animation-name: pix_fade;
+}
+
+.pix-bounce-sm,
+.pix-bounce-md,
+.pix-bounce-lg,
+.pix-scale-sm,
+.pix-scale-md,
+.pix-scale-lg,
+.pix-fade {
+	&.pix-duration-fast {
+		animation-duration: 2s;
+	}
+	&.pix-duration-md {
+		animation-duration: 5s;
+	}
+	&.pix-duration-slow {
+		animation-duration: 10s;
+	}
+}
+
+.pix-bg-slide-left {
+	animation-name: pix_scroll_left;
+}
+.pix-bg-slide-right {
+	animation-name: pix_scroll_right;
+}
+.pix-bg-slide-up {
+	animation-name: pix_scroll_up;
+}
+.pix-bg-slide-down {
+	animation-name: pix_scroll_down;
+}
+.pix-bg-slide-left,
+.pix-bg-slide-right,
+.pix-bg-slide-up,
+.pix-bg-slide-down {
+	background-repeat: repeat;
+	animation-timing-function: linear;
+	animation-fill-mode: both;
+	animation-iteration-count: infinite;
+	background-size: cover;
+	will-change: transform;
+	&.pix-duration-fast {
+		animation-duration: 15s;
+	}
+	&.pix-duration-md {
+		animation-duration: 30s;
+	}
+	&.pix-duration-slow {
+		animation-duration: 60s;
+	}
+}
+@keyframes pix_scroll_left {
+	0% {
+		background-position: 0 0;
+	}
+	100% {
+		background-position: -300vw 0;
+	}
+}
+@keyframes pix_scroll_right {
+	0% {
+		background-position: 0 0;
+	}
+	100% {
+		background-position: 300vw 0;
+	}
+}
+@keyframes pix_scroll_up {
+	0% {
+		background-position: 0 0;
+	}
+	100% {
+		background-position: 0 -300vw;
+	}
+}
+@keyframes pix_scroll_down {
+	0% {
+		background-position: 0 0;
+	}
+	100% {
+		background-position: 0 300vw;
+	}
+}

@@ -1,0 +1,992 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WP File Manager\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-02-28 10:42+0530\n"
+"PO-Revision-Date: 2022-03-01 11:10+0530\n"
+"Last-Translator: admin <kajal.gill@mysenseinc.in>\n"
+"Language-Team: \n"
+"Language: is_IS\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Poedit 3.0.1\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: file_folder_manager.php:174
+msgid "Themes backup restored successfully."
+msgstr "Öryggisafrit þemu endurheimt."
+
+#: file_folder_manager.php:177
+msgid "Unable to restore themes."
+msgstr "Ekki tókst að endurheimta þemu."
+
+#: file_folder_manager.php:207
+msgid "Uploads backup restored successfully."
+msgstr "Upphleðsluforrit endurheimt tókst."
+
+#: file_folder_manager.php:211
+msgid "Unable to restore uploads."
+msgstr "Ekki tókst að endurheimta innsendingar."
+
+#: file_folder_manager.php:237
+msgid "Others backup restored successfully."
+msgstr "Önnur afritun tókst aftur."
+
+#: file_folder_manager.php:241
+msgid "Unable to restore others."
+msgstr "Ekki er hægt að endurheimta aðra."
+
+#: file_folder_manager.php:267
+msgid "Plugins backup restored successfully."
+msgstr "Varabúnaður viðbóta endurheimtur með góðum árangri."
+
+#: file_folder_manager.php:271 file_folder_manager.php:301
+msgid "Unable to restore plugins."
+msgstr "Ekki tókst að endurheimta viðbætur."
+
+#: file_folder_manager.php:286
+msgid "Database backup restored successfully."
+msgstr "Varabúnaður gagnagrunns endurheimtur með góðum árangri."
+
+#: file_folder_manager.php:286 file_folder_manager.php:297
+#: file_folder_manager.php:588 file_folder_manager.php:592
+msgid "All Done"
+msgstr "Allt búið"
+
+#: file_folder_manager.php:289
+msgid "Unable to restore DB backup."
+msgstr "Ekki tókst að endurheimta DB afrit."
+
+#: file_folder_manager.php:347
+msgid "Backups removed successfully!"
+msgstr "Taka öryggisafrit tókst!"
+
+#: file_folder_manager.php:349
+msgid "Unable to removed backup!"
+msgstr "Ekki tókst að fjarlægja öryggisafrit!"
+
+#: file_folder_manager.php:373
+msgid "Database backup done on date "
+msgstr "Öryggisafrit gagnagrunns gert á dagsetningu "
+
+#: file_folder_manager.php:377
+msgid "Plugins backup done on date "
+msgstr "Varabúnaður viðbóta gerður þann dag "
+
+#: file_folder_manager.php:381
+msgid "Themes backup done on date "
+msgstr "Afrit þemu gert á dagsetningu "
+
+#: file_folder_manager.php:385
+msgid "Uploads backup done on date "
+msgstr "Hleður inn öryggisafrit gert á dagsetningu "
+
+#: file_folder_manager.php:389
+msgid "Others backup done on date "
+msgstr "Aðrir öryggisafrit gert á dagsetningu "
+
+#: file_folder_manager.php:393 file_folder_manager.php:776
+msgid "Logs"
+msgstr "Logs"
+
+#: file_folder_manager.php:399
+msgid "No logs found!"
+msgstr "Engar annálar fundust!"
+
+#: file_folder_manager.php:496
+msgid "Nothing selected for backup"
+msgstr "Ekkert valið fyrir öryggisafrit"
+
+#: file_folder_manager.php:516
+msgid "Security Issue."
+msgstr "Öryggismál."
+
+#: file_folder_manager.php:527
+msgid "Database backup done."
+msgstr "Afrit af gagnagrunni lokið."
+
+#: file_folder_manager.php:530
+msgid "Unable to create database backup."
+msgstr "Ekki tókst að búa til öryggisafrit af gagnagrunni."
+
+#: file_folder_manager.php:544
+msgid "Plugins backup done."
+msgstr "Afrit af viðbótum lokið."
+
+#: file_folder_manager.php:547
+msgid "Plugins backup failed."
+msgstr "Öryggisafrit viðbætur mistókst."
+
+#: file_folder_manager.php:556
+msgid "Themes backup done."
+msgstr "Afrit af þemum lokið."
+
+#: file_folder_manager.php:559
+msgid "Themes backup failed."
+msgstr "Afritun þema mistókst."
+
+#: file_folder_manager.php:569
+msgid "Uploads backup done."
+msgstr "Upphleðsla öryggisafrit lokið."
+
+#: file_folder_manager.php:572
+msgid "Uploads backup failed."
+msgstr "Upphleðsla öryggisafrit mistókst."
+
+#: file_folder_manager.php:581
+msgid "Others backup done."
+msgstr "Önnur öryggisafrit lokið."
+
+#: file_folder_manager.php:584
+msgid "Others backup failed."
+msgstr "Önnur öryggisafritun mistókst."
+
+#: file_folder_manager.php:761 file_folder_manager.php:762
+#: lib/wpfilemanager.php:23
+msgid "WP File Manager"
+msgstr "WP Skráastjóri"
+
+#: file_folder_manager.php:769
+msgid "Settings"
+msgstr "Stillingar"
+
+#: file_folder_manager.php:771 inc/root.php:48
+msgid "Preferences"
+msgstr "Óskir"
+
+#: file_folder_manager.php:773
+msgid "System Properties"
+msgstr "Eiginleikar kerfisins"
+
+#: file_folder_manager.php:775
+msgid "Shortcode - PRO"
+msgstr "Stuttkóði - PRO"
+
+#: file_folder_manager.php:777
+msgid "Backup/Restore"
+msgstr "Afritun/endurheimta"
+
+#: file_folder_manager.php:1033
+msgid "Buy Pro"
+msgstr "Kauptu Pro"
+
+#: file_folder_manager.php:1034
+msgid "Donate"
+msgstr "Styrkja"
+
+#: file_folder_manager.php:1249
+msgid ""
+"<div class=\"updated settings-error notice is-dismissible\" id=\"setting-"
+"error-settings_updated\"> \n"
+"<p><strong>"
+msgstr ""
+
+#: file_folder_manager.php:1256
+msgid ""
+"<div class=\"error settings-error notice is-dismissible\" id=\"setting-error-"
+"settings_updated\"> \n"
+"<p><strong>"
+msgstr ""
+
+#: file_folder_manager.php:1395 file_folder_manager.php:1483
+msgid "File doesn't exist to download."
+msgstr "Skráin er ekki til að hlaða niður."
+
+#: file_folder_manager.php:1400 file_folder_manager.php:1488
+msgid "Invalid Security Code."
+msgstr "Ógildir öryggiskóðar."
+
+#: file_folder_manager.php:1405 file_folder_manager.php:1493
+msgid "Missing backup id."
+msgstr "Vantar öryggisauðkenni."
+
+#: file_folder_manager.php:1408 file_folder_manager.php:1496
+msgid "Missing parameter type."
+msgstr "Vantar gerð breytu."
+
+#: file_folder_manager.php:1411 file_folder_manager.php:1499
+msgid "Missing required parameters."
+msgstr "Vantar nauðsynlegar breytur."
+
+#: inc/backup.php:24
+msgid ""
+"Error: Unable to restore backup because database backup is heavy in size. "
+"Please try to increase Maximum allowed size  from Preferences settings."
+msgstr ""
+"Villa: Ekki tókst að endurheimta öryggisafrit vegna þess að öryggisafrit af "
+"gagnagrunni er mikið að stærð. Vinsamlega reyndu að auka hámarks leyfða "
+"stærð frá stillingum."
+
+#: inc/backup.php:25
+msgid "Select backup(s) to delete!"
+msgstr "Veldu öryggisafrit til að eyða!"
+
+#: inc/backup.php:26
+msgid "Are you sure want to remove selected backup(s)?"
+msgstr "Ertu viss um að þú viljir fjarlægja valið öryggisafrit?"
+
+#: inc/backup.php:31
+msgid "Backup is running, please wait"
+msgstr "Afritun er í gangi, vinsamlegast bíddu"
+
+#: inc/backup.php:32
+msgid "Restore is running, please wait"
+msgstr "Endurheimt er í gangi, vinsamlegast bíðið"
+
+#: inc/backup.php:33
+msgid "Nothing selected for backup."
+msgstr "Ekkert valið fyrir öryggisafrit."
+
+#: inc/backup.php:45
+msgid "WP File Manager - Backup/Restore"
+msgstr "WP skráastjóri - öryggisafrit / endurheimt"
+
+#: inc/backup.php:51
+msgid "Backup Options:"
+msgstr "Afritunarvalkostir:"
+
+#: inc/backup.php:58
+msgid "Database Backup"
+msgstr "Öryggisafrit gagnagrunns"
+
+#: inc/backup.php:64
+msgid "Files Backup"
+msgstr "Afrit af skrám"
+
+#: inc/backup.php:68
+msgid "Plugins"
+msgstr "Viðbætur"
+
+#: inc/backup.php:71
+msgid "Themes"
+msgstr "Þemu"
+
+#: inc/backup.php:74
+msgid "Uploads"
+msgstr "Upphleðsla"
+
+#: inc/backup.php:77
+msgid "Others (Any other directories found inside wp-content)"
+msgstr "Aðrir (Allar aðrar möppur sem finnast í wp-innihaldi)"
+
+#: inc/backup.php:81
+msgid "Backup Now"
+msgstr "Taktu öryggisafrit núna"
+
+#: inc/backup.php:89
+msgid "Time now"
+msgstr "Tími núna"
+
+#: inc/backup.php:99
+msgid "SUCCESS"
+msgstr "ÁRANGUR"
+
+#: inc/backup.php:101
+msgid "Backup successfully deleted."
+msgstr "Öryggisafritun eytt."
+
+#: inc/backup.php:102
+msgid "Ok"
+msgstr "Allt í lagi"
+
+#: inc/backup.php:117
+msgid "DELETE FILES"
+msgstr "Eyða skrám"
+
+#: inc/backup.php:119
+msgid "Are you sure you want to delete this backup?"
+msgstr "Ertu viss um að þú viljir eyða þessu öryggisafriti?"
+
+#: inc/backup.php:120 inc/backup.php:139
+msgid "Cancel"
+msgstr "Hætta við"
+
+#: inc/backup.php:121 inc/backup.php:140
+msgid "Confirm"
+msgstr "Staðfesta"
+
+#: inc/backup.php:136
+msgid "RESTORE FILES"
+msgstr "Endurheimta skrár"
+
+#: inc/backup.php:138
+msgid "Are you sure you want to restore this backup?"
+msgstr "Ertu viss um að þú viljir endurheimta þetta öryggisafrit?"
+
+#: inc/backup.php:166
+msgid "Last Log Message"
+msgstr "Síðasta logskilaboð"
+
+#: inc/backup.php:169
+msgid "The backup apparently succeeded and is now complete."
+msgstr "Öryggisafritið tókst greinilega og er nú lokið."
+
+#: inc/backup.php:171
+msgid "No log message"
+msgstr "Engin logskilaboð"
+
+#: inc/backup.php:177
+msgid "Existing Backup(s)"
+msgstr "Núverandi öryggisafrit"
+
+#: inc/backup.php:184
+msgid "Backup Date"
+msgstr "Afritunardagsetning"
+
+#: inc/backup.php:187
+msgid "Backup data (click to download)"
+msgstr "Afritunargögn (smelltu til að hlaða niður)"
+
+#: inc/backup.php:190
+msgid "Action"
+msgstr "Aðgerð"
+
+#: inc/backup.php:210
+msgid "Today"
+msgstr "Í dag"
+
+#: inc/backup.php:239
+msgid "Restore"
+msgstr "Endurheimta"
+
+#: inc/backup.php:240 inc/backup.php:250
+msgid "Delete"
+msgstr "Eyða"
+
+#: inc/backup.php:241
+msgid "View Log"
+msgstr "Skoða Log"
+
+#: inc/backup.php:246
+msgid "Currently no backup(s) found."
+msgstr "Eins og er fannst ekkert öryggisafrit."
+
+#: inc/backup.php:249
+msgid "Actions upon selected backup(s)"
+msgstr "Aðgerðir við valið öryggisafrit"
+
+#: inc/backup.php:251
+msgid "Select All"
+msgstr "Velja allt"
+
+#: inc/backup.php:252
+msgid "Deselect"
+msgstr "Hætta við valið"
+
+#: inc/backup.php:254
+msgid "Note:"
+msgstr "Athugið:"
+
+#: inc/backup.php:254
+msgid "Backup files will be under"
+msgstr "Öryggisafritaskrár verða undir"
+
+#: inc/contribute.php:3
+msgid "WP File Manager Contribution"
+msgstr "WP Skráastjóri Framlag"
+
+#: inc/logs.php:7
+msgid ""
+"Note: These are demo screenshots. Please buy File Manager pro to Logs "
+"functions."
+msgstr ""
+"Athugið: Þetta eru demo skjámyndir. Vinsamlegast keyptu File Manager pro í "
+"Logs aðgerðir."
+
+#: inc/logs.php:8 lib/wpfilemanager.php:24
+msgid "Click to Buy PRO"
+msgstr "Smelltu til að kaupa PRO"
+
+#: inc/logs.php:8 inc/settings.php:12 inc/settings.php:27
+#: inc/system_properties.php:5 lib/wpfilemanager.php:25
+msgid "Buy PRO"
+msgstr "Kauptu PRO"
+
+#: inc/logs.php:9
+msgid "Edit Files Logs"
+msgstr "Breyttu skráaskrám"
+
+#: inc/logs.php:11
+msgid "Download Files Logs"
+msgstr "Sæktu skrárdagbækur"
+
+#: inc/logs.php:13
+msgid "Upload Files Logs"
+msgstr "Hlaða inn skráaskrám"
+
+#: inc/root.php:43
+msgid "Settings saved."
+msgstr "Stillingar vistaðar."
+
+#: inc/root.php:43 inc/root.php:46
+msgid "Dismiss this notice."
+msgstr "Hafna þessari tilkynningu."
+
+#: inc/root.php:46
+msgid "You have not made any changes to be saved."
+msgstr "Þú hefur ekki gert neinar breytingar til að vista."
+
+#: inc/root.php:55
+msgid "Public Root Path"
+msgstr "Almenningsrótarstígur"
+
+#: inc/root.php:58
+msgid "File Manager Root Path, you can change according to your choice."
+msgstr "File Manager Root Path, þú getur breytt eftir því sem þú velur."
+
+#: inc/root.php:59
+msgid "Default:"
+msgstr "Sjálfgefið:"
+
+#: inc/root.php:60
+msgid ""
+"Please change this carefully, wrong path can lead file manager plugin to go "
+"down."
+msgstr ""
+"Vinsamlegast breyttu þessu vandlega, röng leið getur leitt til þess að tappi "
+"skráarstjóra fellur niður."
+
+#: inc/root.php:64
+msgid "Enable Trash?"
+msgstr "Virkja ruslið?"
+
+#: inc/root.php:67
+msgid "After enable trash, your files will go to trash folder."
+msgstr "Eftir að hafa virkjað ruslið fara skrárnar þínar í ruslakista."
+
+#: inc/root.php:72
+msgid "Enable Files Upload to Media Library?"
+msgstr "Virkja skrár sem hlaðið er upp í fjölmiðlasafnið?"
+
+#: inc/root.php:75
+msgid "After enabling this all files will go to media library."
+msgstr "Eftir að þetta er virkt fara allar skrár í fjölmiðlasafnið."
+
+#: inc/root.php:80
+msgid "Maximum allowed size at the time of database backup restore."
+msgstr "Leyfileg hámarksstærð við endurheimt öryggisafrits gagnagrunns."
+
+#: inc/root.php:83
+msgid "MB"
+msgstr ""
+
+#: inc/root.php:85
+msgid ""
+"Please increase field value if you are getting error message at the time of "
+"backup restore."
+msgstr ""
+"Vinsamlega aukið gildi reits ef þú færð villuboð þegar öryggisafrit er "
+"endurheimt."
+
+#: inc/root.php:90
+msgid "Save Changes"
+msgstr "Vista breytingar"
+
+#: inc/settings.php:10
+msgid "Settings - General"
+msgstr "Stillingar - Almennt"
+
+#: inc/settings.php:11 inc/settings.php:26
+msgid ""
+"Note: This is just a demo screenshot. To get settings please buy our pro "
+"version."
+msgstr ""
+"Athugið: Þetta er bara demo skjámynd. Til að fá stillingar skaltu kaupa "
+"atvinnuútgáfuna okkar."
+
+#: inc/settings.php:13
+msgid ""
+"Here admin can give access to user roles to use filemanager. Admin can set "
+"Default Access Folder and also control upload size of filemanager."
+msgstr ""
+"Hér getur stjórnandi veitt aðgang að notendahlutverkum til að nota "
+"skjalastjóri. Stjórnandi getur valið sjálfgefna aðgangsmöppu og einnig "
+"stjórnað upphæð stærðar skráarstjóra."
+
+#: inc/settings.php:15
+msgid "Settings - Code-editor"
+msgstr "Stillingar - Kóði ritstjóri"
+
+#: inc/settings.php:16
+msgid ""
+"File Manager has a code editor with multiple themes. You can select any "
+"theme for code editor. It will display when you edit any file. Also you can "
+"allow fullscreen mode of code editor."
+msgstr ""
+"File Manager hefur kóða ritstjóra með mörgum þemum. Þú getur valið hvaða "
+"þema sem er fyrir kóða ritstjóra. Það birtist þegar þú breytir hvaða skrá "
+"sem er. Einnig er hægt að leyfa fullskjásstillingu kóða ritstjóra."
+
+#: inc/settings.php:18
+msgid "Code-editor View"
+msgstr "Kóða-ritstjóri Skoða"
+
+#: inc/settings.php:20
+msgid "Settings - User Restrictions"
+msgstr "Stillingar - Takmarkanir notenda"
+
+#: inc/settings.php:21
+msgid ""
+"Admin can restrict actions of any user. Also hide files and folders and can "
+"set different - different folders paths for different users."
+msgstr ""
+"Stjórnandi getur takmarkað aðgerðir hvers notanda. Fela einnig skrár og "
+"möppur og getur stillt mismunandi - mismunandi möppuleiðir fyrir mismunandi "
+"notendur."
+
+#: inc/settings.php:23
+msgid "Settings - User Role Restrictions"
+msgstr "Stillingar - Takmarkanir á hlutverki notanda"
+
+#: inc/settings.php:24
+msgid ""
+"Admin can restrict actions of any userrole. Also hide files and folders and "
+"can set different - different folders paths for different users roles."
+msgstr ""
+"Stjórnandi getur takmarkað aðgerðir hvaða notendastjórn sem er. Einnig fela "
+"skrár og möppur og geta stillt mismunandi - mismunandi möppuleiðir fyrir "
+"mismunandi hlutverk notenda."
+
+#: inc/shortcode_docs.php:11
+msgid "File Manager - Shortcode"
+msgstr "Skráasafn - Stutt kóða"
+
+#: inc/shortcode_docs.php:15 inc/shortcode_docs.php:17
+#: inc/shortcode_docs.php:19
+msgid "USE:"
+msgstr "NOTKUN:"
+
+#: inc/shortcode_docs.php:15
+msgid ""
+"It will show file manager on front end. You can control all settings from "
+"file manager settings. It will work same as backend WP File Manager."
+msgstr ""
+"Það mun sýna skráarstjóra á framendanum. Þú getur stjórnað öllum stillingum "
+"úr stillingum skráasafns. Það mun virka eins og stuðningur WP File Manager."
+
+#: inc/shortcode_docs.php:17
+msgid ""
+"It will show file manager on front end. But only Administrator can access it "
+"and will control from file manager settings."
+msgstr ""
+"Það mun sýna skráarstjóra á framendanum. En aðeins stjórnandi hefur aðgang "
+"að því og mun stjórna úr stillingum skráasafns."
+
+#: inc/shortcode_docs.php:23
+msgid "Parameters:"
+msgstr "Færibreytur:"
+
+#: inc/shortcode_docs.php:26
+msgid ""
+"It will allow all roles to access file manager on front end or You can "
+"simple use for particular user roles as like allowed_roles=\"editor,author"
+"\" (seprated by comma(,))"
+msgstr ""
+"Það mun leyfa öllum hlutverkum að fá aðgang að skjalastjóra í framendanum "
+"eða þú getur einfalt notað fyrir ákveðin notendahlutverk eins og allow_roles="
+"\"ritstjóri, höfundur\" (aðskilin með kommu (,))"
+
+#: inc/shortcode_docs.php:28
+msgid ""
+"Here \"test\" is the name of folder which is located on root directory, or "
+"you can give path for sub folders as like \"wp-content/plugins\". If leave "
+"blank or empty it will access all folders on root directory. Default: Root "
+"directory"
+msgstr ""
+"Hér er \"próf\" nafnið á möppunni sem er staðsett á rótarskránni, eða þú "
+"getur gefið slóð fyrir undirmöppur eins og \"wp-content/plugins\". Ef skilið "
+"er eftir autt eða tómt mun það fá aðgang að öllum möppum í rótarskránni. "
+"Sjálfgefið: Rótarskrá"
+
+#: inc/shortcode_docs.php:30
+msgid "for access to write files permissions, note: true/false, default: false"
+msgstr ""
+"til að fá aðgang að heimildum til að skrifa skrár, athugaðu: satt/ósatt, "
+"sjálfgefið: ósatt"
+
+#: inc/shortcode_docs.php:32
+msgid "for access to read files permission, note: true/false, default: true"
+msgstr ""
+"fyrir aðgang að heimild til að lesa skrár, athugaðu: satt/ósatt, sjálfgefið: "
+"satt"
+
+#: inc/shortcode_docs.php:34
+msgid "it will hide mentioned here. Note: seprated by comma(,). Default: Null"
+msgstr ""
+"það mun fela nefnt hér. Athugið: aðskilin með kommu(,). Sjálfgefið: Núll"
+
+#: inc/shortcode_docs.php:36
+msgid ""
+"It will lock mentioned in commas. you can lock more as like \".php,.css,.js"
+"\" etc. Default: Null"
+msgstr ""
+"Það mun læsast sem nefnt er með kommum. þú getur læst fleiri eins og \".php,."
+"css,.js\" osfrv. Sjálfgefið: Núll"
+
+#: inc/shortcode_docs.php:38
+msgid ""
+"* for all operations and to allow some operation you can mention operation "
+"name as like, allowed_operations=\"upload,download\". Note: seprated by "
+"comma(,). Default: *"
+msgstr ""
+"* fyrir allar aðgerðir og til að leyfa einhverja aðgerð geturðu nefnt "
+"aðgerðarheiti eins og, allow_operations=\"hlaða upp,hlaða niður\". Athugið: "
+"aðskilin með kommu(,). Sjálfgefið: *"
+
+#: inc/shortcode_docs.php:42
+msgid "File Operations List:"
+msgstr "Listi yfir aðgerðaskrár:"
+
+#: inc/shortcode_docs.php:46
+msgid "mkdir ->"
+msgstr ""
+
+#: inc/shortcode_docs.php:46
+msgid "Make directory or folder"
+msgstr "Búðu til möppu eða möppu"
+
+#: inc/shortcode_docs.php:47
+msgid "mkfile ->"
+msgstr ""
+
+#: inc/shortcode_docs.php:47
+msgid "Make file"
+msgstr "Búðu til skrá"
+
+#: inc/shortcode_docs.php:48
+msgid "rename ->"
+msgstr ""
+
+#: inc/shortcode_docs.php:48
+msgid "Rename a file or folder"
+msgstr "Endurnefna skrá eða möppu"
+
+#: inc/shortcode_docs.php:49
+msgid "duplicate ->"
+msgstr ""
+
+#: inc/shortcode_docs.php:49
+msgid "Duplicate or clone a folder or file"
+msgstr "Afritaðu eða klónaðu möppu eða skrá"
+
+#: inc/shortcode_docs.php:50
+msgid "paste ->"
+msgstr ""
+
+#: inc/shortcode_docs.php:50
+msgid "Paste a file or folder"
+msgstr "Límdu skrá eða möppu"
+
+#: inc/shortcode_docs.php:51
+msgid "ban ->"
+msgstr ""
+
+#: inc/shortcode_docs.php:51
+msgid "Ban"
+msgstr "Banna"
+
+#: inc/shortcode_docs.php:52
+msgid "archive ->"
+msgstr ""
+
+#: inc/shortcode_docs.php:52
+msgid "To make a archive or zip"
+msgstr "Til að búa til skjalasafn eða zip"
+
+#: inc/shortcode_docs.php:53
+msgid "extract ->"
+msgstr ""
+
+#: inc/shortcode_docs.php:53
+msgid "Extract archive or zipped file"
+msgstr "Dragðu úr skjalasafni eða þjöppuðum skrá"
+
+#: inc/shortcode_docs.php:54
+msgid "copy ->"
+msgstr ""
+
+#: inc/shortcode_docs.php:54
+msgid "Copy files or folders"
+msgstr "Afritaðu skrár eða möppur"
+
+#: inc/shortcode_docs.php:58
+msgid "cut ->"
+msgstr ""
+
+#: inc/shortcode_docs.php:58
+msgid "Simple cut a file or folder"
+msgstr "Einfalt skera skrá eða möppu"
+
+#: inc/shortcode_docs.php:59
+msgid "edit ->"
+msgstr ""
+
+#: inc/shortcode_docs.php:59
+msgid "Edit a file"
+msgstr "Breyttu skrá"
+
+#: inc/shortcode_docs.php:60
+msgid "rm ->"
+msgstr ""
+
+#: inc/shortcode_docs.php:60
+msgid "Remove or delete files and folders"
+msgstr "Fjarlægðu eða eyddu skrám og möppum"
+
+#: inc/shortcode_docs.php:61
+msgid "download ->"
+msgstr ""
+
+#: inc/shortcode_docs.php:61
+msgid "Download files"
+msgstr "Sæktu skrár"
+
+#: inc/shortcode_docs.php:62
+msgid "upload ->"
+msgstr ""
+
+#: inc/shortcode_docs.php:62
+msgid "Upload files"
+msgstr "Sendu skrár"
+
+#: inc/shortcode_docs.php:63
+msgid "search -> "
+msgstr ""
+
+#: inc/shortcode_docs.php:63
+msgid "Search things"
+msgstr "Leitaðu að hlutunum"
+
+#: inc/shortcode_docs.php:64
+msgid "info ->"
+msgstr ""
+
+#: inc/shortcode_docs.php:64
+msgid "Info of file"
+msgstr "Upplýsingar um skrána"
+
+#: inc/shortcode_docs.php:65
+msgid "help ->"
+msgstr ""
+
+#: inc/shortcode_docs.php:65
+msgid "Help"
+msgstr "Hjálp"
+
+#: inc/shortcode_docs.php:71
+msgid ""
+"->  It will ban particular users by just putting their ids seprated by "
+"commas(,). If user is Ban then they will not able to access wp file manager "
+"on front end."
+msgstr ""
+"-> Það mun banna tiltekna notendur með því að setja auðkenni þeirra aðgreind "
+"með kommum (,). Ef notandi er Ban þá munu þeir ekki fá aðgang að wp "
+"skráarstjóra í framendanum."
+
+#: inc/shortcode_docs.php:72
+msgid "-> Filemanager UI View. Default: grid"
+msgstr "-> Útsýni yfir skjástjóra. Sjálfgefið: grid"
+
+#: inc/shortcode_docs.php:73
+msgid "-> File Modified or Create date format. Default: d M, Y h:i A"
+msgstr ""
+"-> Skrá breytt eða búið til dagsetningarsnið. Sjálfgefið: d M, Y h: i A"
+
+#: inc/shortcode_docs.php:74
+msgid "-> File manager Language. Default: English(en)"
+msgstr "-> Skráasafnarmál. Sjálfgefið: English(en)"
+
+#: inc/shortcode_docs.php:75
+msgid "-> File Manager Theme. Default: Light"
+msgstr "-> Skráasafnsþema. Sjálfgefið: Light"
+
+#: inc/system_properties.php:5
+msgid "File Manager - System Properties"
+msgstr "Skráasafn - Eiginleikar kerfisins"
+
+#: inc/system_properties.php:10
+msgid "PHP version"
+msgstr "PHP útgáfa"
+
+#: inc/system_properties.php:15
+msgid "Maximum file upload size (upload_max_filesize)"
+msgstr "Hámarks stærð skráarupphleðslu (upload_max_filesize)"
+
+#: inc/system_properties.php:20
+msgid "Post maximum file upload size (post_max_size)"
+msgstr "Birta hámarksstærð skráarupphleðslu (post_max_size)"
+
+#: inc/system_properties.php:25
+msgid "Memory Limit (memory_limit)"
+msgstr "Minni takmörk (memory_limit)"
+
+#: inc/system_properties.php:30
+msgid "Timeout (max_execution_time)"
+msgstr "Hlé (max_execution_time)"
+
+#: inc/system_properties.php:35
+msgid "Browser and OS (HTTP_USER_AGENT)"
+msgstr "Vafri og stýrikerfi (HTTP_USER_AGENT)"
+
+#: lib/jquery/jquery-ui-1.11.4.js:8
+msgid "'"
+msgstr ""
+
+#: lib/wpfilemanager.php:31
+msgid "Change Theme Here:"
+msgstr "Breyttu þema hér:"
+
+#: lib/wpfilemanager.php:35
+msgid "Default"
+msgstr "Sjálfgefið"
+
+#: lib/wpfilemanager.php:39
+msgid "Dark"
+msgstr "Myrkur"
+
+#: lib/wpfilemanager.php:43
+msgid "Light"
+msgstr "Ljós"
+
+#: lib/wpfilemanager.php:47
+msgid "Gray"
+msgstr "Grátt"
+
+#: lib/wpfilemanager.php:52
+msgid "Windows - 10"
+msgstr ""
+
+#: lib/wpfilemanager.php:85
+msgid "Welcome to File Manager"
+msgstr "Verið velkomin í File Manager"
+
+#: lib/wpfilemanager.php:88
+msgid ""
+"We love making new friends! Subscribe below and we promise to\n"
+"    keep you up-to-date with our latest new plugins, updates,\n"
+"    awesome deals and a few special offers."
+msgstr ""
+"Við elskum að eignast nýja vini! Gerast áskrifandi hér að neðan og við lofum "
+"því\n"
+"    haltu þér uppfærð með nýjustu nýju viðbótunum okkar, uppfærslum,\n"
+"    ógnvekjandi tilboð og nokkur sértilboð."
+
+#: lib/wpfilemanager.php:99
+msgid "Please Enter First Name."
+msgstr "Vinsamlegast sláðu inn fornafn."
+
+#: lib/wpfilemanager.php:107
+msgid "Please Enter Last Name."
+msgstr "Vinsamlegast sláðu inn eftirnafn."
+
+#: lib/wpfilemanager.php:116
+msgid "Please Enter Email Address."
+msgstr "Vinsamlegast sláðu inn netfang."
+
+#: lib/wpfilemanager.php:120
+msgid "Verify"
+msgstr "Staðfestu"
+
+#: lib/wpfilemanager.php:126
+msgid "No Thanks"
+msgstr "Nei takk"
+
+#: lib/wpfilemanager.php:132
+msgid "Terms of Service"
+msgstr "Skilmálar þjónustu"
+
+#: lib/wpfilemanager.php:134
+msgid "Privacy Policy"
+msgstr "Friðhelgisstefna"
+
+#: lib/wpfilemanager.php:153
+msgid "Saving..."
+msgstr "Vistar ..."
+
+#: lib/wpfilemanager.php:155
+msgid "OK"
+msgstr "Allt í lagi"
+
+#~ msgid "Backup not found!"
+#~ msgstr "Afrit fannst ekki!"
+
+#~ msgid "Backup removed successfully!"
+#~ msgstr "Afritun tókst!"
+
+#~ msgid "<span class=\"fm_console_error\">Nothing selected for backup</span>"
+#~ msgstr "<span class=\"fm_console_error\">Ekkert valið til afritunar</span>"
+
+#~ msgid "<span class=\"fm_console_error\">Security Issue.</span>"
+#~ msgstr "<span class=\"fm_console_error\">Öryggismál. </span>"
+
+#~ msgid "<span class=\"fm_console_success\">Database backup done.</span>"
+#~ msgstr ""
+#~ "<span class=\"fm_console_success\">Öryggisafrit gagnagrunns búið.</span>"
+
+#~ msgid ""
+#~ "<span class=\"fm_console_error\">Unable to create database backup.</span>"
+#~ msgstr ""
+#~ "<span class=\"fm_console_error\">Ekki er hægt að búa til öryggisafrit af "
+#~ "gagnagrunni.</span>"
+
+#~ msgid "<span class=\"fm_console_success\">Plugins backup done.</span>"
+#~ msgstr ""
+#~ "<span class=\"fm_console_success\">Varabúnaður viðbóta búinn.</span>"
+
+#~ msgid "<span class=\"fm_console_error\">Plugins backup failed.</span>"
+#~ msgstr ""
+#~ "<span class=\"fm_console_error\">Ekki tókst að taka öryggisafrit af "
+#~ "viðbótum.</span>"
+
+#~ msgid "<span class=\"fm_console_success\">Themes backup done.</span>"
+#~ msgstr "<span class=\"fm_console_success\">Þemu varabúnaður búinn.</span>"
+
+#~ msgid "<span class=\"fm_console_error\">Themes backup failed.</span>"
+#~ msgstr "<span class=\"fm_console_error\">Afrit þemu mistókst.</span>"
+
+#~ msgid "<span class=\"fm_console_success\">Uploads backup done.</span>"
+#~ msgstr ""
+#~ "<span class=\"fm_console_success\">Upphleðslu varabúnaðar lokið.</span>"
+
+#~ msgid "<span class=\"fm_console_error\">Uploads backup failed.</span>"
+#~ msgstr ""
+#~ "<span class=\"fm_console_error\">Ekki tókst að taka öryggisafrit.</span>"
+
+#~ msgid "<span class=\"fm_console_success\">Others backup done.</span>"
+#~ msgstr "<span class=\"fm_console_success\">Aðrir varabúnaður búinn.</span>"
+
+#~ msgid "<span class=\"fm_console_error\">Others backup failed.</span>"
+#~ msgstr "<span class=\"fm_console_error\">Önnur afrit mistókust.</span>"
+
+#~ msgid "<span class=\"fm_console_success\">All Done</span>"
+#~ msgstr "<span class=\"fm_console_success\">Allt búið</span>"
+
+#~ msgid ""
+#~ "<code>[wp_file_manager view=\"list\" lang=\"en\" theme=\"light\" "
+#~ "dateformat=\"d M, Y h:i A\" allowed_roles=\"editor,author\" access_folder="
+#~ "\"wp-content/plugins\" write = \"true\" read = \"false\" hide_files = "
+#~ "\"kumar,abc.php\" lock_extensions=\".php,.css\" allowed_operations="
+#~ "\"upload,download\" ban_user_ids=\"2,3\"]"
+#~ msgstr ""
+#~ "<code>[wp_file_manager view=\"list\" lang=\"en\" theme=\"light\" "
+#~ "dateformat=\"d M, Y h:i A\" allowed_roles=\"editor,author\" access_folder="
+#~ "\"wp-content/plugins\" write = \"true\" read = \"false\" hide_files = "
+#~ "\"kumar,abc.php\" lock_extensions=\".php,.css\" allowed_operations="
+#~ "\"upload,download\" ban_user_ids=\"2,3\"]"
+
+#~ msgid "Manage your WP files."
+#~ msgstr "Stjórnaðu WP skránum þínum."
+
+#~ msgid "Extensions"
+#~ msgstr "Eftirnafn"
+
+#~ msgid ""
+#~ "Please contribute some donation, to make plugin more stable. You can pay "
+#~ "amount of your choice."
+#~ msgstr ""
+#~ "Vinsamlegast gefðu þér smá framlag til að gera viðbótina stöðugri. Þú "
+#~ "getur greitt upphæð sem þú velur."

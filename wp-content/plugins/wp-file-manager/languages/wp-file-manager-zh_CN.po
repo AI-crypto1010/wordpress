@@ -1,0 +1,957 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WP File Manager\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-02-28 13:08+0530\n"
+"PO-Revision-Date: 2022-02-28 13:11+0530\n"
+"Last-Translator: admin <munishthedeveloper48@gmail.com>\n"
+"Language-Team: \n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Poedit 3.0.1\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: file_folder_manager.php:174
+msgid "Themes backup restored successfully."
+msgstr "主题备份已成功恢复。"
+
+#: file_folder_manager.php:177
+msgid "Unable to restore themes."
+msgstr "无法恢复主题。"
+
+#: file_folder_manager.php:207
+msgid "Uploads backup restored successfully."
+msgstr "上传备份成功恢复。"
+
+#: file_folder_manager.php:211
+msgid "Unable to restore uploads."
+msgstr "无法恢复上传。"
+
+#: file_folder_manager.php:237
+msgid "Others backup restored successfully."
+msgstr "其他备份恢复成功。"
+
+#: file_folder_manager.php:241
+msgid "Unable to restore others."
+msgstr "无法恢复其他人。"
+
+#: file_folder_manager.php:267
+msgid "Plugins backup restored successfully."
+msgstr "插件备份已成功恢复。"
+
+#: file_folder_manager.php:271 file_folder_manager.php:301
+msgid "Unable to restore plugins."
+msgstr "无法恢复插件。"
+
+#: file_folder_manager.php:286
+msgid "Database backup restored successfully."
+msgstr "数据库备份恢复成功。"
+
+#: file_folder_manager.php:286 file_folder_manager.php:297
+#: file_folder_manager.php:588 file_folder_manager.php:592
+msgid "All Done"
+msgstr "全做完了"
+
+#: file_folder_manager.php:289
+msgid "Unable to restore DB backup."
+msgstr "无法恢复数据库备份。"
+
+#: file_folder_manager.php:347
+msgid "Backups removed successfully!"
+msgstr "备份删除成功！"
+
+#: file_folder_manager.php:349
+msgid "Unable to removed backup!"
+msgstr "无法删除备份！"
+
+#: file_folder_manager.php:373
+msgid "Database backup done on date "
+msgstr "数据库备份在日期完成 "
+
+#: file_folder_manager.php:377
+msgid "Plugins backup done on date "
+msgstr "插件备份在日期完成 "
+
+#: file_folder_manager.php:381
+msgid "Themes backup done on date "
+msgstr "主题备份在日期完成 "
+
+#: file_folder_manager.php:385
+msgid "Uploads backup done on date "
+msgstr "上传备份完成日期 "
+
+#: file_folder_manager.php:389
+msgid "Others backup done on date "
+msgstr "其他备份在日期完成 "
+
+#: file_folder_manager.php:393 file_folder_manager.php:776
+msgid "Logs"
+msgstr "日志"
+
+#: file_folder_manager.php:399
+msgid "No logs found!"
+msgstr "没有找到日志！"
+
+#: file_folder_manager.php:496
+msgid "Nothing selected for backup"
+msgstr "未选择任何备份"
+
+#: file_folder_manager.php:516
+msgid "Security Issue."
+msgstr "安全问题。"
+
+#: file_folder_manager.php:527
+msgid "Database backup done."
+msgstr "数据库备份完成。"
+
+#: file_folder_manager.php:530
+msgid "Unable to create database backup."
+msgstr "无法创建数据库备份。"
+
+#: file_folder_manager.php:544
+msgid "Plugins backup done."
+msgstr "插件备份完成。"
+
+#: file_folder_manager.php:547
+msgid "Plugins backup failed."
+msgstr "插件备份失败。"
+
+#: file_folder_manager.php:556
+msgid "Themes backup done."
+msgstr "主题备份完成。"
+
+#: file_folder_manager.php:559
+msgid "Themes backup failed."
+msgstr "主题备份失败。"
+
+#: file_folder_manager.php:569
+msgid "Uploads backup done."
+msgstr "上传备份完成。"
+
+#: file_folder_manager.php:572
+msgid "Uploads backup failed."
+msgstr "上传备份失败。"
+
+#: file_folder_manager.php:581
+msgid "Others backup done."
+msgstr "其他备份完成。"
+
+#: file_folder_manager.php:584
+msgid "Others backup failed."
+msgstr "其他备份失败。"
+
+#: file_folder_manager.php:761 file_folder_manager.php:762
+#: lib/wpfilemanager.php:23
+msgid "WP File Manager"
+msgstr "WP文件管理器"
+
+#: file_folder_manager.php:769
+msgid "Settings"
+msgstr "设置"
+
+#: file_folder_manager.php:771 inc/root.php:48
+msgid "Preferences"
+msgstr "首选项"
+
+#: file_folder_manager.php:773
+msgid "System Properties"
+msgstr "系统属性"
+
+#: file_folder_manager.php:775
+msgid "Shortcode - PRO"
+msgstr "简码 - PRO"
+
+#: file_folder_manager.php:777
+msgid "Backup/Restore"
+msgstr "备份/恢复"
+
+#: file_folder_manager.php:1033
+msgid "Buy Pro"
+msgstr "购买专业版"
+
+#: file_folder_manager.php:1034
+msgid "Donate"
+msgstr "捐"
+
+#: file_folder_manager.php:1249
+msgid ""
+"<div class=\"updated settings-error notice is-dismissible\" id=\"setting-"
+"error-settings_updated\"> \n"
+"<p><strong>"
+msgstr ""
+
+#: file_folder_manager.php:1256
+msgid ""
+"<div class=\"error settings-error notice is-dismissible\" id=\"setting-error-"
+"settings_updated\"> \n"
+"<p><strong>"
+msgstr ""
+
+#: file_folder_manager.php:1395 file_folder_manager.php:1483
+msgid "File doesn't exist to download."
+msgstr "要下载的文件不存在。"
+
+#: file_folder_manager.php:1400 file_folder_manager.php:1488
+msgid "Invalid Security Code."
+msgstr "安全代码无效。"
+
+#: file_folder_manager.php:1405 file_folder_manager.php:1493
+msgid "Missing backup id."
+msgstr "缺少备份 ID。"
+
+#: file_folder_manager.php:1408 file_folder_manager.php:1496
+msgid "Missing parameter type."
+msgstr "缺少参数类型。"
+
+#: file_folder_manager.php:1411 file_folder_manager.php:1499
+msgid "Missing required parameters."
+msgstr "缺少必需的参数。"
+
+#: inc/backup.php:24
+msgid ""
+"Error: Unable to restore backup because database backup is heavy in size. "
+"Please try to increase Maximum allowed size  from Preferences settings."
+msgstr ""
+"错误：无法恢复备份，因为数据库备份过大。请尝试从首选项设置中增加最大允许大"
+"小。"
+
+#: inc/backup.php:25
+msgid "Select backup(s) to delete!"
+msgstr "选择要删除的备份！"
+
+#: inc/backup.php:26
+msgid "Are you sure want to remove selected backup(s)?"
+msgstr "您确定要删除选定的备份吗？"
+
+#: inc/backup.php:31
+msgid "Backup is running, please wait"
+msgstr "正在备份，请稍候"
+
+#: inc/backup.php:32
+msgid "Restore is running, please wait"
+msgstr "正在恢复，请稍候"
+
+#: inc/backup.php:33
+msgid "Nothing selected for backup."
+msgstr "未选择任何备份。"
+
+#: inc/backup.php:45
+msgid "WP File Manager - Backup/Restore"
+msgstr "WP 文件管理器 - 备份/恢复"
+
+#: inc/backup.php:51
+msgid "Backup Options:"
+msgstr "备份选项："
+
+#: inc/backup.php:58
+msgid "Database Backup"
+msgstr "数据库备份"
+
+#: inc/backup.php:64
+msgid "Files Backup"
+msgstr "文件备份"
+
+#: inc/backup.php:68
+msgid "Plugins"
+msgstr "插件"
+
+#: inc/backup.php:71
+msgid "Themes"
+msgstr "主题"
+
+#: inc/backup.php:74
+msgid "Uploads"
+msgstr "上传"
+
+#: inc/backup.php:77
+msgid "Others (Any other directories found inside wp-content)"
+msgstr "其他（在 wp-content 中找到的任何其他目录）"
+
+#: inc/backup.php:81
+msgid "Backup Now"
+msgstr "立即备份"
+
+#: inc/backup.php:89
+msgid "Time now"
+msgstr "是时候了"
+
+#: inc/backup.php:99
+msgid "SUCCESS"
+msgstr "成功"
+
+#: inc/backup.php:101
+msgid "Backup successfully deleted."
+msgstr "备份已成功删除。"
+
+#: inc/backup.php:102
+msgid "Ok"
+msgstr "好的"
+
+#: inc/backup.php:117
+msgid "DELETE FILES"
+msgstr "删除文件"
+
+#: inc/backup.php:119
+msgid "Are you sure you want to delete this backup?"
+msgstr "您确定要删除此备份吗？"
+
+#: inc/backup.php:120 inc/backup.php:139
+msgid "Cancel"
+msgstr "取消"
+
+#: inc/backup.php:121 inc/backup.php:140
+msgid "Confirm"
+msgstr "确认"
+
+#: inc/backup.php:136
+msgid "RESTORE FILES"
+msgstr "恢复文件"
+
+#: inc/backup.php:138
+msgid "Are you sure you want to restore this backup?"
+msgstr "您确定要恢复此备份吗？"
+
+#: inc/backup.php:166
+msgid "Last Log Message"
+msgstr "最后一条日志消息"
+
+#: inc/backup.php:169
+msgid "The backup apparently succeeded and is now complete."
+msgstr "备份显然成功了，现在已经完成。"
+
+#: inc/backup.php:171
+msgid "No log message"
+msgstr "没有日志消息"
+
+#: inc/backup.php:177
+msgid "Existing Backup(s)"
+msgstr "现有备份"
+
+#: inc/backup.php:184
+msgid "Backup Date"
+msgstr "备份日期"
+
+#: inc/backup.php:187
+msgid "Backup data (click to download)"
+msgstr "备份数据（点击下载）"
+
+#: inc/backup.php:190
+msgid "Action"
+msgstr "行动"
+
+#: inc/backup.php:210
+msgid "Today"
+msgstr "今天"
+
+#: inc/backup.php:239
+msgid "Restore"
+msgstr "恢复"
+
+#: inc/backup.php:240 inc/backup.php:250
+msgid "Delete"
+msgstr "删除"
+
+#: inc/backup.php:241
+msgid "View Log"
+msgstr "查看日志"
+
+#: inc/backup.php:246
+msgid "Currently no backup(s) found."
+msgstr "目前没有找到备份。"
+
+#: inc/backup.php:249
+msgid "Actions upon selected backup(s)"
+msgstr "对选定备份的操作"
+
+#: inc/backup.php:251
+msgid "Select All"
+msgstr "全选"
+
+#: inc/backup.php:252
+msgid "Deselect"
+msgstr "取消选择"
+
+#: inc/backup.php:254
+msgid "Note:"
+msgstr "笔记："
+
+#: inc/backup.php:254
+msgid "Backup files will be under"
+msgstr "备份文件将在"
+
+#: inc/contribute.php:3
+msgid "WP File Manager Contribution"
+msgstr "WP 文件管理器贡献"
+
+#: inc/logs.php:7
+msgid ""
+"Note: These are demo screenshots. Please buy File Manager pro to Logs "
+"functions."
+msgstr "注意：这些是演示屏幕截图。请购买文件管理器 pro 到日志功能。"
+
+#: inc/logs.php:8 lib/wpfilemanager.php:24
+msgid "Click to Buy PRO"
+msgstr "点击购买专业版"
+
+#: inc/logs.php:8 inc/settings.php:12 inc/settings.php:27
+#: inc/system_properties.php:5 lib/wpfilemanager.php:25
+msgid "Buy PRO"
+msgstr "购买专业版"
+
+#: inc/logs.php:9
+msgid "Edit Files Logs"
+msgstr "编辑文件日志"
+
+#: inc/logs.php:11
+msgid "Download Files Logs"
+msgstr "下载文件日志"
+
+#: inc/logs.php:13
+msgid "Upload Files Logs"
+msgstr "上传文件日志"
+
+#: inc/root.php:43
+msgid "Settings saved."
+msgstr "设置已保存。"
+
+#: inc/root.php:43 inc/root.php:46
+msgid "Dismiss this notice."
+msgstr "忽略此通知。"
+
+#: inc/root.php:46
+msgid "You have not made any changes to be saved."
+msgstr "您尚未进行任何要保存的更改。"
+
+#: inc/root.php:55
+msgid "Public Root Path"
+msgstr "公共根路径"
+
+#: inc/root.php:58
+msgid "File Manager Root Path, you can change according to your choice."
+msgstr "文件管理器根路径，你可以根据你的选择改变。"
+
+#: inc/root.php:59
+msgid "Default:"
+msgstr "默认:"
+
+#: inc/root.php:60
+msgid ""
+"Please change this carefully, wrong path can lead file manager plugin to go "
+"down."
+msgstr "请小心更改，错误的路径会导致文件管理器插件失效。"
+
+#: inc/root.php:64
+msgid "Enable Trash?"
+msgstr "启用垃圾箱？"
+
+#: inc/root.php:67
+msgid "After enable trash, your files will go to trash folder."
+msgstr "启用垃圾箱后，您的文件将进入垃圾箱文件夹。"
+
+#: inc/root.php:72
+msgid "Enable Files Upload to Media Library?"
+msgstr "启用文件上传到媒体库？"
+
+#: inc/root.php:75
+msgid "After enabling this all files will go to media library."
+msgstr "启用此功能后，所有文件都将转到媒体库。"
+
+#: inc/root.php:80
+msgid "Maximum allowed size at the time of database backup restore."
+msgstr "数据库备份还原时允许的最大大小。"
+
+#: inc/root.php:83
+msgid "MB"
+msgstr ""
+
+#: inc/root.php:85
+msgid ""
+"Please increase field value if you are getting error message at the time of "
+"backup restore."
+msgstr "如果您在备份还原时收到错误消息，请增加字段值。"
+
+#: inc/root.php:90
+msgid "Save Changes"
+msgstr "保存更改"
+
+#: inc/settings.php:10
+msgid "Settings - General"
+msgstr "设置 - 常规"
+
+#: inc/settings.php:11 inc/settings.php:26
+msgid ""
+"Note: This is just a demo screenshot. To get settings please buy our pro "
+"version."
+msgstr "注意：这只是一个演示屏幕截图。要获得设置，请购买我们的专业版。"
+
+#: inc/settings.php:13
+msgid ""
+"Here admin can give access to user roles to use filemanager. Admin can set "
+"Default Access Folder and also control upload size of filemanager."
+msgstr ""
+"在这里 admin 可以授予对用户角色的访问权限以使用文件管理器。管理员可以设置默认"
+"访问文件夹并控制文件管理器的上传大小。"
+
+#: inc/settings.php:15
+msgid "Settings - Code-editor"
+msgstr "设置 - 代码编辑器"
+
+#: inc/settings.php:16
+msgid ""
+"File Manager has a code editor with multiple themes. You can select any "
+"theme for code editor. It will display when you edit any file. Also you can "
+"allow fullscreen mode of code editor."
+msgstr ""
+"文件管理器具有多个主题的代码编辑器。您可以为代码编辑器选择任何主题。它会在您"
+"编辑任何文件时显示。您也可以允许代码编辑器的全屏模式。"
+
+#: inc/settings.php:18
+msgid "Code-editor View"
+msgstr "代码编辑器视图"
+
+#: inc/settings.php:20
+msgid "Settings - User Restrictions"
+msgstr "设置 - 用户限制"
+
+#: inc/settings.php:21
+msgid ""
+"Admin can restrict actions of any user. Also hide files and folders and can "
+"set different - different folders paths for different users."
+msgstr ""
+"管理员可以限制任何用户的操作。还可以隐藏文件和文件夹，并可以为不同的用户设置"
+"不同的文件夹路径。"
+
+#: inc/settings.php:23
+msgid "Settings - User Role Restrictions"
+msgstr "设置 - 用户角色限制"
+
+#: inc/settings.php:24
+msgid ""
+"Admin can restrict actions of any userrole. Also hide files and folders and "
+"can set different - different folders paths for different users roles."
+msgstr ""
+"管理员可以限制任何用户角色的操作。还可以隐藏文件和文件夹，并可以为不同的用户"
+"角色设置不同的文件夹路径。"
+
+#: inc/shortcode_docs.php:11
+msgid "File Manager - Shortcode"
+msgstr "文件管理器 - 简码"
+
+#: inc/shortcode_docs.php:15 inc/shortcode_docs.php:17
+#: inc/shortcode_docs.php:19
+msgid "USE:"
+msgstr "用："
+
+#: inc/shortcode_docs.php:15
+msgid ""
+"It will show file manager on front end. You can control all settings from "
+"file manager settings. It will work same as backend WP File Manager."
+msgstr ""
+"它将在前端显示文件管理器。您可以从文件管理器设置中控制所有设置。它将与后端 "
+"WP 文件管理器相同。"
+
+#: inc/shortcode_docs.php:17
+msgid ""
+"It will show file manager on front end. But only Administrator can access it "
+"and will control from file manager settings."
+msgstr ""
+"它将在前端显示文件管理器。但只有管理员可以访问它，并将通过文件管理器设置进行"
+"控制。"
+
+#: inc/shortcode_docs.php:23
+msgid "Parameters:"
+msgstr "参数："
+
+#: inc/shortcode_docs.php:26
+msgid ""
+"It will allow all roles to access file manager on front end or You can "
+"simple use for particular user roles as like allowed_roles=\"editor,author"
+"\" (seprated by comma(,))"
+msgstr ""
+"它将允许所有角色访问前端的文件管理器，或者您可以简单地使用特定的用户角色，例"
+"如 allowed_roles=\"editor,author\" （用逗号（，）分隔）"
+
+#: inc/shortcode_docs.php:28
+msgid ""
+"Here \"test\" is the name of folder which is located on root directory, or "
+"you can give path for sub folders as like \"wp-content/plugins\". If leave "
+"blank or empty it will access all folders on root directory. Default: Root "
+"directory"
+msgstr ""
+"这里的“test”是位于根目录的文件夹的名称，或者您可以为子文件夹提供路径，如“wp-"
+"content/plugins”。如果留空或为空，它将访问根目录上的所有文件夹。默认值：根目"
+"录"
+
+#: inc/shortcode_docs.php:30
+msgid "for access to write files permissions, note: true/false, default: false"
+msgstr "获取写文件权限，注意：true/false，默认：false"
+
+#: inc/shortcode_docs.php:32
+msgid "for access to read files permission, note: true/false, default: true"
+msgstr "获取读取文件权限，注意：true/false，默认：true"
+
+#: inc/shortcode_docs.php:34
+msgid "it will hide mentioned here. Note: seprated by comma(,). Default: Null"
+msgstr "它会隐藏这里提到的。注意：用逗号（，）分隔。默认值：空"
+
+#: inc/shortcode_docs.php:36
+msgid ""
+"It will lock mentioned in commas. you can lock more as like \".php,.css,.js"
+"\" etc. Default: Null"
+msgstr ""
+"它将锁定逗号中提到的。您可以锁定更多，如“.php、.css、.js”等。默认值：Null"
+
+#: inc/shortcode_docs.php:38
+msgid ""
+"* for all operations and to allow some operation you can mention operation "
+"name as like, allowed_operations=\"upload,download\". Note: seprated by "
+"comma(,). Default: *"
+msgstr ""
+"* 对于所有操作并允许某些操作，您可以提及操作名称，allowed_operations="
+"\"upload,download\"。注意：用逗号（，）分隔。默认： *"
+
+#: inc/shortcode_docs.php:42
+msgid "File Operations List:"
+msgstr "文件操作列表："
+
+#: inc/shortcode_docs.php:46
+msgid "mkdir ->"
+msgstr ""
+
+#: inc/shortcode_docs.php:46
+msgid "Make directory or folder"
+msgstr "制作目录或文件夹"
+
+#: inc/shortcode_docs.php:47
+msgid "mkfile ->"
+msgstr ""
+
+#: inc/shortcode_docs.php:47
+msgid "Make file"
+msgstr "制作文件"
+
+#: inc/shortcode_docs.php:48
+msgid "rename ->"
+msgstr ""
+
+#: inc/shortcode_docs.php:48
+msgid "Rename a file or folder"
+msgstr "重命名文件或文件夹"
+
+#: inc/shortcode_docs.php:49
+msgid "duplicate ->"
+msgstr ""
+
+#: inc/shortcode_docs.php:49
+msgid "Duplicate or clone a folder or file"
+msgstr "复制或克隆文件夹或文件"
+
+#: inc/shortcode_docs.php:50
+msgid "paste ->"
+msgstr ""
+
+#: inc/shortcode_docs.php:50
+msgid "Paste a file or folder"
+msgstr "粘贴文件或文件夹"
+
+#: inc/shortcode_docs.php:51
+msgid "ban ->"
+msgstr ""
+
+#: inc/shortcode_docs.php:51
+msgid "Ban"
+msgstr "ban"
+
+#: inc/shortcode_docs.php:52
+msgid "archive ->"
+msgstr ""
+
+#: inc/shortcode_docs.php:52
+msgid "To make a archive or zip"
+msgstr "制作存档或压缩文件"
+
+#: inc/shortcode_docs.php:53
+msgid "extract ->"
+msgstr ""
+
+#: inc/shortcode_docs.php:53
+msgid "Extract archive or zipped file"
+msgstr "提取存档或压缩文件"
+
+#: inc/shortcode_docs.php:54
+msgid "copy ->"
+msgstr ""
+
+#: inc/shortcode_docs.php:54
+msgid "Copy files or folders"
+msgstr "复制文件或文件夹"
+
+#: inc/shortcode_docs.php:58
+msgid "cut ->"
+msgstr ""
+
+#: inc/shortcode_docs.php:58
+msgid "Simple cut a file or folder"
+msgstr "简单剪切文件或文件夹"
+
+#: inc/shortcode_docs.php:59
+msgid "edit ->"
+msgstr ""
+
+#: inc/shortcode_docs.php:59
+msgid "Edit a file"
+msgstr "编辑文件"
+
+#: inc/shortcode_docs.php:60
+msgid "rm ->"
+msgstr ""
+
+#: inc/shortcode_docs.php:60
+msgid "Remove or delete files and folders"
+msgstr "移除或删除文件和文件夹"
+
+#: inc/shortcode_docs.php:61
+msgid "download ->"
+msgstr ""
+
+#: inc/shortcode_docs.php:61
+msgid "Download files"
+msgstr "下载文件"
+
+#: inc/shortcode_docs.php:62
+msgid "upload ->"
+msgstr ""
+
+#: inc/shortcode_docs.php:62
+msgid "Upload files"
+msgstr "上传文件"
+
+#: inc/shortcode_docs.php:63
+msgid "search -> "
+msgstr ""
+
+#: inc/shortcode_docs.php:63
+msgid "Search things"
+msgstr "搜索东西"
+
+#: inc/shortcode_docs.php:64
+msgid "info ->"
+msgstr ""
+
+#: inc/shortcode_docs.php:64
+msgid "Info of file"
+msgstr "文件信息"
+
+#: inc/shortcode_docs.php:65
+msgid "help ->"
+msgstr ""
+
+#: inc/shortcode_docs.php:65
+msgid "Help"
+msgstr "帮助"
+
+#: inc/shortcode_docs.php:71
+msgid ""
+"->  It will ban particular users by just putting their ids seprated by "
+"commas(,). If user is Ban then they will not able to access wp file manager "
+"on front end."
+msgstr ""
+"-> 它将通过将特定用户的 id 用逗号 (,) 分隔来禁止特定用户。如果用户是 Ban，那"
+"么他们将无法访问前端的 wp 文件管理器。"
+
+#: inc/shortcode_docs.php:72
+msgid "-> Filemanager UI View. Default: grid"
+msgstr "-> 文件管理器 UI 视图。默认值：grid"
+
+#: inc/shortcode_docs.php:73
+msgid "-> File Modified or Create date format. Default: d M, Y h:i A"
+msgstr "-> 文件修改或创建日期格式。默认值：d M, Y h:i A"
+
+#: inc/shortcode_docs.php:74
+msgid "-> File manager Language. Default: English(en)"
+msgstr "-> 文件管理器语言。默认值： English(en)"
+
+#: inc/shortcode_docs.php:75
+msgid "-> File Manager Theme. Default: Light"
+msgstr "-> 文件管理器主题。默认值：Light"
+
+#: inc/system_properties.php:5
+msgid "File Manager - System Properties"
+msgstr "文件管理器 - 系统属性"
+
+#: inc/system_properties.php:10
+msgid "PHP version"
+msgstr "PHP版本"
+
+#: inc/system_properties.php:15
+msgid "Maximum file upload size (upload_max_filesize)"
+msgstr "最大文件上传大小 (upload_max_filesize)"
+
+#: inc/system_properties.php:20
+msgid "Post maximum file upload size (post_max_size)"
+msgstr "发布最大文件上传大小 (post_max_size)"
+
+#: inc/system_properties.php:25
+msgid "Memory Limit (memory_limit)"
+msgstr "内存限制 (memory_limit)"
+
+#: inc/system_properties.php:30
+msgid "Timeout (max_execution_time)"
+msgstr "超时（max_execution_time）"
+
+#: inc/system_properties.php:35
+msgid "Browser and OS (HTTP_USER_AGENT)"
+msgstr "浏览器和操作系统 (HTTP_USER_AGENT)"
+
+#: lib/jquery/jquery-ui-1.11.4.js:8
+msgid "'"
+msgstr ""
+
+#: lib/wpfilemanager.php:31
+msgid "Change Theme Here:"
+msgstr "在此处更改主题："
+
+#: lib/wpfilemanager.php:35
+msgid "Default"
+msgstr "默认"
+
+#: lib/wpfilemanager.php:39
+msgid "Dark"
+msgstr "黑暗的"
+
+#: lib/wpfilemanager.php:43
+msgid "Light"
+msgstr "光"
+
+#: lib/wpfilemanager.php:47
+msgid "Gray"
+msgstr "灰色的"
+
+#: lib/wpfilemanager.php:52
+msgid "Windows - 10"
+msgstr ""
+
+#: lib/wpfilemanager.php:85
+msgid "Welcome to File Manager"
+msgstr "欢迎使用文件管理器"
+
+#: lib/wpfilemanager.php:88
+msgid ""
+"We love making new friends! Subscribe below and we promise to\n"
+"    keep you up-to-date with our latest new plugins, updates,\n"
+"    awesome deals and a few special offers."
+msgstr ""
+"我们喜欢结交新朋友！在下面订阅，我们承诺\n"
+"    让您及时了解我们最新的插件、更新、\n"
+"    很棒的交易和一些特别优惠。"
+
+#: lib/wpfilemanager.php:99
+msgid "Please Enter First Name."
+msgstr "请输入名字。"
+
+#: lib/wpfilemanager.php:107
+msgid "Please Enter Last Name."
+msgstr "请输入姓氏。"
+
+#: lib/wpfilemanager.php:116
+msgid "Please Enter Email Address."
+msgstr "请输入电子邮件地址。"
+
+#: lib/wpfilemanager.php:120
+msgid "Verify"
+msgstr "核实"
+
+#: lib/wpfilemanager.php:126
+msgid "No Thanks"
+msgstr "不，谢谢"
+
+#: lib/wpfilemanager.php:132
+msgid "Terms of Service"
+msgstr "服务条款"
+
+#: lib/wpfilemanager.php:134
+msgid "Privacy Policy"
+msgstr "隐私政策"
+
+#: lib/wpfilemanager.php:153
+msgid "Saving..."
+msgstr "保存..."
+
+#: lib/wpfilemanager.php:155
+msgid "OK"
+msgstr "好的"
+
+#~ msgid "Backup not found!"
+#~ msgstr "未找到备份！"
+
+#~ msgid "Backup removed successfully!"
+#~ msgstr "备份删除成功！"
+
+#~ msgid "<span class=\"fm_console_error\">Nothing selected for backup</span>"
+#~ msgstr "<span class=\"fm_console_error\">没有选择备份</span>"
+
+#~ msgid "<span class=\"fm_console_error\">Security Issue.</span>"
+#~ msgstr "<span class=\"fm_console_error\">安全问题。</span>"
+
+#~ msgid "<span class=\"fm_console_success\">Database backup done.</span>"
+#~ msgstr "<span class=\"fm_console_success\">数据库备份完成。</span>"
+
+#~ msgid ""
+#~ "<span class=\"fm_console_error\">Unable to create database backup.</span>"
+#~ msgstr "<span class=\"fm_console_error\">无法创建数据库备份。</span>"
+
+#~ msgid "<span class=\"fm_console_success\">Plugins backup done.</span>"
+#~ msgstr "<span class=\"fm_console_success\">插件备份完成。</span>"
+
+#~ msgid "<span class=\"fm_console_error\">Plugins backup failed.</span>"
+#~ msgstr "<span class=\"fm_console_error\">插件备份失败。</span>"
+
+#~ msgid "<span class=\"fm_console_success\">Themes backup done.</span>"
+#~ msgstr "<span class=\"fm_console_success\">主题备份完成。</span>"
+
+#~ msgid "<span class=\"fm_console_error\">Themes backup failed.</span>"
+#~ msgstr "<span class=\"fm_console_error\">主题备份失败。</span>"
+
+#~ msgid "<span class=\"fm_console_success\">Uploads backup done.</span>"
+#~ msgstr "<span class=\"fm_console_success\">上传备份完成。</span>"
+
+#~ msgid "<span class=\"fm_console_error\">Uploads backup failed.</span>"
+#~ msgstr "<span class=\"fm_console_error\">上传备份失败。</span>"
+
+#~ msgid "<span class=\"fm_console_success\">Others backup done.</span>"
+#~ msgstr "<span class=\"fm_console_success\">其他备份完成。</span>"
+
+#~ msgid "<span class=\"fm_console_error\">Others backup failed.</span>"
+#~ msgstr "<span class=\"fm_console_error\">其他备份失败。</span>"
+
+#~ msgid "<span class=\"fm_console_success\">All Done</span>"
+#~ msgstr "<span class=\"fm_console_success\">全部完成</span>"
+
+#~ msgid ""
+#~ "<code>[wp_file_manager view=\"list\" lang=\"en\" theme=\"light\" "
+#~ "dateformat=\"d M, Y h:i A\" allowed_roles=\"editor,author\" access_folder="
+#~ "\"wp-content/plugins\" write = \"true\" read = \"false\" hide_files = "
+#~ "\"kumar,abc.php\" lock_extensions=\".php,.css\" allowed_operations="
+#~ "\"upload,download\" ban_user_ids=\"2,3\"]"
+#~ msgstr ""
+#~ "<code>[wp_file_manager view=\"list\" lang=\"en\" theme=\"light\" "
+#~ "dateformat=\"d M, Y h:i A\" allowed_roles=\"editor,author\" access_folder="
+#~ "\"wp-content/plugins\" write = \"true\" read = \"false\" hide_files = "
+#~ "\"kumar,abc.php\" lock_extensions=\".php,.css\" allowed_operations="
+#~ "\"upload,download\" ban_user_ids=\"2,3\"]"
+
+#~ msgid "Manage your WP files."
+#~ msgstr "管理您的WP文件"
+
+#~ msgid "Extensions"
+#~ msgstr "扩展"
+
+#~ msgid ""
+#~ "Please contribute some donation, to make plugin more stable. You can pay "
+#~ "amount of your choice."
+#~ msgstr "请提供一些捐款，使插件更加稳定。你可以支付你选择的金额。"

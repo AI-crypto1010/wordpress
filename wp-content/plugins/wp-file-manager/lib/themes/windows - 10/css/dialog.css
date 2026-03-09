@@ -1,0 +1,153 @@
+/* dialog.css */
+/* Dialog wrapper */
+.elfinder .elfinder-dialog {
+  /* */
+}
+
+/* Dialog title */
+.elfinder .elfinder-dialog .ui-dialog-titlebar {
+  padding: 3px 0 3px 6px;
+  height: 30px;
+  box-sizing: border-box;
+  background: #dee1e6;
+}
+
+/* Close button */
+.elfinder .elfinder-dialog .ui-dialog-titlebar-close,
+.elfinder .elfinder-dialog .elfinder-titlebar-minimize,
+.elfinder .elfinder-dialog .elfinder-titlebar-full{
+  background: url('../images/win_10_sprite_icon.png');
+  right: 0;
+  border-radius: 0;
+  margin-top: -13px; 
+  left: -7px;
+  -webkit-transition: background 0.3s; /* Safari */
+  transition: background-image 0.3s;
+  height: 29px;
+  width: 44px;
+}
+.elfinder .elfinder-dialog .elfinder-titlebar-minimize{
+  background-position: -89px 0px;
+}
+.elfinder .elfinder-dialog .elfinder-titlebar-minimize:hover{
+ background-position: -89px -31px;
+}
+.elfinder .elfinder-dialog .elfinder-titlebar-full{
+ background-position: -45px 0px;
+}
+.elfinder .elfinder-dialog .elfinder-titlebar-full:hover{
+ background-position: -45px -31px;
+}
+.elfinder .elfinder-dialog .ui-dialog-titlebar-close:hover {
+ background-position: 0px -31px;
+}
+
+.std42-dialog .ui-dialog-titlebar .elfinder-titlebar-button.elfinder-titlebar-button-right {
+  left: 1px;
+  top: 12px;
+}
+/* Dialog content */
+.elfinder .elfinder-dialog .ui-dialog-content {
+  /* */
+}
+
+/* Dialog content */
+.elfinder .elfinder-dialog.elfinder-dialog-edit .ui-dialog-content {
+  /* */
+  padding: 0;
+}
+
+/* Tabs */
+/* Tabs wrapper */
+.elfinder .elfinder-dialog .ui-tabs-nav {
+  /* */
+}
+
+/* Normal tab */
+.elfinder .elfinder-dialog .ui-tabs-nav .ui-state-default {
+  /* */
+}
+
+/* Current tab */
+.elfinder .elfinder-dialog .ui-tabs-nav .ui-tabs-selected {
+  /* */
+}
+
+/* Active tab */
+.elfinder .elfinder-dialog .ui-tabs-nav li:active {
+  /* */
+ }
+.elfinder .ui-state-active {
+	background: #1979CA none repeat scroll 0 0;	
+	/*background: #009688 none repeat scroll 0 0;	*/
+}
+/* Icons */
+/* Dialog icon (e.g. for error messages) */
+.elfinder .elfinder-dialog .elfinder-dialog-icon {
+  /* */
+}
+
+/* Error icon */
+.elfinder .elfinder-dialog .elfinder-dialog-icon-error {
+  /* */
+}
+
+/* Confirmation icon */
+.elfinder .elfinder-dialog .elfinder-dialog-icon-confirm {
+  /* */
+}
+
+/* Footer */
+.elfinder .elfinder-dialog .ui-dialog-buttonpane {
+  /* */
+  background: #ededed;
+}
+
+/* Buttonset (wrapper) */
+.elfinder .elfinder-dialog .ui-dialog-buttonpane .ui-dialog-buttonset {
+  /* */
+}
+
+/* Button */
+.elfinder .elfinder-dialog .ui-dialog-buttonpane .ui-dialog-buttonset .ui-button {
+  /* */
+}
+
+/* Styling specific types of dialogs */
+/* Error */
+.elfinder .elfinder-dialog-error {
+  /* */
+}
+
+/* Confirm */
+.elfinder .elfinder-dialog-confirm {
+  /* */
+}
+
+/* File editing */
+.elfinder .elfinder-dialog .elfinder-file-edit {
+  /* */
+}
+
+/* File information */
+/* Title */
+.elfinder .elfinder-dialog .elfinder-info-title {
+  /* */
+}
+
+/* Table */
+.elfinder .elfinder-dialog .elfinder-info-tb {
+  /* */
+}
+
+/* File upload (including dropbox) */
+.elfinder .elfinder-dialog .elfinder-upload-dropbox,
+.elfinder .elfinder-dialog .elfinder-upload-dialog-or {
+  /* */
+}
+.elfinder .elfinder-button-search.ui-state-active{background: transparent;}
+
+.elfinder .elfinder-dialog .elfinder-titlebar-minimize .ui-icon.ui-icon-minusthick,
+.elfinder .elfinder-dialog .elfinder-titlebar-full .ui-icon.ui-icon-plusthick,
+.elfinder .elfinder-dialog .ui-dialog-titlebar-close .ui-icon.ui-icon-closethick,
+.elfinder .elfinder-dialog .elfinder-titlebar-full .ui-icon.ui-icon-arrowreturnthick-1-s{ background: inherit; } 

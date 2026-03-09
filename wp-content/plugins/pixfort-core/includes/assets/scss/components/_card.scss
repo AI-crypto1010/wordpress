@@ -1,0 +1,260 @@
+//
+// Base styles
+//
+.card-footer {
+	padding: $card-spacer-y $card-spacer-x;
+	background-color: rgba(0, 0, 0, 0.02);
+	border-top: $card-border-width solid $card-border-color;
+
+	&:last-child {
+		@include border-radius(0 0 $card-inner-border-radius $card-inner-border-radius);
+	}
+}
+.card {
+	&:not(.sticky-top) {
+		position: relative !important;
+	}
+	display: flex;
+	flex-direction: column;
+	min-width: 0;
+	word-wrap: break-word;
+	background-color: $card-bg;
+	background-clip: border-box;
+	border: $card-border-width solid $card-border-color;
+	border-radius: $card-border-radius;
+	transition: all 0.4s cubic-bezier(0.165, 0.84, 0.44, 1);
+	z-index: 0;
+	.card-inner {
+		border-radius: $card-border-radius;
+		overflow: hidden !important;
+		display: inline-block;
+		position: relative;
+	}
+	.card-header {
+		border-width: $card-border-width;
+	}
+	.card-btn-bottom {
+		margin: 0;
+		@include border-top-radius(0);
+	}
+	.card-img-container {
+		position: relative;
+	}
+
+	&:after {
+		content: '';
+		border-radius: $card-border-radius;
+		position: absolute;
+		z-index: -1 !important;
+		top: 0;
+		left: 0;
+		width: 100%;
+		height: 100%;
+		opacity: 0;
+		transition: all 0.4s cubic-bezier(0.165, 0.84, 0.44, 1);
+	}
+
+	> hr {
+		margin-right: 0;
+		margin-left: 0;
+	}
+
+	> .list-group:first-child {
+		.list-group-item:first-child {
+			@include border-top-radius($card-border-radius);
+		}
+	}
+
+	> .list-group:last-child {
+		.list-group-item:last-child {
+			@include border-bottom-radius($card-border-radius);
+		}
+	}
+
+	.card-img-overlay {
+		z-index: 2;
+	}
+	.card-img,
+	.card-img-bottom {
+		z-index: -2;
+		backface-visibility: hidden;
+		-webkit-backface-visibility: hidden;
+	}
+}
+
+.card-body {
+	// Enable `flex-grow: 1` for decks and groups so that card blocks take up
+	// as much space as possible, ensuring footers are aligned to the bottom.
+	flex: 1 1 auto;
+	padding: $card-spacer-x;
+}
+
+.card-title {
+	margin-bottom: $card-spacer-y;
+}
+
+.card-subtitle {
+	margin-top: -($card-spacer-y / 2);
+	margin-bottom: 0;
+}
+
+.card-text:last-child {
+	margin-bottom: 0;
+}
+
+//
+// Accordion
+//
+.accordion:not(.accordion-card) {
+	.card {
+		border: 0px;
+		background: transparent !important;
+		overflow: visible;
+		.card-header {
+			margin-bottom: 0px;
+			border: 0px;
+			border-radius: 4px;
+			box-shadow: none;
+			padding: 0px;
+			background: transparent;
+			.btn {
+				margin: 0px;
+				padding: 10px 20px;
+				width: 100%;
+				background: transparent !important;
+			}
+		}
+		.card-body {
+			background: transparent;
+		}
+		.collapse {
+			background: transparent;
+		}
+		.card-header {
+			.btn:not(.collapsed) {
+				position: relative;
+				box-shadow: 0px 1px 3px rgba(0, 0, 0, 0.05);
+				transition: all 0.4s cubic-bezier(0.165, 0.84, 0.44, 1);
+				&:after {
+					content: '';
+					border-radius: $card-border-radius;
+					position: absolute;
+					z-index: 1;
+					top: 0;
+					left: 0;
+					width: 100%;
+					height: 100%;
+					box-shadow: 0px 1px 3px rgba(0, 0, 0, 0.15);
+					opacity: 1;
+					transition: all 0.4s cubic-bezier(0.165, 0.84, 0.44, 1);
+				}
+				&:hover {
+					box-shadow: 0px 1px 2px rgba(0, 0, 0, 0.05);
+				}
+				&:hover::after {
+					box-shadow: 0px 3px 10px rgba(0, 0, 0, 0.1);
+				}
+			}
+		}
+	}
+}
+
+.accordion-card {
+	position: relative;
+	display: flex;
+	flex-direction: column;
+	gap: 10px;
+	&:after {
+		content: '';
+		border-radius: $card-border-radius;
+		position: absolute;
+		z-index: -1;
+		top: 0;
+		left: 0;
+		width: 100%;
+		height: 100%;
+		opacity: 0;
+		transition: all 0.4s cubic-bezier(0.165, 0.84, 0.44, 1);
+	}
+	.card {
+		overflow: visible;
+		border: 0px;
+		&:not(:first-of-type) {
+			.card-header:first-child {
+				border-radius: 0;
+			}
+			&:not(:last-of-type) {
+				border-bottom: 0;
+				border-radius: 0;
+			}
+		}
+
+		&:first-of-type {
+			border-bottom: 0;
+			border-bottom-right-radius: 0;
+			border-bottom-left-radius: 0;
+		}
+
+		&:last-of-type {
+			border-top-left-radius: 0;
+			border-top-right-radius: 0;
+		}
+
+		.card-header {
+			background: transparent;
+			border: 0px;
+			border-radius: 0px;
+			box-shadow: none;
+			padding: 0px;
+			.btn {
+				margin: 0px;
+				padding: 15px 20px;
+				width: 100%;
+				border-radius: 0px;
+				text-shadow: none;
+			}
+		}
+		.card-body p:last-of-type {
+			margin-bottom: 0;
+		}
+	}
+}
+
+// Card Animations
+.card-img-scale {
+	.card-img-top-div {
+		display: inline-block;
+		position: relative;
+		@include border-top-radius($card-border-radius);
+		overflow: hidden;
+		transform: translate3d(0px, 0px, 0px);
+		.card-img-top {
+			transform: none;
+			transition: transform 0.4s cubic-bezier(0.165, 0.84, 0.44, 1);
+		}
+	}
+	&:hover {
+		.card-img-top {
+			transform: scale(1.1);
+		}
+	}
+}
+
+// Team card
+.pix-team-card {
+	&.big-card {
+		.card-img {
+			-o-object-fit: cover;
+			object-fit: cover;
+			max-height: 400px;
+		}
+	}
+	.card-img {
+		transition: var(--transition-base);
+	}
+	&.hover-bg:hover {
+		.card-img {
+			opacity: 0.1 !important;
+		}
+	}
+}

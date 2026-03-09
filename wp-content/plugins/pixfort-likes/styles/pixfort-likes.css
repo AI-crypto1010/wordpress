@@ -1,0 +1,32 @@
+.pixfort-likes {
+	border: 0 !important;
+	display: inline-block;
+	text-decoration: none;
+	padding: 0px;
+}
+.pixfort-likes:hover,
+.pixfort-likes.active {
+	border: 0 !important;
+	text-decoration: none;
+	color: #ff0061;
+}
+
+.pixfort-likes-liked, .pixfort-likes-liked * {
+	color: #ff0061;
+
+}
+.pix-dark .pixfort-likes-liked .pixfort-likes-icon svg path,
+.pix-dark .pixfort-likes-liked:hover .pixfort-likes-icon svg path,
+.pixfort-likes-liked .pixfort-likes-icon svg path,
+.pixfort-likes-liked:hover .pixfort-likes-icon svg path {
+	fill: #ff0061 !important;
+}
+.pixfort-likes-count {
+	line-height: 1;
+}
+
+.zilla-blog-widget .pixfort-likes,
+.tz_recentwork_widget .pixfort-likes,
+.tz_blog_widget .pixfort-likes,
+.home div#the_body #slider .excerpt .pixfort-likes,
+.archive div#the_body #slider .excerpt .pixfort-likes { display: none; } /* Hide Zilla Share in custom post widget and sliders in themes */

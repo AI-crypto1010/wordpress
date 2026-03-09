@@ -1,0 +1,1014 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WP File Manager\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-02-25 18:30+0530\n"
+"PO-Revision-Date: 2022-02-25 18:34+0530\n"
+"Last-Translator: admin <kajal.gill@mysenseinc.in>\n"
+"Language-Team: \n"
+"Language: gl_ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Poedit 3.0.1\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: file_folder_manager.php:174
+msgid "Themes backup restored successfully."
+msgstr "A copia de seguridade de temas restaurouse correctamente."
+
+#: file_folder_manager.php:177
+msgid "Unable to restore themes."
+msgstr "Non se poden restaurar os temas."
+
+#: file_folder_manager.php:207
+msgid "Uploads backup restored successfully."
+msgstr "As copias de seguridade restauráronse correctamente."
+
+#: file_folder_manager.php:211
+msgid "Unable to restore uploads."
+msgstr "Non se poden restaurar as cargas."
+
+#: file_folder_manager.php:237
+msgid "Others backup restored successfully."
+msgstr "Outras copias de seguridade restauráronse correctamente."
+
+#: file_folder_manager.php:241
+msgid "Unable to restore others."
+msgstr "Non se poden restaurar outros."
+
+#: file_folder_manager.php:267
+msgid "Plugins backup restored successfully."
+msgstr "A copia de seguridade dos complementos restaurouse correctamente."
+
+#: file_folder_manager.php:271 file_folder_manager.php:301
+msgid "Unable to restore plugins."
+msgstr "Non se poden restaurar os complementos."
+
+#: file_folder_manager.php:286
+msgid "Database backup restored successfully."
+msgstr "Restaurouse correctamente a copia de seguridade da base de datos."
+
+#: file_folder_manager.php:286 file_folder_manager.php:297
+#: file_folder_manager.php:588 file_folder_manager.php:592
+msgid "All Done"
+msgstr "Todo feito"
+
+#: file_folder_manager.php:289
+msgid "Unable to restore DB backup."
+msgstr "Non se pode restaurar a copia de seguridade da base de datos."
+
+#: file_folder_manager.php:347
+msgid "Backups removed successfully!"
+msgstr "Elimináronse correctamente as copias de seguridade."
+
+#: file_folder_manager.php:349
+msgid "Unable to removed backup!"
+msgstr "Non se puido eliminar a copia de seguridade."
+
+#: file_folder_manager.php:373
+msgid "Database backup done on date "
+msgstr "A copia de seguridade da base de datos realizouse na data "
+
+#: file_folder_manager.php:377
+msgid "Plugins backup done on date "
+msgstr "A copia de seguridade dos complementos foi feita na data "
+
+#: file_folder_manager.php:381
+msgid "Themes backup done on date "
+msgstr "Copia de seguridade de temas feita na data "
+
+#: file_folder_manager.php:385
+msgid "Uploads backup done on date "
+msgstr "As copias de seguridade realizáronse na data "
+
+#: file_folder_manager.php:389
+msgid "Others backup done on date "
+msgstr "Outras copias de seguridade realizadas na data "
+
+#: file_folder_manager.php:393 file_folder_manager.php:776
+msgid "Logs"
+msgstr "Rexistros"
+
+#: file_folder_manager.php:399
+msgid "No logs found!"
+msgstr "Non se atoparon rexistros."
+
+#: file_folder_manager.php:496
+msgid "Nothing selected for backup"
+msgstr "Non se seleccionou nada para a copia de seguranza"
+
+#: file_folder_manager.php:516
+msgid "Security Issue."
+msgstr "Problema de seguridade."
+
+#: file_folder_manager.php:527
+msgid "Database backup done."
+msgstr "Copia de seguranza da base de datos feita."
+
+#: file_folder_manager.php:530
+msgid "Unable to create database backup."
+msgstr "Non se puido crear a copia de seguranza da base de datos."
+
+#: file_folder_manager.php:544
+msgid "Plugins backup done."
+msgstr "Copia de seguranza dos complementos feita."
+
+#: file_folder_manager.php:547
+msgid "Plugins backup failed."
+msgstr "Fallou a copia de seguranza dos complementos."
+
+#: file_folder_manager.php:556
+msgid "Themes backup done."
+msgstr "Copia de seguranza dos temas feita."
+
+#: file_folder_manager.php:559
+msgid "Themes backup failed."
+msgstr "Produciuse un erro na copia de seguranza dos temas."
+
+#: file_folder_manager.php:569
+msgid "Uploads backup done."
+msgstr "Feito a copia de seguranza das cargas."
+
+#: file_folder_manager.php:572
+msgid "Uploads backup failed."
+msgstr "Produciuse un erro na copia de seguranza das cargas."
+
+#: file_folder_manager.php:581
+msgid "Others backup done."
+msgstr "Feito a copia de seguridade doutros."
+
+#: file_folder_manager.php:584
+msgid "Others backup failed."
+msgstr "Fallou a copia de seguranza doutros."
+
+#: file_folder_manager.php:761 file_folder_manager.php:762
+#: lib/wpfilemanager.php:23
+msgid "WP File Manager"
+msgstr "Xestor de ficheiros WP"
+
+#: file_folder_manager.php:769
+msgid "Settings"
+msgstr "Configuración"
+
+#: file_folder_manager.php:771 inc/root.php:48
+msgid "Preferences"
+msgstr "Preferencias"
+
+#: file_folder_manager.php:773
+msgid "System Properties"
+msgstr "Propiedades do sistema"
+
+#: file_folder_manager.php:775
+msgid "Shortcode - PRO"
+msgstr "Shortcode - PRO"
+
+#: file_folder_manager.php:777
+msgid "Backup/Restore"
+msgstr "Copia de seguranza/Restauración"
+
+#: file_folder_manager.php:1033
+msgid "Buy Pro"
+msgstr "Compra Pro"
+
+#: file_folder_manager.php:1034
+msgid "Donate"
+msgstr "Doa"
+
+#: file_folder_manager.php:1249
+msgid ""
+"<div class=\"updated settings-error notice is-dismissible\" id=\"setting-"
+"error-settings_updated\"> \n"
+"<p><strong>"
+msgstr ""
+
+#: file_folder_manager.php:1256
+msgid ""
+"<div class=\"error settings-error notice is-dismissible\" id=\"setting-error-"
+"settings_updated\"> \n"
+"<p><strong>"
+msgstr ""
+
+#: file_folder_manager.php:1395 file_folder_manager.php:1483
+msgid "File doesn't exist to download."
+msgstr "O ficheiro non existe para descargar."
+
+#: file_folder_manager.php:1400 file_folder_manager.php:1488
+msgid "Invalid Security Code."
+msgstr "Código de seguridade non válido."
+
+#: file_folder_manager.php:1405 file_folder_manager.php:1493
+msgid "Missing backup id."
+msgstr "Falta o ID de copia de seguridade."
+
+#: file_folder_manager.php:1408 file_folder_manager.php:1496
+msgid "Missing parameter type."
+msgstr "Falta o tipo de parámetro."
+
+#: file_folder_manager.php:1411 file_folder_manager.php:1499
+msgid "Missing required parameters."
+msgstr "Faltan os parámetros requiridos."
+
+#: inc/backup.php:24
+msgid ""
+"Error: Unable to restore backup because database backup is heavy in size. "
+"Please try to increase Maximum allowed size  from Preferences settings."
+msgstr ""
+"Erro: non se puido restaurar a copia de seguranza porque a copia de "
+"seguranza da base de datos ten un gran tamaño. Tenta aumentar o tamaño "
+"máximo permitido desde a configuración de Preferencias."
+
+#: inc/backup.php:25
+msgid "Select backup(s) to delete!"
+msgstr "Selecciona copias de seguranza para eliminar."
+
+#: inc/backup.php:26
+msgid "Are you sure want to remove selected backup(s)?"
+msgstr "Seguro que queres eliminar as copias de seguridade seleccionadas?"
+
+#: inc/backup.php:31
+msgid "Backup is running, please wait"
+msgstr "A copia de seguridade está en execución. Agarde"
+
+#: inc/backup.php:32
+msgid "Restore is running, please wait"
+msgstr "A restauración estase executando, agarde"
+
+#: inc/backup.php:33
+msgid "Nothing selected for backup."
+msgstr "Non se seleccionou nada para a copia de seguranza."
+
+#: inc/backup.php:45
+msgid "WP File Manager - Backup/Restore"
+msgstr "Xestor de ficheiros WP - Copia de seguridade / restauración"
+
+#: inc/backup.php:51
+msgid "Backup Options:"
+msgstr "Opcións de copia de seguridade:"
+
+#: inc/backup.php:58
+msgid "Database Backup"
+msgstr "Copia de seguridade da base de datos"
+
+#: inc/backup.php:64
+msgid "Files Backup"
+msgstr "Copia de seguridade de ficheiros"
+
+#: inc/backup.php:68
+msgid "Plugins"
+msgstr "Complementos"
+
+#: inc/backup.php:71
+msgid "Themes"
+msgstr "Temas"
+
+#: inc/backup.php:74
+msgid "Uploads"
+msgstr "Cargas"
+
+#: inc/backup.php:77
+msgid "Others (Any other directories found inside wp-content)"
+msgstr "Outros (Calquera outro directorio atopado dentro de wp-content)"
+
+#: inc/backup.php:81
+msgid "Backup Now"
+msgstr "Fai unha copia de seguridade agora"
+
+#: inc/backup.php:89
+msgid "Time now"
+msgstr "Hora agora"
+
+#: inc/backup.php:99
+msgid "SUCCESS"
+msgstr "ÉXITO"
+
+#: inc/backup.php:101
+msgid "Backup successfully deleted."
+msgstr "Eliminouse correctamente a copia de seguridade."
+
+#: inc/backup.php:102
+msgid "Ok"
+msgstr "Ok"
+
+#: inc/backup.php:117
+msgid "DELETE FILES"
+msgstr "ELIMINA FICHEIROS"
+
+#: inc/backup.php:119
+msgid "Are you sure you want to delete this backup?"
+msgstr "Seguro que queres eliminar esta copia de seguridade?"
+
+#: inc/backup.php:120 inc/backup.php:139
+msgid "Cancel"
+msgstr "Cancelar"
+
+#: inc/backup.php:121 inc/backup.php:140
+msgid "Confirm"
+msgstr "Confirmar"
+
+#: inc/backup.php:136
+msgid "RESTORE FILES"
+msgstr "RESTAURAR FICHEIROS"
+
+#: inc/backup.php:138
+msgid "Are you sure you want to restore this backup?"
+msgstr "Seguro que queres restaurar esta copia de seguridade?"
+
+#: inc/backup.php:166
+msgid "Last Log Message"
+msgstr "Última mensaxe de rexistro"
+
+#: inc/backup.php:169
+msgid "The backup apparently succeeded and is now complete."
+msgstr "A copia de seguridade aparentemente tivo éxito e agora está completa."
+
+#: inc/backup.php:171
+msgid "No log message"
+msgstr "Non hai ningunha mensaxe de rexistro"
+
+#: inc/backup.php:177
+msgid "Existing Backup(s)"
+msgstr "Copia de seguridade existente"
+
+#: inc/backup.php:184
+msgid "Backup Date"
+msgstr "Data de copia de seguridade"
+
+#: inc/backup.php:187
+msgid "Backup data (click to download)"
+msgstr "Datos de copia de seguridade (fai clic para descargar)"
+
+#: inc/backup.php:190
+msgid "Action"
+msgstr "Acción"
+
+#: inc/backup.php:210
+msgid "Today"
+msgstr "Hoxe"
+
+#: inc/backup.php:239
+msgid "Restore"
+msgstr "Restaurar"
+
+#: inc/backup.php:240 inc/backup.php:250
+msgid "Delete"
+msgstr "Eliminar"
+
+#: inc/backup.php:241
+msgid "View Log"
+msgstr "Ver rexistro"
+
+#: inc/backup.php:246
+msgid "Currently no backup(s) found."
+msgstr "Actualmente non se atoparon copias de seguridade."
+
+#: inc/backup.php:249
+msgid "Actions upon selected backup(s)"
+msgstr "Accións sobre as copias de seguridade seleccionadas"
+
+#: inc/backup.php:251
+msgid "Select All"
+msgstr "Seleccionar todo"
+
+#: inc/backup.php:252
+msgid "Deselect"
+msgstr "Deseleccionar"
+
+#: inc/backup.php:254
+msgid "Note:"
+msgstr "Nota:"
+
+#: inc/backup.php:254
+msgid "Backup files will be under"
+msgstr "Os ficheiros de copia de seguridade estarán baixo"
+
+#: inc/contribute.php:3
+msgid "WP File Manager Contribution"
+msgstr "Contribución do xestor de ficheiros WP"
+
+#: inc/logs.php:7
+msgid ""
+"Note: These are demo screenshots. Please buy File Manager pro to Logs "
+"functions."
+msgstr ""
+"Nota: Estas son capturas de pantalla de demostración. Compre File Manager "
+"pro para as funcións de Rexistros."
+
+#: inc/logs.php:8 lib/wpfilemanager.php:24
+msgid "Click to Buy PRO"
+msgstr "Fai clic para comprar PRO"
+
+#: inc/logs.php:8 inc/settings.php:12 inc/settings.php:27
+#: inc/system_properties.php:5 lib/wpfilemanager.php:25
+msgid "Buy PRO"
+msgstr "Compra PRO"
+
+#: inc/logs.php:9
+msgid "Edit Files Logs"
+msgstr "Editar rexistros de ficheiros"
+
+#: inc/logs.php:11
+msgid "Download Files Logs"
+msgstr "Descargar rexistros de ficheiros"
+
+#: inc/logs.php:13
+msgid "Upload Files Logs"
+msgstr "Cargar ficheiros de rexistros"
+
+#: inc/root.php:43
+msgid "Settings saved."
+msgstr "Configuración gardada."
+
+#: inc/root.php:43 inc/root.php:46
+msgid "Dismiss this notice."
+msgstr "Rexeita este aviso."
+
+#: inc/root.php:46
+msgid "You have not made any changes to be saved."
+msgstr "Non fixo ningún cambio para gardalo."
+
+#: inc/root.php:55
+msgid "Public Root Path"
+msgstr "Camiño de raíz público"
+
+#: inc/root.php:58
+msgid "File Manager Root Path, you can change according to your choice."
+msgstr ""
+"Camiño raíz do xestor de ficheiros, pode cambiar segundo a súa elección."
+
+#: inc/root.php:59
+msgid "Default:"
+msgstr "Predeterminado:"
+
+#: inc/root.php:60
+msgid ""
+"Please change this carefully, wrong path can lead file manager plugin to go "
+"down."
+msgstr ""
+"Cambie isto coidadosamente, o camiño incorrecto pode levar a baixar o "
+"complemento do xestor de ficheiros."
+
+#: inc/root.php:64
+msgid "Enable Trash?"
+msgstr "Queres activar o lixo?"
+
+#: inc/root.php:67
+msgid "After enable trash, your files will go to trash folder."
+msgstr ""
+"Despois de habilitar o lixo, os teus ficheiros irán ao cartafol do lixo."
+
+#: inc/root.php:72
+msgid "Enable Files Upload to Media Library?"
+msgstr "Queres activar a carga de ficheiros na biblioteca multimedia?"
+
+#: inc/root.php:75
+msgid "After enabling this all files will go to media library."
+msgstr ""
+"Despois de habilitalo, todos os ficheiros irán á biblioteca multimedia."
+
+#: inc/root.php:80
+msgid "Maximum allowed size at the time of database backup restore."
+msgstr ""
+"Tamaño máximo permitido no momento da restauración da copia de seguridade da "
+"base de datos."
+
+#: inc/root.php:83
+msgid "MB"
+msgstr ""
+
+#: inc/root.php:85
+msgid ""
+"Please increase field value if you are getting error message at the time of "
+"backup restore."
+msgstr ""
+"Aumente o valor do campo se recibe unha mensaxe de erro no momento da "
+"restauración da copia de seguranza."
+
+#: inc/root.php:90
+msgid "Save Changes"
+msgstr "Gardar cambios"
+
+#: inc/settings.php:10
+msgid "Settings - General"
+msgstr "Configuración - Xeral"
+
+#: inc/settings.php:11 inc/settings.php:26
+msgid ""
+"Note: This is just a demo screenshot. To get settings please buy our pro "
+"version."
+msgstr ""
+"Nota: Esta é só unha captura de pantalla de demostración. Para obter "
+"configuración, compra a nosa versión profesional."
+
+#: inc/settings.php:13
+msgid ""
+"Here admin can give access to user roles to use filemanager. Admin can set "
+"Default Access Folder and also control upload size of filemanager."
+msgstr ""
+"Aquí o administrador pode dar acceso aos roles de usuario para usar o xestor "
+"de ficheiros. O administrador pode configurar o cartafol de acceso "
+"predeterminado e tamén controlar o tamaño de carga do xestor de ficheiros."
+
+#: inc/settings.php:15
+msgid "Settings - Code-editor"
+msgstr "Configuración: editor de código"
+
+#: inc/settings.php:16
+msgid ""
+"File Manager has a code editor with multiple themes. You can select any "
+"theme for code editor. It will display when you edit any file. Also you can "
+"allow fullscreen mode of code editor."
+msgstr ""
+"O Xestor de ficheiros ten un editor de código con varios temas. Podes "
+"seleccionar calquera tema para o editor de código. Amosarase cando edite "
+"calquera ficheiro. Tamén pode permitir o modo de pantalla completa do editor "
+"de código."
+
+#: inc/settings.php:18
+msgid "Code-editor View"
+msgstr "Vista do editor de código"
+
+#: inc/settings.php:20
+msgid "Settings - User Restrictions"
+msgstr "Configuración: restricións de usuario"
+
+#: inc/settings.php:21
+msgid ""
+"Admin can restrict actions of any user. Also hide files and folders and can "
+"set different - different folders paths for different users."
+msgstr ""
+"O administrador pode restrinxir as accións de calquera usuario. Tamén oculta "
+"ficheiros e cartafoles e pode establecer camiños de cartafoles diferentes "
+"para diferentes usuarios."
+
+#: inc/settings.php:23
+msgid "Settings - User Role Restrictions"
+msgstr "Configuración - Restricións de funcións de usuario"
+
+#: inc/settings.php:24
+msgid ""
+"Admin can restrict actions of any userrole. Also hide files and folders and "
+"can set different - different folders paths for different users roles."
+msgstr ""
+"O administrador pode restrinxir as accións de calquera rol de usuario. Tamén "
+"oculta ficheiros e cartafoles e pode definir camiños de cartafoles "
+"diferentes para papeis de usuarios diferentes."
+
+#: inc/shortcode_docs.php:11
+msgid "File Manager - Shortcode"
+msgstr "Xestor de ficheiros: código abreviado"
+
+#: inc/shortcode_docs.php:15 inc/shortcode_docs.php:17
+#: inc/shortcode_docs.php:19
+msgid "USE:"
+msgstr "USO:"
+
+#: inc/shortcode_docs.php:15
+msgid ""
+"It will show file manager on front end. You can control all settings from "
+"file manager settings. It will work same as backend WP File Manager."
+msgstr ""
+"Mostrará o xestor de ficheiros na interface. Podes controlar todas as "
+"opcións desde a configuración do xestor de ficheiros. Funcionará igual que o "
+"Xestor de ficheiros WP de fondo."
+
+#: inc/shortcode_docs.php:17
+msgid ""
+"It will show file manager on front end. But only Administrator can access it "
+"and will control from file manager settings."
+msgstr ""
+"Mostrará o xestor de ficheiros na interface. Pero só o administrador pode "
+"acceder a el e controlará desde a configuración do xestor de ficheiros."
+
+#: inc/shortcode_docs.php:23
+msgid "Parameters:"
+msgstr "Parámetros:"
+
+#: inc/shortcode_docs.php:26
+msgid ""
+"It will allow all roles to access file manager on front end or You can "
+"simple use for particular user roles as like allowed_roles=\"editor,author"
+"\" (seprated by comma(,))"
+msgstr ""
+"Permitirá que todos os roles accedan ao xestor de ficheiros na interface ou "
+"Podes usar de forma sinxela para roles de usuario particulares como "
+"allow_roles=\"editor,author\" (separado por coma (,))"
+
+#: inc/shortcode_docs.php:28
+msgid ""
+"Here \"test\" is the name of folder which is located on root directory, or "
+"you can give path for sub folders as like \"wp-content/plugins\". If leave "
+"blank or empty it will access all folders on root directory. Default: Root "
+"directory"
+msgstr ""
+"Aquí \"proba\" é o nome do cartafol que se atopa no directorio raíz, ou pode "
+"dar o camiño para os subcartafoles como \"wp-content/plugins\". Se o deixas "
+"en branco ou baleiro accederá a todos os cartafoles do directorio raíz. "
+"Predeterminado: directorio raíz"
+
+#: inc/shortcode_docs.php:30
+msgid "for access to write files permissions, note: true/false, default: false"
+msgstr ""
+"para acceder aos permisos de escritura de ficheiros, nota: verdadeiro/falso, "
+"predeterminado: falso"
+
+#: inc/shortcode_docs.php:32
+msgid "for access to read files permission, note: true/false, default: true"
+msgstr ""
+"para acceder ao permiso de lectura de ficheiros, nota: verdadeiro/falso, "
+"predeterminado: verdadeiro"
+
+#: inc/shortcode_docs.php:34
+msgid "it will hide mentioned here. Note: seprated by comma(,). Default: Null"
+msgstr ""
+"ocultarase aquí mencionado. Nota: separados por coma (,). Valor "
+"predeterminado: nulo"
+
+#: inc/shortcode_docs.php:36
+msgid ""
+"It will lock mentioned in commas. you can lock more as like \".php,.css,.js"
+"\" etc. Default: Null"
+msgstr ""
+"Bloquearase mencionado entre comas. pode bloquear máis como \".php,.css,.js"
+"\" etc. Valor predeterminado: nulo"
+
+#: inc/shortcode_docs.php:38
+msgid ""
+"* for all operations and to allow some operation you can mention operation "
+"name as like, allowed_operations=\"upload,download\". Note: seprated by "
+"comma(,). Default: *"
+msgstr ""
+"* Para todas as operacións e para permitir algunha operación, pode mencionar "
+"o nome da operación como permitido_operations=\"cargar, descargar\". Nota: "
+"separados por coma (,). Predeterminado: *"
+
+#: inc/shortcode_docs.php:42
+msgid "File Operations List:"
+msgstr "Lista de operacións de ficheiros:"
+
+#: inc/shortcode_docs.php:46
+msgid "mkdir ->"
+msgstr ""
+
+#: inc/shortcode_docs.php:46
+msgid "Make directory or folder"
+msgstr "Facer directorio ou cartafol"
+
+#: inc/shortcode_docs.php:47
+msgid "mkfile ->"
+msgstr ""
+
+#: inc/shortcode_docs.php:47
+msgid "Make file"
+msgstr "Facer arquivo"
+
+#: inc/shortcode_docs.php:48
+msgid "rename ->"
+msgstr ""
+
+#: inc/shortcode_docs.php:48
+msgid "Rename a file or folder"
+msgstr "Cambia o nome dun ficheiro ou cartafol"
+
+#: inc/shortcode_docs.php:49
+msgid "duplicate ->"
+msgstr ""
+
+#: inc/shortcode_docs.php:49
+msgid "Duplicate or clone a folder or file"
+msgstr "Duplicar ou clonar un cartafol ou ficheiro"
+
+#: inc/shortcode_docs.php:50
+msgid "paste ->"
+msgstr ""
+
+#: inc/shortcode_docs.php:50
+msgid "Paste a file or folder"
+msgstr "Pega un ficheiro ou cartafol"
+
+#: inc/shortcode_docs.php:51
+msgid "ban ->"
+msgstr ""
+
+#: inc/shortcode_docs.php:51
+msgid "Ban"
+msgstr "Prohibición"
+
+#: inc/shortcode_docs.php:52
+msgid "archive ->"
+msgstr ""
+
+#: inc/shortcode_docs.php:52
+msgid "To make a archive or zip"
+msgstr "Para facer un arquivo ou zip"
+
+#: inc/shortcode_docs.php:53
+msgid "extract ->"
+msgstr ""
+
+#: inc/shortcode_docs.php:53
+msgid "Extract archive or zipped file"
+msgstr "Extraer arquivo ou arquivo comprimido"
+
+#: inc/shortcode_docs.php:54
+msgid "copy ->"
+msgstr ""
+
+#: inc/shortcode_docs.php:54
+msgid "Copy files or folders"
+msgstr "Copia ficheiros ou cartafoles"
+
+#: inc/shortcode_docs.php:58
+msgid "cut ->"
+msgstr ""
+
+#: inc/shortcode_docs.php:58
+msgid "Simple cut a file or folder"
+msgstr "Corte simple dun arquivo ou cartafol"
+
+#: inc/shortcode_docs.php:59
+msgid "edit ->"
+msgstr ""
+
+#: inc/shortcode_docs.php:59
+msgid "Edit a file"
+msgstr "Edite un ficheiro"
+
+#: inc/shortcode_docs.php:60
+msgid "rm ->"
+msgstr ""
+
+#: inc/shortcode_docs.php:60
+msgid "Remove or delete files and folders"
+msgstr "Elimina ou elimina ficheiros e cartafoles"
+
+#: inc/shortcode_docs.php:61
+msgid "download ->"
+msgstr ""
+
+#: inc/shortcode_docs.php:61
+msgid "Download files"
+msgstr "Descargar ficheiros"
+
+#: inc/shortcode_docs.php:62
+msgid "upload ->"
+msgstr ""
+
+#: inc/shortcode_docs.php:62
+msgid "Upload files"
+msgstr "Cargar ficheiros"
+
+#: inc/shortcode_docs.php:63
+msgid "search -> "
+msgstr ""
+
+#: inc/shortcode_docs.php:63
+msgid "Search things"
+msgstr "Busca cousas"
+
+#: inc/shortcode_docs.php:64
+msgid "info ->"
+msgstr ""
+
+#: inc/shortcode_docs.php:64
+msgid "Info of file"
+msgstr "Información do ficheiro"
+
+#: inc/shortcode_docs.php:65
+msgid "help ->"
+msgstr ""
+
+#: inc/shortcode_docs.php:65
+msgid "Help"
+msgstr "Axuda"
+
+#: inc/shortcode_docs.php:71
+msgid ""
+"->  It will ban particular users by just putting their ids seprated by "
+"commas(,). If user is Ban then they will not able to access wp file manager "
+"on front end."
+msgstr ""
+"-> Prohibirá a determinados usuarios só poñendo os seus identificadores "
+"separados por comas (,). Se o usuario é Ban, non poderán acceder ao xestor "
+"de ficheiros wp na interface."
+
+#: inc/shortcode_docs.php:72
+msgid "-> Filemanager UI View. Default: grid"
+msgstr "-> Filemanager UI View. Por defecto: grid"
+
+#: inc/shortcode_docs.php:73
+msgid "-> File Modified or Create date format. Default: d M, Y h:i A"
+msgstr ""
+"-> Arquivo modificado ou Crear formato de data. Predeterminado: d M, Y h: i A"
+
+#: inc/shortcode_docs.php:74
+msgid "-> File manager Language. Default: English(en)"
+msgstr "-> Idioma do xestor de ficheiros. Predeterminado: English(en)"
+
+#: inc/shortcode_docs.php:75
+msgid "-> File Manager Theme. Default: Light"
+msgstr "-> Tema Xestor de ficheiros. Predeterminado: Light"
+
+#: inc/system_properties.php:5
+msgid "File Manager - System Properties"
+msgstr "Xestor de ficheiros - Propiedades do sistema"
+
+#: inc/system_properties.php:10
+msgid "PHP version"
+msgstr "Versión PHP"
+
+#: inc/system_properties.php:15
+msgid "Maximum file upload size (upload_max_filesize)"
+msgstr "Tamaño máximo de carga de ficheiro (upload_max_filesize)"
+
+#: inc/system_properties.php:20
+msgid "Post maximum file upload size (post_max_size)"
+msgstr "Envía o tamaño máximo de carga do ficheiro (post_max_size)"
+
+#: inc/system_properties.php:25
+msgid "Memory Limit (memory_limit)"
+msgstr "Límite de memoria (memoria_limit)"
+
+#: inc/system_properties.php:30
+msgid "Timeout (max_execution_time)"
+msgstr "Tempo de espera (max_execution_time)"
+
+#: inc/system_properties.php:35
+msgid "Browser and OS (HTTP_USER_AGENT)"
+msgstr "Navegador e SO (HTTP_USER_AGENT)"
+
+#: lib/jquery/jquery-ui-1.11.4.js:8
+msgid "'"
+msgstr ""
+
+#: lib/wpfilemanager.php:31
+msgid "Change Theme Here:"
+msgstr "Cambia de tema aquí:"
+
+#: lib/wpfilemanager.php:35
+msgid "Default"
+msgstr "Predeterminado"
+
+#: lib/wpfilemanager.php:39
+msgid "Dark"
+msgstr "Escuro"
+
+#: lib/wpfilemanager.php:43
+msgid "Light"
+msgstr "Luz"
+
+#: lib/wpfilemanager.php:47
+msgid "Gray"
+msgstr "Gris"
+
+#: lib/wpfilemanager.php:52
+msgid "Windows - 10"
+msgstr ""
+
+#: lib/wpfilemanager.php:85
+msgid "Welcome to File Manager"
+msgstr "Benvido ao Xestor de ficheiros"
+
+#: lib/wpfilemanager.php:88
+msgid ""
+"We love making new friends! Subscribe below and we promise to\n"
+"    keep you up-to-date with our latest new plugins, updates,\n"
+"    awesome deals and a few special offers."
+msgstr ""
+"Encántanos facer novos amigos. Subscríbete a continuación e prometemos "
+"facelo\n"
+"    estar ao día cos nosos novos complementos, actualizacións,\n"
+"    ofertas incribles e algunhas ofertas especiais."
+
+#: lib/wpfilemanager.php:99
+msgid "Please Enter First Name."
+msgstr "Introduza o nome."
+
+#: lib/wpfilemanager.php:107
+msgid "Please Enter Last Name."
+msgstr "Introduza o apelido."
+
+#: lib/wpfilemanager.php:116
+msgid "Please Enter Email Address."
+msgstr "Introduza o enderezo de correo electrónico."
+
+#: lib/wpfilemanager.php:120
+msgid "Verify"
+msgstr "Verificar"
+
+#: lib/wpfilemanager.php:126
+msgid "No Thanks"
+msgstr "Non, grazas"
+
+#: lib/wpfilemanager.php:132
+msgid "Terms of Service"
+msgstr "Termos de servizo"
+
+#: lib/wpfilemanager.php:134
+msgid "Privacy Policy"
+msgstr "Política de Privacidade"
+
+#: lib/wpfilemanager.php:153
+msgid "Saving..."
+msgstr "Gardando ..."
+
+#: lib/wpfilemanager.php:155
+msgid "OK"
+msgstr "Ok"
+
+#~ msgid "Backup not found!"
+#~ msgstr "Non se atopou a copia de seguridade."
+
+#~ msgid "Backup removed successfully!"
+#~ msgstr "Eliminouse correctamente a copia de seguridade."
+
+#~ msgid "<span class=\"fm_console_error\">Nothing selected for backup</span>"
+#~ msgstr ""
+#~ "<span class=\"fm_console_error\">Non hai nada seleccionado para a copia "
+#~ "de seguridade</span>"
+
+#~ msgid "<span class=\"fm_console_error\">Security Issue.</span>"
+#~ msgstr "<span class=\"fm_console_error\">Problema de seguridade.</span>"
+
+#~ msgid "<span class=\"fm_console_success\">Database backup done.</span>"
+#~ msgstr ""
+#~ "<span class=\"fm_console_success\">Fixo a copia de seguridade da base de "
+#~ "datos.</span>"
+
+#~ msgid ""
+#~ "<span class=\"fm_console_error\">Unable to create database backup.</span>"
+#~ msgstr ""
+#~ "<span class=\"fm_console_error\">Non se pode crear unha copia de "
+#~ "seguridade da base de datos.</span>"
+
+#~ msgid "<span class=\"fm_console_success\">Plugins backup done.</span>"
+#~ msgstr ""
+#~ "<span class=\"fm_console_success\">Fixo a copia de seguridade dos "
+#~ "complementos.</span>"
+
+#~ msgid "<span class=\"fm_console_error\">Plugins backup failed.</span>"
+#~ msgstr ""
+#~ "<span class=\"fm_console_error\">Fallou a copia de seguridade dos "
+#~ "complementos.</span>"
+
+#~ msgid "<span class=\"fm_console_success\">Themes backup done.</span>"
+#~ msgstr ""
+#~ "<span class=\"fm_console_success\">Fixo a copia de seguridade dos temas.</"
+#~ "span>"
+
+#~ msgid "<span class=\"fm_console_error\">Themes backup failed.</span>"
+#~ msgstr ""
+#~ "<span class=\"fm_console_error\">Fallou a copia de seguridade dos temas.</"
+#~ "span>"
+
+#~ msgid "<span class=\"fm_console_success\">Uploads backup done.</span>"
+#~ msgstr ""
+#~ "<span class=\"fm_console_success\">Fixo a copia de seguridade das cargas."
+#~ "</span>"
+
+#~ msgid "<span class=\"fm_console_error\">Uploads backup failed.</span>"
+#~ msgstr ""
+#~ "<span class=\"fm_console_error\">Fallou a copia de seguranza das cargas.</"
+#~ "span>"
+
+#~ msgid "<span class=\"fm_console_success\">Others backup done.</span>"
+#~ msgstr ""
+#~ "<span class=\"fm_console_success\">Outras copias de seguridade realizadas."
+#~ "</span>"
+
+#~ msgid "<span class=\"fm_console_error\">Others backup failed.</span>"
+#~ msgstr ""
+#~ "<span class=\"fm_console_error\">Fallou a copia de seguridade doutras.</"
+#~ "span>"
+
+#~ msgid "<span class=\"fm_console_success\">All Done</span>"
+#~ msgstr "<span class=\"fm_console_success\">Todo feito</span>"
+
+#~ msgid ""
+#~ "<code>[wp_file_manager view=\"list\" lang=\"en\" theme=\"light\" "
+#~ "dateformat=\"d M, Y h:i A\" allowed_roles=\"editor,author\" access_folder="
+#~ "\"wp-content/plugins\" write = \"true\" read = \"false\" hide_files = "
+#~ "\"kumar,abc.php\" lock_extensions=\".php,.css\" allowed_operations="
+#~ "\"upload,download\" ban_user_ids=\"2,3\"]"
+#~ msgstr ""
+#~ "<code>[wp_file_manager view=\"list\" lang=\"en\" theme=\"light\" "
+#~ "dateformat=\"d M, Y h:i A\" allowed_roles=\"editor,author\" access_folder="
+#~ "\"wp-content/plugins\" write = \"true\" read = \"false\" hide_files = "
+#~ "\"kumar,abc.php\" lock_extensions=\".php,.css\" allowed_operations="
+#~ "\"upload,download\" ban_user_ids=\"2,3\"]"
+
+#~ msgid "Manage your WP files."
+#~ msgstr "Xestiona os teus ficheiros WP."
+
+#~ msgid "Extensions"
+#~ msgstr "Extensións"
+
+#~ msgid ""
+#~ "Please contribute some donation, to make plugin more stable. You can pay "
+#~ "amount of your choice."
+#~ msgstr ""
+#~ "Contribúe con algunha doazón, para que o complemento sexa máis estable. "
+#~ "Podes pagar cantidade da túa elección."

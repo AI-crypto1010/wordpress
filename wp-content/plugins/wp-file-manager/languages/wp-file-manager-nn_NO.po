@@ -1,0 +1,2704 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Theme Editor Pro\n"
+"POT-Creation-Date: 2022-02-28 11:05+0530\n"
+"PO-Revision-Date: 2022-03-01 18:05+0530\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: nn_NO\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 3.0.1\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: __;_e;esc_attr__;esc_html__\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: file_folder_manager.php:174
+msgid "Themes backup restored successfully."
+msgstr "Sikkerhetskopiering av temaer ble gjenopprettet."
+
+#: file_folder_manager.php:177
+msgid "Unable to restore themes."
+msgstr "Kan ikke gjenopprette temaer."
+
+#: file_folder_manager.php:207
+msgid "Uploads backup restored successfully."
+msgstr "Opplastingen av sikkerhetskopien ble gjenopprettet."
+
+#: file_folder_manager.php:211
+msgid "Unable to restore uploads."
+msgstr "Kan ikke gjenopprette opplastinger."
+
+#: file_folder_manager.php:237
+msgid "Others backup restored successfully."
+msgstr "Andre sikkerhetskopier ble gjenopprettet."
+
+#: file_folder_manager.php:241
+msgid "Unable to restore others."
+msgstr "Kan ikke gjenopprette andre."
+
+#: file_folder_manager.php:267
+msgid "Plugins backup restored successfully."
+msgstr "Plugins-sikkerhetskopiering ble gjenopprettet."
+
+#: file_folder_manager.php:271 file_folder_manager.php:301
+msgid "Unable to restore plugins."
+msgstr "Kan ikke gjenopprette plugins."
+
+#: file_folder_manager.php:286
+msgid "Database backup restored successfully."
+msgstr "Databasesikkerhetskopiering ble gjenopprettet."
+
+#: file_folder_manager.php:286 file_folder_manager.php:297
+#: file_folder_manager.php:588 file_folder_manager.php:592
+msgid "All Done"
+msgstr "Ferdig"
+
+#: file_folder_manager.php:289
+msgid "Unable to restore DB backup."
+msgstr "Kan ikke gjenopprette DB-sikkerhetskopi."
+
+#: file_folder_manager.php:347
+msgid "Backups removed successfully!"
+msgstr "Sikkerhetskopieringer fjernet!"
+
+#: file_folder_manager.php:349
+msgid "Unable to removed backup!"
+msgstr "Kan ikke fjerne sikkerhetskopien!"
+
+#: file_folder_manager.php:373
+msgid "Database backup done on date "
+msgstr "Databasesikkerhetskopiering utført på dato "
+
+#: file_folder_manager.php:377
+msgid "Plugins backup done on date "
+msgstr "Plugins backup gjort på dato "
+
+#: file_folder_manager.php:381
+msgid "Themes backup done on date "
+msgstr "Sikkerhetskopiering av temaer gjort på dato "
+
+#: file_folder_manager.php:385
+msgid "Uploads backup done on date "
+msgstr "Laster opp sikkerhetskopiering gjort på dato "
+
+#: file_folder_manager.php:389
+msgid "Others backup done on date "
+msgstr "Andre sikkerhetskopier er gjort på dato "
+
+#: file_folder_manager.php:393 file_folder_manager.php:776
+msgid "Logs"
+msgstr "Tømmerstokker"
+
+#: file_folder_manager.php:399
+msgid "No logs found!"
+msgstr "Ingen logger funnet!"
+
+#: file_folder_manager.php:496
+msgid "Nothing selected for backup"
+msgstr "Ingenting er valgt for sikkerhetskopiering"
+
+#: file_folder_manager.php:516
+msgid "Security Issue."
+msgstr "Sikkerhetsproblem."
+
+#: file_folder_manager.php:527
+msgid "Database backup done."
+msgstr "Sikkerhetskopiering av database utført."
+
+#: file_folder_manager.php:530
+msgid "Unable to create database backup."
+msgstr "Kan ikke opprette databasesikkerhetskopiering."
+
+#: file_folder_manager.php:544
+msgid "Plugins backup done."
+msgstr "Sikkerhetskopiering av plugins utført."
+
+#: file_folder_manager.php:547
+msgid "Plugins backup failed."
+msgstr "Sikkerhetskopiering av plugins mislyktes."
+
+#: file_folder_manager.php:556
+msgid "Themes backup done."
+msgstr "Sikkerhetskopiering av temaer utført."
+
+#: file_folder_manager.php:559
+msgid "Themes backup failed."
+msgstr "Sikkerhetskopiering av temaer mislyktes."
+
+#: file_folder_manager.php:569
+msgid "Uploads backup done."
+msgstr "Laster opp sikkerhetskopiering ferdig."
+
+#: file_folder_manager.php:572
+msgid "Uploads backup failed."
+msgstr "Opplasting av sikkerhetskopiering mislyktes."
+
+#: file_folder_manager.php:581
+msgid "Others backup done."
+msgstr "Andre sikkerhetskopiering er gjort."
+
+#: file_folder_manager.php:584
+msgid "Others backup failed."
+msgstr "Andre sikkerhetskopiering mislyktes."
+
+#: file_folder_manager.php:761 file_folder_manager.php:762
+#: lib/wpfilemanager.php:23
+msgid "WP File Manager"
+msgstr "WP filbehandling"
+
+#: file_folder_manager.php:769
+msgid "Settings"
+msgstr "Innstillinger"
+
+#: file_folder_manager.php:771 inc/root.php:48
+msgid "Preferences"
+msgstr "Preferanser"
+
+#: file_folder_manager.php:773
+msgid "System Properties"
+msgstr "System egenskaper"
+
+#: file_folder_manager.php:775
+msgid "Shortcode - PRO"
+msgstr "Kortkode - PRO"
+
+#: file_folder_manager.php:777
+msgid "Backup/Restore"
+msgstr "Gjenopprette fra sikkerhetskopi"
+
+#: file_folder_manager.php:1033
+msgid "Buy Pro"
+msgstr "Kjøp Pro"
+
+#: file_folder_manager.php:1034
+msgid "Donate"
+msgstr "Donere"
+
+#: file_folder_manager.php:1249
+msgid ""
+"<div class=\"updated settings-error notice is-dismissible\" id=\"setting-"
+"error-settings_updated\"> \n"
+"<p><strong>"
+msgstr ""
+
+#: file_folder_manager.php:1256
+msgid ""
+"<div class=\"error settings-error notice is-dismissible\" id=\"setting-error-"
+"settings_updated\"> \n"
+"<p><strong>"
+msgstr ""
+
+#: file_folder_manager.php:1395 file_folder_manager.php:1483
+msgid "File doesn't exist to download."
+msgstr "Filen eksisterer ikke for nedlasting."
+
+#: file_folder_manager.php:1400 file_folder_manager.php:1488
+msgid "Invalid Security Code."
+msgstr "Ugyldig sikkerhetskode."
+
+#: file_folder_manager.php:1405 file_folder_manager.php:1493
+msgid "Missing backup id."
+msgstr "Mangler sikkerhetskopi-ID."
+
+#: file_folder_manager.php:1408 file_folder_manager.php:1496
+msgid "Missing parameter type."
+msgstr "Manglende parametertype."
+
+#: file_folder_manager.php:1411 file_folder_manager.php:1499
+msgid "Missing required parameters."
+msgstr "Mangler nødvendige parametere."
+
+#: inc/backup.php:24
+msgid ""
+"Error: Unable to restore backup because database backup is heavy in size. "
+"Please try to increase Maximum allowed size  from Preferences settings."
+msgstr ""
+"Feil: Kan ikke gjenopprette sikkerhetskopien fordi "
+"databasesikkerhetskopieringen er stor. Vennligst prøv å øke Maksimal tillatt "
+"størrelse fra Innstillinger-innstillingene."
+
+#: inc/backup.php:25
+msgid "Select backup(s) to delete!"
+msgstr "Velg sikkerhetskopi(er) for å slette!"
+
+#: inc/backup.php:26
+msgid "Are you sure want to remove selected backup(s)?"
+msgstr "Er du sikker på at du vil fjerne valgt (e) sikkerhetskopi (er)?"
+
+#: inc/backup.php:31
+msgid "Backup is running, please wait"
+msgstr "Sikkerhetskopiering kjører, vent"
+
+#: inc/backup.php:32
+msgid "Restore is running, please wait"
+msgstr "Gjenoppretting kjører, vennligst vent"
+
+#: inc/backup.php:33
+msgid "Nothing selected for backup."
+msgstr "Ingenting er valgt for sikkerhetskopiering."
+
+#: inc/backup.php:45
+msgid "WP File Manager - Backup/Restore"
+msgstr "WP filbehandling - Sikkerhetskopiering / gjenoppretting"
+
+#: inc/backup.php:51
+msgid "Backup Options:"
+msgstr "Alternativer for sikkerhetskopiering:"
+
+#: inc/backup.php:58
+msgid "Database Backup"
+msgstr "Sikkerhetskopiering av databasen"
+
+#: inc/backup.php:64
+msgid "Files Backup"
+msgstr "Backup av filer"
+
+#: inc/backup.php:68
+msgid "Plugins"
+msgstr "Plugins"
+
+#: inc/backup.php:71
+msgid "Themes"
+msgstr "Temaer"
+
+#: inc/backup.php:74
+msgid "Uploads"
+msgstr "Opplastinger"
+
+#: inc/backup.php:77
+msgid "Others (Any other directories found inside wp-content)"
+msgstr "Andre (andre kataloger som finnes i wp-innhold)"
+
+#: inc/backup.php:81
+msgid "Backup Now"
+msgstr "Sikkerhetskopier nå"
+
+#: inc/backup.php:89
+msgid "Time now"
+msgstr "Tid nå"
+
+#: inc/backup.php:99
+msgid "SUCCESS"
+msgstr "SUKSESS"
+
+#: inc/backup.php:101
+msgid "Backup successfully deleted."
+msgstr "Sikkerhetskopien ble slettet."
+
+#: inc/backup.php:102
+msgid "Ok"
+msgstr "Ok"
+
+#: inc/backup.php:117
+msgid "DELETE FILES"
+msgstr "SLETT FILER"
+
+#: inc/backup.php:119
+msgid "Are you sure you want to delete this backup?"
+msgstr "Er du sikker på at du vil slette denne sikkerhetskopien?"
+
+#: inc/backup.php:120 inc/backup.php:139
+msgid "Cancel"
+msgstr "Avbryt"
+
+#: inc/backup.php:121 inc/backup.php:140
+msgid "Confirm"
+msgstr "Bekrefte"
+
+#: inc/backup.php:136
+msgid "RESTORE FILES"
+msgstr "GJENBESTILL FILER"
+
+#: inc/backup.php:138
+msgid "Are you sure you want to restore this backup?"
+msgstr "Er du sikker på at du vil gjenopprette denne sikkerhetskopien?"
+
+#: inc/backup.php:166
+msgid "Last Log Message"
+msgstr "Siste loggmelding"
+
+#: inc/backup.php:169
+msgid "The backup apparently succeeded and is now complete."
+msgstr "Sikkerhetskopien lyktes tilsynelatende og er nå fullført."
+
+#: inc/backup.php:171
+msgid "No log message"
+msgstr "Ingen loggmelding"
+
+#: inc/backup.php:177
+msgid "Existing Backup(s)"
+msgstr "Eksisterende sikkerhetskopi (er)"
+
+#: inc/backup.php:184
+msgid "Backup Date"
+msgstr "Sikkerhetsdato"
+
+#: inc/backup.php:187
+msgid "Backup data (click to download)"
+msgstr "Backup data (klikk for å laste ned)"
+
+#: inc/backup.php:190
+msgid "Action"
+msgstr "Handling"
+
+#: inc/backup.php:210
+msgid "Today"
+msgstr "I dag"
+
+#: inc/backup.php:239
+msgid "Restore"
+msgstr "Restaurere"
+
+#: inc/backup.php:240 inc/backup.php:250
+msgid "Delete"
+msgstr "Slett"
+
+#: inc/backup.php:241
+msgid "View Log"
+msgstr "Se Logg"
+
+#: inc/backup.php:246
+msgid "Currently no backup(s) found."
+msgstr "Foreløpig ingen sikkerhetskopier funnet."
+
+#: inc/backup.php:249
+msgid "Actions upon selected backup(s)"
+msgstr "Handlinger ved valgt (e) sikkerhetskopi (er)"
+
+#: inc/backup.php:251
+msgid "Select All"
+msgstr "Velg alle"
+
+#: inc/backup.php:252
+msgid "Deselect"
+msgstr "Fjern markeringen"
+
+#: inc/backup.php:254
+msgid "Note:"
+msgstr "Merk:"
+
+#: inc/backup.php:254
+msgid "Backup files will be under"
+msgstr "Sikkerhetskopifiler vil være under"
+
+#: inc/contribute.php:3
+msgid "WP File Manager Contribution"
+msgstr "WP filbehandling-bidrag"
+
+#: inc/logs.php:7
+msgid ""
+"Note: These are demo screenshots. Please buy File Manager pro to Logs "
+"functions."
+msgstr ""
+"Merk: Dette er demo-skjermbilder. Vennligst kjøp File Manager pro til Logs-"
+"funksjoner."
+
+#: inc/logs.php:8 lib/wpfilemanager.php:24
+msgid "Click to Buy PRO"
+msgstr "Klikk for å kjøpe PRO"
+
+#: inc/logs.php:8 inc/settings.php:12 inc/settings.php:27
+#: inc/system_properties.php:5 lib/wpfilemanager.php:25
+msgid "Buy PRO"
+msgstr "Kjøp PRO"
+
+#: inc/logs.php:9
+msgid "Edit Files Logs"
+msgstr "Rediger fillogger"
+
+#: inc/logs.php:11
+msgid "Download Files Logs"
+msgstr "Last ned fillogger"
+
+#: inc/logs.php:13
+msgid "Upload Files Logs"
+msgstr "Last opp fillogger"
+
+#: inc/root.php:43
+msgid "Settings saved."
+msgstr "Instillinger lagret."
+
+#: inc/root.php:43 inc/root.php:46
+msgid "Dismiss this notice."
+msgstr "Avvis denne meldingen."
+
+#: inc/root.php:46
+msgid "You have not made any changes to be saved."
+msgstr "Du har ikke gjort noen endringer for å bli lagret."
+
+#: inc/root.php:55
+msgid "Public Root Path"
+msgstr "Offentlig rotsti"
+
+#: inc/root.php:58
+msgid "File Manager Root Path, you can change according to your choice."
+msgstr "File Manager Root Path, du kan endre i henhold til ditt valg."
+
+#: inc/root.php:59
+msgid "Default:"
+msgstr "Misligholde:"
+
+#: inc/root.php:60
+msgid ""
+"Please change this carefully, wrong path can lead file manager plugin to go "
+"down."
+msgstr ""
+"Endre dette nøye, feil bane kan føre til at filbehandling plugin går ned."
+
+#: inc/root.php:64
+msgid "Enable Trash?"
+msgstr "Vil du aktivere papirkurven?"
+
+#: inc/root.php:67
+msgid "After enable trash, your files will go to trash folder."
+msgstr "Etter at du har aktivert papirkurven, går filene dine til papirkurven."
+
+#: inc/root.php:72
+msgid "Enable Files Upload to Media Library?"
+msgstr "Aktivere filer som lastes opp til mediebiblioteket?"
+
+#: inc/root.php:75
+msgid "After enabling this all files will go to media library."
+msgstr "Etter at du har aktivert dette, går alle filene til mediebiblioteket."
+
+#: inc/root.php:80
+msgid "Maximum allowed size at the time of database backup restore."
+msgstr ""
+"Maksimal tillatt størrelse på tidspunktet for gjenoppretting av "
+"sikkerhetskopi av database."
+
+#: inc/root.php:83
+msgid "MB"
+msgstr ""
+
+#: inc/root.php:85
+msgid ""
+"Please increase field value if you are getting error message at the time of "
+"backup restore."
+msgstr ""
+"Øk feltverdien hvis du får feilmelding ved gjenoppretting av sikkerhetskopi."
+
+#: inc/root.php:90
+msgid "Save Changes"
+msgstr "Lagre endringer"
+
+#: inc/settings.php:10
+msgid "Settings - General"
+msgstr "Innstillinger - Generelt"
+
+#: inc/settings.php:11 inc/settings.php:26
+msgid ""
+"Note: This is just a demo screenshot. To get settings please buy our pro "
+"version."
+msgstr ""
+"Merk: Dette er bare et demo-skjermbilde. For å få innstillinger, vennligst "
+"kjøp vår pro-versjon."
+
+#: inc/settings.php:13
+msgid ""
+"Here admin can give access to user roles to use filemanager. Admin can set "
+"Default Access Folder and also control upload size of filemanager."
+msgstr ""
+"Her kan admin gi tilgang til brukerroller for å bruke filmanager. "
+"Administrator kan angi standard tilgangsmappe og også kontrollere "
+"opplastingsstørrelsen på filadministratoren."
+
+#: inc/settings.php:15
+msgid "Settings - Code-editor"
+msgstr "Innstillinger - Kode-editor"
+
+#: inc/settings.php:16
+msgid ""
+"File Manager has a code editor with multiple themes. You can select any "
+"theme for code editor. It will display when you edit any file. Also you can "
+"allow fullscreen mode of code editor."
+msgstr ""
+"File Manager har en kodeditor med flere temaer. Du kan velge hvilket som "
+"helst tema for kodeditor. Den vises når du redigerer en fil. Du kan også "
+"tillate fullskjermmodus for kodeditor."
+
+#: inc/settings.php:18
+msgid "Code-editor View"
+msgstr "Kode-editor Vis"
+
+#: inc/settings.php:20
+msgid "Settings - User Restrictions"
+msgstr "Innstillinger - Brukerbegrensninger"
+
+#: inc/settings.php:21
+msgid ""
+"Admin can restrict actions of any user. Also hide files and folders and can "
+"set different - different folders paths for different users."
+msgstr ""
+"Administrator kan begrense alle brukeres handlinger. Skjul også filer og "
+"mapper og kan angi forskjellige - forskjellige mappestier for forskjellige "
+"brukere."
+
+#: inc/settings.php:23
+msgid "Settings - User Role Restrictions"
+msgstr "Innstillinger - Begrensninger for brukerrolle"
+
+#: inc/settings.php:24
+msgid ""
+"Admin can restrict actions of any userrole. Also hide files and folders and "
+"can set different - different folders paths for different users roles."
+msgstr ""
+"Administrator kan begrense handlingene til enhver brukerroll. Skjul også "
+"filer og mapper og kan angi forskjellige - forskjellige mappestier for "
+"forskjellige brukerroller."
+
+#: inc/shortcode_docs.php:11
+msgid "File Manager - Shortcode"
+msgstr "Filbehandling - Kort kode"
+
+#: inc/shortcode_docs.php:15 inc/shortcode_docs.php:17
+#: inc/shortcode_docs.php:19
+msgid "USE:"
+msgstr "BRUK:"
+
+#: inc/shortcode_docs.php:15
+msgid ""
+"It will show file manager on front end. You can control all settings from "
+"file manager settings. It will work same as backend WP File Manager."
+msgstr ""
+"Det vil vise filbehandler på grensesnittet. Du kan kontrollere alle "
+"innstillinger fra filbehandlingsinnstillingene. Det vil fungere på samme "
+"måte som backend WP filbehandling."
+
+#: inc/shortcode_docs.php:17
+msgid ""
+"It will show file manager on front end. But only Administrator can access it "
+"and will control from file manager settings."
+msgstr ""
+"Det vil vise filbehandler på grensesnittet. Men bare administrator har "
+"tilgang til den og vil kontrollere fra filbehandlingsinnstillingene."
+
+#: inc/shortcode_docs.php:23
+msgid "Parameters:"
+msgstr "Parametere:"
+
+#: inc/shortcode_docs.php:26
+msgid ""
+"It will allow all roles to access file manager on front end or You can "
+"simple use for particular user roles as like allowed_roles=\"editor,author"
+"\" (seprated by comma(,))"
+msgstr ""
+"Det vil tillate alle roller å få tilgang til filbehandler på grensesnittet, "
+"eller du kan enkelt bruke for bestemte brukerroller som for eksempel "
+"allow_roles=\"editor,author\" (atskilt med komma(,))"
+
+#: inc/shortcode_docs.php:28
+msgid ""
+"Here \"test\" is the name of folder which is located on root directory, or "
+"you can give path for sub folders as like \"wp-content/plugins\". If leave "
+"blank or empty it will access all folders on root directory. Default: Root "
+"directory"
+msgstr ""
+"Her er \"test\" navnet på mappen som ligger i rotkatalogen, eller du kan gi "
+"bane for undermapper som \"wp-content/plugins\". Hvis la stå tomt eller "
+"tomt, vil det få tilgang til alle mappene i rotkatalogen. Standard: "
+"Rotkatalog"
+
+#: inc/shortcode_docs.php:30
+msgid "for access to write files permissions, note: true/false, default: false"
+msgstr ""
+"for tilgang til å skrive filer tillatelser, merk: true/false, standard: usant"
+
+#: inc/shortcode_docs.php:32
+msgid "for access to read files permission, note: true/false, default: true"
+msgstr ""
+"for tilgang til tillatelse til å lese filer, merk: true/false, default: true"
+
+#: inc/shortcode_docs.php:34
+msgid "it will hide mentioned here. Note: seprated by comma(,). Default: Null"
+msgstr ""
+"det vil gjemme seg nevnt her. Merk: atskilt med komma(,). Standard: Null"
+
+#: inc/shortcode_docs.php:36
+msgid ""
+"It will lock mentioned in commas. you can lock more as like \".php,.css,.js"
+"\" etc. Default: Null"
+msgstr ""
+"Den vil låse nevnt i komma. du kan låse flere som \".php,.css,.js\" osv. "
+"Standard: Null"
+
+#: inc/shortcode_docs.php:38
+msgid ""
+"* for all operations and to allow some operation you can mention operation "
+"name as like, allowed_operations=\"upload,download\". Note: seprated by "
+"comma(,). Default: *"
+msgstr ""
+"* for alle operasjoner og for å tillate noen operasjoner kan du nevne "
+"operasjonsnavn som like, allow_operations=\"last opp, last ned\". Merk: "
+"atskilt med komma(,). Standard: *"
+
+#: inc/shortcode_docs.php:42
+msgid "File Operations List:"
+msgstr "Liste over filoperasjoner:"
+
+#: inc/shortcode_docs.php:46
+msgid "mkdir ->"
+msgstr ""
+
+#: inc/shortcode_docs.php:46
+msgid "Make directory or folder"
+msgstr "Lag katalog eller mappe"
+
+#: inc/shortcode_docs.php:47
+msgid "mkfile ->"
+msgstr ""
+
+#: inc/shortcode_docs.php:47
+msgid "Make file"
+msgstr "Lag fil"
+
+#: inc/shortcode_docs.php:48
+msgid "rename ->"
+msgstr ""
+
+#: inc/shortcode_docs.php:48
+msgid "Rename a file or folder"
+msgstr "Gi nytt navn til en fil eller mappe"
+
+#: inc/shortcode_docs.php:49
+msgid "duplicate ->"
+msgstr ""
+
+#: inc/shortcode_docs.php:49
+msgid "Duplicate or clone a folder or file"
+msgstr "Dupliser eller klon en mappe eller fil"
+
+#: inc/shortcode_docs.php:50
+msgid "paste ->"
+msgstr ""
+
+#: inc/shortcode_docs.php:50
+msgid "Paste a file or folder"
+msgstr "Lim inn en fil eller mappe"
+
+#: inc/shortcode_docs.php:51
+msgid "ban ->"
+msgstr ""
+
+#: inc/shortcode_docs.php:51
+msgid "Ban"
+msgstr "forby"
+
+#: inc/shortcode_docs.php:52
+msgid "archive ->"
+msgstr ""
+
+#: inc/shortcode_docs.php:52
+msgid "To make a archive or zip"
+msgstr "Å lage et arkiv eller zip"
+
+#: inc/shortcode_docs.php:53
+msgid "extract ->"
+msgstr ""
+
+#: inc/shortcode_docs.php:53
+msgid "Extract archive or zipped file"
+msgstr "Pakk ut arkiv eller zip-fil"
+
+#: inc/shortcode_docs.php:54
+msgid "copy ->"
+msgstr ""
+
+#: inc/shortcode_docs.php:54
+msgid "Copy files or folders"
+msgstr "Kopier filer eller mapper"
+
+#: inc/shortcode_docs.php:58
+msgid "cut ->"
+msgstr ""
+
+#: inc/shortcode_docs.php:58
+msgid "Simple cut a file or folder"
+msgstr "Enkelt kutte en fil eller mappe"
+
+#: inc/shortcode_docs.php:59
+msgid "edit ->"
+msgstr ""
+
+#: inc/shortcode_docs.php:59
+msgid "Edit a file"
+msgstr "Rediger en fil"
+
+#: inc/shortcode_docs.php:60
+msgid "rm ->"
+msgstr ""
+
+#: inc/shortcode_docs.php:60
+msgid "Remove or delete files and folders"
+msgstr "Fjern eller slett filer og mapper"
+
+#: inc/shortcode_docs.php:61
+msgid "download ->"
+msgstr ""
+
+#: inc/shortcode_docs.php:61
+msgid "Download files"
+msgstr "Last ned filer"
+
+#: inc/shortcode_docs.php:62
+msgid "upload ->"
+msgstr ""
+
+#: inc/shortcode_docs.php:62
+msgid "Upload files"
+msgstr "Last opp filer"
+
+#: inc/shortcode_docs.php:63
+msgid "search -> "
+msgstr ""
+
+#: inc/shortcode_docs.php:63
+msgid "Search things"
+msgstr "Søk på ting"
+
+#: inc/shortcode_docs.php:64
+msgid "info ->"
+msgstr ""
+
+#: inc/shortcode_docs.php:64
+msgid "Info of file"
+msgstr "Info om filen"
+
+#: inc/shortcode_docs.php:65
+msgid "help ->"
+msgstr ""
+
+#: inc/shortcode_docs.php:65
+msgid "Help"
+msgstr "Hjelp"
+
+#: inc/shortcode_docs.php:71
+msgid ""
+"->  It will ban particular users by just putting their ids seprated by "
+"commas(,). If user is Ban then they will not able to access wp file manager "
+"on front end."
+msgstr ""
+"->  Det vil forby bestemte brukere ved å bare sette ID-ene deres adskilt med "
+"komma (,). Hvis brukeren er Ban, vil de ikke få tilgang til wp-filbehandling "
+"på frontend."
+
+#: inc/shortcode_docs.php:72
+msgid "-> Filemanager UI View. Default: grid"
+msgstr "-> Filemanager UI View. Standard: grid"
+
+#: inc/shortcode_docs.php:73
+msgid "-> File Modified or Create date format. Default: d M, Y h:i A"
+msgstr "-> Filmodifisert eller Opprett datoformat. Standard: d M, Y h:i A"
+
+#: inc/shortcode_docs.php:74
+msgid "-> File manager Language. Default: English(en)"
+msgstr "-> Filbehandling språk. Standard: English(en)"
+
+#: inc/shortcode_docs.php:75
+msgid "-> File Manager Theme. Default: Light"
+msgstr "-> Filbehandlingstema. Standard: Light"
+
+#: inc/system_properties.php:5
+msgid "File Manager - System Properties"
+msgstr "Filbehandling - Systemegenskaper"
+
+#: inc/system_properties.php:10
+msgid "PHP version"
+msgstr "PHP-versjon"
+
+#: inc/system_properties.php:15
+msgid "Maximum file upload size (upload_max_filesize)"
+msgstr "Maksimal filopplastingsstørrelse (upload_max_filesize)"
+
+#: inc/system_properties.php:20
+msgid "Post maximum file upload size (post_max_size)"
+msgstr "Legg ut maks filstørrelse (post_max_size)"
+
+#: inc/system_properties.php:25
+msgid "Memory Limit (memory_limit)"
+msgstr "Memory Limit (memory_limit)"
+
+#: inc/system_properties.php:30
+msgid "Timeout (max_execution_time)"
+msgstr "Tidsavbrudd (max_execution_time)"
+
+#: inc/system_properties.php:35
+msgid "Browser and OS (HTTP_USER_AGENT)"
+msgstr "Nettleser og operativsystem (HTTP_USER_AGENT)"
+
+#: lib/jquery/jquery-ui-1.11.4.js:8
+msgid "'"
+msgstr ""
+
+#: lib/wpfilemanager.php:31
+msgid "Change Theme Here:"
+msgstr "Endre tema her:"
+
+#: lib/wpfilemanager.php:35
+msgid "Default"
+msgstr "Misligholde"
+
+#: lib/wpfilemanager.php:39
+msgid "Dark"
+msgstr "Mørk"
+
+#: lib/wpfilemanager.php:43
+msgid "Light"
+msgstr "Lys"
+
+#: lib/wpfilemanager.php:47
+msgid "Gray"
+msgstr "Grå"
+
+#: lib/wpfilemanager.php:52
+msgid "Windows - 10"
+msgstr ""
+
+#: lib/wpfilemanager.php:85
+msgid "Welcome to File Manager"
+msgstr "Velkommen til File Manager"
+
+#: lib/wpfilemanager.php:88
+msgid ""
+"We love making new friends! Subscribe below and we promise to\n"
+"    keep you up-to-date with our latest new plugins, updates,\n"
+"    awesome deals and a few special offers."
+msgstr ""
+"Vi elsker å få nye venner! Abonner nedenfor, og vi lover å\n"
+"    holde deg oppdatert med de nyeste nye plugins, oppdateringer,\n"
+"    fantastiske tilbud og noen få spesialtilbud."
+
+#: lib/wpfilemanager.php:99
+msgid "Please Enter First Name."
+msgstr "Vennligst skriv inn fornavn."
+
+#: lib/wpfilemanager.php:107
+msgid "Please Enter Last Name."
+msgstr "Vennligst skriv inn etternavn."
+
+#: lib/wpfilemanager.php:116
+msgid "Please Enter Email Address."
+msgstr "Vennligst skriv inn e-postadresse."
+
+#: lib/wpfilemanager.php:120
+msgid "Verify"
+msgstr "Bekrefte"
+
+#: lib/wpfilemanager.php:126
+msgid "No Thanks"
+msgstr "Nei takk"
+
+#: lib/wpfilemanager.php:132
+msgid "Terms of Service"
+msgstr "Vilkår for bruk"
+
+#: lib/wpfilemanager.php:134
+msgid "Privacy Policy"
+msgstr "Personvernregler"
+
+#: lib/wpfilemanager.php:153
+msgid "Saving..."
+msgstr "Lagrer ..."
+
+#: lib/wpfilemanager.php:155
+msgid "OK"
+msgstr "OK"
+
+#~ msgid "Backup not found!"
+#~ msgstr "Backup ble ikke funnet!"
+
+#~ msgid "Backup removed successfully!"
+#~ msgstr "Sikkerhetskopieringen ble fjernet!"
+
+#~ msgid "<span class=\"fm_console_error\">Nothing selected for backup</span>"
+#~ msgstr ""
+#~ "<span class=\"fm_console_error\">Ingenting valgt for sikkerhetskopiering</"
+#~ "span>"
+
+#~ msgid "<span class=\"fm_console_error\">Security Issue.</span>"
+#~ msgstr "<span class=\"fm_console_error\">Sikkerhetsproblem. </span>"
+
+#~ msgid "<span class=\"fm_console_success\">Database backup done.</span>"
+#~ msgstr ""
+#~ "<span class=\"fm_console_success\">Sikkerhetskopiering av databasen er "
+#~ "utført. </span>"
+
+#~ msgid ""
+#~ "<span class=\"fm_console_error\">Unable to create database backup.</span>"
+#~ msgstr ""
+#~ "<span class=\"fm_console_error\">Kan ikke opprette "
+#~ "databasesikkerhetskopi. </span>"
+
+#~ msgid "<span class=\"fm_console_success\">Plugins backup done.</span>"
+#~ msgstr ""
+#~ "<span class=\"fm_console_success\">Sikkerhetskopiering av programtillegg "
+#~ "utført. </span>"
+
+#~ msgid "<span class=\"fm_console_error\">Plugins backup failed.</span>"
+#~ msgstr ""
+#~ "<span class=\"fm_console_error\">Sikkerhetskopiering av programtillegg "
+#~ "mislyktes. </span>"
+
+#~ msgid "<span class=\"fm_console_success\">Themes backup done.</span>"
+#~ msgstr ""
+#~ "<span class=\"fm_console_success\">Sikkerhetskopiering av temaer gjort. </"
+#~ "span>"
+
+#~ msgid "<span class=\"fm_console_error\">Themes backup failed.</span>"
+#~ msgstr ""
+#~ "<span class=\"fm_console_error\">Sikkerhetskopiering av temaer mislyktes. "
+#~ "</span>"
+
+#~ msgid "<span class=\"fm_console_success\">Uploads backup done.</span>"
+#~ msgstr "<span class=\"fm_console_success\">Opplastingen er gjort. </span>"
+
+#~ msgid "<span class=\"fm_console_error\">Uploads backup failed.</span>"
+#~ msgstr ""
+#~ "<span class=\"fm_console_error\">Sikkerhetskopiering mislyktes. </span>"
+
+#~ msgid "<span class=\"fm_console_success\">Others backup done.</span>"
+#~ msgstr ""
+#~ "<span class=\"fm_console_success\">Andre sikkerhetskopieringer er gjort. "
+#~ "</span>"
+
+#~ msgid "<span class=\"fm_console_error\">Others backup failed.</span>"
+#~ msgstr ""
+#~ "<span class=\"fm_console_error\">Andre sikkerhetskopieringer mislyktes. </"
+#~ "span>"
+
+#~ msgid "<span class=\"fm_console_success\">All Done</span>"
+#~ msgstr "<span class=\"fm_console_success\">Alt gjort </span>"
+
+#~ msgid ""
+#~ "<code>[wp_file_manager view=\"list\" lang=\"en\" theme=\"light\" "
+#~ "dateformat=\"d M, Y h:i A\" allowed_roles=\"editor,author\" access_folder="
+#~ "\"wp-content/plugins\" write = \"true\" read = \"false\" hide_files = "
+#~ "\"kumar,abc.php\" lock_extensions=\".php,.css\" allowed_operations="
+#~ "\"upload,download\" ban_user_ids=\"2,3\"]"
+#~ msgstr ""
+#~ "<code>[wp_file_manager view=\"list\" lang=\"en\" theme=\"light\" "
+#~ "dateformat=\"d M, Y h:i A\" allowed_roles=\"editor,author\" access_folder="
+#~ "\"wp-content/plugins\" write = \"true\" read = \"false\" hide_files = "
+#~ "\"kumar,abc.php\" lock_extensions=\".php,.css\" allowed_operations="
+#~ "\"upload,download\" ban_user_ids=\"2,3\"]"
+
+#~ msgid "Image"
+#~ msgstr "Bilde"
+
+#~ msgid "of"
+#~ msgstr "av"
+
+#~ msgid "Close"
+#~ msgstr "Lukk"
+
+#~ msgid ""
+#~ "This feature requires inline frames. You have iframes disabled or your "
+#~ "browser does not support them."
+#~ msgstr ""
+#~ "Denne funksjonen krever innebygde rammer. Du har iframes deaktivert, "
+#~ "eller nettleseren din støtter dem ikke."
+
+#~ msgid "Theme Editor"
+#~ msgstr "Tema Editor"
+
+#~ msgid "Plugin Editor"
+#~ msgstr "Plugin Editor"
+
+#~ msgid "Access Control"
+#~ msgstr "Adgangskontroll"
+
+#~ msgid "Notify Me"
+#~ msgstr "Varsle meg"
+
+#~ msgid "Language folder has been downlaoded successfully."
+#~ msgstr "språket er lastet ned."
+
+#~ msgid "Language folder failed to downlaod."
+#~ msgstr "Språkmappen mislyktes."
+
+#~ msgid "Security token expired!"
+#~ msgstr "Sikkerhetstoken utløpt!"
+
+#~ msgid " language has been downloaded successfully."
+#~ msgstr "språket er lastet ned."
+
+#~ msgid "Currently language "
+#~ msgstr "Foreløpig språk "
+
+#~ msgid " not available. Please click on the request language link."
+#~ msgstr " ikke tilgjengelig. Klikk på forespørselsspråklinken."
+
+#~ msgid ""
+#~ "You do not have sufficient permissions to edit plugins for this site."
+#~ msgstr ""
+#~ "Du har ikke tilstrekkelige tillatelser til å redigere programtillegg for "
+#~ "dette nettstedet."
+
+#~ msgid "There are no plugins installed on this site."
+#~ msgstr "Det er ingen plugins installert på dette nettstedet."
+
+#~ msgid "There are no themes installed on this site."
+#~ msgstr "Det er ingen temaer installert på dette nettstedet."
+
+#~ msgid "<p class=\"te_error\">Please enter folder name!</p>"
+#~ msgstr "<p class=\"te_error\">Vennligst skriv inn navn på mappen! </p>"
+
+#~ msgid "<p class=\"te_error\">Please enter file name!</p>"
+#~ msgstr "<p class=\"te_error\">Vennligst skriv inn filnavnet! </p>"
+
+#~ msgid "Open"
+#~ msgstr "Åpen"
+
+#~ msgid "Preview"
+#~ msgstr "Forhåndsvisning"
+
+#~ msgid "Edit"
+#~ msgstr "Redigere"
+
+#~ msgid "Are you sure you want to abort the file uploading?"
+#~ msgstr "Er du sikker på at du vil avbryte opplastingen av filen?"
+
+#~ msgid "File renamed successfully."
+#~ msgstr "Filnavnet vellykket!"
+
+#~ msgid "Are you sure you want to delete folder?"
+#~ msgstr "Er du sikker på at du vil slette mappen?"
+
+#~ msgid "Folder deleted successfully."
+#~ msgstr "Mappen ble slettet."
+
+#~ msgid "File deleted successfully."
+#~ msgstr "Filen ble slettet."
+
+#~ msgid "Folder renamed successfully."
+#~ msgstr "Mappen ble omdøpt."
+
+#~ msgid "<p class=\"te_error\">Not allowed more than 30 characters.</p>"
+#~ msgstr "<p class=\"te_error\">Ikke tillatt mer enn 30 tegn.</p>"
+
+#~ msgid "Invalid request!"
+#~ msgstr "Ugyldig forespørsel!"
+
+#~ msgid "No change in file!"
+#~ msgstr "Ingen endring i filen!"
+
+#~ msgid "File saved successfully!"
+#~ msgstr "Filen ble lagret!"
+
+#~ msgid "File not saved!"
+#~ msgstr "Filen er ikke lagret!"
+
+#~ msgid "Unable to verify security token!"
+#~ msgstr "Kan ikke bekrefte sikkerhetstoken!"
+
+#~ msgid "Folder created successfully!"
+#~ msgstr "Mappen ble opprettet!"
+
+#~ msgid "This folder format is not allowed to upload by wordpress!"
+#~ msgstr "Dette mappeformatet kan ikke lastes opp med wordpress!"
+
+#~ msgid "Folder already exists!"
+#~ msgstr "Mappen eksisterer allerede!"
+
+#~ msgid "File created successfully!"
+#~ msgstr "Filen ble opprettet!"
+
+#~ msgid "This file extension is not allowed to create!"
+#~ msgstr "Denne filtypen kan ikke opprettes!"
+
+#~ msgid "File already exists!"
+#~ msgstr "Filen finnes allerede!"
+
+#~ msgid "Please enter a valid file extension!"
+#~ msgstr "Vennligst skriv inn en gyldig filutvidelse!"
+
+#~ msgid "Folder does not exists!"
+#~ msgstr "Mappen eksisterer ikke!"
+
+#~ msgid "Folder deleted successfully!"
+#~ msgstr "Mappen ble slettet!"
+
+#~ msgid "File deleted successfully!"
+#~ msgstr "Filen ble slettet!"
+
+#~ msgid "This file extension is not allowed to upload by wordpress!"
+#~ msgstr "Denne filtypen kan ikke lastes opp med wordpress!"
+
+#~ msgid "File uploaded successfully: Uploaded file path is "
+#~ msgstr "Filen ble lastet opp: Opplastet filbane er "
+
+#~ msgid "No file selected"
+#~ msgstr "Ingen fil valgt"
+
+#~ msgid "Unable to rename file! Try again."
+#~ msgstr "Kan ikke gi nytt navn til filen! Prøv igjen."
+
+#~ msgid "Folder renamed successfully!"
+#~ msgstr "Mappen ble omdøpt vellykket!"
+
+#~ msgid "Please enter correct folder name"
+#~ msgstr "Vennligst skriv inn riktig mappenavn"
+
+#~ msgid "How can we help?"
+#~ msgstr "Hvordan kan vi hjelpe?"
+
+#~ msgid "Learning resources, professional support and expert help."
+#~ msgstr "Læringsressurser, profesjonell støtte og eksperthjelp."
+
+#~ msgid "Documentation"
+#~ msgstr "Dokumentasjon"
+
+#~ msgid "Find answers quickly from our comprehensive documentation."
+#~ msgstr "Finn svar raskt fra vår omfattende dokumentasjon."
+
+#~ msgid "Learn More"
+#~ msgstr "Lære mer"
+
+#~ msgid "Contact Us"
+#~ msgstr "Kontakt oss"
+
+#~ msgid "Submit a support ticket for answers on questions you may have."
+#~ msgstr "Send inn en supportbillett for svar på spørsmål du måtte ha."
+
+#~ msgid "Request a Feature"
+#~ msgstr "Be om en funksjon"
+
+#~ msgid "Tell us what you want and will add it to our roadmap."
+#~ msgstr "Fortell oss hva du vil, og vil legge det til i veikartet vårt."
+
+#~ msgid "Tell us what you think!"
+#~ msgstr "Fortell oss hva du tenker!"
+
+#~ msgid "Rate and give us a review on Wordpress!"
+#~ msgstr "Vurder og gi oss en anmeldelse på Wordpress!"
+
+#~ msgid "Leave a Review"
+#~ msgstr "Legg igjen en anmeldelse"
+
+#~ msgid "Update"
+#~ msgstr "Oppdater"
+
+#~ msgid "Installed"
+#~ msgstr "Installert"
+
+#~ msgid "Theme Editor Pro Language:"
+#~ msgstr "Theme Editor Pro Språk:"
+
+#~ msgid " language"
+#~ msgstr " Språk"
+
+#~ msgid "Click here to install/update "
+#~ msgstr "Klikk her for å installere / oppdatere "
+
+#~ msgid " language translation for Theme Editor Pro."
+#~ msgstr " språkoversettelse for Theme Editor Pro."
+
+#~ msgid "Available languages"
+#~ msgstr "Tilgjengelige språk"
+
+#~ msgid "Click here to download all available languages."
+#~ msgstr "Klikk her for å laste ned alle tilgjengelige språk."
+
+#~ msgid "Request a language"
+#~ msgstr "Be om språk"
+
+#~ msgid "Tell us which language you want to add."
+#~ msgstr "Fortell oss hvilket språk du vil legge til."
+
+#~ msgid "Contact us"
+#~ msgstr "Kontakt oss"
+
+#~ msgid "Notifications"
+#~ msgstr "Varsler"
+
+#~ msgid ""
+#~ "<strong>Note: This is just a screenshot. Buy PRO Version for this feature."
+#~ "</strong>"
+#~ msgstr ""
+#~ "<strong> Merk: Dette er bare et skjermbilde. Kjøp PRO-versjon for denne "
+#~ "funksjonen. </strong>"
+
+#~ msgid "Permissions"
+#~ msgstr "Tillatelser"
+
+#~ msgid "Edit Plugin"
+#~ msgstr "Rediger plugin"
+
+#~ msgid ""
+#~ "<strong>This plugin is currently activated!</strong> Warning: Making "
+#~ "changes to active plugins is not recommended.\tIf your changes cause a "
+#~ "fatal error, the plugin will be automatically deactivated."
+#~ msgstr ""
+#~ "<strong> Dette pluginet er for øyeblikket aktivert! </strong> Advarsel: "
+#~ "Det anbefales ikke å gjøre endringer i aktive plugins. Hvis endringene "
+#~ "dine medfører en alvorlig feil, deaktiveres programtillegget automatisk."
+
+#~ msgid "Editing <span class=\"current_file\">"
+#~ msgstr "Redigering <span class=\"current_file\">"
+
+#~ msgid "</span> (active)"
+#~ msgstr "</span> (aktiv)"
+
+#~ msgid "Browsing <span class=\"current_file\">"
+#~ msgstr "Bla gjennom <span class=\"current_file\">"
+
+#~ msgid "</span> (inactive)"
+#~ msgstr "</span> (inaktiv)"
+
+#~ msgid "Update File"
+#~ msgstr "Oppdater fil"
+
+#~ msgid "Download Plugin"
+#~ msgstr "Last ned plugin"
+
+#~ msgid ""
+#~ "You need to make this file writable before you can save your changes. See "
+#~ "<a href=\"https://wordpress.org/support/article/changing-file-permissions/"
+#~ "\" target=\"_blank\">the Codex</a> for more information."
+#~ msgstr ""
+#~ "Du må gjøre denne filen skrivbar før du kan lagre endringene. Se <a href="
+#~ "\"https://wordpress.org/support/article/changing-file-permissions/\" "
+#~ "target=\"_blank\"> Codex </a> for mer informasjon."
+
+#~ msgid "Select plugin to edit:"
+#~ msgstr "Velg plugin for å redigere:"
+
+#~ msgid "Create Folder and File"
+#~ msgstr "Lag mappe og fil"
+
+#~ msgid "Create"
+#~ msgstr "Skape"
+
+#~ msgid "Remove Folder and File"
+#~ msgstr "Fjern mappe og fil"
+
+#~ msgid "Remove "
+#~ msgstr "Fjerne"
+
+#~ msgid "To"
+#~ msgstr "Til"
+
+#~ msgid "Optional: Sub-Directory"
+#~ msgstr "Valgfritt: Underkatalog"
+
+#~ msgid "Choose File "
+#~ msgstr "Velg Fil"
+
+#~ msgid "No file Chosen "
+#~ msgstr "Ingen fil valgt "
+
+#~ msgid "Create a New Folder: "
+#~ msgstr "Lag en ny mappe:"
+
+#~ msgid "New folder will be created in: "
+#~ msgstr "Ny mappe blir opprettet i:"
+
+#~ msgid "New Folder Name: "
+#~ msgstr "Nytt mappenavn:"
+
+#~ msgid "Create New Folder"
+#~ msgstr "Opprett ny mappe"
+
+#~ msgid "Create a New File: "
+#~ msgstr "Opprett en ny fil:"
+
+#~ msgid "New File will be created in: "
+#~ msgstr "Ny fil blir opprettet i:"
+
+#~ msgid "New File Name: "
+#~ msgstr "Ny fil blir opprettet i:"
+
+#~ msgid "Create New File"
+#~ msgstr "Opprett ny fil"
+
+#~ msgid "Warning: please be careful before remove any folder or file."
+#~ msgstr "Advarsel: Vær forsiktig før du fjerner en mappe eller fil."
+
+#~ msgid "Current Theme Path: "
+#~ msgstr "Nåværende temabane:"
+
+#~ msgid "Remove Folder: "
+#~ msgstr "Fjern mappe:"
+
+#~ msgid "Folder Path which you want to remove: "
+#~ msgstr "Mappesti som du vil fjerne: "
+
+#~ msgid "Remove Folder"
+#~ msgstr "Fjern mappe"
+
+#~ msgid "Remove File: "
+#~ msgstr "Fjern fil:"
+
+#~ msgid "File Path which you want to remove: "
+#~ msgstr "Filbane som du vil fjerne: "
+
+#~ msgid "Remove File"
+#~ msgstr "Fjern fil"
+
+#~ msgid "Please Enter Valid Email Address."
+#~ msgstr "Vennligst skriv inn gyldig e-postadresse."
+
+#~ msgid "Warning: Please be careful before rename any folder or file."
+#~ msgstr ""
+#~ "Advarsel: Vær forsiktig før du gir nytt navn til en mappe eller fil."
+
+#~ msgid "File/Folder will be rename in: "
+#~ msgstr "Fil / mappe blir omdøpt i:"
+
+#~ msgid "File/Folder Rename: "
+#~ msgstr "File / Folder Rename:"
+
+#~ msgid "Follow us"
+#~ msgstr "Følg oss"
+
+#~ msgid "Theme Editor Facebook"
+#~ msgstr "Tema Editor Facebook"
+
+#~ msgid "Theme Editor Instagram"
+#~ msgstr "Theme Editor Instagram"
+
+#~ msgid "Theme Editor Twitter"
+#~ msgstr "Tema Editor Twitter"
+
+#~ msgid "Theme Editor Linkedin"
+#~ msgstr "Theme Editor Linkedin"
+
+#~ msgid "Theme Editor Youtube"
+#~ msgstr "Theme Editor Youtube"
+
+#~ msgid "Go to ThemeEditor site"
+#~ msgstr "Gå til ThemeEditor-siden"
+
+#~ msgid "Theme Editor Links"
+#~ msgstr "Tema Editor-lenker"
+
+#~ msgid "Child Theme"
+#~ msgstr "Barnetema"
+
+#~ msgid "Child Theme Permissions"
+#~ msgstr "Tillatelser til barnetema"
+
+#~ msgid " is not available. Please click "
+#~ msgstr " er ikke tilgjengelig. Vennligst klikk "
+
+#~ msgid "here"
+#~ msgstr "her"
+
+#~ msgid "to request language."
+#~ msgstr "å be om språk."
+
+#~ msgid "Click"
+#~ msgstr "Klikk"
+
+#~ msgid "to install "
+#~ msgstr "å installere "
+
+#~ msgid " language translation  for Theme Editor Pro"
+#~ msgstr " språkoversettelse for Theme Editor Pro"
+
+#~ msgid "Success: Settings Saved!"
+#~ msgstr "Suksess: Innstillinger lagret!"
+
+#~ msgid "No changes have been made to save."
+#~ msgstr "Ingen endringer er gjort for å lagre."
+
+#~ msgid "Enable Theme Editor For Themes"
+#~ msgstr "Aktiver temaredigerer for temaer"
+
+#~ msgid "Yes"
+#~ msgstr "Ja"
+
+#~ msgid "No"
+#~ msgstr "Nei"
+
+#~ msgid ""
+#~ "This will Enable/Disable the theme editor.<br/><strong class=\"defs"
+#~ "\">Default: </strong>Yes"
+#~ msgstr ""
+#~ "Dette vil aktivere / deaktivere temaredigereren. <br/><strong class=\"defs"
+#~ "\">Standard: </strong> Ja"
+
+#~ msgid "Disable Default WordPress Theme Editor?"
+#~ msgstr "Deaktiver standard WordPress Theme Editor?"
+
+#~ msgid ""
+#~ "This will Enable/Disable the Default theme editor.<br/><strong class="
+#~ "\"defs\">Default: </strong>Yes"
+#~ msgstr ""
+#~ "Dette vil aktivere / deaktivere standard temaredigerer. <br/><strong "
+#~ "class=\"defs\">Standard: </strong> Ja"
+
+#~ msgid "Enable Plugin Editor For Plugin"
+#~ msgstr "Aktiver Plugin Editor for Plugin"
+
+#~ msgid ""
+#~ "This will Enable/Disable the plugin editor.<br/><strong class=\"defs"
+#~ "\">Default: </strong>Yes"
+#~ msgstr ""
+#~ "Dette vil aktivere / deaktivere programvareeditoren. <br/><strong class="
+#~ "\"defs\">Standard: </strong> Ja"
+
+#~ msgid "Disable Default WordPress Plugin Editor?"
+#~ msgstr "Deaktiver standard WordPress Plugin Editor?"
+
+#~ msgid ""
+#~ "This will Enable/Disable the Default plugin editor.<br/><strong class="
+#~ "\"defs\">Default: </strong>Yes"
+#~ msgstr ""
+#~ "Dette vil aktivere / deaktivere standard plugin-editor. <br/><strong "
+#~ "class=\"defs\">Standard: </strong> Ja"
+
+#~ msgid "Code Editor"
+#~ msgstr "Kodeditor"
+
+#~ msgid ""
+#~ "Allows you to select theme for theme editor.<br/><strong class=\"defs"
+#~ "\">Default: </strong>Cobalt"
+#~ msgstr ""
+#~ "Lar deg velge tema for temaredigerer. <br/><strong class=\"defs"
+#~ "\">Standard: </strong> Kobolt"
+
+#~ msgid "Edit Themes"
+#~ msgstr "Rediger temaer"
+
+#~ msgid ""
+#~ "<strong>This theme is currently activated!</strong> Warning: Making "
+#~ "changes to active themes is not recommended."
+#~ msgstr ""
+#~ "<strong> Dette temaet er for øyeblikket aktivert! </strong> Advarsel: Det "
+#~ "anbefales ikke å gjøre endringer i aktive temaer."
+
+#~ msgid "Editing"
+#~ msgstr "Redigering"
+
+#~ msgid "Browsing"
+#~ msgstr "Bla gjennom"
+
+#~ msgid "Update File and Attempt to Reactivate"
+#~ msgstr "Oppdater fil og forsøk på å aktivere"
+
+#~ msgid "Download Theme"
+#~ msgstr "Last ned tema"
+
+#~ msgid "Select theme to edit:"
+#~ msgstr "Velg tema du vil redigere:"
+
+#~ msgid "Theme Files"
+#~ msgstr "Temafiler"
+
+#~ msgid "Choose File"
+#~ msgstr "Velg Fil"
+
+#~ msgid "No File Chosen"
+#~ msgstr "Ingen fil valgt"
+
+#~ msgid "Warning: Please be careful before remove any folder or file."
+#~ msgstr "Advarsel: Vær forsiktig før du fjerner en mappe eller fil."
+
+#~ msgid "Child Theme Permission"
+#~ msgstr "Tillatelse til barnetema"
+
+#~ msgid "Translations"
+#~ msgstr "Oversettelser"
+
+#~ msgid "You do not have the permission to create new child theme."
+#~ msgstr "Du har ikke tillatelse til å lage et nytt barnetema."
+
+#~ msgid ""
+#~ "You do not have the permission to change configure existing child theme."
+#~ msgstr ""
+#~ "Du har ikke tillatelse til å endre konfigurere eksisterende barnetema."
+
+#~ msgid "You do not have the permission to duplicate the child theme."
+#~ msgstr "Du har ikke tillatelse til å duplisere barnetemaet."
+
+#~ msgid "You do not have the permission to access query/ selector menu."
+#~ msgstr ""
+#~ "Du har ikke tillatelse til å få tilgang til spørrings- / velgermenyen."
+
+#~ msgid "You do not have the permission to access web fonts & CSS menu."
+#~ msgstr ""
+#~ "Du har ikke tillatelse til å få tilgang til nettfonter og CSS-menyen."
+
+#~ msgid "You do not have the permission to copy files."
+#~ msgstr "Du har ikke tillatelse til å kopiere filer."
+
+#~ msgid "You do not have the permission to delete child files."
+#~ msgstr "Du har ikke tillatelse til å slette underordnede filer."
+
+#~ msgid "You do not have the permission to upload new screenshot."
+#~ msgstr "Du har ikke tillatelse til å laste opp nytt skjermbilde."
+
+#~ msgid "You do not have the permission to upload new images."
+#~ msgstr "Du har ikke tillatelse til å laste opp nye bilder."
+
+#~ msgid "You do not have the permission to delete images."
+#~ msgstr "Du har ikke tillatelse til å slette bilder."
+
+#~ msgid "You do not have the permission to download file."
+#~ msgstr "Du har ikke tillatelse til å laste ned fil."
+
+#~ msgid "You do not have the permission to create new directory."
+#~ msgstr "Du har ikke tillatelse til å opprette ny katalog."
+
+#~ msgid "You do not have the permission to create new file."
+#~ msgstr "Du har ikke tillatelse til å opprette ny fil."
+
+#~ msgid "You don't have permission to update file!"
+#~ msgstr "Du har ikke tillatelse til å oppdatere filen!"
+
+#~ msgid "You don't have permission to create folder!"
+#~ msgstr "Du har ikke tillatelse til å opprette mappe!"
+
+#~ msgid "You don't have permission to delete folder!"
+#~ msgstr "Du har ikke tillatelse til å slette mappen!"
+
+#~ msgid "You don't have permission to delete file!"
+#~ msgstr "Du har ikke tillatelse til å slette filen!"
+
+#~ msgid "You don't have permission to upload file!"
+#~ msgstr "Du har ikke tillatelse til å laste opp fil!"
+
+#~ msgid "Child Theme permissions saved successfully."
+#~ msgstr "Tillatelser for barnetema er lagret."
+
+#~ msgid ""
+#~ "There are no changes made in the child theme permissions to be saved."
+#~ msgstr ""
+#~ "Det er ikke gjort noen endringer i barnetema-tillatelsene som skal lagres."
+
+#~ msgid "Child Theme permission message saved successfully."
+#~ msgstr "Tillatelsesmelding for barnetema er lagret."
+
+#~ msgid "Users"
+#~ msgstr "Brukere"
+
+#~ msgid "Create New Child Theme"
+#~ msgstr "Lag nytt barn-tema"
+
+#~ msgid "Configure an Existing Child Themes"
+#~ msgstr "Konfigurer et eksisterende barnetema"
+
+#~ msgid "Duplicate Child Themes"
+#~ msgstr "Dupliserte barnetemaer"
+
+#~ msgid "Query/ Selector"
+#~ msgstr "Spørring / velger"
+
+#~ msgid "Web/font"
+#~ msgstr "Web / font"
+
+#~ msgid "Copy File Parent Theme To Child Theme"
+#~ msgstr "Kopier fil foreldretema til barnetema"
+
+#~ msgid "Deleted Child Files"
+#~ msgstr "Slettede barnefiler"
+
+#~ msgid "Upload New Screenshoot"
+#~ msgstr "Last opp nytt skjermbilde"
+
+#~ msgid "Upload New Images"
+#~ msgstr "Last opp nye bilder"
+
+#~ msgid "Deleted Images "
+#~ msgstr "Slettede bilder"
+
+#~ msgid "Download Images"
+#~ msgstr "Last ned bilder"
+
+#~ msgid "Create New Directory"
+#~ msgstr "Opprett ny katalog"
+
+#~ msgid "Create New Files"
+#~ msgstr "Lag nye filer"
+
+#~ msgid "Export Theme"
+#~ msgstr "Eksporter tema"
+
+#~ msgid "User Roles"
+#~ msgstr "Brukerroller"
+
+#~ msgid "Query/ Seletor"
+#~ msgstr "Spørring / Seletor"
+
+#~ msgid "Deleted Images"
+#~ msgstr "Slettede bilder"
+
+#~ msgid "Child Theme Permission Message"
+#~ msgstr "Melding om tillatelse til barnetema"
+
+#~ msgid "You do not have the permission to create new Child Theme."
+#~ msgstr "Du har ikke tillatelse til å opprette nytt barnetema."
+
+#~ msgid "Query/Selector"
+#~ msgstr "Spørring / velger"
+
+#~ msgid "You do not have the permission to access query / selector menu."
+#~ msgstr ""
+#~ "Du har ikke tillatelse til å få tilgang til spørrings- / velgermenyen."
+
+#~ msgid " Web/font"
+#~ msgstr "Web / font"
+
+#~ msgid " Export Theme"
+#~ msgstr "Eksporter tema"
+
+#~ msgid "Save Child Theme Message"
+#~ msgstr "Melding om tillatelse til barnetema"
+
+#~ msgid "Please select atleast one image."
+#~ msgstr "Velg minst ett bilde."
+
+#~ msgid "You don't have the permission to delete images."
+#~ msgstr "Du har ikke tillatelse til å slette bilder."
+
+#~ msgid "You don't have the permission to upload new images."
+#~ msgstr "Du har ikke tillatelse til å laste opp nye bilder."
+
+#~ msgid "You don't have the permission to download."
+#~ msgstr "Du har ikke tillatelse til å laste ned."
+
+#~ msgid "You don't have the permission to create new directory."
+#~ msgstr "Du har ikke tillatelse til å opprette ny katalog."
+
+#~ msgid "Please choose file type."
+#~ msgstr "Velg filtype."
+
+#~ msgid "Please enter file name."
+#~ msgstr "Vennligst skriv inn filnavnet."
+
+#~ msgid "You don't have the permission to create new file."
+#~ msgstr "Du har ikke tillatelse til å opprette ny fil."
+
+#~ msgid "Are you sure to copy parent files into child theme?"
+#~ msgstr "Er du sikker på å kopiere foreldrefiler til barnetema?"
+
+#~ msgid "Please select file(s)."
+#~ msgstr "Velg fil (er)."
+
+#~ msgid "You don't have the permission to copy files."
+#~ msgstr "Du har ikke tillatelse til å kopiere filer."
+
+#~ msgid "Are you sure you want to delete selected file(s)?"
+#~ msgstr "Er du sikker på at du vil slette valgte fil (er)?"
+
+#~ msgid "You don't have the permission to delete child files."
+#~ msgstr "Du har ikke tillatelse til å slette underordnede filer."
+
+#~ msgid "You don't have the permission to upload new screenshot."
+#~ msgstr "Du har ikke tillatelse til å laste opp nytt skjermbilde."
+
+#~ msgid "You don't have the permission to export theme."
+#~ msgstr "Du har ikke tillatelse til å eksportere tema."
+
+#~ msgid "You don't have the permission to access Query/ Selector menu."
+#~ msgstr ""
+#~ "Du har ikke tillatelse til å få tilgang til menyen Spørring / velger."
+
+#~ msgid "You don't have the permission to access Web Fonts & CSS menu."
+#~ msgstr "Du har ikke tillatelse til å få tilgang til Web Fonts & CSS-menyen."
+
+#~ msgid "Current Analysis Theme:"
+#~ msgstr "Nåværende analysetema:"
+
+#~ msgid "Preview Theme"
+#~ msgstr "Forhåndsvisningstema"
+
+#~ msgid "Parent Themes"
+#~ msgstr "Overordnede temaer"
+
+#~ msgid "Child Themes"
+#~ msgstr "Barnetemaer"
+
+#~ msgid "Error: Settings Not Saved!"
+#~ msgstr "Feil: Innstillinger ikke lagret!"
+
+#~ msgid "Email List"
+#~ msgstr "E-postliste"
+
+#~ msgid "Email Address"
+#~ msgstr "Epostadresse"
+
+#~ msgid "Enter Email"
+#~ msgstr "Skriv inn e-post"
+
+#~ msgid "Add More"
+#~ msgstr "Legg til mer"
+
+#~ msgid ""
+#~ "This address is used for notification purposes, like theme/plugin "
+#~ "notification."
+#~ msgstr ""
+#~ "Denne adressen brukes til varslingsformål, som tema / plugin-varsling."
+
+#~ msgid "Theme Notification"
+#~ msgstr "Temavarsling"
+
+#~ msgid "Notify on file update"
+#~ msgstr "Varsle om filoppdatering"
+
+#~ msgid ""
+#~ "Notification on theme file edit or update.<br/><strong>Default: </"
+#~ "strong>Yes"
+#~ msgstr ""
+#~ "Melding om redigering eller oppdatering av temafiler. <br/> <strong> "
+#~ "Standard: </strong> Ja"
+
+#~ msgid "Notify on files download"
+#~ msgstr "Varsle ved nedlasting av filer"
+
+#~ msgid ""
+#~ "Notification on theme file edit download.<br/><strong>Default: </"
+#~ "strong>Yes"
+#~ msgstr ""
+#~ "Varsling om nedlastning av temafiler. <br/> <strong> Standard: </strong> "
+#~ "Ja"
+
+#~ msgid "Notify on theme download"
+#~ msgstr "Varsle om nedlasting av tema"
+
+#~ msgid "Notification on theme download.<br/><strong>Default: </strong>Yes"
+#~ msgstr ""
+#~ "Melding om nedlasting av tema. <br/> <strong> Standard: </strong> Ja"
+
+#~ msgid "Notify on files upload"
+#~ msgstr "Varsle om filer som lastes opp"
+
+#~ msgid ""
+#~ "Notification on files upload in theme.<br/><strong>Default: </strong>Yes"
+#~ msgstr ""
+#~ "Varsling om filer som lastes opp i tema. <br/> <strong> Standard: </"
+#~ "strong> Ja"
+
+#~ msgid "Notify on create new file/folder"
+#~ msgstr "Varsle om opprett ny fil / mappe"
+
+#~ msgid ""
+#~ "Notification on create new file/folder in theme.<br/><strong>Default: </"
+#~ "strong>Yes"
+#~ msgstr ""
+#~ "Melding om å opprette ny fil / mappe i tema. <br/> <strong> Standard: </"
+#~ "strong> Ja"
+
+#~ msgid "Notify on delete"
+#~ msgstr "Varsle ved sletting"
+
+#~ msgid ""
+#~ "Notify on delete any file and folder in themes.<br/><strong>Default: </"
+#~ "strong>Yes"
+#~ msgstr ""
+#~ "Varsle når du sletter en fil og mappe i temaer. <br/> <strong> Standard: "
+#~ "</strong> Ja"
+
+#~ msgid "Notify on create New Child theme"
+#~ msgstr "Varsle om opprett tema for nytt barn"
+
+#~ msgid ""
+#~ "Notify on Create New Child themes. <br/><strong>Default: </strong>Yes"
+#~ msgstr ""
+#~ "Varsle om Lag nye barn-temaer. <br/> <strong> Standard: </strong> Ja"
+
+#~ msgid "Notify on configure an Existing Child themes"
+#~ msgstr "Varsle når du konfigurerer et eksisterende barn-tema"
+
+#~ msgid ""
+#~ "Notify on configure an Existing Child themes.<br/><strong>Default: </"
+#~ "strong>Yes"
+#~ msgstr ""
+#~ "Varsle om konfigurer et eksisterende barn-tema. <br/> <strong> Standard: "
+#~ "</strong> Ja"
+
+#~ msgid "Notify on Duplicate Child themes"
+#~ msgstr "Varsle om dupliserte barnetemaer"
+
+#~ msgid ""
+#~ "Notify on Configure an Existing Child themes.<br/><strong>Default: </"
+#~ "strong>Yes"
+#~ msgstr ""
+#~ "Varsle om Konfigurer temaer for eksisterende barn. <br/> <strong> "
+#~ "Standard: </strong> Ja"
+
+#~ msgid "Plugin Notification"
+#~ msgstr "Plugin-varsel"
+
+#~ msgid ""
+#~ "Notification on theme file edit or update.<br/><strong>Default: </"
+#~ "strong>yes"
+#~ msgstr ""
+#~ "Melding om redigering eller oppdatering av temafiler. <br/> <strong> "
+#~ "Standard: </strong> ja"
+
+#~ msgid "Notify on Plugin download"
+#~ msgstr "Varsle om nedlasting av plugin"
+
+#~ msgid "Notification on Plugin download.<br/><strong>Default: </strong>Yes"
+#~ msgstr ""
+#~ "Melding om nedlasting av plugin. <br/> <strong> Standard: </strong> Ja"
+
+#~ msgid ""
+#~ "Notification on file upload in theme.<br/><strong>Default: </strong>Yes"
+#~ msgstr ""
+#~ "Melding om filopplasting i tema. <br/> <strong> Standard: </strong> Ja"
+
+#~ msgid "Permission saved successfully."
+#~ msgstr "Tillatelsen ble lagret."
+
+#~ msgid "Oops! Permission cannot saved because you have not made any changes."
+#~ msgstr ""
+#~ "Beklager! Tillatelsen kan ikke lagres fordi du ikke har gjort noen "
+#~ "endringer."
+
+#~ msgid "Allowed User Roles"
+#~ msgstr "Tillatte brukerroller"
+
+#~ msgid "Update theme files"
+#~ msgstr "Oppdater temafiler"
+
+#~ msgid "Create new theme files and folders"
+#~ msgstr "Lag nye temafiler og mapper"
+
+#~ msgid "Upload new theme files and folders"
+#~ msgstr "Last opp nye temafiler og mapper"
+
+#~ msgid "Download theme files"
+#~ msgstr "Last ned temafiler"
+
+#~ msgid "Download theme"
+#~ msgstr "Last ned tema"
+
+#~ msgid "Update plugin files"
+#~ msgstr "Oppdater plugin-filer"
+
+#~ msgid "Create new plugin files and folders"
+#~ msgstr "Opprett nye plugin-filer og mapper"
+
+#~ msgid "Upload new plugin files and folders"
+#~ msgstr "Last opp nye pluginfiler og mapper"
+
+#~ msgid "Delete plugin files and folders"
+#~ msgstr "Slett pluginfiler og mapper"
+
+#~ msgid "Download plugin files"
+#~ msgstr "Last ned plugin-filer"
+
+#~ msgid "Download plugin"
+#~ msgstr "Last ned plugin"
+
+#~ msgid "Rename File"
+#~ msgstr "Endre navn på fil"
+
+#~ msgid ""
+#~ "Theme Editor PRO - Please add your order details below. If Not <a href="
+#~ "\"https://themeeditor.pro/product/theme-editor/\" target=\"_blank\" class="
+#~ "\"page-title-action button button-primary\" title=\"click to buy Licence "
+#~ "Key\">Buy Now</a>"
+#~ msgstr ""
+#~ "Theme Editor PRO - Legg til bestillingsdetaljene nedenfor. Hvis ikke<a "
+#~ "href=\"https://themeeditor.pro/product/theme-editor/\" target=\"_blank\" "
+#~ "class=\"page-title-action button button-primary\" title=\"click to buy "
+#~ "Licence Key\">Kjøp nå </a>"
+
+#~ msgid "ORDER ID (#) *"
+#~ msgstr "BESTILLINGS ID (#) *"
+
+#~ msgid "Enter Order ID"
+#~ msgstr "Skriv inn ordre-ID"
+
+#~ msgid "Please Check Your email for order ID."
+#~ msgstr "Vennligst sjekk e-postadressen din for bestillings-ID."
+
+#~ msgid "LICENCE KEY *"
+#~ msgstr "LISENSNØKKEL *"
+
+#~ msgid "Enter License Key"
+#~ msgstr "Angi lisensnøkkel"
+
+#~ msgid "Please Check Your email for Licence Key."
+#~ msgstr "Vennligst sjekk e-posten din for lisensnøkkel."
+
+#~ msgid "Click To Verify"
+#~ msgstr "Klikk for å bekrefte"
+
+#~ msgid "URL/None"
+#~ msgstr "URL / Ingen"
+
+#~ msgid "Origin"
+#~ msgstr "Opprinnelse"
+
+#~ msgid "Color 1"
+#~ msgstr "Farge 1"
+
+#~ msgid "Color 2"
+#~ msgstr "Farge 2"
+
+#~ msgid "Width/None"
+#~ msgstr "Bredde / Ingen"
+
+#~ msgid "Style"
+#~ msgstr "Stil"
+
+#~ msgid "Color"
+#~ msgstr "Farge"
+
+#~ msgid "Configure Child Theme"
+#~ msgstr "Konfigurer barnetema"
+
+#~ msgid "Duplicate Child theme"
+#~ msgstr "Dupliserte barnetemaer"
+
+#~ msgid ""
+#~ "After analyzing, this theme is working fine. You can use this as your "
+#~ "Child Theme."
+#~ msgstr ""
+#~ "Etter å ha analysert fungerer dette temaet bra. Du kan bruke dette som "
+#~ "barnetema."
+
+#~ msgid ""
+#~ "After analyzing this child theme appears to be functioning correctly."
+#~ msgstr ""
+#~ "Etter å ha analysert ser det ut til at barnetemaet fungerer som det skal."
+
+#~ msgid ""
+#~ "This theme loads additional stylesheets after the <code>style.css</code> "
+#~ "file:"
+#~ msgstr ""
+#~ "Dette temaet laster inn flere stilark etter filen <code> style.css </"
+#~ "code>:"
+
+#~ msgid "The theme"
+#~ msgstr "Temanavn"
+
+#~ msgid " could not be analyzed because the preview did not render correctly"
+#~ msgstr "kunne ikke analyseres fordi forhåndsvisningen ikke gjengis riktig"
+
+#~ msgid "This Child Theme has not been configured for this plugin"
+#~ msgstr "Dette barnetemaet er ikke konfigurert for dette pluginet"
+
+#~ msgid ""
+#~ "The Configurator makes significant modifications to the child theme, "
+#~ "including stylesheet changes and additional php functions. Please "
+#~ "consider using the DUPLICATE child theme option (see step 1, above) and "
+#~ "keeping the original as a backup."
+#~ msgstr ""
+#~ "Configuratoren gjør viktige endringer i underordnet tema, inkludert "
+#~ "endringer i stilark og flere php-funksjoner. Vennligst vurder å bruke "
+#~ "DUPLICATE-temaet for barnetema (se trinn 1 ovenfor) og beholde originalen "
+#~ "som en sikkerhetskopi."
+
+#~ msgid "All webfonts/css information saved successfully."
+#~ msgstr "All webfonts / css-informasjon lagret."
+
+#~ msgid "Please enter value for webfonts/css."
+#~ msgstr "Vennligst skriv inn verdien for webfonts / css."
+
+#~ msgid "You don\\'t have permission to update webfonts/css."
+#~ msgstr "Du har ikke tillatelse til å oppdatere webfonts / css."
+
+#~ msgid "All information saved successfully."
+#~ msgstr "All informasjon lagret."
+
+#~ msgid ""
+#~ "Are you sure you wish to RESET? This will destroy any work you have done "
+#~ "in the Configurator."
+#~ msgstr ""
+#~ "Er du sikker på at du vil nullstille? Dette vil ødelegge alt arbeidet du "
+#~ "har gjort i Configurator."
+
+#~ msgid "Selectors"
+#~ msgstr "Velger"
+
+#~ msgid "Edit Selector"
+#~ msgstr "Rediger velgeren"
+
+#~ msgid "The stylesheet cannot be displayed."
+#~ msgstr "Stilarket kan ikke vises."
+
+#~ msgid "(Child Only)"
+#~ msgstr "(Bare barn)"
+
+#~ msgid "Please enter a valid Child Theme."
+#~ msgstr "Vennligst skriv inn et gyldig barnetema."
+
+#~ msgid "Please enter a valid Child Theme name."
+#~ msgstr "Vennligst skriv inn et gyldig navn på barnetema."
+
+#, php-format
+#~ msgid "<strong>%s</strong> exists. Please enter a different Child Theme"
+#~ msgstr ""
+#~ "<strong>%s</strong> eksisterer. Vennligst skriv inn et annet barnetema"
+
+#~ msgid "The page could not be loaded correctly."
+#~ msgstr "Siden kunne ikke lastes inn riktig."
+
+#~ msgid ""
+#~ "Conflicting or out-of-date jQuery libraries were loaded by another plugin:"
+#~ msgstr ""
+#~ "Motstridende eller utdaterte jQuery-biblioteker ble lastet inn av et "
+#~ "annet plugin:"
+
+#~ msgid "Deactivating or replacing plugins may resolve this issue."
+#~ msgstr "Deaktivering eller erstatning av plugins kan løse dette problemet."
+
+#~ msgid "No result found for the selection."
+#~ msgstr "Ingen resultater funnet for utvalget."
+
+#, php-format
+#~ msgid "%sWhy am I seeing this?%s"
+#~ msgstr "%sHvorfor ser jeg dette?%s"
+
+#~ msgid "Parent / Child"
+#~ msgstr "Foreldre / barn"
+
+#~ msgid "Select an action:"
+#~ msgstr "Velg en handling:"
+
+#~ msgid "Create a new Child Theme"
+#~ msgstr "Lag et nytt barnetema"
+
+#~ msgid "Configure an existing Child Theme"
+#~ msgstr "Konfigurer et eksisterende barnetema"
+
+#~ msgid "Duplicate an existing Child Theme"
+#~ msgstr "Dupliser et eksisterende barnetema"
+
+#~ msgid "Select a Parent Theme:"
+#~ msgstr "Velg et overordnet tema:"
+
+#~ msgid "Analyze Parent Theme"
+#~ msgstr "Analyser foreldretema"
+
+#~ msgid ""
+#~ "Click \"Analyze\" to determine stylesheet dependencies and other "
+#~ "potential issues."
+#~ msgstr ""
+#~ "Klikk på \"Analyser\" for å fastslå avhengighet av stilark og andre "
+#~ "potensielle problemer."
+
+#~ msgid "Analyze"
+#~ msgstr "Analysere"
+
+#~ msgid "Select a Child Theme:"
+#~ msgstr "Velg et barnetema:"
+
+#~ msgid "Analyze Child Theme"
+#~ msgstr "Analyser barnetema"
+
+#~ msgid "Name the new theme directory:"
+#~ msgstr "Navngi den nye temakatalogen:"
+
+#~ msgid "Directory Name"
+#~ msgstr "Katalognavn"
+
+#~ msgid "NOTE:"
+#~ msgstr "MERK:"
+
+#~ msgid ""
+#~ "This is NOT the name of the Child Theme. You can customize the name, "
+#~ "description, etc. in step 7, below."
+#~ msgstr ""
+#~ "Dette er IKKE navnet på barnetemaet. Du kan tilpasse navnet, beskrivelsen "
+#~ "osv. I trinn 7 nedenfor."
+
+#~ msgid "Verify Child Theme directory:"
+#~ msgstr "Bekreft underordnet temakatalog:"
+
+#~ msgid ""
+#~ "For verification only (you cannot modify the directory of an existing "
+#~ "Child Theme)."
+#~ msgstr ""
+#~ "Kun for bekreftelse (du kan ikke endre katalogen til et eksisterende "
+#~ "Barnetema)."
+
+#~ msgid "Select where to save new styles:"
+#~ msgstr "Velg hvor du vil lagre nye stiler:"
+
+#~ msgid "Primary Stylesheet (style.css)"
+#~ msgstr "Primær stilark (style.css)"
+
+#~ msgid ""
+#~ "Save new custom styles directly to the Child Theme primary stylesheet, "
+#~ "replacing the existing values. The primary stylesheet will load in the "
+#~ "order set by the theme."
+#~ msgstr ""
+#~ "Lagre nye egendefinerte stiler direkte til det primære stilarket for "
+#~ "underordnet tema, og erstatt de eksisterende verdiene. Det primære "
+#~ "stilarket lastes inn i rekkefølgen som er angitt av temaet."
+
+#~ msgid "Separate Stylesheet"
+#~ msgstr "Separat stilark"
+
+#~ msgid ""
+#~ "Save new custom styles to a separate stylesheet and combine any existing "
+#~ "child theme styles with the parent to form baseline. Select this option "
+#~ "if you want to preserve the existing child theme styles instead of "
+#~ "overwriting them. This option also allows you to customize stylesheets "
+#~ "that load after the primary stylesheet."
+#~ msgstr ""
+#~ "Lagre nye tilpassede stiler i et eget stilark, og kombiner eventuelle "
+#~ "eksisterende underordnede temastiler med overordnede for å danne "
+#~ "grunnlinjen. Velg dette alternativet hvis du vil bevare eksisterende "
+#~ "underordnede temastiler i stedet for å overskrive dem. Dette alternativet "
+#~ "lar deg også tilpasse stilark som lastes inn etter det primære stilarket."
+
+#~ msgid "Select Parent Theme stylesheet handling:"
+#~ msgstr "Velg håndtering av foreldretema:"
+
+#~ msgid "Use the WordPress style queue."
+#~ msgstr "Bruk WordPress-stilkøen."
+
+#~ msgid ""
+#~ "Let the Configurator determine the appropriate actions and dependencies "
+#~ "and update the functions file automatically."
+#~ msgstr ""
+#~ "La Configurator bestemme passende handlinger og avhengigheter, og "
+#~ "oppdater funksjonsfilen automatisk."
+
+#~ msgid "Use <code>@import</code> in the child theme stylesheet."
+#~ msgstr "Bruk <code> @import </code> i underordnet temaark."
+
+#~ msgid ""
+#~ "Only use this option if the parent stylesheet cannot be loaded using the "
+#~ "WordPress style queue. Using <code>@import</code> is not recommended."
+#~ msgstr ""
+#~ "Bruk bare dette alternativet hvis det overordnede stilarket ikke kan "
+#~ "lastes inn ved hjelp av WordPress-stilkøen. Bruk av <code> @import </"
+#~ "code> anbefales ikke."
+
+#~ msgid "Do not add any parent stylesheet handling."
+#~ msgstr "Ikke legg til noen overordnet stilarkhåndtering."
+
+#~ msgid ""
+#~ "Select this option if this theme already handles the parent theme "
+#~ "stylesheet or if the parent theme's <code>style.css</code> file is not "
+#~ "used for its appearance."
+#~ msgstr ""
+#~ "Velg dette alternativet hvis dette temaet allerede håndterer stilarket "
+#~ "for foreldretemaet, eller hvis foreldretemas <code> style.css </code> -"
+#~ "fil ikke brukes til utseendet."
+
+#~ msgid "Advanced handling options"
+#~ msgstr "Avanserte håndteringsalternativer"
+
+#~ msgid "Ignore parent theme stylesheets."
+#~ msgstr "Ignorer overordnede temaark."
+
+#~ msgid ""
+#~ "Select this option if this theme already handles the parent theme "
+#~ "stylesheet or if the parent theme's style.css file is not used for its "
+#~ "appearance."
+#~ msgstr ""
+#~ "Velg dette alternativet hvis dette temaet allerede håndterer stilarket "
+#~ "for overordnet tema, eller hvis overordnet temaets style.css-fil ikke "
+#~ "brukes for utseendet."
+
+#~ msgid "Repair the header template in the child theme."
+#~ msgstr "Reparer overskriftsmalen i barnetemaet."
+
+#~ msgid ""
+#~ "Let the Configurator (try to) resolve any stylesheet issues listed above. "
+#~ "This can fix many, but not all, common problems."
+#~ msgstr ""
+#~ "La Configurator (prøve å) løse eventuelle stilarkproblemer som er oppført "
+#~ "ovenfor. Dette kan løse mange, men ikke alle, vanlige problemer."
+
+#~ msgid "Remove stylesheet dependencies"
+#~ msgstr "Fjern stilarkavhengigheter"
+
+#~ msgid ""
+#~ "By default, the order of stylesheets that load prior to the primary "
+#~ "stylesheet is preserved by treating them as dependencies. In some cases, "
+#~ "stylesheets are detected in the preview that are not used site-wide. If "
+#~ "necessary, dependency can be removed for specific stylesheets below."
+#~ msgstr ""
+#~ "Som standard bevares rekkefølgen på stilark som lastes inn før det "
+#~ "primære stilarket, ved å behandle dem som avhengigheter. I noen tilfeller "
+#~ "oppdages stilark i forhåndsvisningen som ikke brukes hele nettstedet. Om "
+#~ "nødvendig kan avhengighet fjernes for spesifikke stilark nedenfor."
+
+#~ msgid "Child Theme Name"
+#~ msgstr "Navn på barnetema"
+
+#~ msgid "Theme Name"
+#~ msgstr "Temanavn"
+
+#~ msgid "Theme Website"
+#~ msgstr "Temanettsted"
+
+#~ msgid "Author"
+#~ msgstr "Forfatter"
+
+#~ msgid "Author Website"
+#~ msgstr "Forfatterens nettsted"
+
+#~ msgid "Theme Description"
+#~ msgstr "Tema beskrivelse"
+
+#~ msgid "Description"
+#~ msgstr "Beskrivelse"
+
+#~ msgid "Tags"
+#~ msgstr "Merker"
+
+#~ msgid ""
+#~ "Copy Menus, Widgets and other Customizer Settings from the Parent Theme "
+#~ "to the Child Theme:"
+#~ msgstr ""
+#~ "Kopier menyer, moduler og andre tilpasningsinnstillinger fra "
+#~ "foreldretemaet til barnetemaet:"
+
+#~ msgid ""
+#~ "This option replaces the Child Theme's existing Menus, Widgets and other "
+#~ "Customizer Settings with those from the Parent Theme. You should only "
+#~ "need to use this option the first time you configure a Child Theme."
+#~ msgstr ""
+#~ "Dette alternativet erstatter Barnetemaets eksisterende menyer, småprogram "
+#~ "og andre tilpasningsinnstillinger med de fra overordnet temaet. Du "
+#~ "trenger bare å bruke dette alternativet første gang du konfigurerer et "
+#~ "barnetema."
+
+#~ msgid "Click to run the Configurator:"
+#~ msgstr "Klikk for å kjøre Configurator:"
+
+#~ msgid "Query / Selector"
+#~ msgstr "Spørring / velger"
+
+#~ msgid ""
+#~ "To find specific selectors within @media query blocks, first choose the "
+#~ "query, then the selector. Use the \"base\" query to edit all other "
+#~ "selectors."
+#~ msgstr ""
+#~ "For å finne spesifikke velgere i @media-spørringsblokker, velg først "
+#~ "spørringen og deretter velgeren. Bruk \"base\" -spørringen for å redigere "
+#~ "alle andre velgere."
+
+#~ msgid "@media Query"
+#~ msgstr "@media Query"
+
+#~ msgid "( or \"base\" )"
+#~ msgstr "(eller \"base\")"
+
+#~ msgid "Selector"
+#~ msgstr "Velger"
+
+#~ msgid "Query/Selector Action"
+#~ msgstr "Spørring / velgervalg"
+
+#~ msgid "Save Child Values"
+#~ msgstr "Lagre barnverdier"
+
+#~ msgid "Delete Child Values"
+#~ msgstr "Slett underordnede verdier"
+
+#~ msgid "Property"
+#~ msgstr "Eiendom"
+
+#~ msgid "Baseline Value"
+#~ msgstr "Basisverdi"
+
+#~ msgid "Child Value"
+#~ msgstr "Barneverdi"
+
+#~ msgid "error"
+#~ msgstr "feil"
+
+#~ msgid "You do not have permission to configure child themes."
+#~ msgstr "Du har ikke tillatelse til å konfigurere underordnede temaer."
+
+#, php-format
+#~ msgid "%s does not exist. Please select a valid Parent Theme."
+#~ msgstr "%s eksisterer ikke. Velg et gyldig overordnet tema."
+
+#~ msgid "The Functions file is required and cannot be deleted."
+#~ msgstr "Funksjoner-filen er obligatorisk og kan ikke slettes."
+
+#~ msgid "Please select a valid Parent Theme."
+#~ msgstr "Velg et gyldig overordnet tema."
+
+#~ msgid "Please select a valid Child Theme."
+#~ msgstr "Velg et gyldig tema for barn."
+
+#~ msgid "Please enter a valid Child Theme directory name."
+#~ msgstr "Vennligst skriv inn et gyldig katalogtema for barnetema."
+
+#, php-format
+#~ msgid ""
+#~ "<strong>%s</strong> exists. Please enter a different Child Theme template "
+#~ "name."
+#~ msgstr ""
+#~ "<strong>%s</strong> eksisterer. Vennligst skriv inn et annet navn på "
+#~ "barnetema."
+
+#~ msgid "Your theme directories are not writable."
+#~ msgstr "Temakatalogene dine er ikke skrivbare."
+
+#~ msgid "Could not upgrade child theme"
+#~ msgstr "Kunne ikke oppgradere barnetema"
+
+#~ msgid "Your stylesheet is not writable."
+#~ msgstr "Stilarket ditt er ikke skrivbart."
+
+#~ msgid ""
+#~ "A closing PHP tag was detected in Child theme functions file so \"Parent "
+#~ "Stylesheet Handling\" option was not configured. Closing PHP at the end "
+#~ "of the file is discouraged as it can cause premature HTTP headers. Please "
+#~ "edit <code>functions.php</code> to remove the final <code>?&gt;</code> "
+#~ "tag and click \"Generate/Rebuild Child Theme Files\" again."
+#~ msgstr ""
+#~ "En avsluttende PHP-tag ble oppdaget i underordnede temafunksjoner-fil, "
+#~ "slik at alternativet \"Parent Stylesheet Handling\" ikke ble konfigurert. "
+#~ "Lukking av PHP på slutten av filen frarådes, da det kan føre til for "
+#~ "tidlige HTTP-overskrifter. Vennligst rediger <code> functions.php </code> "
+#~ "for å fjerne den endelige <code>?&gt;</code> -taggen og klikk på "
+#~ "\"Generate / Rebuild Child Theme Files\" igjen."
+
+#, php-format
+#~ msgid "Could not copy file: %s"
+#~ msgstr "Kunne ikke kopiere filen: %s"
+
+#, php-format
+#~ msgid "Could not delete %s file."
+#~ msgstr "Kunne ikke slette %s fil."
+
+#, php-format
+#~ msgid "could not copy %s"
+#~ msgstr "kunne ikke kopiere %s"
+
+#, php-format
+#~ msgid "invalid dir: %s"
+#~ msgstr "ugyldig dir: %s"
+
+#~ msgid "There were errors while resetting permissions."
+#~ msgstr "Det oppstod feil under tilbakestilling av tillatelser."
+
+#~ msgid "Could not upload file."
+#~ msgstr "Kunne ikke laste opp filen."
+
+#~ msgid "Invalid theme root directory."
+#~ msgstr "Ugyldig rotkatalog for tema."
+
+#~ msgid "No writable temp directory."
+#~ msgstr "Ingen skrivbar temp-katalog."
+
+#, php-format
+#~ msgid "Unpack failed -- %s"
+#~ msgstr "Utpakking mislyktes -- %s"
+
+#, php-format
+#~ msgid "Pack failed -- %s"
+#~ msgstr "Pakken mislyktes -- %s"
+
+#~ msgid "Maximum number of styles exceeded."
+#~ msgstr "Maksimalt antall stiler overskredet."
+
+#, php-format
+#~ msgid "Error moving file: %s"
+#~ msgstr "Feil ved flytting av fil: %s"
+
+#~ msgid "Could not set write permissions."
+#~ msgstr "Kunne ikke angi skrivetillatelser."
+
+#~ msgid "Error:"
+#~ msgstr "Feil:"
+
+#, php-format
+#~ msgid "Current Analysis Child Theme <strong>%s</strong> has been reset."
+#~ msgstr "Gjeldende analyse Barnetema <strong>%s</strong> er tilbakestilt."
+
+#~ msgid "Update Key saved successfully."
+#~ msgstr "Oppdateringsnøkkelen ble lagret."
+
+#~ msgid "Child Theme files modified successfully."
+#~ msgstr "Underordnede temafiler er endret."
+
+#, php-format
+#~ msgid "Child Theme <strong>%s</strong> has been generated successfully."
+#~ msgstr "Barnetema <strong>%s</strong> er generert."
+
+#~ msgid "Web Fonts & CSS"
+#~ msgstr "Nettfonter og CSS"
+
+#~ msgid "Parent Styles"
+#~ msgstr "Foreldre stiler"
+
+#~ msgid "Child Styles"
+#~ msgstr "Barnestiler"
+
+#~ msgid "View Child Images"
+#~ msgstr "Se barnebilder"
+
+#~ msgid ""
+#~ "Use <code>@import url( [path] );</code> to link additional stylesheets. "
+#~ "This Plugin uses the <code>@import</code> keyword to identify them and "
+#~ "convert them to <code>&lt;link&gt;</code> tags. <strong>Example:</strong>"
+#~ msgstr ""
+#~ "Bruk <code> @import url ([path]); </code> for å koble til flere stilark. "
+#~ "Denne pluginen bruker nøkkelordet <code> @import </code> for å "
+#~ "identifisere dem og konvertere dem til <code>&lt;link&gt;</code> -koder. "
+#~ "<strong> Eksempel: </strong>"
+
+#~ msgid "Save"
+#~ msgstr "Lagre"
+
+#~ msgid "Uploading image with same name will replace with existing image."
+#~ msgstr ""
+#~ "Opplasting av bilde med samme navn erstattes med eksisterende bilde."
+
+#~ msgid "Upload New Child Theme Image"
+#~ msgstr "Last opp nytt tema for barnetema"
+
+#~ msgid "Delete Selected Images"
+#~ msgstr "Slett valgte bilder"
+
+#~ msgid "Create a New Directory"
+#~ msgstr "Opprett en ny katalog"
+
+#~ msgid "New Directory will be created in"
+#~ msgstr "Ny katalog blir opprettet i"
+
+#~ msgid "New Directory Name"
+#~ msgstr "Nytt katalognavn"
+
+#~ msgid "Create a New File"
+#~ msgstr "Opprett en ny fil"
+
+#~ msgid "New File will be created in"
+#~ msgstr "Ny fil blir opprettet i"
+
+#~ msgid "New File Name"
+#~ msgstr "Nytt filnavn"
+
+#~ msgid "File Type Extension"
+#~ msgstr "Filtype utvidelse"
+
+#~ msgid "Choose File Type"
+#~ msgstr "Velg Filtype"
+
+#~ msgid "PHP File"
+#~ msgstr "PHP-fil"
+
+#~ msgid "CSS File"
+#~ msgstr "CSS-fil"
+
+#~ msgid "JS File"
+#~ msgstr "JS-fil"
+
+#~ msgid "Text File"
+#~ msgstr "Tekstfil"
+
+#~ msgid "PHP File Type"
+#~ msgstr "PHP-filtype"
+
+#~ msgid "Simple PHP File"
+#~ msgstr "Enkel PHP-fil"
+
+#~ msgid "Wordpress Template File"
+#~ msgstr "Wordpress malfil"
+
+#~ msgid "Template Name"
+#~ msgstr "Malnavn"
+
+#~ msgid "Parent Templates"
+#~ msgstr "Overordnede maler"
+
+#~ msgid ""
+#~ "Copy PHP templates from the parent theme by selecting them here. The "
+#~ "Configurator defines a template as a Theme PHP file having no PHP "
+#~ "functions or classes. Other PHP files cannot be safely overridden by a "
+#~ "child theme."
+#~ msgstr ""
+#~ "Kopier PHP-maler fra overordnet tema ved å velge dem her. Configurator "
+#~ "definerer en mal som en Theme PHP-fil uten PHP-funksjoner eller klasser. "
+#~ "Andre PHP-filer kan ikke trygt overstyres av et underordnet tema."
+
+#~ msgid ""
+#~ "CAUTION: If your child theme is active, the child theme version of the "
+#~ "file will be used instead of the parent immediately after it is copied."
+#~ msgstr ""
+#~ "FORSIKTIG: Hvis barnetemaet ditt er aktivt, vil barnets temaversjon av "
+#~ "filen brukes i stedet for foreldrene umiddelbart etter at den er kopiert."
+
+#~ msgid "The "
+#~ msgstr "De"
+
+#~ msgid " file is generated separately and cannot be copied here. "
+#~ msgstr "filen genereres separat og kan ikke kopieres her."
+
+#~ msgid "Copy Selected to Child Theme"
+#~ msgstr "Kopi Selected to Child Theme"
+
+#~ msgid " Child Theme Files "
+#~ msgstr "Barnefiler"
+
+#~ msgid "Click to edit files using the Theme Editor"
+#~ msgstr "Klikk for å redigere filer ved hjelp av Theme Editor"
+
+#~ msgid "Delete child theme templates by selecting them here."
+#~ msgstr "Slett mal for underordnede temaer ved å velge dem her."
+
+#~ msgid "Delete Selected"
+#~ msgstr "Slett valgte"
+
+#~ msgid "Child Theme Screenshot"
+#~ msgstr "Skjermbilde for barnetema"
+
+#~ msgid "Upload New Screenshot"
+#~ msgstr "Last opp nytt skjermbilde"
+
+#~ msgid ""
+#~ "The theme screenshot should be a 4:3 ratio (e.g., 880px x 660px) JPG, PNG "
+#~ "or GIF. It will be renamed"
+#~ msgstr ""
+#~ "Temaskjermbildet skal være i forholdet 4: 3 (f.eks. 880px x 660px) JPG, "
+#~ "PNG eller GIF. Det vil bli omdøpt"
+
+#~ msgid "Screenshot"
+#~ msgstr "Skjermbilde"
+
+#~ msgid "Upload New Child Theme Image "
+#~ msgstr "Last opp nytt tema for barnetema"
+
+#~ msgid ""
+#~ "Theme images reside under the images directory in your child theme and "
+#~ "are meant for stylesheet use only. Use the Media Library for content "
+#~ "images."
+#~ msgstr ""
+#~ "Temabilder ligger under bildekatalogen i barnetemaet ditt og er kun ment "
+#~ "for stilarkbruk. Bruk mediebiblioteket til innholdsbilder."
+
+#~ msgid "Preview Current Child Theme (Current analysis)"
+#~ msgstr "Forhåndsvisning av det aktuelle barnetemaet (aktuell analyse)"
+
+#~ msgid "Preview Current Child Theme"
+#~ msgstr "Forhåndsvisning av det aktuelle barnetemaet"
+
+#~ msgid "Export Child Theme as Zip Archive"
+#~ msgstr "Eksporter barnetema som zip-arkiv"
+
+#~ msgid ""
+#~ "Click \"Export Zip\" to save a backup of the currently loaded child "
+#~ "theme. You can export any of your themes from the Parent/Child tab."
+#~ msgstr ""
+#~ "Klikk på \"Eksporter zip\" for å lagre en sikkerhetskopi av det for "
+#~ "øyeblikket lastede barnetemaet. Du kan eksportere hvilket som helst av "
+#~ "temaene dine fra kategorien Foreldre / barn."
+
+#~ msgid "Export Child Theme"
+#~ msgstr "Eksporter barnetema"
+
+#~ msgid "Child Theme file(s) copied successfully!"
+#~ msgstr "Barn (e) temafil (er) er kopiert!"
+
+#~ msgid ""
+#~ "The file which you are trying to copy from Parent Templates does not exist"
+#~ msgstr "Filen du prøver å kopiere fra overordnede maler eksisterer ikke"
+
+#~ msgid ""
+#~ "The file which you are trying to copy from Parent Templates is already "
+#~ "present in the Child Theme files."
+#~ msgstr ""
+#~ "Filen du prøver å kopiere fra overordnede maler, er allerede til stede i "
+#~ "underordnede temafiler."
+
+#~ msgid "Child "
+#~ msgstr "Barn"
+
+#~ msgid " and Parent "
+#~ msgstr "og Forelder"
+
+#~ msgid " directories doesn't exist!"
+#~ msgstr "kataloger eksisterer ikke!"
+
+#~ msgid " directory doesn't exist!"
+#~ msgstr "katalogen eksisterer ikke!"
+
+#~ msgid "Parent "
+#~ msgstr "Forelder"
+
+#~ msgid "Unknown error! "
+#~ msgstr "Ukjent feil!"
+
+#~ msgid "You don't have permission to copy the files!"
+#~ msgstr "Du har ikke tillatelse til å kopiere filene!"
+
+#~ msgid "All selected file(s) have been deleted successfully!"
+#~ msgstr "Alle valgte filene er slettet!"
+
+#~ msgid " does not exists!"
+#~ msgstr "eksisterer ikke!"
+
+#~ msgid "This file extension is not allowed to upload!"
+#~ msgstr "Denne filtypen kan ikke lastes opp!"
+
+#~ msgid "Image uploaded successfully!"
+#~ msgstr "Bildet ble lastet opp!"
+
+#~ msgid "There is some issue in uploading image!"
+#~ msgstr "Det er noe problem med å laste opp bilde!"
+
+#~ msgid ""
+#~ "This file extension is not allowed to upload as screenshot by wordpress!"
+#~ msgstr "Denne filtypen kan ikke lastes opp som screenshot av wordpress!"
+
+#~ msgid "File uploaded successfully!"
+#~ msgstr "Filen ble lastet opp!"
+
+#~ msgid "Child Theme files can't be modified."
+#~ msgstr "Underordnede temafiler kan ikke endres."
+
+#~ msgid "File(s) deleted successfully!"
+#~ msgstr "Fil (er) ble slettet!"
+
+#~ msgid "You don't have permission to delete file(s)!"
+#~ msgstr "Du har ikke tillatelse til å slette fil (er)!"
+
+#~ msgid "Entered directory name already exists"
+#~ msgstr "Det oppgitte katalognavnet eksisterer allerede"
+
+#~ msgid "You don't have permission to create directory!"
+#~ msgstr "Du har ikke tillatelse til å opprette katalog!"
+
+#~ msgid "Wordpress template file created"
+#~ msgstr "Wordpress malfil opprettet"
+
+#~ msgid "Wordpress template file not created"
+#~ msgstr "Wordpress malfil ble ikke opprettet"
+
+#~ msgid "PHP created file successfully"
+#~ msgstr "PHP opprettet fil med hell"
+
+#~ msgid "PHP file not created"
+#~ msgstr "PHP-fil ble ikke opprettet"
+
+#~ msgid " file not created"
+#~ msgstr "filen ble ikke opprettet"
+
+#~ msgid "Already exists"
+#~ msgstr "Eksisterer allerede"
+
+#~ msgid "You don't have permission to create file!"
+#~ msgstr "Du har ikke tillatelse til å opprette fil!"
+
+#~ msgid "create, edit, upload, download, delete Theme Files and folders"
+#~ msgstr ""
+#~ "opprette, redigere, laste opp, laste ned, slette temafiler og mapper"
+
+#~ msgid "Language folder has been downlaoded."
+#~ msgstr "Språkmappen er blitt nedlagt."
+
+#~ msgid "Add single or multiple languages."
+#~ msgstr "Legg til enkelt eller flere språk."
+
+#~ msgid "Add single language file"
+#~ msgstr "Legg til enkelt språkfil"
+
+#~ msgid "Please click on language button."
+#~ msgstr "Klikk på språkknappen."
+
+#~ msgid "Add all languages zip folder"
+#~ msgstr "Legg til alle språk zip-mappen"
+
+#~ msgid "Zip Download"
+#~ msgstr "Zip Last ned"

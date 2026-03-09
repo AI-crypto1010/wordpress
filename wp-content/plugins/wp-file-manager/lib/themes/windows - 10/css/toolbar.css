@@ -1,0 +1,167 @@
+/* toolbar.css */
+
+/* Buttonset wrapper for search field */
+.elfinder .elfinder-button-search .elfinder-button-menu {
+  background: #fff !important;
+}
+/* Buttons */
+.elfinder .elfinder-toolbar .elfinder-buttonset .elfinder-button {
+  border: 1px solid transparent;
+  webkit-transition: background 0.3s, border 0.3s; /* Safari */
+  transition: background 0.3s, border 0.3s;
+}
+
+/* Hovered buttons */
+.elfinder .elfinder-toolbar .elfinder-buttonset .elfinder-button:hover {
+  background: #cce8ff;
+  border: 1px solid #99d1ff;
+}
+
+
+
+/* Searchbar */
+.elfinder-toolbar .elfinder-button-search {  
+  margin-right: 5px;
+  border-radius: 0;
+}
+
+/* Commands */
+  .elfinder .elfinder-toolbar .elfinder-buttonset .elfinder-button-icon {
+    background-color: transparent;
+    background-position: center center;
+    height: 16px;
+    width: 16px;
+  }
+
+  /* Back */
+  .elfinder .elfinder-toolbar .elfinder-buttonset .elfinder-button-icon-back {
+    background-image: url('../images/16px/back.png');
+  }
+
+  /* Forward */
+  .elfinder .elfinder-toolbar .elfinder-buttonset .elfinder-button-icon-forward {
+    background-image: url('../images/16px/forward.png');
+  }
+
+  .elfinder .elfinder-toolbar .elfinder-buttonset .elfinder-button-icon-netmount {
+    background-image: url('../images/16px/netmount.png');
+  }
+
+  .elfinder .elfinder-toolbar .elfinder-buttonset .elfinder-button-icon-up {
+    background-image: url('../images/16px/up.png');
+  }
+
+  .elfinder .elfinder-toolbar .elfinder-buttonset .elfinder-button-icon-mkdir {
+    background-image: url('../images/16px/directory.png');
+  }
+
+  .elfinder .elfinder-toolbar .elfinder-buttonset .elfinder-button-icon-mkfile {
+    background-image: url('../images/16px/file.png');
+  }
+
+  .elfinder .elfinder-toolbar .elfinder-buttonset .elfinder-button-icon-upload {
+    background-image: url('../images/16px/upload.png');
+  }
+
+  .elfinder .elfinder-toolbar .elfinder-buttonset .elfinder-button-icon-open {
+    background-image: url('../images/16px/open.png');
+  }
+
+  .elfinder .elfinder-toolbar .elfinder-buttonset .elfinder-button-icon-download {
+    background-image: url('../images/16px/download.png');
+  }
+
+  .elfinder .elfinder-toolbar .elfinder-buttonset .elfinder-button-icon-getfile {
+    background-image: url('../images/16px/getfile.png');
+  }
+
+  .elfinder .elfinder-toolbar .elfinder-buttonset .elfinder-button-icon-info {
+    background-image: url('../images/16px/info.png');
+  }
+
+  .elfinder .elfinder-toolbar .elfinder-buttonset .elfinder-button-icon-quicklook {
+    background-image: url('../images/16px/preview.png');
+  }
+
+  .elfinder .elfinder-toolbar .elfinder-buttonset .elfinder-button-icon-copy {
+    background-image: url('../images/16px/copy.png');
+  }
+
+  .elfinder .elfinder-toolbar .elfinder-buttonset .elfinder-button-icon-cut {
+    background-image: url('../images/16px/cut.png');
+  }
+
+  .elfinder .elfinder-toolbar .elfinder-buttonset .elfinder-button-icon-paste {
+    background-image: url('../images/16px/paste.png');
+  }
+
+  .elfinder .elfinder-toolbar .elfinder-buttonset .elfinder-button-icon-view {
+    background-image: url('../images/16px/view.png');
+  }
+
+  .elfinder .elfinder-toolbar .elfinder-buttonset .elfinder-button-icon-view-list {
+    background-image: url('../images/16px/view-list.png');
+  }
+
+  .elfinder .elfinder-toolbar .elfinder-buttonset .elfinder-button-icon-help {
+    background-image: url('../images/16px/help.png');
+  }
+
+
+  .elfinder .elfinder-toolbar .elfinder-buttonset .elfinder-button-icon-duplicate {
+    background-image: url('../images/16px/duplicate.png');
+  }
+
+  .elfinder .elfinder-toolbar .elfinder-buttonset .elfinder-button-icon-rm {
+    background-image: url('../images/16px/rm.png');
+  }
+
+  .elfinder .elfinder-toolbar .elfinder-buttonset .elfinder-button-icon-edit {
+    background-image: url('../images/16px/edit.png');
+  }
+
+  .elfinder .elfinder-toolbar .elfinder-buttonset .elfinder-button-icon-rename {
+    background-image: url('../images/16px/rename.png');
+  }
+
+  .elfinder .elfinder-toolbar .elfinder-buttonset .elfinder-button-icon-archive {
+    background-image: url('../images/16px/archive.png');
+  }
+
+  .elfinder .elfinder-toolbar .elfinder-buttonset .elfinder-button-icon-resize {
+    background-image: url('../images/16px/resize.png');
+  }
+
+  .elfinder .elfinder-toolbar .elfinder-buttonset .elfinder-button-icon-extract {
+    background-image: url('../images/16px/extract.png');
+  }
+
+  .elfinder .elfinder-toolbar .elfinder-buttonset .elfinder-button-icon-sort {
+    background-image: url('../images/16px/sort.png');
+  } 
+  .elfinder .elfinder-toolbar .elfinder-buttonset .elfinder-button-icon-undo {
+    background-image: url('../images/16px/undo.png');
+  } 
+  .elfinder .elfinder-toolbar .elfinder-buttonset .elfinder-button-icon-redo {
+    background-image: url('../images/16px/redo.png');
+  }  
+  .elfinder .elfinder-toolbar .elfinder-buttonset .elfinder-button-icon-selectall {
+    background-image: url('../images/16px/select_all.png');
+  }  
+  .elfinder .elfinder-toolbar .elfinder-buttonset .elfinder-button-icon-selectnone {
+    background-image: url('../images/16px/deselect_all.png');
+  }  
+  .elfinder .elfinder-toolbar .elfinder-buttonset .elfinder-button-icon-selectinvert {
+    background-image: url('../images/16px/invert_selection.png');
+  }  
+  .elfinder .elfinder-toolbar .elfinder-buttonset .elfinder-button-icon-empty {
+    background-image: url('../images/16px/clear_folder.png');
+  }
+  .elfinder .elfinder-toolbar .elfinder-buttonset .elfinder-button-icon-fullscreen{
+    background-image: url('../images/16px/full-screen-icon.png');
+  }
+  
+.elfinder .elfinder-button{padding: 3px;}
+.elfinder-cwd-view-list thead td .ui-resizable-handle {top: 3px;}
+
+.elfinder-button-menu.elfinder-button-search-menu {top:15px !important;}

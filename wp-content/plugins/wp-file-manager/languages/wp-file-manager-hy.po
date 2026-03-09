@@ -1,0 +1,1009 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WP File Manager\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-02-28 10:34+0530\n"
+"PO-Revision-Date: 2022-03-01 11:04+0530\n"
+"Last-Translator: admin <kajal.gill@mysenseinc.in>\n"
+"Language-Team: \n"
+"Language: hy\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Poedit 3.0.1\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: file_folder_manager.php:174
+msgid "Themes backup restored successfully."
+msgstr "Թեմաների պահուստավորումը հաջողությամբ վերականգնվել է:"
+
+#: file_folder_manager.php:177
+msgid "Unable to restore themes."
+msgstr "Հնարավոր չէ վերականգնել թեմաները:"
+
+#: file_folder_manager.php:207
+msgid "Uploads backup restored successfully."
+msgstr "Վերբեռնումների պահուստավորումը հաջողությամբ վերականգնվել է:"
+
+#: file_folder_manager.php:211
+msgid "Unable to restore uploads."
+msgstr "Հնարավոր չէ վերականգնել վերբեռնումները:"
+
+#: file_folder_manager.php:237
+msgid "Others backup restored successfully."
+msgstr "Մյուսները կրկնօրինակը հաջողությամբ վերականգնվել է:"
+
+#: file_folder_manager.php:241
+msgid "Unable to restore others."
+msgstr "Հնարավոր չէ վերականգնել ուրիշներին:"
+
+#: file_folder_manager.php:267
+msgid "Plugins backup restored successfully."
+msgstr "Պլագինների պահուստավորումը հաջողությամբ վերականգնվել է:"
+
+#: file_folder_manager.php:271 file_folder_manager.php:301
+msgid "Unable to restore plugins."
+msgstr "Հնարավոր չէ վերականգնել ներդիրները:"
+
+#: file_folder_manager.php:286
+msgid "Database backup restored successfully."
+msgstr "Շտեմարանի կրկնօրինակը հաջողությամբ վերականգնվեց:"
+
+#: file_folder_manager.php:286 file_folder_manager.php:297
+#: file_folder_manager.php:588 file_folder_manager.php:592
+msgid "All Done"
+msgstr "Ամեն ինչ արված է"
+
+#: file_folder_manager.php:289
+msgid "Unable to restore DB backup."
+msgstr "Հնարավոր չէ վերականգնել DB պահուստավորումը:"
+
+#: file_folder_manager.php:347
+msgid "Backups removed successfully!"
+msgstr "Պահուստավորումները հաջողությամբ հեռացվեցին:"
+
+#: file_folder_manager.php:349
+msgid "Unable to removed backup!"
+msgstr "Հնարավոր չէ հեռացնել պահուստավորումը:"
+
+#: file_folder_manager.php:373
+msgid "Database backup done on date "
+msgstr "Շտեմարանի պահուստավորումը կատարվել է ամսաթվով "
+
+#: file_folder_manager.php:377
+msgid "Plugins backup done on date "
+msgstr "Պլագինների պահուստավորումը կատարվել է ամսաթվով "
+
+#: file_folder_manager.php:381
+msgid "Themes backup done on date "
+msgstr "Թեմաների պահուստավորումը կատարվել է ամսաթվով "
+
+#: file_folder_manager.php:385
+msgid "Uploads backup done on date "
+msgstr "Վերբեռնման պահուստավորումը կատարվել է ամսաթվով "
+
+#: file_folder_manager.php:389
+msgid "Others backup done on date "
+msgstr "Մյուսները պահուստավորումը կատարվել է ամսաթվով "
+
+#: file_folder_manager.php:393 file_folder_manager.php:776
+msgid "Logs"
+msgstr "Տեղեկամատյաններ"
+
+#: file_folder_manager.php:399
+msgid "No logs found!"
+msgstr "Ոչ մի տեղեկամատյան չի գտնվել:"
+
+#: file_folder_manager.php:496
+msgid "Nothing selected for backup"
+msgstr "Պահուստավորման համար ոչինչ ընտրված չէ"
+
+#: file_folder_manager.php:516
+msgid "Security Issue."
+msgstr "Անվտանգության խնդիր."
+
+#: file_folder_manager.php:527
+msgid "Database backup done."
+msgstr "Տվյալների բազայի կրկնօրինակումն արված է:"
+
+#: file_folder_manager.php:530
+msgid "Unable to create database backup."
+msgstr "Հնարավոր չէ ստեղծել տվյալների բազայի կրկնօրինակում:"
+
+#: file_folder_manager.php:544
+msgid "Plugins backup done."
+msgstr "Փլագինների կրկնօրինակումն ավարտված է:"
+
+#: file_folder_manager.php:547
+msgid "Plugins backup failed."
+msgstr "Փլագինների պահուստավորումը ձախողվեց:"
+
+#: file_folder_manager.php:556
+msgid "Themes backup done."
+msgstr "Թեմաների կրկնօրինակումն արված է:"
+
+#: file_folder_manager.php:559
+msgid "Themes backup failed."
+msgstr "Թեմաների կրկնօրինակումը ձախողվեց:"
+
+#: file_folder_manager.php:569
+msgid "Uploads backup done."
+msgstr "Վերբեռնումների կրկնօրինակումն ավարտված է:"
+
+#: file_folder_manager.php:572
+msgid "Uploads backup failed."
+msgstr "Վերբեռնումների կրկնօրինակումը ձախողվեց:"
+
+#: file_folder_manager.php:581
+msgid "Others backup done."
+msgstr "Մյուսների կրկնօրինակումն արված է:"
+
+#: file_folder_manager.php:584
+msgid "Others backup failed."
+msgstr "Մյուսների կրկնօրինակումը ձախողվեց:"
+
+#: file_folder_manager.php:761 file_folder_manager.php:762
+#: lib/wpfilemanager.php:23
+msgid "WP File Manager"
+msgstr "WP ֆայլերի կառավարիչ"
+
+#: file_folder_manager.php:769
+msgid "Settings"
+msgstr "Կարգավորումներ"
+
+#: file_folder_manager.php:771 inc/root.php:48
+msgid "Preferences"
+msgstr "Նախապատվություններ"
+
+#: file_folder_manager.php:773
+msgid "System Properties"
+msgstr "Համակարգի հատկությունները"
+
+#: file_folder_manager.php:775
+msgid "Shortcode - PRO"
+msgstr "Կարճ ծածկագիր - ՊՐՈ"
+
+#: file_folder_manager.php:777
+msgid "Backup/Restore"
+msgstr "Կրկնօրինակում/Վերականգնում"
+
+#: file_folder_manager.php:1033
+msgid "Buy Pro"
+msgstr "Գնել Pro"
+
+#: file_folder_manager.php:1034
+msgid "Donate"
+msgstr "Նվիրաբերել"
+
+#: file_folder_manager.php:1249
+msgid ""
+"<div class=\"updated settings-error notice is-dismissible\" id=\"setting-"
+"error-settings_updated\"> \n"
+"<p><strong>"
+msgstr ""
+
+#: file_folder_manager.php:1256
+msgid ""
+"<div class=\"error settings-error notice is-dismissible\" id=\"setting-error-"
+"settings_updated\"> \n"
+"<p><strong>"
+msgstr ""
+
+#: file_folder_manager.php:1395 file_folder_manager.php:1483
+msgid "File doesn't exist to download."
+msgstr "Ֆայլը ներբեռնելու համար գոյություն չունի:"
+
+#: file_folder_manager.php:1400 file_folder_manager.php:1488
+msgid "Invalid Security Code."
+msgstr "Անվտանգության անվավեր ծածկագիր:"
+
+#: file_folder_manager.php:1405 file_folder_manager.php:1493
+msgid "Missing backup id."
+msgstr "Պահուստային ID- ն բացակայում է:"
+
+#: file_folder_manager.php:1408 file_folder_manager.php:1496
+msgid "Missing parameter type."
+msgstr "Պարամետրի տեսակը բացակայում է:"
+
+#: file_folder_manager.php:1411 file_folder_manager.php:1499
+msgid "Missing required parameters."
+msgstr "Անհայտ պարամետրերը բացակայում են:"
+
+#: inc/backup.php:24
+msgid ""
+"Error: Unable to restore backup because database backup is heavy in size. "
+"Please try to increase Maximum allowed size  from Preferences settings."
+msgstr ""
+"Սխալ. Չհաջողվեց վերականգնել կրկնօրինակը, քանի որ տվյալների բազայի "
+"կրկնօրինակը մեծ չափերի է: Փորձեք ավելացնել Առավելագույն թույլատրելի չափը "
+"Նախապատվությունների կարգավորումներից:"
+
+#: inc/backup.php:25
+msgid "Select backup(s) to delete!"
+msgstr "Ընտրեք կրկնօրինակ(ներ) ջնջելու համար:"
+
+#: inc/backup.php:26
+msgid "Are you sure want to remove selected backup(s)?"
+msgstr "Վստա՞հ եք, որ ցանկանում եք հեռացնել ընտրված պահուստային (ներ) ը:"
+
+#: inc/backup.php:31
+msgid "Backup is running, please wait"
+msgstr "Պահուստավորումն աշխատում է, սպասեք"
+
+#: inc/backup.php:32
+msgid "Restore is running, please wait"
+msgstr "Վերականգնումն աշխատում է, խնդրում ենք սպասել"
+
+#: inc/backup.php:33
+msgid "Nothing selected for backup."
+msgstr "Պահուստավորման համար ոչինչ ընտրված չէ:"
+
+#: inc/backup.php:45
+msgid "WP File Manager - Backup/Restore"
+msgstr "WP ֆայլերի կառավարիչ - պահուստավորում / վերականգնում"
+
+#: inc/backup.php:51
+msgid "Backup Options:"
+msgstr "Կրկնօրինակման ընտրանքներ."
+
+#: inc/backup.php:58
+msgid "Database Backup"
+msgstr "Շտեմարանի պահուստավորում"
+
+#: inc/backup.php:64
+msgid "Files Backup"
+msgstr "Ֆայլերի պահուստավորում"
+
+#: inc/backup.php:68
+msgid "Plugins"
+msgstr "Պլագիններ"
+
+#: inc/backup.php:71
+msgid "Themes"
+msgstr "Themes"
+
+#: inc/backup.php:74
+msgid "Uploads"
+msgstr "Վերբեռնումներ"
+
+#: inc/backup.php:77
+msgid "Others (Any other directories found inside wp-content)"
+msgstr ""
+"Ուրիշներ (wp- բովանդակության ներսում հայտնաբերված ցանկացած այլ գրացուցակներ)"
+
+#: inc/backup.php:81
+msgid "Backup Now"
+msgstr "Պահուստավորեք հիմա"
+
+#: inc/backup.php:89
+msgid "Time now"
+msgstr "Հիմա ժամանակը"
+
+#: inc/backup.php:99
+msgid "SUCCESS"
+msgstr "ՀԱ SՈESSՈՒԹՅՈՒՆ"
+
+#: inc/backup.php:101
+msgid "Backup successfully deleted."
+msgstr "Պահուստավորումը հաջողությամբ ջնջվեց:"
+
+#: inc/backup.php:102
+msgid "Ok"
+msgstr "Լավ"
+
+#: inc/backup.php:117
+msgid "DELETE FILES"
+msgstr "DEնջել ֆայլերը"
+
+#: inc/backup.php:119
+msgid "Are you sure you want to delete this backup?"
+msgstr "Վստա՞հ եք, որ ցանկանում եք ջնջել այս պահուստավորումը:"
+
+#: inc/backup.php:120 inc/backup.php:139
+msgid "Cancel"
+msgstr "Չեղարկել"
+
+#: inc/backup.php:121 inc/backup.php:140
+msgid "Confirm"
+msgstr "Հաստատել"
+
+#: inc/backup.php:136
+msgid "RESTORE FILES"
+msgstr "Վերականգնել նիշքերը"
+
+#: inc/backup.php:138
+msgid "Are you sure you want to restore this backup?"
+msgstr "Վստա՞հ եք, որ ցանկանում եք վերականգնել այս պահուստավորումը:"
+
+#: inc/backup.php:166
+msgid "Last Log Message"
+msgstr "Վերջին տեղեկամատյան"
+
+#: inc/backup.php:169
+msgid "The backup apparently succeeded and is now complete."
+msgstr "Ակնհայտորեն պահուստավորումը հաջողվեց և այժմ ավարտված է:"
+
+#: inc/backup.php:171
+msgid "No log message"
+msgstr "Առանց տեղեկամատյան հաղորդագրության"
+
+#: inc/backup.php:177
+msgid "Existing Backup(s)"
+msgstr "Գոյություն ունեցող պահուստ (ներ)"
+
+#: inc/backup.php:184
+msgid "Backup Date"
+msgstr "Պահուստավորման ամսաթիվը"
+
+#: inc/backup.php:187
+msgid "Backup data (click to download)"
+msgstr "Պահուստային տվյալների հավաքում (կտտացրեք ներբեռնելու համար)"
+
+#: inc/backup.php:190
+msgid "Action"
+msgstr "Գործողություն"
+
+#: inc/backup.php:210
+msgid "Today"
+msgstr "Այսօր"
+
+#: inc/backup.php:239
+msgid "Restore"
+msgstr "Վերականգնել"
+
+#: inc/backup.php:240 inc/backup.php:250
+msgid "Delete"
+msgstr "Նջել"
+
+#: inc/backup.php:241
+msgid "View Log"
+msgstr "Դիտել տեղեկամատյանը"
+
+#: inc/backup.php:246
+msgid "Currently no backup(s) found."
+msgstr "Ներկայումս ոչ մի պահուստ (ներ) չի գտնվել:"
+
+#: inc/backup.php:249
+msgid "Actions upon selected backup(s)"
+msgstr "Գործողություններ ընտրված պահուստային (ներ) ի վերաբերյալ"
+
+#: inc/backup.php:251
+msgid "Select All"
+msgstr "Ընտրել բոլորը"
+
+#: inc/backup.php:252
+msgid "Deselect"
+msgstr "Ապանշել"
+
+#: inc/backup.php:254
+msgid "Note:"
+msgstr "Նշում:"
+
+#: inc/backup.php:254
+msgid "Backup files will be under"
+msgstr "Պահուստային ֆայլերը տակ կլինեն"
+
+#: inc/contribute.php:3
+msgid "WP File Manager Contribution"
+msgstr "WP File Manager- ի ներդրումը"
+
+#: inc/logs.php:7
+msgid ""
+"Note: These are demo screenshots. Please buy File Manager pro to Logs "
+"functions."
+msgstr ""
+"Նշում. Դրանք ցուցադրական սքրինշոթեր են: Խնդրում ենք գնել File Manager pro- ը "
+"Logs գործառույթներից:"
+
+#: inc/logs.php:8 lib/wpfilemanager.php:24
+msgid "Click to Buy PRO"
+msgstr "Սեղմեք՝ PRO գնելու համար"
+
+#: inc/logs.php:8 inc/settings.php:12 inc/settings.php:27
+#: inc/system_properties.php:5 lib/wpfilemanager.php:25
+msgid "Buy PRO"
+msgstr "Գնեք ՊՐՈ"
+
+#: inc/logs.php:9
+msgid "Edit Files Logs"
+msgstr "Խմբագրել ֆայլերի տեղեկամատյանները"
+
+#: inc/logs.php:11
+msgid "Download Files Logs"
+msgstr "Ներբեռնեք Ֆայլերի տեղեկամատյանները"
+
+#: inc/logs.php:13
+msgid "Upload Files Logs"
+msgstr "Վերբեռնել ֆայլերի տեղեկամատյանները"
+
+#: inc/root.php:43
+msgid "Settings saved."
+msgstr "Կարգավորումները պահվել են:"
+
+#: inc/root.php:43 inc/root.php:46
+msgid "Dismiss this notice."
+msgstr "Մերժեք այս ծանուցումը:"
+
+#: inc/root.php:46
+msgid "You have not made any changes to be saved."
+msgstr "Դուք փրկելու համար որևէ փոփոխություն չեք կատարել:"
+
+#: inc/root.php:55
+msgid "Public Root Path"
+msgstr "Հասարակական արմատային ուղի"
+
+#: inc/root.php:58
+msgid "File Manager Root Path, you can change according to your choice."
+msgstr "File Manager Root Path- ը, ըստ ձեր ընտրության, կարող եք փոխել:"
+
+#: inc/root.php:59
+msgid "Default:"
+msgstr "Լռելյայն:"
+
+#: inc/root.php:60
+msgid ""
+"Please change this carefully, wrong path can lead file manager plugin to go "
+"down."
+msgstr ""
+"Խնդրում ենք ուշադիր փոխել սա, սխալ ուղին կարող է հանգեցնել ֆայլերի կառավարչի "
+"plugin- ի անկմանը:"
+
+#: inc/root.php:64
+msgid "Enable Trash?"
+msgstr "Միացնե՞լ աղբարկղը:"
+
+#: inc/root.php:67
+msgid "After enable trash, your files will go to trash folder."
+msgstr "Աղբարկղը միացնելուց հետո ձեր ֆայլերը կգնան աղբարկղի պանակ:"
+
+#: inc/root.php:72
+msgid "Enable Files Upload to Media Library?"
+msgstr "Միացնե՞լ ֆայլերի վերբեռնումը մեդիա գրադարանում:"
+
+#: inc/root.php:75
+msgid "After enabling this all files will go to media library."
+msgstr "Սա միացնելուց հետո բոլոր ֆայլերը կուղղվեն մեդիա գրադարանին:"
+
+#: inc/root.php:80
+msgid "Maximum allowed size at the time of database backup restore."
+msgstr ""
+"Առավելագույն թույլատրելի չափը տվյալների բազայի կրկնօրինակի վերականգնման "
+"պահին:"
+
+#: inc/root.php:83
+msgid "MB"
+msgstr ""
+
+#: inc/root.php:85
+msgid ""
+"Please increase field value if you are getting error message at the time of "
+"backup restore."
+msgstr ""
+"Խնդրում ենք ավելացնել դաշտի արժեքը, եթե կրկնօրինակի վերականգնման պահին սխալի "
+"մասին հաղորդագրություն եք ստանում:"
+
+#: inc/root.php:90
+msgid "Save Changes"
+msgstr "Պահպանել փոփոխությունները"
+
+#: inc/settings.php:10
+msgid "Settings - General"
+msgstr "Կարգավորումներ - Ընդհանուր"
+
+#: inc/settings.php:11 inc/settings.php:26
+msgid ""
+"Note: This is just a demo screenshot. To get settings please buy our pro "
+"version."
+msgstr ""
+"Նշում. Սա պարզապես ցուցադրական էկրանի նկար է: Կարգավորումներ ստանալու համար "
+"խնդրում ենք գնել մեր պրո-տարբերակը:"
+
+#: inc/settings.php:13
+msgid ""
+"Here admin can give access to user roles to use filemanager. Admin can set "
+"Default Access Folder and also control upload size of filemanager."
+msgstr ""
+"Այստեղ ադմինիստրատորը կարող է մուտք գործել օգտվողի դերեր ՝ Filemanager- ից "
+"օգտվելու համար: Ադմինիստրատորը կարող է սահմանել Լռելյայն Մուտքի Թղթապանակ և "
+"վերահսկել նաև Filemanager- ի վերբեռնման չափը:"
+
+#: inc/settings.php:15
+msgid "Settings - Code-editor"
+msgstr "Կարգավորումներ - օրենսգրքի խմբագիր"
+
+#: inc/settings.php:16
+msgid ""
+"File Manager has a code editor with multiple themes. You can select any "
+"theme for code editor. It will display when you edit any file. Also you can "
+"allow fullscreen mode of code editor."
+msgstr ""
+"File Manager- ն ունի բազմաթիվ թեմաներով կոդերի խմբագիր: Կոդի խմբագրի համար "
+"կարող եք ընտրել ցանկացած թեմա: Այն կցուցադրվի, երբ ցանկացած ֆայլ խմբագրեք: "
+"Կարող եք նաև թույլատրել կոդերի խմբագրիչի լրիվ էկրանի ռեժիմ:"
+
+#: inc/settings.php:18
+msgid "Code-editor View"
+msgstr "Կոդ-խմբագրի դիտում"
+
+#: inc/settings.php:20
+msgid "Settings - User Restrictions"
+msgstr "Կարգավորումներ - Օգտագործողի սահմանափակումներ"
+
+#: inc/settings.php:21
+msgid ""
+"Admin can restrict actions of any user. Also hide files and folders and can "
+"set different - different folders paths for different users."
+msgstr ""
+"Ադմինիստրատորը կարող է սահմանափակել ցանկացած օգտվողի գործողությունները: "
+"Թաքցրեք նաև ֆայլերն ու պանակները և կարող են սահմանել տարբեր ՝ տարբեր "
+"պանակների ուղիներ տարբեր օգտվողների համար:"
+
+#: inc/settings.php:23
+msgid "Settings - User Role Restrictions"
+msgstr "Կարգավորումներ - Օգտագործողի դերի սահմանափակումներ"
+
+#: inc/settings.php:24
+msgid ""
+"Admin can restrict actions of any userrole. Also hide files and folders and "
+"can set different - different folders paths for different users roles."
+msgstr ""
+"Ադմինիստրատորը կարող է սահմանափակել ցանկացած օգտագործողի գործողության "
+"գործողությունները: Թաքցրեք նաև ֆայլերն ու պանակները և կարող են տարբեր ՝ "
+"տարբեր պանակների ուղիներ սահմանել տարբեր օգտվողների դերերի համար:"
+
+#: inc/shortcode_docs.php:11
+msgid "File Manager - Shortcode"
+msgstr "Ֆայլերի կառավարիչ - կարճ կոդ"
+
+#: inc/shortcode_docs.php:15 inc/shortcode_docs.php:17
+#: inc/shortcode_docs.php:19
+msgid "USE:"
+msgstr "ՕԳՏԱԳՈՐՈՒՄ:"
+
+#: inc/shortcode_docs.php:15
+msgid ""
+"It will show file manager on front end. You can control all settings from "
+"file manager settings. It will work same as backend WP File Manager."
+msgstr ""
+"Այն ցույց կտա ֆայլերի կառավարիչը ճակատային մասում: Դուք կարող եք կառավարել "
+"բոլոր կարգավորումները ֆայլերի կառավարչի կարգավորումներից: Այն կաշխատի "
+"այնպես, ինչպես backend WP File Manager-ը:"
+
+#: inc/shortcode_docs.php:17
+msgid ""
+"It will show file manager on front end. But only Administrator can access it "
+"and will control from file manager settings."
+msgstr ""
+"Այն ցույց կտա ֆայլերի կառավարիչը ճակատային մասում: Բայց միայն Ադմինիստրատորը "
+"կարող է մուտք գործել այն և կվերահսկի ֆայլերի կառավարչի կարգավորումներից:"
+
+#: inc/shortcode_docs.php:23
+msgid "Parameters:"
+msgstr "Պարամետրեր:"
+
+#: inc/shortcode_docs.php:26
+msgid ""
+"It will allow all roles to access file manager on front end or You can "
+"simple use for particular user roles as like allowed_roles=\"editor,author"
+"\" (seprated by comma(,))"
+msgstr ""
+"Այն թույլ կտա բոլոր դերերին մուտք գործել ֆայլերի կառավարիչ ճակատային մասում "
+"կամ Դուք կարող եք պարզ օգտագործել օգտատերերի որոշակի դերերի համար, ինչպես "
+"օրինակ՝ allow_roles = \"խմբագիր, հեղինակ\" (առանձնացված ստորակետով (,))"
+
+#: inc/shortcode_docs.php:28
+msgid ""
+"Here \"test\" is the name of folder which is located on root directory, or "
+"you can give path for sub folders as like \"wp-content/plugins\". If leave "
+"blank or empty it will access all folders on root directory. Default: Root "
+"directory"
+msgstr ""
+"Այստեղ «թեստը» թղթապանակի անունն է, որը գտնվում է արմատային գրացուցակում, "
+"կամ կարող եք ճանապարհ տալ ենթապանակների համար, ինչպես օրինակ «wp-content/"
+"plugins»: Եթե ​​թողնեք դատարկ կամ դատարկ, այն հասանելի կլինի բոլոր "
+"թղթապանակներին արմատային գրացուցակում: Կանխադրված՝ արմատական ​​գրացուցակ"
+
+#: inc/shortcode_docs.php:30
+msgid "for access to write files permissions, note: true/false, default: false"
+msgstr ""
+"ֆայլերի գրելու թույլտվությունների հասանելիության համար նշեք՝ true/false, "
+"default՝ false"
+
+#: inc/shortcode_docs.php:32
+msgid "for access to read files permission, note: true/false, default: true"
+msgstr ""
+"ֆայլերի ընթերցման թույլտվության համար նշեք՝ ճշմարիտ/կեղծ, լռելյայն՝ ճշմարիտ"
+
+#: inc/shortcode_docs.php:34
+msgid "it will hide mentioned here. Note: seprated by comma(,). Default: Null"
+msgstr ""
+"այն կթաքցվի այստեղ նշված: Նշում. առանձնացված է ստորակետով (,): Կանխադրված՝ "
+"զրոյական"
+
+#: inc/shortcode_docs.php:36
+msgid ""
+"It will lock mentioned in commas. you can lock more as like \".php,.css,.js"
+"\" etc. Default: Null"
+msgstr ""
+"Այն կկողպվի ստորակետերում նշված: Դուք կարող եք կողպել ավելի շատ, ինչպես "
+"օրինակ «.php,.css,.js» և այլն: Կանխադրված՝ Null"
+
+#: inc/shortcode_docs.php:38
+msgid ""
+"* for all operations and to allow some operation you can mention operation "
+"name as like, allowed_operations=\"upload,download\". Note: seprated by "
+"comma(,). Default: *"
+msgstr ""
+"* բոլոր գործողությունների համար և որոշակի գործողություն թույլատրելու համար "
+"կարող եք նշել գործողության անվանումը որպես like, allow_operations=\"upload,"
+"download\": Նշում. առանձնացված է ստորակետով (,): Կանխադրված՝ *"
+
+#: inc/shortcode_docs.php:42
+msgid "File Operations List:"
+msgstr "Ֆայլի գործառնությունների ցուցակ."
+
+#: inc/shortcode_docs.php:46
+msgid "mkdir ->"
+msgstr ""
+
+#: inc/shortcode_docs.php:46
+msgid "Make directory or folder"
+msgstr "Կատարել գրացուցակ կամ պանակ"
+
+#: inc/shortcode_docs.php:47
+msgid "mkfile ->"
+msgstr ""
+
+#: inc/shortcode_docs.php:47
+msgid "Make file"
+msgstr "Պատկեր պատրաստել"
+
+#: inc/shortcode_docs.php:48
+msgid "rename ->"
+msgstr ""
+
+#: inc/shortcode_docs.php:48
+msgid "Rename a file or folder"
+msgstr "Վերանվանել ֆայլ կամ պանակ"
+
+#: inc/shortcode_docs.php:49
+msgid "duplicate ->"
+msgstr ""
+
+#: inc/shortcode_docs.php:49
+msgid "Duplicate or clone a folder or file"
+msgstr "Կրկնօրինակեք կամ կլոնավորեք պանակ կամ ֆայլ"
+
+#: inc/shortcode_docs.php:50
+msgid "paste ->"
+msgstr ""
+
+#: inc/shortcode_docs.php:50
+msgid "Paste a file or folder"
+msgstr "Տեղադրեք ֆայլ կամ պանակ"
+
+#: inc/shortcode_docs.php:51
+msgid "ban ->"
+msgstr ""
+
+#: inc/shortcode_docs.php:51
+msgid "Ban"
+msgstr "Արգելել"
+
+#: inc/shortcode_docs.php:52
+msgid "archive ->"
+msgstr ""
+
+#: inc/shortcode_docs.php:52
+msgid "To make a archive or zip"
+msgstr "Արխիվ կամ zip պատրաստելու համար"
+
+#: inc/shortcode_docs.php:53
+msgid "extract ->"
+msgstr ""
+
+#: inc/shortcode_docs.php:53
+msgid "Extract archive or zipped file"
+msgstr "Արդյունահանել արխիվը կամ սեղմված ֆայլը"
+
+#: inc/shortcode_docs.php:54
+msgid "copy ->"
+msgstr ""
+
+#: inc/shortcode_docs.php:54
+msgid "Copy files or folders"
+msgstr "Պատճենել ֆայլերը կամ պանակները"
+
+#: inc/shortcode_docs.php:58
+msgid "cut ->"
+msgstr ""
+
+#: inc/shortcode_docs.php:58
+msgid "Simple cut a file or folder"
+msgstr "Պարզ կտրեք ֆայլը կամ պանակը"
+
+#: inc/shortcode_docs.php:59
+msgid "edit ->"
+msgstr ""
+
+#: inc/shortcode_docs.php:59
+msgid "Edit a file"
+msgstr "Խմբագրել ֆայլը"
+
+#: inc/shortcode_docs.php:60
+msgid "rm ->"
+msgstr ""
+
+#: inc/shortcode_docs.php:60
+msgid "Remove or delete files and folders"
+msgstr "Հեռացնել կամ ջնջել ֆայլերը և պանակները"
+
+#: inc/shortcode_docs.php:61
+msgid "download ->"
+msgstr ""
+
+#: inc/shortcode_docs.php:61
+msgid "Download files"
+msgstr "Ներբեռնեք ֆայլեր"
+
+#: inc/shortcode_docs.php:62
+msgid "upload ->"
+msgstr ""
+
+#: inc/shortcode_docs.php:62
+msgid "Upload files"
+msgstr "Ֆայլեր վերբեռնել"
+
+#: inc/shortcode_docs.php:63
+msgid "search -> "
+msgstr ""
+
+#: inc/shortcode_docs.php:63
+msgid "Search things"
+msgstr "Որոնել բաներ"
+
+#: inc/shortcode_docs.php:64
+msgid "info ->"
+msgstr ""
+
+#: inc/shortcode_docs.php:64
+msgid "Info of file"
+msgstr "Ֆայլի տեղեկատվություն"
+
+#: inc/shortcode_docs.php:65
+msgid "help ->"
+msgstr ""
+
+#: inc/shortcode_docs.php:65
+msgid "Help"
+msgstr "Օգնություն"
+
+#: inc/shortcode_docs.php:71
+msgid ""
+"->  It will ban particular users by just putting their ids seprated by "
+"commas(,). If user is Ban then they will not able to access wp file manager "
+"on front end."
+msgstr ""
+"-> Այն կարգելի որոշակի օգտվողներին `պարզապես տեղադրելով իրենց ID- ները "
+"ստորակետերով բաժանված (,): Եթե ​​օգտագործողը արգելում է, ապա նա չի կարողանա "
+"մուտք գործել wp ֆայլի կառավարիչ դիմային մասում:"
+
+#: inc/shortcode_docs.php:72
+msgid "-> Filemanager UI View. Default: grid"
+msgstr "-> Filemanager UI դիտում: Լռելյայն. Ցանց"
+
+#: inc/shortcode_docs.php:73
+msgid "-> File Modified or Create date format. Default: d M, Y h:i A"
+msgstr ""
+"-> Ֆայլը փոփոխված է կամ ստեղծեք ամսաթվի ձևաչափ: Լռելյայն. D M, Y h: i A"
+
+#: inc/shortcode_docs.php:74
+msgid "-> File manager Language. Default: English(en)"
+msgstr "-> Ֆայլերի կառավարչի լեզու: Լռելյայն. English(en)"
+
+#: inc/shortcode_docs.php:75
+msgid "-> File Manager Theme. Default: Light"
+msgstr "-> Ֆայլի կառավարչի թեման: Light"
+
+#: inc/system_properties.php:5
+msgid "File Manager - System Properties"
+msgstr "Ֆայլի կառավարիչ - Համակարգի հատկություններ"
+
+#: inc/system_properties.php:10
+msgid "PHP version"
+msgstr "PHP տարբերակ"
+
+#: inc/system_properties.php:15
+msgid "Maximum file upload size (upload_max_filesize)"
+msgstr "Վերբեռնման առավելագույն չափը (upload_max_filesize)"
+
+#: inc/system_properties.php:20
+msgid "Post maximum file upload size (post_max_size)"
+msgstr "Տեղադրել ֆայլերի վերբեռնման առավելագույն չափը (post_max_size)"
+
+#: inc/system_properties.php:25
+msgid "Memory Limit (memory_limit)"
+msgstr "Հիշողության սահման (memory_limit)"
+
+#: inc/system_properties.php:30
+msgid "Timeout (max_execution_time)"
+msgstr "Ընդմիջում (max_execution_time)"
+
+#: inc/system_properties.php:35
+msgid "Browser and OS (HTTP_USER_AGENT)"
+msgstr "Brննարկիչ և ՕՀ (HTTP_USER_AGENT)"
+
+#: lib/jquery/jquery-ui-1.11.4.js:8
+msgid "'"
+msgstr ""
+
+#: lib/wpfilemanager.php:31
+msgid "Change Theme Here:"
+msgstr "Փոխել թեման այստեղ ՝"
+
+#: lib/wpfilemanager.php:35
+msgid "Default"
+msgstr "Լռելյայն"
+
+#: lib/wpfilemanager.php:39
+msgid "Dark"
+msgstr "Մութ"
+
+#: lib/wpfilemanager.php:43
+msgid "Light"
+msgstr "Լույս"
+
+#: lib/wpfilemanager.php:47
+msgid "Gray"
+msgstr "Մոխրագույն"
+
+#: lib/wpfilemanager.php:52
+msgid "Windows - 10"
+msgstr ""
+
+#: lib/wpfilemanager.php:85
+msgid "Welcome to File Manager"
+msgstr "Բարի գալուստ File Manager"
+
+#: lib/wpfilemanager.php:88
+msgid ""
+"We love making new friends! Subscribe below and we promise to\n"
+"    keep you up-to-date with our latest new plugins, updates,\n"
+"    awesome deals and a few special offers."
+msgstr ""
+"Մենք սիրում ենք նոր ընկերներ ձեռք բերել: Բաժանորդագրվեք ստորև, և մենք "
+"խոստանում ենք դա անել\n"
+"    ձեզ թարմ պահեք մեր վերջին նոր հավելումների, թարմացումների,\n"
+"    զարմանալի գործարքներ և մի քանի հատուկ առաջարկներ:"
+
+#: lib/wpfilemanager.php:99
+msgid "Please Enter First Name."
+msgstr "Խնդրում ենք մուտքագրել անուն"
+
+#: lib/wpfilemanager.php:107
+msgid "Please Enter Last Name."
+msgstr "Խնդրում ենք մուտքագրել ազգանունը:"
+
+#: lib/wpfilemanager.php:116
+msgid "Please Enter Email Address."
+msgstr "Խնդրում ենք մուտքագրել էլ. Փոստի հասցեն:"
+
+#: lib/wpfilemanager.php:120
+msgid "Verify"
+msgstr "Հաստատել"
+
+#: lib/wpfilemanager.php:126
+msgid "No Thanks"
+msgstr "Ոչ, շնորհակալություն"
+
+#: lib/wpfilemanager.php:132
+msgid "Terms of Service"
+msgstr "Ծառայությունների մատուցման պայմաններ"
+
+#: lib/wpfilemanager.php:134
+msgid "Privacy Policy"
+msgstr "Գաղտնիության քաղաքականություն"
+
+#: lib/wpfilemanager.php:153
+msgid "Saving..."
+msgstr "Խնայվում է ..."
+
+#: lib/wpfilemanager.php:155
+msgid "OK"
+msgstr "լավ"
+
+#~ msgid "Backup not found!"
+#~ msgstr "Կրկնօրինակը չի գտնվել:"
+
+#~ msgid "Backup removed successfully!"
+#~ msgstr "Պահուստավորումը հաջողությամբ հեռացվեց:"
+
+#~ msgid "<span class=\"fm_console_error\">Nothing selected for backup</span>"
+#~ msgstr ""
+#~ "<span class=\"fm_console_error\">Պահուստավորման համար ոչինչ չի ընտրվել</"
+#~ "span>"
+
+#~ msgid "<span class=\"fm_console_error\">Security Issue.</span>"
+#~ msgstr "<span class=\"fm_console_error\">Անվտանգության խնդիր:</span>"
+
+#~ msgid "<span class=\"fm_console_success\">Database backup done.</span>"
+#~ msgstr ""
+#~ "<span class=\"fm_console_success\">Շտեմարանի պահուստավորումն արված է:</"
+#~ "span>"
+
+#~ msgid ""
+#~ "<span class=\"fm_console_error\">Unable to create database backup.</span>"
+#~ msgstr ""
+#~ "<span class=\"fm_console_error\">Հնարավոր չէ ստեղծել տվյալների բազայի "
+#~ "պահուստավորում:</span>"
+
+#~ msgid "<span class=\"fm_console_success\">Plugins backup done.</span>"
+#~ msgstr ""
+#~ "<span class=\"fm_console_success\">Պլագինների պահուստավորումն ավարտված է:"
+#~ "</span>"
+
+#~ msgid "<span class=\"fm_console_error\">Plugins backup failed.</span>"
+#~ msgstr ""
+#~ "<span class=\"fm_console_error\">Պլագինների պահուստավորումը ձախողվեց:</"
+#~ "span>"
+
+#~ msgid "<span class=\"fm_console_success\">Themes backup done.</span>"
+#~ msgstr ""
+#~ "<span class=\"fm_console_success\">Թեմաների պահուստավորումը կատարված է:</"
+#~ "span>"
+
+#~ msgid "<span class=\"fm_console_error\">Themes backup failed.</span>"
+#~ msgstr ""
+#~ "<span class=\"fm_console_error\">Թեմաների պահուստավորումը ձախողվեց:</span>"
+
+#~ msgid "<span class=\"fm_console_success\">Uploads backup done.</span>"
+#~ msgstr ""
+#~ "<span class=\"fm_console_success\">Վերբեռնումների պահուստավորումն "
+#~ "ավարտված է:</span>"
+
+#~ msgid "<span class=\"fm_console_error\">Uploads backup failed.</span>"
+#~ msgstr ""
+#~ "<span class=\"fm_console_error\">Վերբեռնումների պահուստավորումը ձախողվեց:"
+#~ "</span>"
+
+#~ msgid "<span class=\"fm_console_success\">Others backup done.</span>"
+#~ msgstr ""
+#~ "<span class=\"fm_console_success\">Մյուսները պահուստավորումն արված է:</"
+#~ "span>"
+
+#~ msgid "<span class=\"fm_console_error\">Others backup failed.</span>"
+#~ msgstr ""
+#~ "<span class=\"fm_console_error\">Մյուսների պահուստավորումը ձախողվեց:</"
+#~ "span>"
+
+#~ msgid "<span class=\"fm_console_success\">All Done</span>"
+#~ msgstr "<span class=\"fm_console_success\">Ամեն ինչ արված է</span>"
+
+#~ msgid ""
+#~ "<code>[wp_file_manager view=\"list\" lang=\"en\" theme=\"light\" "
+#~ "dateformat=\"d M, Y h:i A\" allowed_roles=\"editor,author\" access_folder="
+#~ "\"wp-content/plugins\" write = \"true\" read = \"false\" hide_files = "
+#~ "\"kumar,abc.php\" lock_extensions=\".php,.css\" allowed_operations="
+#~ "\"upload,download\" ban_user_ids=\"2,3\"]"
+#~ msgstr ""
+#~ "<code>[wp_file_manager view=\"list\" lang=\"en\" theme=\"light\" "
+#~ "dateformat=\"d M, Y h:i A\" allowed_roles=\"editor,author\" access_folder="
+#~ "\"wp-content/plugins\" write = \"true\" read = \"false\" hide_files = "
+#~ "\"kumar,abc.php\" lock_extensions=\".php,.css\" allowed_operations="
+#~ "\"upload,download\" ban_user_ids=\"2,3\"]"
+
+#~ msgid "Manage your WP files."
+#~ msgstr "Կառավարեք ձեր WP ֆայլերը:"
+
+#~ msgid "Extensions"
+#~ msgstr "Ընդլայնումներ"
+
+#~ msgid ""
+#~ "Please contribute some donation, to make plugin more stable. You can pay "
+#~ "amount of your choice."
+#~ msgstr ""
+#~ "Խնդրում ենք նվիրաբերել որոշ նվիրատվություններ, որպեսզի ավելի շատ "
+#~ "կայունացնեք: Դուք կարող եք վճարել ձեր ընտրության չափը:"

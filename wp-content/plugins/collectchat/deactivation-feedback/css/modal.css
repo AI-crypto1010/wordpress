@@ -1,0 +1,114 @@
+.collectchat-modal {
+    position: fixed;
+    overflow: auto;
+    height: 100%;
+    width: 100%;
+    top: 0;
+    z-index: 100000;
+    display: none;
+    background: rgba(0, 0, 0, 0.6);
+}
+.collectchat-modal.active {
+    display: block;
+}
+.collectchat-modal.active:before {
+    display: block;
+}
+.collectchat-modal .collectchat-modal-dialog {
+    background: transparent;
+    position: absolute;
+    left: 50%;
+    margin-left: -298px;
+    padding-bottom: 30px;
+    top: -100%;
+    z-index: 100001;
+    width: 596px;
+}
+.collectchat-modal.active .collectchat-modal-dialog {
+    top: 10%;
+}
+.collectchat-modal .collectchat-modal-body,
+.collectchat-modal .collectchat-modal-footer {
+    border: 0;
+    background: #fff;
+    padding: 25px 25px 15px;
+}
+.collectchat-modal .collectchat-modal-body {
+    border-bottom: 0;
+}
+.collectchat-modal .collectchat-modal-body p {
+    font-size: 1.3em;
+}
+.collectchat-modal .collectchat-modal-body h2 {
+    font-size: 1.6em;
+    font-weight: bold;
+    margin-top: 0;
+}
+.collectchat-modal .collectchat-modal-footer {
+    border-top: #eeeeee solid 1px;
+    text-align: right;   
+}
+.collectchat-modal .collectchat-modal-footer .button {
+    margin: 0 7px;    
+}
+.collectchat-modal .collectchat-modal-footer .button:first-child {
+    margin: 0;
+}
+.collectchat-modal .collectchat-modal-panel>.notice.inline {
+    margin: 0;
+    display: none;
+}
+.collectchat-modal .collectchat-modal-panel:not(.active) {
+    display: none;
+}
+body.has-collectchat-modal {
+    overflow: hidden;
+}
+.collectchat-modal.collectchat-modal-deactivation-feedback .collectchat-modal-reason-input,
+.collectchat-modal.collectchat-modal-deactivation-feedback .collectchat-modal-internal-message {
+    margin: 3px 0 3px 22px;
+}
+.collectchat-modal.collectchat-modal-deactivation-feedback .collectchat-modal-reason-input input,
+.collectchat-modal.collectchat-modal-deactivation-feedback .collectchat-modal-reason-input textarea,
+.collectchat-modal.collectchat-modal-deactivation-feedback .collectchat-modal-internal-message input,
+.collectchat-modal.collectchat-modal-deactivation-feedback .collectchat-modal-internal-message textarea {
+    width: 100%;
+}
+.collectchat-modal.collectchat-modal-deactivation-feedback li.collectchat-modal-reason.has-internal-message .collectchat-modal-internal-message {
+    border: 1px solid #ccc;
+    padding: 7px;
+    display: none;
+}
+.collectchat-modal.collectchat-modal-deactivation-feedback .collectchat-modal-anonymous-label {
+    padding-top: 15px;
+}
+.collectchat-modal.collectchat-modal-deactivation-feedback .collectchat-modal-panel {
+    margin-top: 0 !important;
+}
+
+@media (max-width: 650px) {
+    .collectchat-modal .collectchat-modal-dialog {
+        margin-left: -50%;
+        box-sizing: border-box;
+        padding-left: 10px;
+        padding-right: 10px;
+        width: 100%;
+    }
+    .collectchat-modal .collectchat-modal-dialog .collectchat-modal-panel>h3>strong {
+        font-size: 1.3em;
+    }
+    .collectchat-modal.collectchat-modal-deactivation-feedback li.collectchat-modal-reason li.collectchat-modal-reason {
+        margin-bottom: 10px;
+    }
+    .collectchat-modal.collectchat-modal-deactivation-feedback li.collectchat-modal-reason li.collectchat-modal-reason .collectchat-modal-reason-input,
+    .collectchat-modal.collectchat-modal-deactivation-feedback li.collectchat-modal-reason li.collectchat-modal-reason .collectchat-modal-internal-message {
+        margin-left: 29px;
+    }
+    .collectchat-modal.collectchat-modal-deactivation-feedback li.collectchat-modal-reason li.collectchat-modal-reason label {
+        display: table;
+    }
+    .collectchat-modal.collectchat-modal-deactivation-feedback li.collectchat-modal-reason li.collectchat-modal-reason label>span {
+        display: table-cell;
+        font-size: 1.3em;
+    }
+}

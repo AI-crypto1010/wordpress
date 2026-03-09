@@ -1,0 +1,20 @@
+.pix-bg-image {
+    position: absolute;
+    -o-object-fit: cover;
+       object-fit: cover;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
+.pix-shop-category .pix-bg-image {
+    height: 101% !important;
+    width: 101% !important;
+    max-width: 101%;
+}
+.pix-img-overlay {
+    z-index: 2;
+    position: relative;
+    display: inline-block;
+}
+

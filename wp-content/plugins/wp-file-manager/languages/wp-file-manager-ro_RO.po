@@ -1,0 +1,989 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Wp File Manager\n"
+"POT-Creation-Date: 2022-02-28 11:13+0530\n"
+"PO-Revision-Date: 2022-03-01 18:10+0530\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ro\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n==0 || (n!=1 && n%100>=1 && n"
+"%100<=19) ? 1 : 2);\n"
+"X-Generator: Poedit 3.0.1\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: file_folder_manager.php:174
+msgid "Themes backup restored successfully."
+msgstr "Backup-ul temelor a fost restaurat cu succes."
+
+#: file_folder_manager.php:177
+msgid "Unable to restore themes."
+msgstr "Nu s-au putut restabili temele."
+
+#: file_folder_manager.php:207
+msgid "Uploads backup restored successfully."
+msgstr "Backupurile încărcate au fost restaurate cu succes."
+
+#: file_folder_manager.php:211
+msgid "Unable to restore uploads."
+msgstr "Imposibil de restabilit încărcările."
+
+#: file_folder_manager.php:237
+msgid "Others backup restored successfully."
+msgstr "Altele au fost restaurate cu succes."
+
+#: file_folder_manager.php:241
+msgid "Unable to restore others."
+msgstr "Imposibil de restabilit altele."
+
+#: file_folder_manager.php:267
+msgid "Plugins backup restored successfully."
+msgstr "Backup-ul pluginurilor a fost restaurat cu succes."
+
+#: file_folder_manager.php:271 file_folder_manager.php:301
+msgid "Unable to restore plugins."
+msgstr "Nu s-au putut restabili pluginurile."
+
+#: file_folder_manager.php:286
+msgid "Database backup restored successfully."
+msgstr "Backup-ul bazei de date a fost restaurat cu succes."
+
+#: file_folder_manager.php:286 file_folder_manager.php:297
+#: file_folder_manager.php:588 file_folder_manager.php:592
+msgid "All Done"
+msgstr "Totul este gata"
+
+#: file_folder_manager.php:289
+msgid "Unable to restore DB backup."
+msgstr "Imposibil de restaurat backupul DB."
+
+#: file_folder_manager.php:347
+msgid "Backups removed successfully!"
+msgstr "Copiile de rezervă au fost eliminate!"
+
+#: file_folder_manager.php:349
+msgid "Unable to removed backup!"
+msgstr "Nu s-a putut elimina copia de rezervă!"
+
+#: file_folder_manager.php:373
+msgid "Database backup done on date "
+msgstr "Copierea de rezervă a bazei de date a fost făcută la dată "
+
+#: file_folder_manager.php:377
+msgid "Plugins backup done on date "
+msgstr "Backup-ul pluginurilor a fost făcut la data respectivă "
+
+#: file_folder_manager.php:381
+msgid "Themes backup done on date "
+msgstr "Teme de backup realizate la data "
+
+#: file_folder_manager.php:385
+msgid "Uploads backup done on date "
+msgstr "Încărcări de backup efectuate la data "
+
+#: file_folder_manager.php:389
+msgid "Others backup done on date "
+msgstr "Alți copii de rezervă efectuate la data "
+
+#: file_folder_manager.php:393 file_folder_manager.php:776
+msgid "Logs"
+msgstr "Jurnale"
+
+#: file_folder_manager.php:399
+msgid "No logs found!"
+msgstr "Nu s-au găsit jurnale!"
+
+#: file_folder_manager.php:496
+msgid "Nothing selected for backup"
+msgstr "Nu s-a selectat nimic pentru backup"
+
+#: file_folder_manager.php:516
+msgid "Security Issue."
+msgstr "Problema de securitate."
+
+#: file_folder_manager.php:527
+msgid "Database backup done."
+msgstr "Backup-ul bazei de date este finalizat."
+
+#: file_folder_manager.php:530
+msgid "Unable to create database backup."
+msgstr "Nu se poate crea o copie de rezervă a bazei de date."
+
+#: file_folder_manager.php:544
+msgid "Plugins backup done."
+msgstr "Copierea de rezervă a pluginurilor este finalizată."
+
+#: file_folder_manager.php:547
+msgid "Plugins backup failed."
+msgstr "Backup-ul pluginurilor a eșuat."
+
+#: file_folder_manager.php:556
+msgid "Themes backup done."
+msgstr "Copierea de rezervă a temelor este finalizată."
+
+#: file_folder_manager.php:559
+msgid "Themes backup failed."
+msgstr "Backupul temelor a eșuat."
+
+#: file_folder_manager.php:569
+msgid "Uploads backup done."
+msgstr "Încărcări de rezervă finalizate."
+
+#: file_folder_manager.php:572
+msgid "Uploads backup failed."
+msgstr "Backupul încărcărilor nu a reușit."
+
+#: file_folder_manager.php:581
+msgid "Others backup done."
+msgstr "Copilul de rezervă al altora este finalizat."
+
+#: file_folder_manager.php:584
+msgid "Others backup failed."
+msgstr "Backup-ul altora a eșuat."
+
+#: file_folder_manager.php:761 file_folder_manager.php:762
+#: lib/wpfilemanager.php:23
+msgid "WP File Manager"
+msgstr "Manager de fișiere WP"
+
+#: file_folder_manager.php:769
+msgid "Settings"
+msgstr "Setări"
+
+#: file_folder_manager.php:771 inc/root.php:48
+msgid "Preferences"
+msgstr "Preferințe"
+
+#: file_folder_manager.php:773
+msgid "System Properties"
+msgstr "Proprietatile sistemului"
+
+#: file_folder_manager.php:775
+msgid "Shortcode - PRO"
+msgstr "Shortcode - PRO"
+
+#: file_folder_manager.php:777
+msgid "Backup/Restore"
+msgstr "Backup/Restaurare"
+
+#: file_folder_manager.php:1033
+msgid "Buy Pro"
+msgstr "Cumpărați Pro"
+
+#: file_folder_manager.php:1034
+msgid "Donate"
+msgstr "Donează"
+
+#: file_folder_manager.php:1249
+msgid ""
+"<div class=\"updated settings-error notice is-dismissible\" id=\"setting-"
+"error-settings_updated\"> \n"
+"<p><strong>"
+msgstr ""
+
+#: file_folder_manager.php:1256
+msgid ""
+"<div class=\"error settings-error notice is-dismissible\" id=\"setting-error-"
+"settings_updated\"> \n"
+"<p><strong>"
+msgstr ""
+
+#: file_folder_manager.php:1395 file_folder_manager.php:1483
+msgid "File doesn't exist to download."
+msgstr "Fișierul nu există pentru descărcare."
+
+#: file_folder_manager.php:1400 file_folder_manager.php:1488
+msgid "Invalid Security Code."
+msgstr "Cod de securitate invalid."
+
+#: file_folder_manager.php:1405 file_folder_manager.php:1493
+msgid "Missing backup id."
+msgstr "ID-ul de rezervă lipsește."
+
+#: file_folder_manager.php:1408 file_folder_manager.php:1496
+msgid "Missing parameter type."
+msgstr "Tip parametru lipsă."
+
+#: file_folder_manager.php:1411 file_folder_manager.php:1499
+msgid "Missing required parameters."
+msgstr "Lipsesc parametrii necesari."
+
+#: inc/backup.php:24
+msgid ""
+"Error: Unable to restore backup because database backup is heavy in size. "
+"Please try to increase Maximum allowed size  from Preferences settings."
+msgstr ""
+"Eroare: nu se poate restabili backupul deoarece backupul bazei de date are o "
+"dimensiune mare. Vă rugăm să încercați să măriți dimensiunea maximă permisă "
+"din setările Preferințe."
+
+#: inc/backup.php:25
+msgid "Select backup(s) to delete!"
+msgstr "Selectați copiile de rezervă de șters!"
+
+#: inc/backup.php:26
+msgid "Are you sure want to remove selected backup(s)?"
+msgstr "Sigur doriți să eliminați copiile de rezervă selectate?"
+
+#: inc/backup.php:31
+msgid "Backup is running, please wait"
+msgstr "Backupul se execută, vă rugăm să așteptați"
+
+#: inc/backup.php:32
+msgid "Restore is running, please wait"
+msgstr "Restaurarea rulează, așteptați"
+
+#: inc/backup.php:33
+msgid "Nothing selected for backup."
+msgstr "Nu s-a selectat nimic pentru backup."
+
+#: inc/backup.php:45
+msgid "WP File Manager - Backup/Restore"
+msgstr "Manager de fișiere WP - Backup / Restaurare"
+
+#: inc/backup.php:51
+msgid "Backup Options:"
+msgstr "Opțiuni de backup:"
+
+#: inc/backup.php:58
+msgid "Database Backup"
+msgstr "Copie de rezervă a bazei de date"
+
+#: inc/backup.php:64
+msgid "Files Backup"
+msgstr "Backup de fișiere"
+
+#: inc/backup.php:68
+msgid "Plugins"
+msgstr "Pluginuri"
+
+#: inc/backup.php:71
+msgid "Themes"
+msgstr "Teme"
+
+#: inc/backup.php:74
+msgid "Uploads"
+msgstr "Încărcări"
+
+#: inc/backup.php:77
+msgid "Others (Any other directories found inside wp-content)"
+msgstr "Altele (Orice alte directoare găsite în wp-content)"
+
+#: inc/backup.php:81
+msgid "Backup Now"
+msgstr "Faceți backup acum"
+
+#: inc/backup.php:89
+msgid "Time now"
+msgstr "Timpul acum"
+
+#: inc/backup.php:99
+msgid "SUCCESS"
+msgstr "SUCCES"
+
+#: inc/backup.php:101
+msgid "Backup successfully deleted."
+msgstr "Copia de rezervă a fost ștearsă."
+
+#: inc/backup.php:102
+msgid "Ok"
+msgstr "O.K"
+
+#: inc/backup.php:117
+msgid "DELETE FILES"
+msgstr "DELETE FILES"
+
+#: inc/backup.php:119
+msgid "Are you sure you want to delete this backup?"
+msgstr "Sigur doriți să ștergeți această copie de rezervă?"
+
+#: inc/backup.php:120 inc/backup.php:139
+msgid "Cancel"
+msgstr "Anulare"
+
+#: inc/backup.php:121 inc/backup.php:140
+msgid "Confirm"
+msgstr "A confirma"
+
+#: inc/backup.php:136
+msgid "RESTORE FILES"
+msgstr "RESTAURĂ FIȘIERE"
+
+#: inc/backup.php:138
+msgid "Are you sure you want to restore this backup?"
+msgstr "Sigur doriți să restaurați această copie de rezervă?"
+
+#: inc/backup.php:166
+msgid "Last Log Message"
+msgstr "Ultimul mesaj de jurnal"
+
+#: inc/backup.php:169
+msgid "The backup apparently succeeded and is now complete."
+msgstr "Se pare că backup-ul a reușit și acum este complet."
+
+#: inc/backup.php:171
+msgid "No log message"
+msgstr "Fără mesaj jurnal"
+
+#: inc/backup.php:177
+msgid "Existing Backup(s)"
+msgstr "Backup-uri existente"
+
+#: inc/backup.php:184
+msgid "Backup Date"
+msgstr "Data de rezervă"
+
+#: inc/backup.php:187
+msgid "Backup data (click to download)"
+msgstr "Date de rezervă (faceți clic pentru a descărca)"
+
+#: inc/backup.php:190
+msgid "Action"
+msgstr "Acțiune"
+
+#: inc/backup.php:210
+msgid "Today"
+msgstr "Azi"
+
+#: inc/backup.php:239
+msgid "Restore"
+msgstr "Restabili"
+
+#: inc/backup.php:240 inc/backup.php:250
+msgid "Delete"
+msgstr "Șterge"
+
+#: inc/backup.php:241
+msgid "View Log"
+msgstr "Vizualizare jurnal"
+
+#: inc/backup.php:246
+msgid "Currently no backup(s) found."
+msgstr "În prezent nu s-au găsit copii de rezervă."
+
+#: inc/backup.php:249
+msgid "Actions upon selected backup(s)"
+msgstr "Acțiuni la copiile de rezervă selectate"
+
+#: inc/backup.php:251
+msgid "Select All"
+msgstr "Selectează tot"
+
+#: inc/backup.php:252
+msgid "Deselect"
+msgstr "Deselectați"
+
+#: inc/backup.php:254
+msgid "Note:"
+msgstr "Notă:"
+
+#: inc/backup.php:254
+msgid "Backup files will be under"
+msgstr "Fișierele de rezervă vor fi sub"
+
+#: inc/contribute.php:3
+msgid "WP File Manager Contribution"
+msgstr "Contribuția Manager de fișiere WP"
+
+#: inc/logs.php:7
+msgid ""
+"Note: These are demo screenshots. Please buy File Manager pro to Logs "
+"functions."
+msgstr ""
+"Notă: Acestea sunt capturi de ecran demo. Vă rugăm să cumpărați File Manager "
+"pro pentru funcțiile Logs."
+
+#: inc/logs.php:8 lib/wpfilemanager.php:24
+msgid "Click to Buy PRO"
+msgstr "Faceți clic pentru a cumpăra PRO"
+
+#: inc/logs.php:8 inc/settings.php:12 inc/settings.php:27
+#: inc/system_properties.php:5 lib/wpfilemanager.php:25
+msgid "Buy PRO"
+msgstr "Cumpărați PRO"
+
+#: inc/logs.php:9
+msgid "Edit Files Logs"
+msgstr "Editați jurnalele de fișiere"
+
+#: inc/logs.php:11
+msgid "Download Files Logs"
+msgstr "Descărcați jurnalele de fișiere"
+
+#: inc/logs.php:13
+msgid "Upload Files Logs"
+msgstr "Încărcați jurnalele de fișiere"
+
+#: inc/root.php:43
+msgid "Settings saved."
+msgstr "Setari Salvate."
+
+#: inc/root.php:43 inc/root.php:46
+msgid "Dismiss this notice."
+msgstr "Respingeți această notificare."
+
+#: inc/root.php:46
+msgid "You have not made any changes to be saved."
+msgstr "Nu ați făcut nicio modificare pentru a fi salvat."
+
+#: inc/root.php:55
+msgid "Public Root Path"
+msgstr "Calea rădăcinii publice"
+
+#: inc/root.php:58
+msgid "File Manager Root Path, you can change according to your choice."
+msgstr "File Manager Root Path, puteți schimba în funcție de alegerea dvs."
+
+#: inc/root.php:59
+msgid "Default:"
+msgstr "Mod implicit:"
+
+#: inc/root.php:60
+msgid ""
+"Please change this carefully, wrong path can lead file manager plugin to go "
+"down."
+msgstr ""
+"Vă rugăm să schimbați cu atenție această cale, o cale greșită poate duce la "
+"coborârea pluginului managerului de fișiere."
+
+#: inc/root.php:64
+msgid "Enable Trash?"
+msgstr "Activați Coșul de gunoi?"
+
+#: inc/root.php:67
+msgid "After enable trash, your files will go to trash folder."
+msgstr ""
+"După activarea coșului de gunoi, fișierele dvs. vor merge în folderul coș de "
+"gunoi."
+
+#: inc/root.php:72
+msgid "Enable Files Upload to Media Library?"
+msgstr "Activați fișierele încărcate în biblioteca media?"
+
+#: inc/root.php:75
+msgid "After enabling this all files will go to media library."
+msgstr "După activare, toate fișierele vor merge în biblioteca media."
+
+#: inc/root.php:80
+msgid "Maximum allowed size at the time of database backup restore."
+msgstr ""
+"Dimensiunea maximă permisă în momentul restaurării copiei de rezervă a bazei "
+"de date."
+
+#: inc/root.php:83
+msgid "MB"
+msgstr ""
+
+#: inc/root.php:85
+msgid ""
+"Please increase field value if you are getting error message at the time of "
+"backup restore."
+msgstr ""
+"Vă rugăm să măriți valoarea câmpului dacă primiți un mesaj de eroare în "
+"momentul restaurării copiei de rezervă."
+
+#: inc/root.php:90
+msgid "Save Changes"
+msgstr "Salvează modificările"
+
+#: inc/settings.php:10
+msgid "Settings - General"
+msgstr "Setări - Generalități"
+
+#: inc/settings.php:11 inc/settings.php:26
+msgid ""
+"Note: This is just a demo screenshot. To get settings please buy our pro "
+"version."
+msgstr ""
+"Notă: Aceasta este doar o captură de ecran demonstrativă. Pentru a obține "
+"setări, vă rugăm să cumpărați versiunea noastră pro."
+
+#: inc/settings.php:13
+msgid ""
+"Here admin can give access to user roles to use filemanager. Admin can set "
+"Default Access Folder and also control upload size of filemanager."
+msgstr ""
+"Aici administratorul poate da acces la rolurile utilizatorilor pentru a "
+"utiliza fișierul de gestionare a fișierelor. Administratorul poate seta "
+"folderul de acces implicit și, de asemenea, poate controla dimensiunea de "
+"încărcare a managerului de fișiere."
+
+#: inc/settings.php:15
+msgid "Settings - Code-editor"
+msgstr "Setări - Editor de cod"
+
+#: inc/settings.php:16
+msgid ""
+"File Manager has a code editor with multiple themes. You can select any "
+"theme for code editor. It will display when you edit any file. Also you can "
+"allow fullscreen mode of code editor."
+msgstr ""
+"Managerul de fișiere are un editor de cod cu mai multe teme. Puteți selecta "
+"orice temă pentru editorul de cod. Se va afișa când editați orice fișier. De "
+"asemenea, puteți permite modul ecran complet al editorului de cod."
+
+#: inc/settings.php:18
+msgid "Code-editor View"
+msgstr "Vizualizare editor de cod"
+
+#: inc/settings.php:20
+msgid "Settings - User Restrictions"
+msgstr "Setări - Restricții de utilizator"
+
+#: inc/settings.php:21
+msgid ""
+"Admin can restrict actions of any user. Also hide files and folders and can "
+"set different - different folders paths for different users."
+msgstr ""
+"Administratorul poate restricționa acțiunile oricărui utilizator. Ascundeți, "
+"de asemenea, fișiere și foldere și puteți seta diferite căi de foldere "
+"pentru utilizatori diferiți."
+
+#: inc/settings.php:23
+msgid "Settings - User Role Restrictions"
+msgstr "Setări - Restricții ale rolului utilizatorului"
+
+#: inc/settings.php:24
+msgid ""
+"Admin can restrict actions of any userrole. Also hide files and folders and "
+"can set different - different folders paths for different users roles."
+msgstr ""
+"Administratorul poate restricționa acțiunile oricărui rol de utilizator. "
+"Ascundeți, de asemenea, fișiere și foldere și puteți seta căi de foldere "
+"diferite - pentru diferite roluri ale utilizatorilor."
+
+#: inc/shortcode_docs.php:11
+msgid "File Manager - Shortcode"
+msgstr "Manager fișiere - Shortcode"
+
+#: inc/shortcode_docs.php:15 inc/shortcode_docs.php:17
+#: inc/shortcode_docs.php:19
+msgid "USE:"
+msgstr "UTILIZARE:"
+
+#: inc/shortcode_docs.php:15
+msgid ""
+"It will show file manager on front end. You can control all settings from "
+"file manager settings. It will work same as backend WP File Manager."
+msgstr ""
+"Va afișa managerul de fișiere pe front-end. Puteți controla toate setările "
+"din setările managerului de fișiere. Va funcționa la fel ca și Managerul de "
+"fișiere WP de backend."
+
+#: inc/shortcode_docs.php:17
+msgid ""
+"It will show file manager on front end. But only Administrator can access it "
+"and will control from file manager settings."
+msgstr ""
+"Va afișa managerul de fișiere pe front-end. Dar numai Administratorul îl "
+"poate accesa și va controla din setările managerului de fișiere."
+
+#: inc/shortcode_docs.php:23
+msgid "Parameters:"
+msgstr "Parametri:"
+
+#: inc/shortcode_docs.php:26
+msgid ""
+"It will allow all roles to access file manager on front end or You can "
+"simple use for particular user roles as like allowed_roles=\"editor,author"
+"\" (seprated by comma(,))"
+msgstr ""
+"Acesta va permite tuturor rolurilor să acceseze managerul de fișiere pe "
+"front-end sau puteți utiliza simplu pentru anumite roluri de utilizator, cum "
+"ar fi allow_roles=\"editor,author\" (separat prin virgulă (,))"
+
+#: inc/shortcode_docs.php:28
+msgid ""
+"Here \"test\" is the name of folder which is located on root directory, or "
+"you can give path for sub folders as like \"wp-content/plugins\". If leave "
+"blank or empty it will access all folders on root directory. Default: Root "
+"directory"
+msgstr ""
+"Aici „test” este numele folderului care se află în directorul rădăcină, sau "
+"puteți da calea pentru sub foldere, cum ar fi „wp-content/plugins”. Dacă "
+"lăsați necompletat sau gol, va accesa toate folderele din directorul "
+"rădăcină. Implicit: director rădăcină"
+
+#: inc/shortcode_docs.php:30
+msgid "for access to write files permissions, note: true/false, default: false"
+msgstr ""
+"pentru acces la permisiuni de scriere a fișierelor, notă: adevărat/fals, "
+"implicit: fals"
+
+#: inc/shortcode_docs.php:32
+msgid "for access to read files permission, note: true/false, default: true"
+msgstr ""
+"pentru acces la permisiunea de citire a fișierelor, notă: adevărat/fals, "
+"implicit: adevărat"
+
+#: inc/shortcode_docs.php:34
+msgid "it will hide mentioned here. Note: seprated by comma(,). Default: Null"
+msgstr ""
+"se va ascunde menționat aici. Notă: separate prin virgulă (,). Implicit: nul"
+
+#: inc/shortcode_docs.php:36
+msgid ""
+"It will lock mentioned in commas. you can lock more as like \".php,.css,.js"
+"\" etc. Default: Null"
+msgstr ""
+"Se va bloca menționat în virgule. puteți bloca mai multe ca „.php,.css,.js” "
+"etc. Implicit: Null"
+
+#: inc/shortcode_docs.php:38
+msgid ""
+"* for all operations and to allow some operation you can mention operation "
+"name as like, allowed_operations=\"upload,download\". Note: seprated by "
+"comma(,). Default: *"
+msgstr ""
+"* pentru toate operațiunile și pentru a permite o anumită operațiune, puteți "
+"menționa numele operațiunii ca, allow_operations=\"upload,download\". Notă: "
+"separate prin virgulă (,). Mod implicit: *"
+
+#: inc/shortcode_docs.php:42
+msgid "File Operations List:"
+msgstr "Lista operațiunilor de fișiere:"
+
+#: inc/shortcode_docs.php:46
+msgid "mkdir ->"
+msgstr ""
+
+#: inc/shortcode_docs.php:46
+msgid "Make directory or folder"
+msgstr "Creați director sau folder"
+
+#: inc/shortcode_docs.php:47
+msgid "mkfile ->"
+msgstr ""
+
+#: inc/shortcode_docs.php:47
+msgid "Make file"
+msgstr "Creați fișier"
+
+#: inc/shortcode_docs.php:48
+msgid "rename ->"
+msgstr ""
+
+#: inc/shortcode_docs.php:48
+msgid "Rename a file or folder"
+msgstr "Redenumiți un fișier sau folder"
+
+#: inc/shortcode_docs.php:49
+msgid "duplicate ->"
+msgstr ""
+
+#: inc/shortcode_docs.php:49
+msgid "Duplicate or clone a folder or file"
+msgstr "Duplicați sau clonați un folder sau un fișier"
+
+#: inc/shortcode_docs.php:50
+msgid "paste ->"
+msgstr ""
+
+#: inc/shortcode_docs.php:50
+msgid "Paste a file or folder"
+msgstr "Lipiți un fișier sau un folder"
+
+#: inc/shortcode_docs.php:51
+msgid "ban ->"
+msgstr ""
+
+#: inc/shortcode_docs.php:51
+msgid "Ban"
+msgstr "Interzice"
+
+#: inc/shortcode_docs.php:52
+msgid "archive ->"
+msgstr ""
+
+#: inc/shortcode_docs.php:52
+msgid "To make a archive or zip"
+msgstr "Pentru a face o arhivă sau zip"
+
+#: inc/shortcode_docs.php:53
+msgid "extract ->"
+msgstr ""
+
+#: inc/shortcode_docs.php:53
+msgid "Extract archive or zipped file"
+msgstr "Extrageți arhiva sau fișierul zip"
+
+#: inc/shortcode_docs.php:54
+msgid "copy ->"
+msgstr ""
+
+#: inc/shortcode_docs.php:54
+msgid "Copy files or folders"
+msgstr "Copiați fișiere sau foldere"
+
+#: inc/shortcode_docs.php:58
+msgid "cut ->"
+msgstr ""
+
+#: inc/shortcode_docs.php:58
+msgid "Simple cut a file or folder"
+msgstr "Simplu tăiați un fișier sau un folder"
+
+#: inc/shortcode_docs.php:59
+msgid "edit ->"
+msgstr ""
+
+#: inc/shortcode_docs.php:59
+msgid "Edit a file"
+msgstr "Editați un fișier"
+
+#: inc/shortcode_docs.php:60
+msgid "rm ->"
+msgstr ""
+
+#: inc/shortcode_docs.php:60
+msgid "Remove or delete files and folders"
+msgstr "Eliminați sau ștergeți fișiere și foldere"
+
+#: inc/shortcode_docs.php:61
+msgid "download ->"
+msgstr ""
+
+#: inc/shortcode_docs.php:61
+msgid "Download files"
+msgstr "Descărcați fișiere"
+
+#: inc/shortcode_docs.php:62
+msgid "upload ->"
+msgstr ""
+
+#: inc/shortcode_docs.php:62
+msgid "Upload files"
+msgstr "Încărca fișiere"
+
+#: inc/shortcode_docs.php:63
+msgid "search -> "
+msgstr ""
+
+#: inc/shortcode_docs.php:63
+msgid "Search things"
+msgstr "Căutați lucruri"
+
+#: inc/shortcode_docs.php:64
+msgid "info ->"
+msgstr ""
+
+#: inc/shortcode_docs.php:64
+msgid "Info of file"
+msgstr "Informații despre fișier"
+
+#: inc/shortcode_docs.php:65
+msgid "help ->"
+msgstr ""
+
+#: inc/shortcode_docs.php:65
+msgid "Help"
+msgstr "Ajutor"
+
+#: inc/shortcode_docs.php:71
+msgid ""
+"->  It will ban particular users by just putting their ids seprated by "
+"commas(,). If user is Ban then they will not able to access wp file manager "
+"on front end."
+msgstr ""
+"-> Va interzice anumiți utilizatori doar punând ID-urile lor separate de "
+"virgule (,). Dacă utilizatorul este Ban, nu va putea accesa managerul de "
+"fișiere wp din front-end."
+
+#: inc/shortcode_docs.php:72
+msgid "-> Filemanager UI View. Default: grid"
+msgstr "-> Filemanager UI View. Implicit: grid"
+
+#: inc/shortcode_docs.php:73
+msgid "-> File Modified or Create date format. Default: d M, Y h:i A"
+msgstr "-> Fișier modificat sau Creați formatul datei. Implicit: d M, Y h:i A"
+
+#: inc/shortcode_docs.php:74
+msgid "-> File manager Language. Default: English(en)"
+msgstr "-> Limba managerului de fișiere. Implicit: English(en)"
+
+#: inc/shortcode_docs.php:75
+msgid "-> File Manager Theme. Default: Light"
+msgstr "-> Tema Manager fișiere. Implicit: Light"
+
+#: inc/system_properties.php:5
+msgid "File Manager - System Properties"
+msgstr "Manager fișiere - Proprietăți sistem"
+
+#: inc/system_properties.php:10
+msgid "PHP version"
+msgstr "Versiunea PHP"
+
+#: inc/system_properties.php:15
+msgid "Maximum file upload size (upload_max_filesize)"
+msgstr "Dimensiunea maximă de încărcare a fișierului (upload_max_filesize)"
+
+#: inc/system_properties.php:20
+msgid "Post maximum file upload size (post_max_size)"
+msgstr "Postați dimensiunea maximă de încărcare a fișierului (post_max_size)"
+
+#: inc/system_properties.php:25
+msgid "Memory Limit (memory_limit)"
+msgstr "Limita de memorie (memory_limit)"
+
+#: inc/system_properties.php:30
+msgid "Timeout (max_execution_time)"
+msgstr "Expirare (max_execution_time)"
+
+#: inc/system_properties.php:35
+msgid "Browser and OS (HTTP_USER_AGENT)"
+msgstr "Browser și SO (HTTP_USER_AGENT)"
+
+#: lib/jquery/jquery-ui-1.11.4.js:8
+msgid "'"
+msgstr ""
+
+#: lib/wpfilemanager.php:31
+msgid "Change Theme Here:"
+msgstr "Schimbați tema aici:"
+
+#: lib/wpfilemanager.php:35
+msgid "Default"
+msgstr "Mod implicit"
+
+#: lib/wpfilemanager.php:39
+msgid "Dark"
+msgstr "Întuneric"
+
+#: lib/wpfilemanager.php:43
+msgid "Light"
+msgstr "Ușoară"
+
+#: lib/wpfilemanager.php:47
+msgid "Gray"
+msgstr "gri"
+
+#: lib/wpfilemanager.php:52
+msgid "Windows - 10"
+msgstr ""
+
+#: lib/wpfilemanager.php:85
+msgid "Welcome to File Manager"
+msgstr "Bine ați venit la Manager fișiere"
+
+#: lib/wpfilemanager.php:88
+msgid ""
+"We love making new friends! Subscribe below and we promise to\n"
+"    keep you up-to-date with our latest new plugins, updates,\n"
+"    awesome deals and a few special offers."
+msgstr ""
+"Ne place să ne facem noi prieteni! Abonați-vă mai jos și promitem să\n"
+"    vă ține la curent cu cele mai noi pluginuri noi, actualizări,\n"
+"    oferte minunate și câteva oferte speciale."
+
+#: lib/wpfilemanager.php:99
+msgid "Please Enter First Name."
+msgstr "Vă rugăm să introduceți prenumele."
+
+#: lib/wpfilemanager.php:107
+msgid "Please Enter Last Name."
+msgstr "Vă rugăm să introduceți numele de familie."
+
+#: lib/wpfilemanager.php:116
+msgid "Please Enter Email Address."
+msgstr "Vă rugăm să introduceți adresa de e-mail."
+
+#: lib/wpfilemanager.php:120
+msgid "Verify"
+msgstr "Verifica"
+
+#: lib/wpfilemanager.php:126
+msgid "No Thanks"
+msgstr "Nu multumesc"
+
+#: lib/wpfilemanager.php:132
+msgid "Terms of Service"
+msgstr "Termenii serviciului"
+
+#: lib/wpfilemanager.php:134
+msgid "Privacy Policy"
+msgstr "Politica de Confidențialitate"
+
+#: lib/wpfilemanager.php:153
+msgid "Saving..."
+msgstr "Economisire..."
+
+#: lib/wpfilemanager.php:155
+msgid "OK"
+msgstr "O.K"
+
+#~ msgid "Backup not found!"
+#~ msgstr "Copia de rezervă nu a fost găsită!"
+
+#~ msgid "Backup removed successfully!"
+#~ msgstr "Copia de rezervă a fost eliminată cu succes!"
+
+#~ msgid "<span class=\"fm_console_error\">Nothing selected for backup</span>"
+#~ msgstr ""
+#~ "<span class=\"fm_console_error\">Nimic selectat pentru backup</span>"
+
+#~ msgid "<span class=\"fm_console_error\">Security Issue.</span>"
+#~ msgstr "<span class=\"fm_console_error\">Problemă de securitate.</span>"
+
+#~ msgid "<span class=\"fm_console_success\">Database backup done.</span>"
+#~ msgstr ""
+#~ "<span class=\"fm_console_success\">S-a făcut backupul bazei de date.</"
+#~ "span>"
+
+#~ msgid ""
+#~ "<span class=\"fm_console_error\">Unable to create database backup.</span>"
+#~ msgstr ""
+#~ "<span class=\"fm_console_error\">Imposibil de creat backupul bazei de "
+#~ "date. </span>"
+
+#~ msgid "<span class=\"fm_console_success\">Plugins backup done.</span>"
+#~ msgstr ""
+#~ "<span class=\"fm_console_success\">S-a făcut backup pentru pluginuri.</"
+#~ "span>"
+
+#~ msgid "<span class=\"fm_console_error\">Plugins backup failed.</span>"
+#~ msgstr ""
+#~ "<span class=\"fm_console_error\">Backup-ul pluginurilor a eșuat.</span>"
+
+#~ msgid "<span class=\"fm_console_success\">Themes backup done.</span>"
+#~ msgstr ""
+#~ "<span class=\"fm_console_success\">S-a făcut backupul temelor.</span>"
+
+#~ msgid "<span class=\"fm_console_error\">Themes backup failed.</span>"
+#~ msgstr "<span class=\"fm_console_error\">Backup-ul temelor a eșuat.</span>"
+
+#~ msgid "<span class=\"fm_console_success\">Uploads backup done.</span>"
+#~ msgstr "<span class=\"fm_console_success\">S-a efectuat încărcarea.</span>"
+
+#~ msgid "<span class=\"fm_console_error\">Uploads backup failed.</span>"
+#~ msgstr ""
+#~ "<span class=\"fm_console_error\">Backupul la încărcare a eșuat.</span>"
+
+#~ msgid "<span class=\"fm_console_success\">Others backup done.</span>"
+#~ msgstr ""
+#~ "<span class=\"fm_console_success\">S-au făcut alte copii de rezervă.</"
+#~ "span>"
+
+#~ msgid "<span class=\"fm_console_error\">Others backup failed.</span>"
+#~ msgstr ""
+#~ "<span class=\"fm_console_error\">Copiile de rezervă ale altora nu au "
+#~ "reușit. </span>"
+
+#~ msgid "<span class=\"fm_console_success\">All Done</span>"
+#~ msgstr "<span class=\"fm_console_success\">Tot gata</span>"
+
+#~ msgid ""
+#~ "<code>[wp_file_manager view=\"list\" lang=\"en\" theme=\"light\" "
+#~ "dateformat=\"d M, Y h:i A\" allowed_roles=\"editor,author\" access_folder="
+#~ "\"wp-content/plugins\" write = \"true\" read = \"false\" hide_files = "
+#~ "\"kumar,abc.php\" lock_extensions=\".php,.css\" allowed_operations="
+#~ "\"upload,download\" ban_user_ids=\"2,3\"]"
+#~ msgstr ""
+#~ "<code>[wp_file_manager view=\"list\" lang=\"en\" theme=\"light\" "
+#~ "dateformat=\"d M, Y h:i A\" allowed_roles=\"editor,author\" access_folder="
+#~ "\"wp-content/plugins\" write = \"true\" read = \"false\" hide_files = "
+#~ "\"kumar,abc.php\" lock_extensions=\".php,.css\" allowed_operations="
+#~ "\"upload,download\" ban_user_ids=\"2,3\"]"

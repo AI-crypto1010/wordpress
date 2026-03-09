@@ -1,0 +1,24 @@
+// stylelint-disable declaration-no-important
+
+// Margin and Padding
+@each $prop, $abbrev in (margin: m, padding: p) {
+  @each $size, $length in $spacings {
+    .pix-#{$abbrev}-#{$size} { #{$prop}: $length !important; }
+    .pix-#{$abbrev}t-#{$size},
+    .pix-#{$abbrev}y-#{$size} {
+      #{$prop}-top: $length !important;
+    }
+    .pix-#{$abbrev}r-#{$size},
+    .pix-#{$abbrev}x-#{$size} {
+      #{$prop}-right: $length !important;
+    }
+    .pix-#{$abbrev}b-#{$size},
+    .pix-#{$abbrev}y-#{$size} {
+      #{$prop}-bottom: $length !important;
+    }
+    .pix-#{$abbrev}l-#{$size},
+    .pix-#{$abbrev}x-#{$size} {
+      #{$prop}-left: $length !important;
+    }
+  }
+}

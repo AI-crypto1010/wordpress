@@ -1,0 +1,909 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WP File Manager\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-02-28 12:14+0530\n"
+"PO-Revision-Date: 2022-03-02 10:15+0530\n"
+"Last-Translator: admin <munishthedeveloper48@gmail.com>\n"
+"Language-Team: \n"
+"Language: th\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Poedit 3.0.1\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: file_folder_manager.php:174
+msgid "Themes backup restored successfully."
+msgstr "สำรองข้อมูลธีมสำเร็จแล้ว"
+
+#: file_folder_manager.php:177
+msgid "Unable to restore themes."
+msgstr "ไม่สามารถกู้คืนธีมได้"
+
+#: file_folder_manager.php:207
+msgid "Uploads backup restored successfully."
+msgstr "กู้คืนข้อมูลสำรองการอัปโหลดสำเร็จแล้ว"
+
+#: file_folder_manager.php:211
+msgid "Unable to restore uploads."
+msgstr "ไม่สามารถกู้คืนการอัปโหลด"
+
+#: file_folder_manager.php:237
+msgid "Others backup restored successfully."
+msgstr "กู้คืนข้อมูลสำรองอื่นสำเร็จแล้ว"
+
+#: file_folder_manager.php:241
+msgid "Unable to restore others."
+msgstr "ไม่สามารถกู้คืนผู้อื่นได้"
+
+#: file_folder_manager.php:267
+msgid "Plugins backup restored successfully."
+msgstr "สำรองข้อมูลปลั๊กอินสำเร็จแล้ว"
+
+#: file_folder_manager.php:271 file_folder_manager.php:301
+msgid "Unable to restore plugins."
+msgstr "ไม่สามารถกู้คืนปลั๊กอินได้"
+
+#: file_folder_manager.php:286
+msgid "Database backup restored successfully."
+msgstr "กู้คืนการสำรองฐานข้อมูลเรียบร้อยแล้ว"
+
+#: file_folder_manager.php:286 file_folder_manager.php:297 file_folder_manager.php:588 file_folder_manager.php:592
+msgid "All Done"
+msgstr "ทุกอย่างเสร็จเรียบร้อย"
+
+#: file_folder_manager.php:289
+msgid "Unable to restore DB backup."
+msgstr "ไม่สามารถกู้คืนข้อมูลสำรอง DB"
+
+#: file_folder_manager.php:347
+msgid "Backups removed successfully!"
+msgstr "ลบข้อมูลสำรองเรียบร้อยแล้ว!"
+
+#: file_folder_manager.php:349
+msgid "Unable to removed backup!"
+msgstr "ลบข้อมูลสำรองไม่ได้!"
+
+#: file_folder_manager.php:373
+msgid "Database backup done on date "
+msgstr "สำรองข้อมูลฐานข้อมูลเสร็จในวันที่ "
+
+#: file_folder_manager.php:377
+msgid "Plugins backup done on date "
+msgstr "การสำรองข้อมูลปลั๊กอินเสร็จสิ้นในวันที่ "
+
+#: file_folder_manager.php:381
+msgid "Themes backup done on date "
+msgstr "การสำรองข้อมูลธีมเสร็จสิ้นในวันที่ "
+
+#: file_folder_manager.php:385
+msgid "Uploads backup done on date "
+msgstr "อัปโหลดการสำรองข้อมูลเสร็จสิ้นในวันที่ "
+
+#: file_folder_manager.php:389
+msgid "Others backup done on date "
+msgstr "การสำรองข้อมูลอื่น ๆ เสร็จสิ้นในวันที่ "
+
+#: file_folder_manager.php:393 file_folder_manager.php:776
+msgid "Logs"
+msgstr "บันทึก"
+
+#: file_folder_manager.php:399
+msgid "No logs found!"
+msgstr "ไม่พบบันทึก!"
+
+#: file_folder_manager.php:496
+msgid "Nothing selected for backup"
+msgstr "ไม่ได้เลือกอะไรไว้สำหรับการสำรองข้อมูล"
+
+#: file_folder_manager.php:516
+msgid "Security Issue."
+msgstr "ปัญหาด้านความปลอดภัย"
+
+#: file_folder_manager.php:527
+msgid "Database backup done."
+msgstr "สำรองข้อมูลฐานข้อมูลเรียบร้อยแล้ว"
+
+#: file_folder_manager.php:530
+msgid "Unable to create database backup."
+msgstr "ไม่สามารถสร้างการสำรองฐานข้อมูล"
+
+#: file_folder_manager.php:544
+msgid "Plugins backup done."
+msgstr "สำรองข้อมูลปลั๊กอินเสร็จแล้ว"
+
+#: file_folder_manager.php:547
+msgid "Plugins backup failed."
+msgstr "การสำรองข้อมูลปลั๊กอินล้มเหลว"
+
+#: file_folder_manager.php:556
+msgid "Themes backup done."
+msgstr "สำรองข้อมูลธีมเสร็จแล้ว"
+
+#: file_folder_manager.php:559
+msgid "Themes backup failed."
+msgstr "การสำรองข้อมูลธีมล้มเหลว"
+
+#: file_folder_manager.php:569
+msgid "Uploads backup done."
+msgstr "อัปโหลดสำรองข้อมูลเสร็จแล้ว"
+
+#: file_folder_manager.php:572
+msgid "Uploads backup failed."
+msgstr "การสำรองข้อมูลการอัปโหลดล้มเหลว"
+
+#: file_folder_manager.php:581
+msgid "Others backup done."
+msgstr "สำรองข้อมูลอื่นเสร็จแล้ว"
+
+#: file_folder_manager.php:584
+msgid "Others backup failed."
+msgstr "การสำรองข้อมูลอื่นล้มเหลว"
+
+#: file_folder_manager.php:761 file_folder_manager.php:762 lib/wpfilemanager.php:23
+msgid "WP File Manager"
+msgstr "ตัวจัดการไฟล์ WP"
+
+#: file_folder_manager.php:769
+msgid "Settings"
+msgstr "การตั้งค่า"
+
+#: file_folder_manager.php:771 inc/root.php:48
+msgid "Preferences"
+msgstr "การตั้งค่า"
+
+#: file_folder_manager.php:773
+msgid "System Properties"
+msgstr "คุณสมบัติของระบบ"
+
+#: file_folder_manager.php:775
+msgid "Shortcode - PRO"
+msgstr "รหัสย่อ - PRO"
+
+#: file_folder_manager.php:777
+msgid "Backup/Restore"
+msgstr "สำรอง/กู้คืน"
+
+#: file_folder_manager.php:1033
+msgid "Buy Pro"
+msgstr "ซื้อโปร"
+
+#: file_folder_manager.php:1034
+msgid "Donate"
+msgstr "บริจาค"
+
+#: file_folder_manager.php:1249
+msgid ""
+"<div class=\"updated settings-error notice is-dismissible\" id=\"setting-error-settings_updated\"> \n"
+"<p><strong>"
+msgstr ""
+
+#: file_folder_manager.php:1256
+msgid ""
+"<div class=\"error settings-error notice is-dismissible\" id=\"setting-error-settings_updated\"> \n"
+"<p><strong>"
+msgstr ""
+
+#: file_folder_manager.php:1395 file_folder_manager.php:1483
+msgid "File doesn't exist to download."
+msgstr "ไม่มีไฟล์ให้ดาวน์โหลด"
+
+#: file_folder_manager.php:1400 file_folder_manager.php:1488
+msgid "Invalid Security Code."
+msgstr "รหัสความปลอดภัยไม่ถูกต้อง."
+
+#: file_folder_manager.php:1405 file_folder_manager.php:1493
+msgid "Missing backup id."
+msgstr "ไม่มีรหัสสำรอง"
+
+#: file_folder_manager.php:1408 file_folder_manager.php:1496
+msgid "Missing parameter type."
+msgstr "ไม่มีประเภทพารามิเตอร์"
+
+#: file_folder_manager.php:1411 file_folder_manager.php:1499
+msgid "Missing required parameters."
+msgstr "ไม่มีพารามิเตอร์ที่จำเป็น"
+
+#: inc/backup.php:24
+msgid ""
+"Error: Unable to restore backup because database backup is heavy in size. Please try to increase Maximum allowed size  from Preferences "
+"settings."
+msgstr "ข้อผิดพลาด: ไม่สามารถกู้คืนข้อมูลสำรองได้เนื่องจากการสำรองข้อมูลฐานข้อมูลมีขนาดใหญ่ โปรดลองเพิ่มขนาดสูงสุดที่อนุญาตจากการตั้งค่าการตั้งค่า"
+
+#: inc/backup.php:25
+msgid "Select backup(s) to delete!"
+msgstr "เลือกข้อมูลสำรองที่จะลบ!"
+
+#: inc/backup.php:26
+msgid "Are you sure want to remove selected backup(s)?"
+msgstr "คุณแน่ใจหรือไม่ว่าต้องการลบข้อมูลสำรองที่เลือก"
+
+#: inc/backup.php:31
+msgid "Backup is running, please wait"
+msgstr "กำลังสำรองข้อมูล โปรดรอสักครู่"
+
+#: inc/backup.php:32
+msgid "Restore is running, please wait"
+msgstr "กำลังดำเนินการกู้คืน โปรดรอสักครู่"
+
+#: inc/backup.php:33
+msgid "Nothing selected for backup."
+msgstr "ไม่ได้เลือกอะไรไว้สำหรับการสำรองข้อมูล"
+
+#: inc/backup.php:45
+msgid "WP File Manager - Backup/Restore"
+msgstr "WP File Manager - สำรอง/กู้คืน"
+
+#: inc/backup.php:51
+msgid "Backup Options:"
+msgstr "ตัวเลือกการสำรองข้อมูล:"
+
+#: inc/backup.php:58
+msgid "Database Backup"
+msgstr "สำรองฐานข้อมูล"
+
+#: inc/backup.php:64
+msgid "Files Backup"
+msgstr "ไฟล์สำรอง"
+
+#: inc/backup.php:68
+msgid "Plugins"
+msgstr "ปลั๊กอิน"
+
+#: inc/backup.php:71
+msgid "Themes"
+msgstr "ธีม"
+
+#: inc/backup.php:74
+msgid "Uploads"
+msgstr "อัพโหลด"
+
+#: inc/backup.php:77
+msgid "Others (Any other directories found inside wp-content)"
+msgstr "อื่น ๆ (ไดเร็กทอรีอื่น ๆ ที่พบใน wp-content)"
+
+#: inc/backup.php:81
+msgid "Backup Now"
+msgstr "การสำรองข้อมูลในขณะนี้"
+
+#: inc/backup.php:89
+msgid "Time now"
+msgstr "เวลาในขณะนี้"
+
+#: inc/backup.php:99
+msgid "SUCCESS"
+msgstr "ความสำเร็จ"
+
+#: inc/backup.php:101
+msgid "Backup successfully deleted."
+msgstr "ลบข้อมูลสำรองเรียบร้อยแล้ว"
+
+#: inc/backup.php:102
+msgid "Ok"
+msgstr "ตกลง"
+
+#: inc/backup.php:117
+msgid "DELETE FILES"
+msgstr "ลบไฟล์"
+
+#: inc/backup.php:119
+msgid "Are you sure you want to delete this backup?"
+msgstr "คุณแน่ใจหรือไม่ว่าต้องการลบข้อมูลสำรองนี้"
+
+#: inc/backup.php:120 inc/backup.php:139
+msgid "Cancel"
+msgstr "ยกเลิก"
+
+#: inc/backup.php:121 inc/backup.php:140
+msgid "Confirm"
+msgstr "ยืนยัน"
+
+#: inc/backup.php:136
+msgid "RESTORE FILES"
+msgstr "กู้คืนไฟล์"
+
+#: inc/backup.php:138
+msgid "Are you sure you want to restore this backup?"
+msgstr "คุณแน่ใจหรือไม่ว่าต้องการคืนค่าข้อมูลสำรองนี้"
+
+#: inc/backup.php:166
+msgid "Last Log Message"
+msgstr "ข้อความบันทึกล่าสุด"
+
+#: inc/backup.php:169
+msgid "The backup apparently succeeded and is now complete."
+msgstr "เห็นได้ชัดว่าการสำรองข้อมูลสำเร็จและตอนนี้เสร็จสมบูรณ์แล้ว"
+
+#: inc/backup.php:171
+msgid "No log message"
+msgstr "ไม่มีข้อความบันทึก"
+
+#: inc/backup.php:177
+msgid "Existing Backup(s)"
+msgstr "ข้อมูลสำรองที่มีอยู่"
+
+#: inc/backup.php:184
+msgid "Backup Date"
+msgstr "วันที่สำรอง"
+
+#: inc/backup.php:187
+msgid "Backup data (click to download)"
+msgstr "สำรองข้อมูล (คลิกเพื่อดาวน์โหลด)"
+
+#: inc/backup.php:190
+msgid "Action"
+msgstr "หนังบู๊"
+
+#: inc/backup.php:210
+msgid "Today"
+msgstr "วันนี้"
+
+#: inc/backup.php:239
+msgid "Restore"
+msgstr "คืนค่า"
+
+#: inc/backup.php:240 inc/backup.php:250
+msgid "Delete"
+msgstr "ลบ"
+
+#: inc/backup.php:241
+msgid "View Log"
+msgstr "ดูบันทึก"
+
+#: inc/backup.php:246
+msgid "Currently no backup(s) found."
+msgstr "ไม่พบข้อมูลสำรองในขณะนี้"
+
+#: inc/backup.php:249
+msgid "Actions upon selected backup(s)"
+msgstr "การดำเนินการกับข้อมูลสำรองที่เลือก"
+
+#: inc/backup.php:251
+msgid "Select All"
+msgstr "เลือกทั้งหมด"
+
+#: inc/backup.php:252
+msgid "Deselect"
+msgstr "ยกเลิกการเลือก"
+
+#: inc/backup.php:254
+msgid "Note:"
+msgstr "บันทึก:"
+
+#: inc/backup.php:254
+msgid "Backup files will be under"
+msgstr "ไฟล์สำรองจะอยู่ภายใต้"
+
+#: inc/contribute.php:3
+msgid "WP File Manager Contribution"
+msgstr "การสนับสนุนตัวจัดการไฟล์ WP"
+
+#: inc/logs.php:7
+msgid "Note: These are demo screenshots. Please buy File Manager pro to Logs functions."
+msgstr "หมายเหตุ: นี่เป็นภาพหน้าจอสาธิต โปรดซื้อฟังก์ชัน File Manager pro to Logs"
+
+#: inc/logs.php:8 lib/wpfilemanager.php:24
+msgid "Click to Buy PRO"
+msgstr "คลิกเพื่อซื้อ PRO"
+
+#: inc/logs.php:8 inc/settings.php:12 inc/settings.php:27 inc/system_properties.php:5 lib/wpfilemanager.php:25
+msgid "Buy PRO"
+msgstr "ซื้อโปร"
+
+#: inc/logs.php:9
+msgid "Edit Files Logs"
+msgstr "แก้ไขไฟล์บันทึก"
+
+#: inc/logs.php:11
+msgid "Download Files Logs"
+msgstr "ดาวน์โหลดไฟล์บันทึก"
+
+#: inc/logs.php:13
+msgid "Upload Files Logs"
+msgstr "อัปโหลดไฟล์บันทึก"
+
+#: inc/root.php:43
+msgid "Settings saved."
+msgstr "การตั้งค่าที่บันทึกไว้."
+
+#: inc/root.php:43 inc/root.php:46
+msgid "Dismiss this notice."
+msgstr "ปิดประกาศนี้"
+
+#: inc/root.php:46
+msgid "You have not made any changes to be saved."
+msgstr "คุณยังไม่ได้ทำการเปลี่ยนแปลงใด ๆ เพื่อบันทึก"
+
+#: inc/root.php:55
+msgid "Public Root Path"
+msgstr "เส้นทางรูตสาธารณะ"
+
+#: inc/root.php:58
+msgid "File Manager Root Path, you can change according to your choice."
+msgstr "File Manager Root Path คุณสามารถเปลี่ยนได้ตามต้องการ"
+
+#: inc/root.php:59
+msgid "Default:"
+msgstr "ค่าเริ่มต้น:"
+
+#: inc/root.php:60
+msgid "Please change this carefully, wrong path can lead file manager plugin to go down."
+msgstr "โปรดเปลี่ยนอย่างระมัดระวัง เส้นทางที่ไม่ถูกต้องอาจทำให้ปลั๊กอินตัวจัดการไฟล์หยุดทำงาน"
+
+#: inc/root.php:64
+msgid "Enable Trash?"
+msgstr "เปิดใช้งานถังขยะหรือไม่"
+
+#: inc/root.php:67
+msgid "After enable trash, your files will go to trash folder."
+msgstr "หลังจากเปิดใช้งานถังขยะ ไฟล์ของคุณจะไปที่โฟลเดอร์ถังขยะ"
+
+#: inc/root.php:72
+msgid "Enable Files Upload to Media Library?"
+msgstr "เปิดใช้งานการอัปโหลดไฟล์ไปยัง Media Library หรือไม่"
+
+#: inc/root.php:75
+msgid "After enabling this all files will go to media library."
+msgstr "หลังจากเปิดใช้งานนี้ ไฟล์ทั้งหมดจะไปที่ไลบรารีสื่อ"
+
+#: inc/root.php:80
+msgid "Maximum allowed size at the time of database backup restore."
+msgstr "ขนาดสูงสุดที่อนุญาตในขณะที่กู้คืนการสำรองฐานข้อมูล"
+
+#: inc/root.php:83
+msgid "MB"
+msgstr ""
+
+#: inc/root.php:85
+msgid "Please increase field value if you are getting error message at the time of backup restore."
+msgstr "โปรดเพิ่มค่าฟิลด์หากคุณได้รับข้อความแสดงข้อผิดพลาดในขณะที่กู้คืนข้อมูลสำรอง"
+
+#: inc/root.php:90
+msgid "Save Changes"
+msgstr "บันทึกการเปลี่ยนแปลง"
+
+#: inc/settings.php:10
+msgid "Settings - General"
+msgstr "การตั้งค่า - ทั่วไป"
+
+#: inc/settings.php:11 inc/settings.php:26
+msgid "Note: This is just a demo screenshot. To get settings please buy our pro version."
+msgstr "หมายเหตุ: นี่เป็นเพียงภาพหน้าจอสาธิตเท่านั้น หากต้องการตั้งค่าโปรดซื้อเวอร์ชัน Pro ของเรา"
+
+#: inc/settings.php:13
+msgid ""
+"Here admin can give access to user roles to use filemanager. Admin can set Default Access Folder and also control upload size of "
+"filemanager."
+msgstr "ที่นี่ผู้ดูแลระบบสามารถให้สิทธิ์การเข้าถึงบทบาทผู้ใช้เพื่อใช้ filemanager ผู้ดูแลระบบสามารถตั้งค่าโฟลเดอร์การเข้าถึงข้อมูลเริ่มต้นและควบคุมขนาดการอัพโหลดไฟล์ได้"
+
+#: inc/settings.php:15
+msgid "Settings - Code-editor"
+msgstr "การตั้งค่า - Code-editor"
+
+#: inc/settings.php:16
+msgid ""
+"File Manager has a code editor with multiple themes. You can select any theme for code editor. It will display when you edit any file. "
+"Also you can allow fullscreen mode of code editor."
+msgstr ""
+"ตัวจัดการไฟล์มีตัวแก้ไขโค้ดที่มีหลายธีม คุณสามารถเลือกธีมสำหรับโปรแกรมแก้ไขโค้ดได้ จะปรากฏขึ้นเมื่อคุณแก้ไขไฟล์ใด ๆ "
+"นอกจากนี้คุณสามารถอนุญาตให้ใช้โหมดเต็มหน้าจอของตัวแก้ไขโค้ด"
+
+#: inc/settings.php:18
+msgid "Code-editor View"
+msgstr "มุมมองตัวแก้ไขโค้ด"
+
+#: inc/settings.php:20
+msgid "Settings - User Restrictions"
+msgstr "การตั้งค่า - ข้อ จำกัด ของผู้ใช้"
+
+#: inc/settings.php:21
+msgid ""
+"Admin can restrict actions of any user. Also hide files and folders and can set different - different folders paths for different users."
+msgstr "ผู้ดูแลระบบสามารถ จำกัด การดำเนินการของผู้ใช้รายใดก็ได้ ซ่อนไฟล์และโฟลเดอร์และสามารถตั้งค่าเส้นทางโฟลเดอร์ที่แตกต่างกันไปสำหรับผู้ใช้ที่แตกต่างกัน"
+
+#: inc/settings.php:23
+msgid "Settings - User Role Restrictions"
+msgstr "การตั้งค่า - ข้อ จำกัด บทบาทของผู้ใช้"
+
+#: inc/settings.php:24
+msgid ""
+"Admin can restrict actions of any userrole. Also hide files and folders and can set different - different folders paths for different "
+"users roles."
+msgstr "ผู้ดูแลระบบสามารถ จำกัด การดำเนินการของ userrol ใดก็ได้ ซ่อนไฟล์และโฟลเดอร์และสามารถตั้งค่าเส้นทางโฟลเดอร์ที่ต่างกันสำหรับบทบาทผู้ใช้ที่แตกต่างกัน"
+
+#: inc/shortcode_docs.php:11
+msgid "File Manager - Shortcode"
+msgstr "ตัวจัดการไฟล์ - รหัสย่อ"
+
+#: inc/shortcode_docs.php:15 inc/shortcode_docs.php:17 inc/shortcode_docs.php:19
+msgid "USE:"
+msgstr "ใช้:"
+
+#: inc/shortcode_docs.php:15
+msgid ""
+"It will show file manager on front end. You can control all settings from file manager settings. It will work same as backend WP File "
+"Manager."
+msgstr "มันจะแสดงตัวจัดการไฟล์ที่ส่วนหน้า คุณสามารถควบคุมการตั้งค่าทั้งหมดได้จากการตั้งค่าตัวจัดการไฟล์ มันจะทำงานเหมือนกับตัวจัดการไฟล์ WP แบ็กเอนด์"
+
+#: inc/shortcode_docs.php:17
+msgid "It will show file manager on front end. But only Administrator can access it and will control from file manager settings."
+msgstr "มันจะแสดงตัวจัดการไฟล์ที่ส่วนหน้า แต่มีเพียงผู้ดูแลระบบเท่านั้นที่สามารถเข้าถึงได้และจะควบคุมจากการตั้งค่าตัวจัดการไฟล์"
+
+#: inc/shortcode_docs.php:23
+msgid "Parameters:"
+msgstr "พารามิเตอร์:"
+
+#: inc/shortcode_docs.php:26
+msgid ""
+"It will allow all roles to access file manager on front end or You can simple use for particular user roles as like allowed_roles="
+"\"editor,author\" (seprated by comma(,))"
+msgstr ""
+"จะอนุญาตให้ทุกบทบาทเข้าถึงตัวจัดการไฟล์ที่ส่วนหน้าหรือคุณสามารถใช้อย่างง่ายสำหรับบทบาทของผู้ใช้โดยเฉพาะเช่น allowed_roles=\"editor,author"
+"\" (คั่นด้วยเครื่องหมายจุลภาค (,))"
+
+#: inc/shortcode_docs.php:28
+msgid ""
+"Here \"test\" is the name of folder which is located on root directory, or you can give path for sub folders as like \"wp-content/plugins"
+"\". If leave blank or empty it will access all folders on root directory. Default: Root directory"
+msgstr ""
+"ที่นี่ \"test\" คือชื่อโฟลเดอร์ที่อยู่บนไดเร็กทอรี root หรือคุณสามารถกำหนดเส้นทางสำหรับโฟลเดอร์ย่อยได้ เช่น \"wp-content/plugins\" หากปล่อยว่างหรือว่างไว้ "
+"ระบบจะเข้าถึงโฟลเดอร์ทั้งหมดในไดเร็กทอรีราก ค่าเริ่มต้น: ไดเรกทอรีราก"
+
+#: inc/shortcode_docs.php:30
+msgid "for access to write files permissions, note: true/false, default: false"
+msgstr "สำหรับการเข้าถึงสิทธิ์ในการเขียนไฟล์ หมายเหตุ: true/false, default: false"
+
+#: inc/shortcode_docs.php:32
+msgid "for access to read files permission, note: true/false, default: true"
+msgstr "สำหรับการเข้าถึงเพื่ออ่านสิทธิ์ในการอ่านไฟล์ หมายเหตุ: จริง/เท็จ ค่าเริ่มต้น: true"
+
+#: inc/shortcode_docs.php:34
+msgid "it will hide mentioned here. Note: seprated by comma(,). Default: Null"
+msgstr "มันจะซ่อนกล่าวถึงที่นี่ หมายเหตุ: คั่นด้วยเครื่องหมายจุลภาค (,) ค่าเริ่มต้น: Null"
+
+#: inc/shortcode_docs.php:36
+msgid "It will lock mentioned in commas. you can lock more as like \".php,.css,.js\" etc. Default: Null"
+msgstr "มันจะล็อคที่กล่าวถึงในเครื่องหมายจุลภาค คุณสามารถล็อกได้มากขึ้นเช่น \".php,.css,.js\" เป็นต้น ค่าเริ่มต้น: Null"
+
+#: inc/shortcode_docs.php:38
+msgid ""
+"* for all operations and to allow some operation you can mention operation name as like, allowed_operations=\"upload,download\". Note: "
+"seprated by comma(,). Default: *"
+msgstr ""
+"* สำหรับการดำเนินการทั้งหมดและเพื่ออนุญาตให้ดำเนินการบางอย่าง คุณสามารถระบุชื่อการดำเนินการได้ เช่น allowed_operations=\"upload,download\" หมายเหตุ: "
+"คั่นด้วยเครื่องหมายจุลภาค (,) ค่าเริ่มต้น: *"
+
+#: inc/shortcode_docs.php:42
+msgid "File Operations List:"
+msgstr "รายการการทำงานของไฟล์:"
+
+#: inc/shortcode_docs.php:46
+msgid "mkdir ->"
+msgstr ""
+
+#: inc/shortcode_docs.php:46
+msgid "Make directory or folder"
+msgstr "สร้างไดเร็กทอรีหรือโฟลเดอร์"
+
+#: inc/shortcode_docs.php:47
+msgid "mkfile ->"
+msgstr ""
+
+#: inc/shortcode_docs.php:47
+msgid "Make file"
+msgstr "ทำไฟล์"
+
+#: inc/shortcode_docs.php:48
+msgid "rename ->"
+msgstr ""
+
+#: inc/shortcode_docs.php:48
+msgid "Rename a file or folder"
+msgstr "เปลี่ยนชื่อไฟล์หรือโฟลเดอร์"
+
+#: inc/shortcode_docs.php:49
+msgid "duplicate ->"
+msgstr ""
+
+#: inc/shortcode_docs.php:49
+msgid "Duplicate or clone a folder or file"
+msgstr "ทำซ้ำหรือโคลนโฟลเดอร์หรือไฟล์"
+
+#: inc/shortcode_docs.php:50
+msgid "paste ->"
+msgstr ""
+
+#: inc/shortcode_docs.php:50
+msgid "Paste a file or folder"
+msgstr "วางไฟล์หรือโฟลเดอร์"
+
+#: inc/shortcode_docs.php:51
+msgid "ban ->"
+msgstr ""
+
+#: inc/shortcode_docs.php:51
+msgid "Ban"
+msgstr "ห้าม"
+
+#: inc/shortcode_docs.php:52
+msgid "archive ->"
+msgstr ""
+
+#: inc/shortcode_docs.php:52
+msgid "To make a archive or zip"
+msgstr "ในการสร้างไฟล์เก็บถาวรหรือ zip"
+
+#: inc/shortcode_docs.php:53
+msgid "extract ->"
+msgstr ""
+
+#: inc/shortcode_docs.php:53
+msgid "Extract archive or zipped file"
+msgstr "แตกไฟล์เก็บถาวรหรือไฟล์ซิป"
+
+#: inc/shortcode_docs.php:54
+msgid "copy ->"
+msgstr ""
+
+#: inc/shortcode_docs.php:54
+msgid "Copy files or folders"
+msgstr "คัดลอกไฟล์หรือโฟลเดอร์"
+
+#: inc/shortcode_docs.php:58
+msgid "cut ->"
+msgstr ""
+
+#: inc/shortcode_docs.php:58
+msgid "Simple cut a file or folder"
+msgstr "ตัดไฟล์หรือโฟลเดอร์อย่างง่าย"
+
+#: inc/shortcode_docs.php:59
+msgid "edit ->"
+msgstr ""
+
+#: inc/shortcode_docs.php:59
+msgid "Edit a file"
+msgstr "แก้ไขไฟล์"
+
+#: inc/shortcode_docs.php:60
+msgid "rm ->"
+msgstr ""
+
+#: inc/shortcode_docs.php:60
+msgid "Remove or delete files and folders"
+msgstr "ลบหรือลบไฟล์และโฟลเดอร์"
+
+#: inc/shortcode_docs.php:61
+msgid "download ->"
+msgstr ""
+
+#: inc/shortcode_docs.php:61
+msgid "Download files"
+msgstr "ดาวน์โหลดไฟล์"
+
+#: inc/shortcode_docs.php:62
+msgid "upload ->"
+msgstr ""
+
+#: inc/shortcode_docs.php:62
+msgid "Upload files"
+msgstr "อัพโหลดไฟล์"
+
+#: inc/shortcode_docs.php:63
+msgid "search -> "
+msgstr ""
+
+#: inc/shortcode_docs.php:63
+msgid "Search things"
+msgstr "ค้นหาสิ่งของ"
+
+#: inc/shortcode_docs.php:64
+msgid "info ->"
+msgstr ""
+
+#: inc/shortcode_docs.php:64
+msgid "Info of file"
+msgstr "ข้อมูลของไฟล์"
+
+#: inc/shortcode_docs.php:65
+msgid "help ->"
+msgstr ""
+
+#: inc/shortcode_docs.php:65
+msgid "Help"
+msgstr "ช่วยด้วย"
+
+#: inc/shortcode_docs.php:71
+msgid ""
+"->  It will ban particular users by just putting their ids seprated by commas(,). If user is Ban then they will not able to access wp "
+"file manager on front end."
+msgstr "-> มันจะแบนผู้ใช้บางคนโดยเพียงแค่ใส่รหัสของพวกเขาคั่นด้วยเครื่องหมายจุลภาค (,) หากผู้ใช้ถูกแบน พวกเขาจะเข้าถึงตัวจัดการไฟล์ wp ที่ส่วนหน้าไม่ได้"
+
+#: inc/shortcode_docs.php:72
+msgid "-> Filemanager UI View. Default: grid"
+msgstr "-> มุมมอง UI ตัวจัดการไฟล์ ค่าเริ่มต้น: grid"
+
+#: inc/shortcode_docs.php:73
+msgid "-> File Modified or Create date format. Default: d M, Y h:i A"
+msgstr "-> ไฟล์ที่แก้ไขหรือสร้างรูปแบบวันที่ ค่าเริ่มต้น: d M, Y h:i A"
+
+#: inc/shortcode_docs.php:74
+msgid "-> File manager Language. Default: English(en)"
+msgstr "-> ภาษาของตัวจัดการไฟล์ ค่าเริ่มต้น: English(en)"
+
+#: inc/shortcode_docs.php:75
+msgid "-> File Manager Theme. Default: Light"
+msgstr "-> ภาษาของตัวจัดการไฟล์ ค่าเริ่มต้น: English(en)"
+
+#: inc/system_properties.php:5
+msgid "File Manager - System Properties"
+msgstr "ตัวจัดการไฟล์ - คุณสมบัติของระบบ"
+
+#: inc/system_properties.php:10
+msgid "PHP version"
+msgstr "เวอร์ชัน PHP"
+
+#: inc/system_properties.php:15
+msgid "Maximum file upload size (upload_max_filesize)"
+msgstr "ขนาดการอัปโหลดไฟล์สูงสุด (upload_max_filesize)"
+
+#: inc/system_properties.php:20
+msgid "Post maximum file upload size (post_max_size)"
+msgstr "ขนาดไฟล์อัพโหลดสูงสุด (post_max_size)"
+
+#: inc/system_properties.php:25
+msgid "Memory Limit (memory_limit)"
+msgstr "หน่วยความจำ จำกัด (memory_limit)"
+
+#: inc/system_properties.php:30
+msgid "Timeout (max_execution_time)"
+msgstr "หมดเวลา (max_execution_time)"
+
+#: inc/system_properties.php:35
+msgid "Browser and OS (HTTP_USER_AGENT)"
+msgstr "เบราว์เซอร์และระบบปฏิบัติการ (HTTP_USER_AGENT)"
+
+#: lib/jquery/jquery-ui-1.11.4.js:8
+msgid "'"
+msgstr ""
+
+#: lib/wpfilemanager.php:31
+msgid "Change Theme Here:"
+msgstr "เปลี่ยนธีมที่นี่:"
+
+#: lib/wpfilemanager.php:35
+msgid "Default"
+msgstr "ค่าเริ่มต้น"
+
+#: lib/wpfilemanager.php:39
+msgid "Dark"
+msgstr "มืด"
+
+#: lib/wpfilemanager.php:43
+msgid "Light"
+msgstr "เบา"
+
+#: lib/wpfilemanager.php:47
+msgid "Gray"
+msgstr "สีเทา"
+
+#: lib/wpfilemanager.php:52
+msgid "Windows - 10"
+msgstr ""
+
+#: lib/wpfilemanager.php:85
+msgid "Welcome to File Manager"
+msgstr "ยินดีต้อนรับสู่ตัวจัดการไฟล์"
+
+#: lib/wpfilemanager.php:88
+msgid ""
+"We love making new friends! Subscribe below and we promise to\n"
+"    keep you up-to-date with our latest new plugins, updates,\n"
+"    awesome deals and a few special offers."
+msgstr ""
+"เราชอบหาเพื่อนใหม่! สมัครสมาชิกด้านล่างและเราสัญญาว่าจะ\n"
+"    แจ้งให้คุณทราบเกี่ยวกับปลั๊กอิน อัปเดต ใหม่ล่าสุดของเรา\n"
+"    ข้อเสนอสุดพิเศษและข้อเสนอพิเศษไม่กี่อย่าง"
+
+#: lib/wpfilemanager.php:99
+msgid "Please Enter First Name."
+msgstr "กรุณาใส่ชื่อ."
+
+#: lib/wpfilemanager.php:107
+msgid "Please Enter Last Name."
+msgstr "กรุณาใส่นามสกุล"
+
+#: lib/wpfilemanager.php:116
+msgid "Please Enter Email Address."
+msgstr "กรุณากรอกอีเมล์"
+
+#: lib/wpfilemanager.php:120
+msgid "Verify"
+msgstr "ยืนยัน"
+
+#: lib/wpfilemanager.php:126
+msgid "No Thanks"
+msgstr "ไม่เป็นไรขอบคุณ"
+
+#: lib/wpfilemanager.php:132
+msgid "Terms of Service"
+msgstr "เงื่อนไขการให้บริการ"
+
+#: lib/wpfilemanager.php:134
+msgid "Privacy Policy"
+msgstr "นโยบายความเป็นส่วนตัว"
+
+#: lib/wpfilemanager.php:153
+msgid "Saving..."
+msgstr "ประหยัด..."
+
+#: lib/wpfilemanager.php:155
+msgid "OK"
+msgstr "ตกลง"
+
+#~ msgid "Backup not found!"
+#~ msgstr "ไม่พบข้อมูลสำรอง!"
+
+#~ msgid "Backup removed successfully!"
+#~ msgstr "ลบข้อมูลสำรองเรียบร้อยแล้ว!"
+
+#~ msgid "<span class=\"fm_console_error\">Nothing selected for backup</span>"
+#~ msgstr "<span class=\"fm_console_error\">ไม่ได้เลือกไว้สำหรับการสำรองข้อมูล</span>"
+
+#~ msgid "<span class=\"fm_console_error\">Security Issue.</span>"
+#~ msgstr "<span class=\"fm_console_error\">ปัญหาด้านความปลอดภัย</span>"
+
+#~ msgid "<span class=\"fm_console_success\">Database backup done.</span>"
+#~ msgstr "<span class=\"fm_console_success\">สำรองข้อมูลฐานข้อมูลเรียบร้อยแล้ว</span>"
+
+#~ msgid "<span class=\"fm_console_error\">Unable to create database backup.</span>"
+#~ msgstr "<span class=\"fm_console_error\">สร้างการสำรองฐานข้อมูลไม่ได้</span>"
+
+#~ msgid "<span class=\"fm_console_success\">Plugins backup done.</span>"
+#~ msgstr "<span class=\"fm_console_success\">สำรองข้อมูลปลั๊กอินเสร็จแล้ว</span>"
+
+#~ msgid "<span class=\"fm_console_error\">Plugins backup failed.</span>"
+#~ msgstr "<span class=\"fm_console_error\">การสำรองข้อมูลปลั๊กอินล้มเหลว</span>"
+
+#~ msgid "<span class=\"fm_console_success\">Themes backup done.</span>"
+#~ msgstr "<span class=\"fm_console_success\">สำรองข้อมูลธีมเสร็จแล้ว</span>"
+
+#~ msgid "<span class=\"fm_console_error\">Themes backup failed.</span>"
+#~ msgstr "<span class=\"fm_console_error\">การสำรองข้อมูลธีมล้มเหลว</span>"
+
+#~ msgid "<span class=\"fm_console_success\">Uploads backup done.</span>"
+#~ msgstr "<span class=\"fm_console_success\">อัปโหลดการสำรองข้อมูลเสร็จแล้ว</span>"
+
+#~ msgid "<span class=\"fm_console_error\">Uploads backup failed.</span>"
+#~ msgstr "<span class=\"fm_console_error\">การสำรองข้อมูลการอัปโหลดล้มเหลว</span>"
+
+#~ msgid "<span class=\"fm_console_success\">Others backup done.</span>"
+#~ msgstr "<span class=\"fm_console_success\">สำรองข้อมูลอื่นๆ เรียบร้อยแล้ว</span>"
+
+#~ msgid "<span class=\"fm_console_error\">Others backup failed.</span>"
+#~ msgstr "<span class=\"fm_console_error\">การสำรองข้อมูลอื่นๆ ล้มเหลว</span>"
+
+#~ msgid "<span class=\"fm_console_success\">All Done</span>"
+#~ msgstr "<span class=\"fm_console_success\">เสร็จสิ้น</span>"
+
+#~ msgid ""
+#~ "<code>[wp_file_manager view=\"list\" lang=\"en\" theme=\"light\" dateformat=\"d M, Y h:i A\" allowed_roles=\"editor,author\" "
+#~ "access_folder=\"wp-content/plugins\" write = \"true\" read = \"false\" hide_files = \"kumar,abc.php\" lock_extensions=\".php,.css\" "
+#~ "allowed_operations=\"upload,download\" ban_user_ids=\"2,3\"]"
+#~ msgstr ""
+#~ "<code>[wp_file_manager view=\"list\" lang=\"en\" theme=\"light\" dateformat=\"d M, Y h:i A\" allowed_roles=\"editor,author\" "
+#~ "access_folder=\"wp-content/plugins\" write = \"true\" read = \"false\" hide_files = \"kumar,abc.php\" lock_extensions=\".php,.css\" "
+#~ "allowed_operations=\"upload,download\" ban_user_ids=\"2,3\"]"
+
+#~ msgid "Manage your WP files."
+#~ msgstr "จัดการไฟล์ WP ของคุณ"
+
+#~ msgid "Extensions"
+#~ msgstr "ส่วนขยาย"
+
+#~ msgid "Please contribute some donation, to make plugin more stable. You can pay amount of your choice."
+#~ msgstr "โปรดบริจาคเงินเพื่อทำให้ปลั๊กอินมีเสถียรภาพมากขึ้น คุณสามารถจ่ายเงินตามที่คุณต้องการได้"

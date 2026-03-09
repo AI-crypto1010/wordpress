@@ -1,0 +1,45 @@
+{
+  "apiVersion": 2,
+  "name": "pixfort-core/pix-promo-box",
+  "title": "pixfort Promo Box",
+  "category": "widgets",
+  "icon": "megaphone",
+  "description": "A block to display a promo box.",
+  "supports": {
+    "html": false
+  },
+  "attributes": {
+    "bg_img": {
+      "type": "number",
+      "default": 0
+    },
+    "bg_img_url": {
+      "type": "string",
+      "default": ""
+    },
+    "badge": {
+      "type": "string",
+      "default": ""
+    },
+    "heading": {
+      "type": "string",
+      "default": "Promo box heading"
+    },
+    "link_text": {
+      "type": "string",
+      "default": "Check it out"
+    },
+    "link": {
+      "type": "string",
+      "default": "#"
+    },
+    "blank": {
+      "type": "string",
+      "default": ""
+    }
+  },
+  "textdomain": "pixfort-core",
+  "editorScript": "file:./index.js",
+  "render": "file:./render.php",
+  "editorStyle": "file:./style-index.css"
+}

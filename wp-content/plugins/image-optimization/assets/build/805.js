@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkimage_optimization=globalThis.webpackChunkimage_optimization||[]).push([[805],{1805(e){e.exports=JSON.parse('{"example":{"component":"Örnek Bileşen"}}')}}]);

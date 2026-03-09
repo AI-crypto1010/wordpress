@@ -1,0 +1,57 @@
+/**
+ * elFinder Theme Template
+ * @author lokothodida
+ */
+
+/* Reset */
+@import url('reset.css');
+
+/* Google Fonts */
+@import url('//fonts.googleapis.com/css?family=Open+Sans:300');
+
+/* Main features of the whole UI */
+@import url('main.css');
+
+/* Icons */
+@import url('icons.css');
+
+/* Toolbar (top panel) */
+@import url('toolbar.css');
+
+/* Navbar (left panel) */
+@import url('navbar.css');
+
+/* Views (List and Thumbnail) */
+@import url('view-list.css');
+@import url('view-thumbnail.css');
+
+/* Context menu */
+@import url('contextmenu.css');
+
+/* (Modal) Dialogs */
+@import url('dialog.css');
+
+/* Status Bar */
+@import url('statusbar.css');
+
+
+.elfinder .elfinder-button-search input {
+font-weight: 100;
+}
+.elfinder .elfinder-button-search-menu {
+	top: 32px;
+}
+.ui-widget-content.elfinder-edit-editor{
+	width:auto;
+}
+.std42-dialog .ui-dialog-titlebar .elfinder-titlebar-button .ui-icon {
+	background-image: url("../images/ui-icons_default_theme256x240.png");
+}
+.std42-dialog .ui-dialog-titlebar .elfinder-titlebar-button.elfinder-titlebar-button-right .ui-icon.ui-icon-closethick{
+	display:none;
+}
+.ui-button.ui-state-active:hover {
+    background: #217dbb;
+    color: #fff;
+    border: none;
+}

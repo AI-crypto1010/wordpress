@@ -1,0 +1,156 @@
+.elementor-element {
+    overflow: hidden;
+}
+.elementor-control-section_bottom_dividers .elementor-control-content,
+.elementor-control-section_top_dividers .elementor-control-content,
+.elementor-control-pix_drop_animation_section .elementor-control-content,
+.elementor-control-pix_effects_section .elementor-control-content {
+    background: linear-gradient(to right, #5c96f6, #c757be, #ea4157);
+}
+.pix-elementor-section-logo {
+    float: right;
+    width: 20px;
+    position: absolute;
+    right: 20px;
+    top: 14px !important;
+    height: 20px !important;
+}
+/* Gradient field */
+.elementor-gradient-control-field {
+    width: 100%;
+    display: block;
+}
+.pix-gradient-label { margin-bottom: 20px; }
+.pix-gradient-label .elementor-control-responsive-switchers { float: right;top: 5px; }
+.elementor-control-pix-gradient-wrapper { width: 100%;display: block; }
+.pix-label-margin { margin-bottom: 10px; }
+
+.elementor-element .elementor-element-title-wrapper .title{
+    font-size: 12px;
+}
+.elementor-element .pixfort-elementor-element {
+    position: relative;
+    width: 100%;
+    height: 80px;
+    margin-top: -15px;
+    background-size: contain;
+    display: block;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-color: #efefef;
+}
+.elementor-element .pixfort-elementor-element:before { opacity: 0; }
+.elementor-element .pixfort-elementor-accordion { background-image: url('../../images/elements/accordion.gif'); }
+.elementor-element .pixfort-elementor-alert { background-image: url('../../images/elements/alert.png');background-color: #fff; }
+.elementor-element .pixfort-elementor-animated-heading { background-image: url('../../images/elements/animated-heading.gif');background-color: #fff; }
+.elementor-element .pixfort-elementor-auto-video { background-image: url('../../images/elements/auto-video.gif');background-color: #fff; }
+.elementor-element .pixfort-elementor-badge { background-image: url('../../images/elements/badge.png');background-color: #222; }
+.elementor-element .pixfort-elementor-blog { background-image: url('../../images/elements/blog.png');background-color: #e9ecef; }
+.elementor-element .pixfort-elementor-blog-carousel { background-image: url('../../images/elements/blog-carousel.png');background-color: #e9ecef; }
+.elementor-element .pixfort-elementor-button { background-image: url('../../images/elements/button.png');background-color: #d5e8fe; }
+.elementor-element .pixfort-elementor-card-wide { background-image: url('../../images/elements/card-wide.png');background-color: #e9ecef; }
+.elementor-element .pixfort-elementor-card { background-image: url('../../images/elements/card.png');background-color: #e9ecef; }
+.elementor-element .pixfort-elementor-chart { background-image: url('../../images/elements/chart.jpg');background-color: #fff; }
+.elementor-element .pixfort-elementor-circles { background-image: url('../../images/elements/circles.png');background-color: #fff; }
+.elementor-element .pixfort-elementor-clients-carousel { background-image: url('../../images/elements/clients-carousel.png');background-color: #e9ecef; }
+.elementor-element .pixfort-elementor-clients { background-image: url('../../images/elements/clients.png');background-color: #e9ecef; }
+.elementor-element .pixfort-elementor-comparison-table { background-image: url('../../images/elements/comparison-table.png');background-color: #f8f9fa; }
+.elementor-element .pixfort-elementor-countdown { background-image: url('../../images/elements/countdown.png');background-color: #ffc168; }
+.elementor-element .pixfort-elementor-cta { background-image: url('../../images/elements/cta.jpg');background-color: #e9ecef; }
+.elementor-element .pixfort-elementor-dividers { background-image: url('../../images/elements/dynamic-divider.gif');background-color: #222; }
+.elementor-element .pixfort-elementor-event { background-image: url('../../images/elements/event.png'); }
+.elementor-element .pixfort-elementor-fancy-mockup { background-image: url('../../images/elements/fancy-mockup.apng');background-color: #fff; }
+.elementor-element .pixfort-elementor-fancy-box { background-image: url('../../images/elements/fancy-box.jpg');background-color: #fff; }
+.elementor-element .pixfort-elementor-faq { background-image: url('../../images/elements/faq.png'); }
+.elementor-element .pixfort-elementor-features-list { background-image: url('../../images/elements/features-list.jpg'); }
+.elementor-element .pixfort-elementor-feature { background-image: url('../../images/elements/feature.png'); }
+.elementor-element .pixfort-elementor-gallery { background-image: url('../../images/elements/gallery.png');background-color: #f8f9fa; }
+.elementor-element .pixfort-elementor-heading { background-image: url('../../images/elements/heading.png'); }
+.elementor-element .pixfort-elementor-highlighted-text { background-image: url('../../images/elements/highlighted-text.png');background-color: #fff; }
+.elementor-element .pixfort-elementor-icon { background-image: url('../../images/elements/icon.png');background-color: #fff; }
+.elementor-element .pixfort-elementor-image { background-image: url('../../images/elements/image.jpg');background-color: #e8ecee; }
+.elementor-element .pixfort-elementor-image-carousel { background-image: url('../../images/elements/image-carousel.png'); }
+.elementor-element .pixfort-elementor-image-box { background-image: url('../../images/elements/image-box.jpg');background-color: #fff; }
+.elementor-element .pixfort-elementor-image-slider { background-image: url('../../images/elements/image-slider.png'); }
+.elementor-element .pixfort-elementor-levels { background-image: url('../../images/elements/levels.png');background-color: #fff; }
+.elementor-element .pixfort-elementor-maps { background-image: url('../../images/elements/maps.png');background-color: #222; }
+.elementor-element .pixfort-elementor-numbers { background-image: url('../../images/elements/numbers.gif');background-color: #222; }
+.elementor-element .pixfort-elementor-testimonial { background-image: url('../../images/elements/testimonial.png'); }
+.elementor-element .pixfort-elementor-testimonials-masonry { background-image: url('../../images/elements/testimonials-masonry.png');background-color: #222; }
+.elementor-element .pixfort-elementor-testimonials-carousel { background-image: url('../../images/elements/testimonials-carousel.png'); }
+.elementor-element .pixfort-elementor-promo-box { background-image: url('../../images/elements/promo-box.png'); }
+.elementor-element .pixfort-elementor-photo-box { background-image: url('../../images/elements/photo-box.png');background-color: #fff; }
+.elementor-element .pixfort-elementor-photo-stack { background-image: url('../../images/elements/photo-stack.png');background-color: #fff; }
+.elementor-element .pixfort-elementor-pricing { background-image: url('../../images/elements/pricing.png'); }
+.elementor-element .pixfort-elementor-products-carousel { background-image: url('../../images/elements/products-carousel.png');background-color: #fff; }
+.elementor-element .pixfort-elementor-progress-bar { background-image: url('../../images/elements/progress-bar.gif');background-color: #fff; }
+.elementor-element .pixfort-elementor-portfolio { background-image: url('../../images/elements/portfolio.png'); }
+.elementor-element .pixfort-elementor-portfolio-carousel { background-image: url('../../images/elements/portfolio-carousel.png'); }
+.elementor-element .pixfort-elementor-review-element { background-image: url('../../images/elements/review-element.png'); }
+.elementor-element .pixfort-elementor-reviews-carousel { background-image: url('../../images/elements/reviews-carousel.png'); }
+.elementor-element .pixfort-elementor-search { background-image: url('../../images/elements/search.png'); }
+.elementor-element .pixfort-elementor-shop-categories { background-image: url('../../images/elements/shop-categories.png'); }
+.elementor-element .pixfort-elementor-slider { background-image: url('../../images/elements/slider.png');background-color: #fff; }
+.elementor-element .pixfort-elementor-sliding-text { background-image: url('../../images/elements/sliding-text.gif');background-color: #222; }
+.elementor-element .pixfort-elementor-social-icons { background-image: url('../../images/elements/social-icons.png');background-color: #fff; }
+.elementor-element .pixfort-elementor-story { background-image: url('../../images/elements/story.jpg'); }
+.elementor-element .pixfort-elementor-team-member-box { background-image: url('../../images/elements/team-member-box.png');background-color: #fff; }
+.elementor-element .pixfort-elementor-team-member-circle { background-image: url('../../images/elements/team-member-circle.png');background-color: #fff; }
+.elementor-element .pixfort-elementor-text { background-image: url('../../images/elements/text.jpg'); }
+.elementor-element .pixfort-elementor-video { background-image: url('../../images/elements/video.png');background-color: #222; }
+.elementor-element .pixfort-elementor-video-popup { background-image: url('../../images/elements/video-popup.png');background-color: #222; }
+.elementor-element .pixfort-elementor-video-carousel { background-image: url('../../images/elements/video-carousel.png');background-color: #222; }
+.elementor-element .pixfort-elementor-horizontal-tabs { background-image: url('../../images/elements/tabs.gif');background-color: #e9ecef; }
+.elementor-element .pixfort-elementor-tabs-vertical { background-image: url('../../images/elements/tabs-vertical.gif');background-color: #e9ecef; }
+.elementor-element .pixfort-elementor-3d-box { background-image: url('../../images/elements/3d-box.apng');background-color: #fff; }
+.elementor-element .pixfort-elementor-marquee { background-image: url('../../images/elements/marquee.gif');background-color: #fff; }
+.elementor-element .pixfort-elementor-rive { background-image: url('../../images/elements/rive.webp');background-color: #000; }
+.elementor-element .pixfort-elementor-breadcrumbs { background-image: url('../../images/elements/breadcrumbs.webp');background-color: #fff; }
+.elementor-element .pixfort-elementor-archive-posts { background-image: url('../../images/elements/archive-posts.webp');background-color: #e9ecef; }
+.elementor-element .pixfort-elementor-author-box { background-image: url('../../images/elements/author-box.webp');background-color: #fff; }
+.elementor-element .pixfort-elementor-featured-image { background-image: url('../../images/elements/featured-image.webp');background-color: #fff; }
+.elementor-element .pixfort-elementor-post-taxonomies { background-image: url('../../images/elements/post-taxonomies.webp');background-color: #fff; }
+.elementor-element .pixfort-elementor-post-comments { background-image: url('../../images/elements/post-comments.webp');background-color: #fff; }
+.elementor-element .pixfort-elementor-post-content { background-image: url('../../images/elements/post-content.webp');background-color: #fff; }
+.elementor-element .pixfort-elementor-post-excerpt { background-image: url('../../images/elements/post-excerpt.webp');background-color: #fff; }
+.elementor-element .pixfort-elementor-post-info { background-image: url('../../images/elements/post-info.webp');background-color: #fff; }
+.elementor-element .pixfort-elementor-post-navigation { background-image: url('../../images/elements/post-navigation.webp');background-color: #fff; }
+.elementor-element .pixfort-elementor-social-share-button { background-image: url('../../images/elements/social-share-button.webp');background-color: #fff; }
+.elementor-element .pixfort-elementor-related-products { background-image: url('../../images/elements/related-products.webp');background-color: #fff; }
+.elementor-element .pixfort-elementor-upsells { background-image: url('../../images/elements/upsells.webp');background-color: #fff; }
+.elementor-element .pixfort-elementor-additional-information { background-image: url('../../images/elements/additional-information.webp');background-color: #fff; }
+.elementor-element .pixfort-elementor-archive-products { background-image: url('../../images/elements/archive-products.webp');background-color: #fff; }
+.elementor-element .pixfort-elementor-product-images { background-image: url('../../images/elements/product-images.webp');background-color: #fff; }
+.elementor-element .pixfort-elementor-add-to-cart { background-image: url('../../images/elements/add-to-cart.webp');background-color: #fff; }
+.elementor-element .pixfort-elementor-product-rating { background-image: url('../../images/elements/product-rating.webp');background-color: #fff; }
+.elementor-element .pixfort-elementor-product-data-tabs { background-image: url('../../images/elements/product-data-tabs.webp');background-color: #fff; }
+.elementor-element .pixfort-elementor-product-stock { background-image: url('../../images/elements/product-stock.webp');background-color: #fff; }
+.elementor-element .pixfort-elementor-product-meta { background-image: url('../../images/elements/product-meta.webp');background-color: #fff; }
+.elementor-element .pixfort-elementor-product-stock { background-image: url('../../images/elements/product-stock.webp');background-color: #fff; }
+.elementor-element .pixfort-elementor-template-carousel { background-image: url('../../images/elements/template-carousel.webp');background-color: #fff; }
+.elementor-element .pixfort-elementor-loop-grid { background-image: url('../../images/elements/loop-grid.webp');background-color: #fff; }
+.elementor-element .pixfort-elementor-global-template { background-image: url('../../images/elements/global-template.webp');background-color: #fff; }
+.elementor-element .pixfort-elementor-table-of-contents { background-image: url('../../images/elements/table-of-contents.webp');background-color: #fff; }
+
+i.pix-rotate-2d:before {
+    content: "2D";
+    font-style: normal;
+    top: -1px;
+    position: relative;
+    display: block;
+}
+
+i.pix-rotate-3d:before {
+    content: "3D";
+    font-style: normal;
+    top: -1px;
+    position: relative;
+    display: block;
+}
+
+#elementor-navigator__footer__promotion,
+#elementor-panel-get-pro-elements-sticky { display: none !important; }
+#elementor-navigator__elements.elementor-navigator-list__promotion {
+    height: calc(100% - 49px) !important;
+}
+.elementor-tags-list__teaser { display: none !important; }

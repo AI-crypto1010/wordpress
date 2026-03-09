@@ -1,0 +1,429 @@
+// stylelint-disable selector-no-qualifying-type
+
+//
+// Base styles
+//
+.btn {
+    display: inline-block;
+    font-weight: $btn-font-weight;
+    // color: var(--pix-btn-color, var(--pix-body-color));
+    color: var(--pix-body-color);
+    text-align: center;
+    vertical-align: middle;
+    -webkit-user-select: none;
+       -moz-user-select: none;
+            user-select: none;
+    background-color: transparent;
+    border: $btn-border-width solid transparent;
+    margin-right: 10px;
+    // @include button-size($btn-padding-y, $btn-padding-x, $btn-font-size, $btn-line-height, $btn-border-radius);
+    @include button-size-v2($btn-padding-t, $btn-padding-r, $btn-padding-b, $btn-padding-l, $btn-font-size, $btn-line-height, $btn-border-radius);
+    @include transition($btn-transition);
+    line-break: normal;
+    // @include hover {
+    //     // color: var(--pix-btn-color, var(--pix-body-color));
+    //     text-decoration: none;
+    // }
+
+    &:focus,
+    &.focus {
+        outline: 0;
+    }
+
+    &.no-padding {
+        padding: 0;
+    }
+
+    &.btn-custom-bg:hover, &.btn-custom-bg:focus, &.btn-custom-bg:active {
+        opacity: 0.9;
+        background-color: initial;
+    }
+
+    // Disabled comes first so active can properly restyle
+    &.disabled,
+    &:disabled {
+        opacity: $btn-disabled-opacity;
+        @include box-shadow(none);
+    }
+
+    // Opinionated: add "hand" cursor to non-disabled .btn elements
+    &:not(:disabled):not(.disabled) {
+        cursor: pointer;
+    }
+    &.btn-rounded {
+        border-radius: 9999px !important;
+        &:before {
+            border-radius: 9999px !important;
+        }
+    }
+    &.btn-flat {
+        position: relative;
+        overflow: hidden;
+        &:before {
+            content: " ";
+            position: absolute;
+            bottom: 0;
+            left: 0;
+            width: 100%;
+            display: inline-block;
+            height: 2px;
+            background: rgba(0,0,0,0.2);
+        }
+    }
+}
+
+// Future-proof disabling of clicks on `<a>` elements
+a.btn.disabled,
+fieldset:disabled a.btn {
+    pointer-events: none;
+}
+
+
+//
+// Alternate buttons
+//
+%base-btn-style {
+    color: var(--pix-btn-color);
+    @include box-shadow($btn-box-shadow);
+    background-color: var(--pix-btn-background);
+    &:hover,
+    &:focus,
+    &.focus {
+        background-color: color-mix(in hsl increasing hue, var(--pix-btn-background) 90%, black 5%);
+    }
+    // &:not(:disabled):not(.disabled):not(.btn-custom-bg):active,
+    // &:not(:disabled):not(.disabled):not(.btn-custom-bg).active,
+    // .show > &.dropdown-toggle {
+    //     color: var(--btn-dropdown-color);
+    //     background-color: var(--btn-dropdown-bg) !important;
+    // }
+
+}
+
+@each $color, $value in $theme-colors {
+    .btn-#{$color} {
+        @extend %base-btn-style;
+        @include button-variant($value, $value, darken($value, 4%));
+        // @include button-variant-dynamic($color, $value, $value, darken($value, 4%));
+        
+    }
+}
+.btn-primary-light {
+    @extend %base-btn-style;
+    @include button-variant(lighten($primary, 20%), lighten($primary, 20%));
+}
+.btn-secondary-light {
+    @extend %base-btn-style;
+    @include button-variant(lighten($secondary, 20%), lighten($secondary, 20%));
+}
+
+
+
+/*
+* Outline Buttons
+*/
+@each $color, $value in $theme-colors {
+    .btn-outline-#{$color} {
+        @include button-outline-variant($value);
+    }
+}
+.btn-outline-primary-light {
+    @include button-outline-variant(lighten($primary, 20%));
+}
+.btn-outline-secondary-light {
+    @include button-outline-variant(lighten($secondary, 20%));
+}
+
+[class^='btn-outline-'], [class*=' btn-outline-'] { 
+    color: var(--pix-btn-outline-color, $primary);
+    // border: 2px solid var(--pix-btn-outline-color, $primary);
+    // padding: calc(#{$btn-padding-y} - #{$btn-outline-border-width}) $btn-padding-x;
+    box-shadow: 0 0 0 2px var(--pix-btn-outline-color, $primary) inset !important;
+    &:hover {
+        background-color: var(--pix-btn-outline-color, $primary);
+        // border-color: var(--pix-btn-outline-color, $primary) !important;
+    }
+    &:focus,
+    &.focus {
+        // box-shadow: 0 0 0 2px var(--pix-btn-outline-color, $primary) inset,
+        //             0 0 0 .2rem var(--pix-btn-outline-color-opacity, rgba($primary, .5)) !important;
+        box-shadow: 0 0 0 2px var(--pix-btn-outline-color, $primary) inset,
+                0 0 0 .2rem color-mix(in hsl increasing hue, var(--pix-btn-outline-color) 50%, transparent) !important;
+    }
+    
+    &.disabled,
+    &:disabled {
+        color: var(--pix-btn-outline-color, $primary);
+        background-color: transparent;
+    }
+    // &.btn-xl {
+    //     padding: calc(#{$btn-padding-y-xl} - #{$btn-outline-border-width}) $btn-padding-x-xl !important;
+    // }
+    // &.btn-lg {
+    //     padding: calc(#{$btn-padding-y-lg} - #{$btn-outline-border-width}) $btn-padding-x-lg !important;
+    // }
+    // &.btn-md {
+    //     padding: calc(#{$btn-padding-y-md} - #{$btn-outline-border-width}) $btn-padding-x-md !important;
+    // }
+    // &.btn-sm {
+    //     padding: calc(#{$btn-padding-y-sm} - #{$btn-outline-border-width}) $btn-padding-x-sm !important;
+    // }
+}
+
+/*
+* Line Buttons
+*/
+@each $color, $value in $theme-colors {
+    .btn-line-#{$color} {
+        @include button-line-variant($value);
+    }
+}
+.btn-line-primary-light {
+    @include button-line-variant(lighten($primary, 20%));
+}
+.btn-line-secondary-light {
+    @include button-line-variant(lighten($secondary, 20%));
+}
+[class^='btn-line-'], [class*=' btn-line-'] { 
+    color: var(--pix-btn-line-color, $primary);
+    border-color: var(--pix-btn-line-color, $primary);
+    position: relative;
+    &:before {
+        content: " ";
+        // box-shadow: 0 0 0 2px var(--pix-btn-line-color-opacity, rgba($primary, .5)) inset;
+        box-shadow: 0 0 0 2px color-mix(in hsl increasing hue, var(--pix-btn-line-color, $primary) 50%, transparent) inset;
+        position: absolute;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100%;
+    }
+    @include hover {
+        color: var(--pix-btn-line-color, $primary);
+        background-color: transparent;
+        opacity: 0.75;
+    }
+    &:focus,
+    &:active {
+        color: var(--pix-btn-line-color, $primary);
+        border-color: var(--pix-btn-line-color, $primary);
+        // box-shadow: 0 0 0 2px var(--pix-btn-line-color-opacity, rgba($primary, .5)) inset !important;
+        background-color: transparent;
+        opacity: 0.75;
+    }
+    &.disabled,
+    &:disabled {
+        color: var(--pix-btn-line-color, $primary);
+        background-color: transparent;
+    }
+}
+/*
+* Underline Buttons
+*/
+@each $color, $value in $theme-colors {
+    .btn-underline-#{$color} {
+        @include button-underline-variant($value);
+    }
+}
+.btn-underline-primary-light {
+    @include button-underline-variant(lighten($primary, 20%));
+}
+.btn-underline-secondary-light {
+    @include button-underline-variant(lighten($secondary, 20%));
+}
+
+[class^='btn-underline-'], [class*=' btn-underline-'] { 
+    color: var(--pix-btn-underline-color, $primary);
+    opacity: 1;
+    position: relative;
+    z-index: 2;
+    // display: inline-block;
+    span {
+        position: relative;
+    }
+    span:before {
+        content: " ";
+        background: var(--pix-btn-underline-color, $primary);
+        position: absolute;
+        top: 120%;
+        border-radius: 3px;
+        left: 0%;
+        width: 100%;
+        height: 3px;
+        transform: scaleX(0);
+        transition: transform 0.2s;
+        transform-origin: right center;
+        z-index: -1;
+        box-sizing: border-box;
+        display:block;
+    }
+    &:hover {
+        color: var(--pix-btn-underline-color, $primary);
+        background-color: transparent;
+        opacity: 0.75;
+        opacity: 1;
+        span:before {
+            transform: scaleX(1);
+            transform-origin: left center;
+        }
+    }
+    &:focus,
+    &:active {
+        background: transparent;
+        opacity: 0.75;
+    }
+    &:active,
+    &.active,
+    .show > &.dropdown-toggle {
+        box-shadow: none;
+        span:before {
+            transform: scaleX(1);
+            opacity: 0.75;
+        }
+    }
+
+}
+
+/*
+* Blink Buttons
+*/
+@each $color, $value in $theme-colors {
+    .btn-blink-#{$color} {
+        @include button-blink-variant($value);
+    }
+}
+@each $color, $value in $opacity-values {
+    .btn-blink-dark-#{$color} {
+        @include button-blink-variant(rgba(darken(desaturate($primary, 85%), 55%), $value));
+    }
+    .btn-blink-light-#{$color} {
+        @include button-blink-variant(rgba(#fff, $value));
+    }
+  }
+.btn-blink-primary-light {
+    @include button-blink-variant(lighten($primary, 20%));
+}
+.btn-blink-secondary-light {
+    @include button-blink-variant(lighten($secondary, 20%));
+}
+[class^='btn-blink-'], [class*=' btn-blink-'] { 
+    color: var(--pix-btn-blink-color, $primary);
+    opacity: 1;
+    position: relative;
+    z-index: 2;
+    display: inline-block;
+    overflow: hidden;
+    &:before {
+        content: " ";
+        background: var(--pix-btn-blink-color, $primary);
+        position: absolute;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100%;
+        transform: scaleX(0);
+        transition: transform 0.2s;
+        transform-origin: right center;
+        z-index: -1;
+    }
+    &:hover {
+        color: var(--pix-btn-blink-color-hover, #fff);
+        background-color: transparent;
+        opacity: 1;
+        &:before {
+            transform: scaleX(1);
+            transform-origin: left center;
+        }
+    }
+    &:focus,
+    &:active {
+        opacity: 0.75;
+    }
+    &.disabled,
+    &:disabled {
+        color: var(--pix-btn-blink-color, $primary);
+        background-color: transparent;
+    }
+    &:not(:disabled):not(.disabled):active,
+    &:not(:disabled):not(.disabled).active,
+    .show > &.dropdown-toggle {
+        color: var(--pix-btn-blink-color-hover, #fff);
+        background-color: transparent;
+        opacity: 0.75;
+        &:before {
+            transform: scaleX(1);
+            transform-origin: left center;
+        }
+    }
+}
+
+//
+// Link buttons
+//
+
+// Make a button look and behave like a link
+.btn-link {
+    font-weight: $font-weight-normal;
+    color: $link-color;
+    @include hover {
+        color: $link-hover-color;
+    }
+    &:focus,
+    &.focus {
+        box-shadow: none;
+    }
+    &:disabled,
+    &.disabled {
+        color: $btn-link-disabled-color;
+        pointer-events: none;
+    }
+    // No need for an active state here
+}
+
+
+/*
+* Button Sizes
+*/
+.btn-xl {
+    // @include button-size($btn-padding-y-xl, $btn-padding-x-xl, $btn-font-size-xl, $btn-line-height-xl, $btn-border-radius-xl);
+    @include button-size-v2($btn-padding-t-xl, $btn-padding-r-xl, $btn-padding-b-xl, $btn-padding-l-xl, $btn-font-size-xl, $btn-line-height-xl, $btn-border-radius-xl);
+}
+
+.btn-lg {
+    // @include button-size($btn-padding-y-lg, $btn-padding-x-lg, $btn-font-size-lg, $btn-line-height-lg, $btn-border-radius-lg);
+    @include button-size-v2($btn-padding-t-lg, $btn-padding-r-lg, $btn-padding-b-lg, $btn-padding-l-lg, $btn-font-size-lg, $btn-line-height-lg, $btn-border-radius-lg);
+}
+
+.btn-md {
+    // @include button-size($btn-padding-y-md, $btn-padding-x-md, $btn-font-size-md, $btn-line-height-md, $btn-border-radius-md);
+    @include button-size-v2($btn-padding-t-md, $btn-padding-r-md, $btn-padding-b-md, $btn-padding-l-md, $btn-font-size-md, $btn-line-height-md, $btn-border-radius-md);
+}
+
+.btn-sm {
+    // @include button-size($btn-padding-y-sm, $btn-padding-x-sm, $btn-font-size-sm, $btn-line-height-sm, $btn-border-radius-sm);
+    @include button-size-v2($btn-padding-t-sm, $btn-padding-r-sm, $btn-padding-b-sm, $btn-padding-l-sm, $btn-font-size-sm, $btn-line-height-sm, $btn-border-radius-sm);
+}
+
+
+
+
+/*
+* Block button
+*/
+.btn-block {
+    display: block;
+    width: 100%;
+    // Vertically space out multiple block buttons
+    + .btn-block {
+        margin-top: $btn-block-spacing-y;
+    }
+}
+
+// Specificity overrides
+input[type="submit"],
+input[type="reset"],
+input[type="button"] {
+    &.btn-block {
+        width: 100%;
+    }
+}

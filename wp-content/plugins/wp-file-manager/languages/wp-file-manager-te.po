@@ -1,0 +1,871 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WP File Manager\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-02-28 11:51+0530\n"
+"PO-Revision-Date: 2022-02-28 12:14+0530\n"
+"Last-Translator: admin <munishthedeveloper48@gmail.com>\n"
+"Language-Team: \n"
+"Language: te\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Poedit 3.0.1\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: file_folder_manager.php:174
+msgid "Themes backup restored successfully."
+msgstr "థీమ్‌ల బ్యాకప్ విజయవంతంగా పునరుద్ధరించబడింది."
+
+#: file_folder_manager.php:177
+msgid "Unable to restore themes."
+msgstr "థీమ్‌లను పునరుద్ధరించడం సాధ్యం కాలేదు."
+
+#: file_folder_manager.php:207
+msgid "Uploads backup restored successfully."
+msgstr "అప్‌లోడ్‌ల బ్యాకప్ విజయవంతంగా పునరుద్ధరించబడింది."
+
+#: file_folder_manager.php:211
+msgid "Unable to restore uploads."
+msgstr "అప్‌లోడ్‌లను పునరుద్ధరించడం సాధ్యం కాలేదు."
+
+#: file_folder_manager.php:237
+msgid "Others backup restored successfully."
+msgstr "ఇతర బ్యాకప్ విజయవంతంగా పునరుద్ధరించబడింది."
+
+#: file_folder_manager.php:241
+msgid "Unable to restore others."
+msgstr "ఇతరులను పునరుద్ధరించడం సాధ్యం కాలేదు."
+
+#: file_folder_manager.php:267
+msgid "Plugins backup restored successfully."
+msgstr "ప్లగిన్‌ల బ్యాకప్ విజయవంతంగా పునరుద్ధరించబడింది."
+
+#: file_folder_manager.php:271 file_folder_manager.php:301
+msgid "Unable to restore plugins."
+msgstr "ప్లగిన్‌లను పునరుద్ధరించడం సాధ్యం కాలేదు."
+
+#: file_folder_manager.php:286
+msgid "Database backup restored successfully."
+msgstr "డేటాబేస్ బ్యాకప్ విజయవంతంగా పునరుద్ధరించబడింది."
+
+#: file_folder_manager.php:286 file_folder_manager.php:297 file_folder_manager.php:588
+#: file_folder_manager.php:592
+msgid "All Done"
+msgstr "అన్నీ పూర్తయ్యాయి"
+
+#: file_folder_manager.php:289
+msgid "Unable to restore DB backup."
+msgstr "DB బ్యాకప్‌ని పునరుద్ధరించడం సాధ్యం కాలేదు."
+
+#: file_folder_manager.php:347
+msgid "Backups removed successfully!"
+msgstr "బ్యాకప్‌లు విజయవంతంగా తీసివేయబడ్డాయి!"
+
+#: file_folder_manager.php:349
+msgid "Unable to removed backup!"
+msgstr "బ్యాకప్‌ని తీసివేయడం సాధ్యం కాలేదు!"
+
+#: file_folder_manager.php:373
+msgid "Database backup done on date "
+msgstr "డేటాబేస్ బ్యాకప్ తేదీలో పూర్తయింది"
+
+#: file_folder_manager.php:377
+msgid "Plugins backup done on date "
+msgstr "ప్లగిన్‌ల బ్యాకప్ తేదీలో పూర్తయింది"
+
+#: file_folder_manager.php:381
+msgid "Themes backup done on date "
+msgstr "థీమ్‌ల బ్యాకప్ తేదీలో పూర్తయింది"
+
+#: file_folder_manager.php:385
+msgid "Uploads backup done on date "
+msgstr "అప్‌లోడ్‌ల బ్యాకప్ తేదీలో పూర్తయింది"
+
+#: file_folder_manager.php:389
+msgid "Others backup done on date "
+msgstr "ఇతర బ్యాకప్ తేదీలో పూర్తయింది"
+
+#: file_folder_manager.php:393 file_folder_manager.php:776
+msgid "Logs"
+msgstr "లాగ్‌లు"
+
+#: file_folder_manager.php:399
+msgid "No logs found!"
+msgstr "లాగ్‌లు ఏవీ కనుగొనబడలేదు!"
+
+#: file_folder_manager.php:496
+msgid "Nothing selected for backup"
+msgstr "బ్యాకప్ కోసం ఏదీ ఎంచుకోబడలేదు"
+
+#: file_folder_manager.php:516
+msgid "Security Issue."
+msgstr "భద్రతా సమస్య."
+
+#: file_folder_manager.php:527
+msgid "Database backup done."
+msgstr "డేటాబేస్ బ్యాకప్ పూర్తయింది."
+
+#: file_folder_manager.php:530
+msgid "Unable to create database backup."
+msgstr "డేటాబేస్ బ్యాకప్‌ని సృష్టించడం సాధ్యం కాలేదు."
+
+#: file_folder_manager.php:544
+msgid "Plugins backup done."
+msgstr "ప్లగిన్‌ల బ్యాకప్ పూర్తయింది."
+
+#: file_folder_manager.php:547
+msgid "Plugins backup failed."
+msgstr "ప్లగిన్‌ల బ్యాకప్ విఫలమైంది."
+
+#: file_folder_manager.php:556
+msgid "Themes backup done."
+msgstr "థీమ్‌ల బ్యాకప్ పూర్తయింది."
+
+#: file_folder_manager.php:559
+msgid "Themes backup failed."
+msgstr "థీమ్‌ల బ్యాకప్ విఫలమైంది."
+
+#: file_folder_manager.php:569
+msgid "Uploads backup done."
+msgstr "అప్‌లోడ్‌ల బ్యాకప్ పూర్తయింది."
+
+#: file_folder_manager.php:572
+msgid "Uploads backup failed."
+msgstr "అప్‌లోడ్‌ల బ్యాకప్ విఫలమైంది."
+
+#: file_folder_manager.php:581
+msgid "Others backup done."
+msgstr "ఇతర బ్యాకప్ పూర్తయింది."
+
+#: file_folder_manager.php:584
+msgid "Others backup failed."
+msgstr "ఇతర బ్యాకప్ విఫలమైంది."
+
+#: file_folder_manager.php:761 file_folder_manager.php:762 lib/wpfilemanager.php:23
+msgid "WP File Manager"
+msgstr "WP ఫైల్ మేనేజర్"
+
+#: file_folder_manager.php:769
+msgid "Settings"
+msgstr "సెట్టింగులు"
+
+#: file_folder_manager.php:771 inc/root.php:48
+msgid "Preferences"
+msgstr "ప్రాధాన్యతలు"
+
+#: file_folder_manager.php:773
+msgid "System Properties"
+msgstr "సిస్టమ్ గుణాలు"
+
+#: file_folder_manager.php:775
+msgid "Shortcode - PRO"
+msgstr "షార్ట్ - PRO"
+
+#: file_folder_manager.php:777
+msgid "Backup/Restore"
+msgstr "బ్యాకప్/పునరుద్ధరణ"
+
+#: file_folder_manager.php:1033
+msgid "Buy Pro"
+msgstr "ప్రోని కొనుగోలు చేయండి"
+
+#: file_folder_manager.php:1034
+msgid "Donate"
+msgstr "దానం"
+
+#: file_folder_manager.php:1249
+msgid ""
+"<div class=\"updated settings-error notice is-dismissible\" id=\"setting-error-settings_updated\"> \n"
+"<p><strong>"
+msgstr ""
+
+#: file_folder_manager.php:1256
+msgid ""
+"<div class=\"error settings-error notice is-dismissible\" id=\"setting-error-settings_updated\"> \n"
+"<p><strong>"
+msgstr ""
+
+#: file_folder_manager.php:1395 file_folder_manager.php:1483
+msgid "File doesn't exist to download."
+msgstr "డౌన్‌లోడ్ చేయడానికి ఫైల్ ఉనికిలో లేదు."
+
+#: file_folder_manager.php:1400 file_folder_manager.php:1488
+msgid "Invalid Security Code."
+msgstr "చెల్లని భద్రతా కోడ్."
+
+#: file_folder_manager.php:1405 file_folder_manager.php:1493
+msgid "Missing backup id."
+msgstr "బ్యాకప్ ఐడి లేదు."
+
+#: file_folder_manager.php:1408 file_folder_manager.php:1496
+msgid "Missing parameter type."
+msgstr "పరామితి రకం లేదు."
+
+#: file_folder_manager.php:1411 file_folder_manager.php:1499
+msgid "Missing required parameters."
+msgstr "అవసరమైన పారామీటర్‌లు లేవు."
+
+#: inc/backup.php:24
+msgid ""
+"Error: Unable to restore backup because database backup is heavy in size. Please try to increase Maximum "
+"allowed size  from Preferences settings."
+msgstr ""
+"లోపం: డేటాబేస్ బ్యాకప్ పరిమాణం భారీగా ఉన్నందున బ్యాకప్‌ని పునరుద్ధరించడం సాధ్యం కాలేదు. దయచేసి ప్రాధాన్యతల సెట్టింగ్‌ల నుండి అనుమతించబడిన గరిష్ట "
+"పరిమాణాన్ని పెంచడానికి ప్రయత్నించండి."
+
+#: inc/backup.php:25
+msgid "Select backup(s) to delete!"
+msgstr "తొలగించడానికి బ్యాకప్(లు) ఎంచుకోండి!"
+
+#: inc/backup.php:26
+msgid "Are you sure want to remove selected backup(s)?"
+msgstr "మీరు ఎంచుకున్న బ్యాకప్(ల)ని ఖచ్చితంగా తీసివేయాలనుకుంటున్నారా?"
+
+#: inc/backup.php:31
+msgid "Backup is running, please wait"
+msgstr "బ్యాకప్ అమలవుతోంది, దయచేసి వేచి ఉండండి"
+
+#: inc/backup.php:32
+msgid "Restore is running, please wait"
+msgstr "పునరుద్ధరణ అమలవుతోంది, దయచేసి వేచి ఉండండి"
+
+#: inc/backup.php:33
+msgid "Nothing selected for backup."
+msgstr "బ్యాకప్ కోసం ఏదీ ఎంచుకోబడలేదు."
+
+#: inc/backup.php:45
+msgid "WP File Manager - Backup/Restore"
+msgstr "WP ఫైల్ మేనేజర్ - బ్యాకప్/పునరుద్ధరణ"
+
+#: inc/backup.php:51
+msgid "Backup Options:"
+msgstr "బ్యాకప్ ఎంపికలు:"
+
+#: inc/backup.php:58
+msgid "Database Backup"
+msgstr "డేటాబేస్ బ్యాకప్"
+
+#: inc/backup.php:64
+msgid "Files Backup"
+msgstr "ఫైల్స్ బ్యాకప్"
+
+#: inc/backup.php:68
+msgid "Plugins"
+msgstr "ప్లగిన్లు"
+
+#: inc/backup.php:71
+msgid "Themes"
+msgstr "థీమ్స్"
+
+#: inc/backup.php:74
+msgid "Uploads"
+msgstr "అప్‌లోడ్‌లు"
+
+#: inc/backup.php:77
+msgid "Others (Any other directories found inside wp-content)"
+msgstr "ఇతరులు (wp-content లోపల ఏవైనా ఇతర డైరెక్టరీలు కనుగొనబడ్డాయి)"
+
+#: inc/backup.php:81
+msgid "Backup Now"
+msgstr "భద్రపరచు"
+
+#: inc/backup.php:89
+msgid "Time now"
+msgstr "ఇప్పుడు సమయం"
+
+#: inc/backup.php:99
+msgid "SUCCESS"
+msgstr "విజయం"
+
+#: inc/backup.php:101
+msgid "Backup successfully deleted."
+msgstr "బ్యాకప్ విజయవంతంగా తొలగించబడింది."
+
+#: inc/backup.php:102
+msgid "Ok"
+msgstr "అలాగే"
+
+#: inc/backup.php:117
+msgid "DELETE FILES"
+msgstr "ఫైల్‌లను తొలగించండి"
+
+#: inc/backup.php:119
+msgid "Are you sure you want to delete this backup?"
+msgstr "మీరు ఖచ్చితంగా ఈ బ్యాకప్‌ని తొలగించాలనుకుంటున్నారా?"
+
+#: inc/backup.php:120 inc/backup.php:139
+msgid "Cancel"
+msgstr "రద్దు చేయండి"
+
+#: inc/backup.php:121 inc/backup.php:140
+msgid "Confirm"
+msgstr "నిర్ధారించండి"
+
+#: inc/backup.php:136
+msgid "RESTORE FILES"
+msgstr "ఫైల్‌లను పునరుద్ధరించండి"
+
+#: inc/backup.php:138
+msgid "Are you sure you want to restore this backup?"
+msgstr "మీరు ఖచ్చితంగా ఈ బ్యాకప్‌ని పునరుద్ధరించాలనుకుంటున్నారా?"
+
+#: inc/backup.php:166
+msgid "Last Log Message"
+msgstr "చివరి లాగ్ సందేశం"
+
+#: inc/backup.php:169
+msgid "The backup apparently succeeded and is now complete."
+msgstr "బ్యాకప్ స్పష్టంగా విజయవంతమైంది మరియు ఇప్పుడు పూర్తయింది."
+
+#: inc/backup.php:171
+msgid "No log message"
+msgstr "లాగ్ సందేశం లేదు"
+
+#: inc/backup.php:177
+msgid "Existing Backup(s)"
+msgstr "ఇప్పటికే ఉన్న బ్యాకప్(లు)"
+
+#: inc/backup.php:184
+msgid "Backup Date"
+msgstr "బ్యాకప్ తేదీ"
+
+#: inc/backup.php:187
+msgid "Backup data (click to download)"
+msgstr "బ్యాకప్ డేటా (డౌన్‌లోడ్ చేయడానికి క్లిక్ చేయండి)"
+
+#: inc/backup.php:190
+msgid "Action"
+msgstr "చర్య"
+
+#: inc/backup.php:210
+msgid "Today"
+msgstr "ఈరోజు"
+
+#: inc/backup.php:239
+msgid "Restore"
+msgstr "పునరుద్ధరించు"
+
+#: inc/backup.php:240 inc/backup.php:250
+msgid "Delete"
+msgstr "తొలగించు"
+
+#: inc/backup.php:241
+msgid "View Log"
+msgstr "లాగ్ చూడండి"
+
+#: inc/backup.php:246
+msgid "Currently no backup(s) found."
+msgstr "ప్రస్తుతం బ్యాకప్(లు) ఏవీ కనుగొనబడలేదు."
+
+#: inc/backup.php:249
+msgid "Actions upon selected backup(s)"
+msgstr "ఎంచుకున్న బ్యాకప్(లు)పై చర్యలు"
+
+#: inc/backup.php:251
+msgid "Select All"
+msgstr "అన్ని ఎంచుకోండి"
+
+#: inc/backup.php:252
+msgid "Deselect"
+msgstr "ఎంపికను తీసివేయండి"
+
+#: inc/backup.php:254
+msgid "Note:"
+msgstr "గమనిక:"
+
+#: inc/backup.php:254
+msgid "Backup files will be under"
+msgstr "బ్యాకప్ ఫైల్‌లు కింద ఉంటాయి"
+
+#: inc/contribute.php:3
+msgid "WP File Manager Contribution"
+msgstr "WP ఫైల్ మేనేజర్ సహకారం"
+
+#: inc/logs.php:7
+msgid "Note: These are demo screenshots. Please buy File Manager pro to Logs functions."
+msgstr "గమనిక: ఇవి డెమో స్క్రీన్‌షాట్‌లు. దయచేసి ఫైల్ మేనేజర్ ప్రో టు లాగ్స్ ఫంక్షన్‌లను కొనుగోలు చేయండి."
+
+#: inc/logs.php:8 lib/wpfilemanager.php:24
+msgid "Click to Buy PRO"
+msgstr "PROని కొనుగోలు చేయడానికి క్లిక్ చేయండి"
+
+#: inc/logs.php:8 inc/settings.php:12 inc/settings.php:27 inc/system_properties.php:5 lib/wpfilemanager.php:25
+msgid "Buy PRO"
+msgstr "PRO ను కొనండి"
+
+#: inc/logs.php:9
+msgid "Edit Files Logs"
+msgstr "ఫైల్స్ లాగ్‌లను సవరించండి"
+
+#: inc/logs.php:11
+msgid "Download Files Logs"
+msgstr "ఫైల్స్ లాగ్‌లను డౌన్‌లోడ్ చేయండి"
+
+#: inc/logs.php:13
+msgid "Upload Files Logs"
+msgstr "ఫైల్స్ లాగ్‌లను అప్‌లోడ్ చేయండి"
+
+#: inc/root.php:43
+msgid "Settings saved."
+msgstr "సెట్టింగ్‌లు సేవ్ చేయబడ్డాయి."
+
+#: inc/root.php:43 inc/root.php:46
+msgid "Dismiss this notice."
+msgstr "ఈ నోటీసును తీసివేయండి."
+
+#: inc/root.php:46
+msgid "You have not made any changes to be saved."
+msgstr "మీరు సేవ్ చేయడానికి ఎలాంటి మార్పులు చేయలేదు."
+
+#: inc/root.php:55
+msgid "Public Root Path"
+msgstr "పబ్లిక్ రూట్ పాత్"
+
+#: inc/root.php:58
+msgid "File Manager Root Path, you can change according to your choice."
+msgstr "ఫైల్ మేనేజర్ రూట్ పాత్, మీరు మీ ఎంపిక ప్రకారం మార్చవచ్చు."
+
+#: inc/root.php:59
+msgid "Default:"
+msgstr "డిఫాల్ట్:"
+
+#: inc/root.php:60
+msgid "Please change this carefully, wrong path can lead file manager plugin to go down."
+msgstr "దయచేసి దీన్ని జాగ్రత్తగా మార్చండి, తప్పు మార్గం ఫైల్ మేనేజర్ ప్లగ్‌ఇన్‌ను తగ్గించడానికి దారి తీస్తుంది."
+
+#: inc/root.php:64
+msgid "Enable Trash?"
+msgstr "ట్రాష్‌ని ప్రారంభించాలా?"
+
+#: inc/root.php:67
+msgid "After enable trash, your files will go to trash folder."
+msgstr "ట్రాష్‌ని ప్రారంభించిన తర్వాత, మీ ఫైల్‌లు ట్రాష్ ఫోల్డర్‌కి వెళ్తాయి."
+
+#: inc/root.php:72
+msgid "Enable Files Upload to Media Library?"
+msgstr "మీడియా లైబ్రరీకి ఫైల్‌ల అప్‌లోడ్‌ను ప్రారంభించాలా?"
+
+#: inc/root.php:75
+msgid "After enabling this all files will go to media library."
+msgstr "దీన్ని ప్రారంభించిన తర్వాత అన్ని ఫైల్‌లు మీడియా లైబ్రరీకి వెళ్తాయి."
+
+#: inc/root.php:80
+msgid "Maximum allowed size at the time of database backup restore."
+msgstr "డేటాబేస్ బ్యాకప్ పునరుద్ధరణ సమయంలో అనుమతించబడిన గరిష్ట పరిమాణం."
+
+#: inc/root.php:83
+msgid "MB"
+msgstr ""
+
+#: inc/root.php:85
+msgid "Please increase field value if you are getting error message at the time of backup restore."
+msgstr "బ్యాకప్ పునరుద్ధరణ సమయంలో మీకు దోష సందేశం వస్తుంటే దయచేసి ఫీల్డ్ విలువను పెంచండి."
+
+#: inc/root.php:90
+msgid "Save Changes"
+msgstr "మార్పులను ఊంచు"
+
+#: inc/settings.php:10
+msgid "Settings - General"
+msgstr "సెట్టింగులు - జనరల్"
+
+#: inc/settings.php:11 inc/settings.php:26
+msgid "Note: This is just a demo screenshot. To get settings please buy our pro version."
+msgstr "గమనిక: ఇది కేవలం డెమో స్క్రీన్షాట్. సెట్టింగులను పొందడానికి దయచేసి మా అనుకూల సంస్కరణను కొనుగోలు చేయండి."
+
+#: inc/settings.php:13
+msgid ""
+"Here admin can give access to user roles to use filemanager. Admin can set Default Access Folder and also "
+"control upload size of filemanager."
+msgstr ""
+"ఇక్కడ నిర్వాహకుడు ఫైల్ మేనేజర్ను ఉపయోగించడానికి వినియోగదారు పాత్రలకు ప్రాప్తిని ఇవ్వవచ్చు. అడ్మిన్ డిఫాల్ట్ యాక్సెస్ ఫోల్డర్ సెట్ చేయవచ్చు మరియు ఫైల్ మేనేజర్ "
+"అప్లోడ్ పరిమాణం నియంత్రించడానికి."
+
+#: inc/settings.php:15
+msgid "Settings - Code-editor"
+msgstr "సెట్టింగులు - కోడ్ ఎడిటర్"
+
+#: inc/settings.php:16
+msgid ""
+"File Manager has a code editor with multiple themes. You can select any theme for code editor. It will "
+"display when you edit any file. Also you can allow fullscreen mode of code editor."
+msgstr ""
+"ఫైల్ మేనేజర్ బహుళ థీమ్స్తో ఒక కోడ్ ఎడిటర్ను కలిగి ఉంది. మీరు కోడ్ ఎడిటర్ కోసం ఏ థీమ్ ఎంచుకోవచ్చు. మీరు ఏదైనా ఫైల్ను సవరించినప్పుడు ఇది "
+"ప్రదర్శిస్తుంది. మీరు కోడ్ ఎడిటర్ పూర్తిస్క్రీన్ మోడ్ను కూడా అనుమతించవచ్చు."
+
+#: inc/settings.php:18
+msgid "Code-editor View"
+msgstr "కోడ్ ఎడిటర్ వీక్షణ"
+
+#: inc/settings.php:20
+msgid "Settings - User Restrictions"
+msgstr "సెట్టింగులు - వాడుకరి పరిమితులు"
+
+#: inc/settings.php:21
+msgid ""
+"Admin can restrict actions of any user. Also hide files and folders and can set different - different "
+"folders paths for different users."
+msgstr ""
+"అడ్మిన్ ఏ యూజర్ యొక్క చర్యలు పరిమితం చేయవచ్చు. వేర్వేరు వినియోగదారుల కోసం వేర్వేరు ఫోల్డర్ల మార్గాలు - ఫైల్లను మరియు ఫోల్డర్లను కూడా దాచండి మరియు "
+"వివిధ సెట్ చేయవచ్చు."
+
+#: inc/settings.php:23
+msgid "Settings - User Role Restrictions"
+msgstr "సెట్టింగులు - వినియోగదారు పాత్ర పరిమితులు"
+
+#: inc/settings.php:24
+msgid ""
+"Admin can restrict actions of any userrole. Also hide files and folders and can set different - different "
+"folders paths for different users roles."
+msgstr ""
+"అడ్మిన్ ఏ వినియోగదారుని యొక్క చర్యలను నియంత్రించగలదు. విభిన్న వినియోగదారుల పాత్రలకు వేర్వేరు ఫోల్డర్ల మార్గాలు - ఫైల్లను మరియు ఫోల్డర్లను కూడా "
+"దాచండి మరియు వివిధ సెట్ చేయవచ్చు."
+
+#: inc/shortcode_docs.php:11
+msgid "File Manager - Shortcode"
+msgstr "ఫైల్ మేనేజర్ - షార్ట్ కోడ్"
+
+#: inc/shortcode_docs.php:15 inc/shortcode_docs.php:17 inc/shortcode_docs.php:19
+msgid "USE:"
+msgstr "వా డు:"
+
+#: inc/shortcode_docs.php:15
+msgid ""
+"It will show file manager on front end. You can control all settings from file manager settings. It will "
+"work same as backend WP File Manager."
+msgstr ""
+"ఇది ఫ్రంట్ ఎండ్‌లో ఫైల్ మేనేజర్‌ని చూపుతుంది. మీరు ఫైల్ మేనేజర్ సెట్టింగ్‌ల నుండి అన్ని సెట్టింగ్‌లను నియంత్రించవచ్చు. ఇది బ్యాకెండ్ WP ఫైల్ మేనేజర్ వలె పని "
+"చేస్తుంది."
+
+#: inc/shortcode_docs.php:17
+msgid ""
+"It will show file manager on front end. But only Administrator can access it and will control from file "
+"manager settings."
+msgstr "ఇది ఫ్రంట్ ఎండ్‌లో ఫైల్ మేనేజర్‌ని చూపుతుంది. కానీ అడ్మినిస్ట్రేటర్ మాత్రమే దీన్ని యాక్సెస్ చేయగలరు మరియు ఫైల్ మేనేజర్ సెట్టింగ్‌ల నుండి నియంత్రిస్తారు."
+
+#: inc/shortcode_docs.php:23
+msgid "Parameters:"
+msgstr "పారామితులు:"
+
+#: inc/shortcode_docs.php:26
+msgid ""
+"It will allow all roles to access file manager on front end or You can simple use for particular user roles "
+"as like allowed_roles=\"editor,author\" (seprated by comma(,))"
+msgstr ""
+"ఇది అన్ని పాత్రలను ఫ్రంట్ ఎండ్‌లో ఫైల్ మేనేజర్‌ను యాక్సెస్ చేయడానికి అనుమతిస్తుంది లేదా మీరు నిర్దిష్ట వినియోగదారు పాత్రల కోసం అనుమతించిన_రోల్స్ = "
+"\"ఎడిటర్, రచయిత\" (కామా(,) ద్వారా వేరుచేయబడింది) వంటి వాటిని సులభంగా ఉపయోగించవచ్చు."
+
+#: inc/shortcode_docs.php:28
+msgid ""
+"Here \"test\" is the name of folder which is located on root directory, or you can give path for sub "
+"folders as like \"wp-content/plugins\". If leave blank or empty it will access all folders on root "
+"directory. Default: Root directory"
+msgstr ""
+"ఇక్కడ \"పరీక్ష\" అనేది రూట్ డైరెక్టరీలో ఉన్న ఫోల్డర్ పేరు, లేదా మీరు \"wp-content/plugins\" వంటి సబ్ ఫోల్డర్‌ల కోసం పాత్ ఇవ్వవచ్చు. ఖాళీగా "
+"లేదా ఖాళీగా ఉంచినట్లయితే అది రూట్ డైరెక్టరీలోని అన్ని ఫోల్డర్‌లను యాక్సెస్ చేస్తుంది. డిఫాల్ట్: రూట్ డైరెక్టరీ"
+
+#: inc/shortcode_docs.php:30
+msgid "for access to write files permissions, note: true/false, default: false"
+msgstr "ఫైళ్ల అనుమతులను వ్రాయడానికి యాక్సెస్ కోసం, గమనిక: నిజం/తప్పు, డిఫాల్ట్: తప్పు"
+
+#: inc/shortcode_docs.php:32
+msgid "for access to read files permission, note: true/false, default: true"
+msgstr "ఫైల్‌లను చదవడానికి యాక్సెస్ కోసం అనుమతి, గమనిక: నిజం/తప్పు, డిఫాల్ట్: నిజం"
+
+#: inc/shortcode_docs.php:34
+msgid "it will hide mentioned here. Note: seprated by comma(,). Default: Null"
+msgstr "ఇది ఇక్కడ పేర్కొన్న దాచబడుతుంది. గమనిక: కామా(,)తో వేరు చేయబడింది. డిఫాల్ట్: శూన్యం"
+
+#: inc/shortcode_docs.php:36
+msgid "It will lock mentioned in commas. you can lock more as like \".php,.css,.js\" etc. Default: Null"
+msgstr "ఇది కామాలో పేర్కొన్న లాక్ చేయబడుతుంది. మీరు \".php,.css,.js\" వంటి మరిన్నింటిని లాక్ చేయవచ్చు. డిఫాల్ట్: శూన్యం"
+
+#: inc/shortcode_docs.php:38
+msgid ""
+"* for all operations and to allow some operation you can mention operation name as like, allowed_operations="
+"\"upload,download\". Note: seprated by comma(,). Default: *"
+msgstr ""
+"* అన్ని కార్యకలాపాలకు మరియు కొంత ఆపరేషన్‌ను అనుమతించడానికి మీరు ఆపరేషన్ పేరును ఇలా పేర్కొనవచ్చు, అనుమతి_ఆపరేషన్స్=\"అప్‌లోడ్, డౌన్‌లోడ్\". గమనిక: "
+"కామా(,)తో వేరు చేయబడింది. డిఫాల్ట్: *"
+
+#: inc/shortcode_docs.php:42
+msgid "File Operations List:"
+msgstr "ఫైల్ ఆపరేషన్ల జాబితా:"
+
+#: inc/shortcode_docs.php:46
+msgid "mkdir ->"
+msgstr ""
+
+#: inc/shortcode_docs.php:46
+msgid "Make directory or folder"
+msgstr "డైరెక్టరీ లేదా ఫోల్డర్‌ని రూపొందించండి"
+
+#: inc/shortcode_docs.php:47
+msgid "mkfile ->"
+msgstr ""
+
+#: inc/shortcode_docs.php:47
+msgid "Make file"
+msgstr "ఫైల్ చేయండి"
+
+#: inc/shortcode_docs.php:48
+msgid "rename ->"
+msgstr ""
+
+#: inc/shortcode_docs.php:48
+msgid "Rename a file or folder"
+msgstr "ఫైల్ లేదా ఫోల్డర్ పేరు మార్చండి"
+
+#: inc/shortcode_docs.php:49
+msgid "duplicate ->"
+msgstr ""
+
+#: inc/shortcode_docs.php:49
+msgid "Duplicate or clone a folder or file"
+msgstr "ఫోల్డర్ లేదా ఫైల్‌ను నకిలీ చేయండి లేదా క్లోన్ చేయండి"
+
+#: inc/shortcode_docs.php:50
+msgid "paste ->"
+msgstr ""
+
+#: inc/shortcode_docs.php:50
+msgid "Paste a file or folder"
+msgstr "ఫైల్ లేదా ఫోల్డర్‌ను అతికించండి"
+
+#: inc/shortcode_docs.php:51
+msgid "ban ->"
+msgstr ""
+
+#: inc/shortcode_docs.php:51
+msgid "Ban"
+msgstr "నిషేధించండి"
+
+#: inc/shortcode_docs.php:52
+msgid "archive ->"
+msgstr ""
+
+#: inc/shortcode_docs.php:52
+msgid "To make a archive or zip"
+msgstr "ఆర్కైవ్ లేదా జిప్ చేయడానికి"
+
+#: inc/shortcode_docs.php:53
+msgid "extract ->"
+msgstr ""
+
+#: inc/shortcode_docs.php:53
+msgid "Extract archive or zipped file"
+msgstr "ఆర్కైవ్ లేదా జిప్ చేసిన ఫైల్‌ను సంగ్రహించండి"
+
+#: inc/shortcode_docs.php:54
+msgid "copy ->"
+msgstr ""
+
+#: inc/shortcode_docs.php:54
+msgid "Copy files or folders"
+msgstr "ఫైల్‌లు లేదా ఫోల్డర్‌లను కాపీ చేయండి"
+
+#: inc/shortcode_docs.php:58
+msgid "cut ->"
+msgstr ""
+
+#: inc/shortcode_docs.php:58
+msgid "Simple cut a file or folder"
+msgstr "ఫైల్ లేదా ఫోల్డర్‌ను సులభంగా కత్తిరించండి"
+
+#: inc/shortcode_docs.php:59
+msgid "edit ->"
+msgstr ""
+
+#: inc/shortcode_docs.php:59
+msgid "Edit a file"
+msgstr "ఫైల్‌ని సవరించండి"
+
+#: inc/shortcode_docs.php:60
+msgid "rm ->"
+msgstr ""
+
+#: inc/shortcode_docs.php:60
+msgid "Remove or delete files and folders"
+msgstr "ఫైల్‌లు మరియు ఫోల్డర్‌లను తీసివేయండి లేదా తొలగించండి"
+
+#: inc/shortcode_docs.php:61
+msgid "download ->"
+msgstr ""
+
+#: inc/shortcode_docs.php:61
+msgid "Download files"
+msgstr "ఫైల్‌లను డౌన్‌లోడ్ చేయండి"
+
+#: inc/shortcode_docs.php:62
+msgid "upload ->"
+msgstr ""
+
+#: inc/shortcode_docs.php:62
+msgid "Upload files"
+msgstr "ఫైల్లను అప్లోడ్ చేయండి"
+
+#: inc/shortcode_docs.php:63
+msgid "search -> "
+msgstr ""
+
+#: inc/shortcode_docs.php:63
+msgid "Search things"
+msgstr "విషయాలను శోధించండి"
+
+#: inc/shortcode_docs.php:64
+msgid "info ->"
+msgstr ""
+
+#: inc/shortcode_docs.php:64
+msgid "Info of file"
+msgstr "ఫైల్ సమాచారం"
+
+#: inc/shortcode_docs.php:65
+msgid "help ->"
+msgstr ""
+
+#: inc/shortcode_docs.php:65
+msgid "Help"
+msgstr "సహాయం"
+
+#: inc/shortcode_docs.php:71
+msgid ""
+"->  It will ban particular users by just putting their ids seprated by commas(,). If user is Ban then they "
+"will not able to access wp file manager on front end."
+msgstr ""
+"-> ఇది నిర్దిష్ట వినియోగదారుల ఐడిలను కామాలతో (,) వేరు చేయడం ద్వారా నిషేధిస్తుంది. వినియోగదారు నిషేధించబడితే, వారు ఫ్రంట్ ఎండ్‌లో wp ఫైల్ మేనేజర్‌ని యాక్సెస్ "
+"చేయలేరు."
+
+#: inc/shortcode_docs.php:72
+msgid "-> Filemanager UI View. Default: grid"
+msgstr "-> ఫైల్‌మేనేజర్ UI వీక్షణ. డిఫాల్ట్: గ్రిడ్"
+
+#: inc/shortcode_docs.php:73
+msgid "-> File Modified or Create date format. Default: d M, Y h:i A"
+msgstr "-> ఫైల్ సవరించబడింది లేదా తేదీ ఆకృతిని సృష్టించండి. డిఫాల్ట్: d M, Y h:i A"
+
+#: inc/shortcode_docs.php:74
+msgid "-> File manager Language. Default: English(en)"
+msgstr "-> ఫైల్ మేనేజర్ భాష. డిఫాల్ట్: ఇంగ్లీష్(en)"
+
+#: inc/shortcode_docs.php:75
+msgid "-> File Manager Theme. Default: Light"
+msgstr "-> ఫైల్ మేనేజర్ థీమ్. డిఫాల్ట్: కాంతి"
+
+#: inc/system_properties.php:5
+msgid "File Manager - System Properties"
+msgstr "ఫైల్ మేనేజర్ - సిస్టమ్ గుణాలు"
+
+#: inc/system_properties.php:10
+msgid "PHP version"
+msgstr "PHP సంస్కరణ"
+
+#: inc/system_properties.php:15
+msgid "Maximum file upload size (upload_max_filesize)"
+msgstr "గరిష్ట ఫైలు అప్లోడ్ పరిమాణం (upload_max_filesize)"
+
+#: inc/system_properties.php:20
+msgid "Post maximum file upload size (post_max_size)"
+msgstr "గరిష్ట ఫైలు అప్లోడ్ పరిమాణం పోస్ట్ (post_max_size)"
+
+#: inc/system_properties.php:25
+msgid "Memory Limit (memory_limit)"
+msgstr "మెమరీ పరిమితి (memory_limit)"
+
+#: inc/system_properties.php:30
+msgid "Timeout (max_execution_time)"
+msgstr "సమయం ముగిసింది (max_execution_time)"
+
+#: inc/system_properties.php:35
+msgid "Browser and OS (HTTP_USER_AGENT)"
+msgstr " బ్రౌజర్ మరియు OS (HTTP_USER_AGENT)"
+
+#: lib/jquery/jquery-ui-1.11.4.js:8
+msgid "'"
+msgstr ""
+
+#: lib/wpfilemanager.php:31
+msgid "Change Theme Here:"
+msgstr "ఇక్కడ థీమ్‌ను మార్చండి:"
+
+#: lib/wpfilemanager.php:35
+msgid "Default"
+msgstr "డిఫాల్ట్"
+
+#: lib/wpfilemanager.php:39
+msgid "Dark"
+msgstr "చీకటి"
+
+#: lib/wpfilemanager.php:43
+msgid "Light"
+msgstr "కాంతి"
+
+#: lib/wpfilemanager.php:47
+msgid "Gray"
+msgstr "బూడిద రంగు"
+
+#: lib/wpfilemanager.php:52
+msgid "Windows - 10"
+msgstr ""
+
+#: lib/wpfilemanager.php:85
+msgid "Welcome to File Manager"
+msgstr "ఫైల్ మేనేజర్‌కి స్వాగతం"
+
+#: lib/wpfilemanager.php:88
+msgid ""
+"We love making new friends! Subscribe below and we promise to\n"
+"    keep you up-to-date with our latest new plugins, updates,\n"
+"    awesome deals and a few special offers."
+msgstr ""
+"కొత్త స్నేహితులను చేసుకోవడం మాకు చాలా ఇష్టం! దిగువన సబ్‌స్క్రైబ్ చేసుకోండి మరియు మా తాజా కొత్త ప్లగిన్‌లు, అప్‌డేట్‌లు, అద్భుతమైన డీల్‌లు మరియు కొన్ని "
+"ప్రత్యేక ఆఫర్‌లతో మిమ్మల్ని తాజాగా ఉంచుతామని మేము హామీ ఇస్తున్నాము."
+
+#: lib/wpfilemanager.php:99
+msgid "Please Enter First Name."
+msgstr "దయచేసి మొదటి పేరును నమోదు చేయండి."
+
+#: lib/wpfilemanager.php:107
+msgid "Please Enter Last Name."
+msgstr "దయచేసి చివరి పేరును నమోదు చేయండి."
+
+#: lib/wpfilemanager.php:116
+msgid "Please Enter Email Address."
+msgstr "దయచేసి ఇమెయిల్ చిరునామాను నమోదు చేయండి."
+
+#: lib/wpfilemanager.php:120
+msgid "Verify"
+msgstr "ధృవీకరించండి"
+
+#: lib/wpfilemanager.php:126
+msgid "No Thanks"
+msgstr "లేదు ధన్యవాదాలు"
+
+#: lib/wpfilemanager.php:132
+msgid "Terms of Service"
+msgstr "సేవా నిబంధనలు"
+
+#: lib/wpfilemanager.php:134
+msgid "Privacy Policy"
+msgstr "గోప్యతా విధానం"
+
+#: lib/wpfilemanager.php:153
+msgid "Saving..."
+msgstr "సేవ్ చేస్తోంది..."
+
+#: lib/wpfilemanager.php:155
+msgid "OK"
+msgstr "అలాగే"
+
+#~ msgid "Manage your WP files."
+#~ msgstr "మీ WP ఫైళ్ళను నిర్వహించండి."
+
+#~ msgid "Extensions"
+#~ msgstr "పొడిగింపులు"
+
+#~ msgid "Please contribute some donation, to make plugin more stable. You can pay amount of your choice."
+#~ msgstr "ప్లగ్ఇన్ మరింత స్థిరంగా చేయడానికి, కొంత విరాళం ఇవ్వండి. మీరు మీ ఎంపిక మొత్తం చెల్లించవచ్చు."

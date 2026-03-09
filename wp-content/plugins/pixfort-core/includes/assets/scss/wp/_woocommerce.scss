@@ -1,0 +1,92 @@
+
+.woo-btn {
+    text-align: center;
+    -webkit-user-select: none;
+       -moz-user-select: none;
+            user-select: none;
+    &:focus,
+    &.focus {
+        outline: 0;
+        box-shadow: 0 0 0 rgba($primary, .25) .2rem;
+    }
+    // Disabled comes first so active can properly restyle
+    &.disabled,
+    &:disabled {
+        opacity: .65;
+        box-shadow: none;
+    }
+}
+
+.single_add_to_cart_button {
+    height: 2.7rem;
+    font-size: 12px !important;
+    box-shadow: 0 1px 5px 0 rgba(0,0,0,0.15) !important;
+    &:hover {
+        transform: translate(0,-3px) !important;
+        box-shadow: 0 3px 8px 0 rgba(0,0,0,0.15) !important;
+    }
+    transition: var(--transition-base);
+}
+
+.woocommerce .title h3 {
+    font-size: $h4-font-size;
+    font-weight: bold;
+}
+
+.widget.woocommerce.widget_product_categories {
+    .product-categories {
+        li {
+            &:hover {
+                .count {
+                    background: rgba($primary, 0.1);
+                }
+            }
+        }
+    }
+}
+
+.pix-boxed-widgets {
+    .widget.woocommerce.widget_price_filter {
+        form {
+            background: #fff !important;
+            box-shadow: 0 1px 5px 0 rgba(0,0,0,0.15) !important;
+            border-radius: 5px;
+            padding: 20px;
+        }
+    }
+
+    .widget.woocommerce {
+        &.widget_recent_reviews,
+        &.widget_recently_viewed_products,
+        &.widget_products,
+        &.widget_top_rated_products {
+            .product_list_widget {
+                li {
+                    background: #fff !important;
+                    box-shadow: 0 1px 5px 0 rgba(0,0,0,0.15) !important;
+                    @include fly-sm();
+                    border-radius: 5px;
+                    padding: 20px 20px 20px 120px;
+                    min-height: 120px;
+                    transition: var(--transition-base);
+                    .woocommerce-placeholder.wp-post-image,
+                    .attachment-woocommerce_thumbnail.size-woocommerce_thumbnail {
+                        left: 20px;
+                    }
+                }
+            }
+        }
+    }
+
+    .widget.woocommerce.widget_product_categories {
+        .product-categories {
+            li {
+                background: #fff;
+                box-shadow: 0 1px 5px 0 rgba(0,0,0,0.15) !important;
+                @include fly-sm();
+                border-radius: 5px;
+                margin-bottom: 10px;
+            }
+        }
+    }
+}

@@ -1,0 +1,1003 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WP File Manager\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-02-28 15:55+0530\n"
+"PO-Revision-Date: 2022-03-03 12:20+0530\n"
+"Last-Translator: admin <kajal.gill@mysenseinc.in>\n"
+"Language-Team: \n"
+"Language: fi\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Poedit 3.0.1\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: file_folder_manager.php:174
+msgid "Themes backup restored successfully."
+msgstr "Teemojen varmuuskopiointi onnistui."
+
+#: file_folder_manager.php:177
+msgid "Unable to restore themes."
+msgstr "Teemoja ei voi palauttaa."
+
+#: file_folder_manager.php:207
+msgid "Uploads backup restored successfully."
+msgstr "Latausten varmuuskopiointi onnistui."
+
+#: file_folder_manager.php:211
+msgid "Unable to restore uploads."
+msgstr "Lähetyksiä ei voi palauttaa."
+
+#: file_folder_manager.php:237
+msgid "Others backup restored successfully."
+msgstr "Toisten varmuuskopiointi on palautettu."
+
+#: file_folder_manager.php:241
+msgid "Unable to restore others."
+msgstr "Muita ei voi palauttaa."
+
+#: file_folder_manager.php:267
+msgid "Plugins backup restored successfully."
+msgstr "Laajennusten varmuuskopiointi onnistui."
+
+#: file_folder_manager.php:271 file_folder_manager.php:301
+msgid "Unable to restore plugins."
+msgstr "Laajennuksia ei voi palauttaa."
+
+#: file_folder_manager.php:286
+msgid "Database backup restored successfully."
+msgstr "Tietokannan varmuuskopiointi onnistui."
+
+#: file_folder_manager.php:286 file_folder_manager.php:297
+#: file_folder_manager.php:588 file_folder_manager.php:592
+msgid "All Done"
+msgstr "Valmista"
+
+#: file_folder_manager.php:289
+msgid "Unable to restore DB backup."
+msgstr "Tietokannan varmuuskopiota ei voi palauttaa."
+
+#: file_folder_manager.php:347
+msgid "Backups removed successfully!"
+msgstr "Varmuuskopiot poistettu!"
+
+#: file_folder_manager.php:349
+msgid "Unable to removed backup!"
+msgstr "Varmuuskopiota ei voitu poistaa!"
+
+#: file_folder_manager.php:373
+msgid "Database backup done on date "
+msgstr "Tietokannan varmuuskopiointi on tehty "
+
+#: file_folder_manager.php:377
+msgid "Plugins backup done on date "
+msgstr "Laajennusten varmuuskopiointi on tehty "
+
+#: file_folder_manager.php:381
+msgid "Themes backup done on date "
+msgstr "Teemojen varmuuskopiointi on tehty "
+
+#: file_folder_manager.php:385
+msgid "Uploads backup done on date "
+msgstr "Latausten varmuuskopiointi on tehty "
+
+#: file_folder_manager.php:389
+msgid "Others backup done on date "
+msgstr "Toiset varmuuskopiointi on tehty "
+
+#: file_folder_manager.php:393 file_folder_manager.php:776
+msgid "Logs"
+msgstr "Lokit"
+
+#: file_folder_manager.php:399
+msgid "No logs found!"
+msgstr "Lokeja ei löytynyt!"
+
+#: file_folder_manager.php:496
+msgid "Nothing selected for backup"
+msgstr "Varmuuskopiointiin ei ole valittu mitään"
+
+#: file_folder_manager.php:516
+msgid "Security Issue."
+msgstr "Turvallisuuskysymys."
+
+#: file_folder_manager.php:527
+msgid "Database backup done."
+msgstr "Tietokannan varmuuskopiointi tehty."
+
+#: file_folder_manager.php:530
+msgid "Unable to create database backup."
+msgstr "Tietokannan varmuuskopion luominen epäonnistui."
+
+#: file_folder_manager.php:544
+msgid "Plugins backup done."
+msgstr "Lisäosien varmuuskopiointi tehty."
+
+#: file_folder_manager.php:547
+msgid "Plugins backup failed."
+msgstr "Lisäosien varmuuskopiointi epäonnistui."
+
+#: file_folder_manager.php:556
+msgid "Themes backup done."
+msgstr "Teeman varmuuskopiointi tehty."
+
+#: file_folder_manager.php:559
+msgid "Themes backup failed."
+msgstr "Teeman varmuuskopiointi epäonnistui."
+
+#: file_folder_manager.php:569
+msgid "Uploads backup done."
+msgstr "Latausten varmuuskopiointi tehty."
+
+#: file_folder_manager.php:572
+msgid "Uploads backup failed."
+msgstr "Latausten varmuuskopiointi epäonnistui."
+
+#: file_folder_manager.php:581
+msgid "Others backup done."
+msgstr "Muut varmuuskopiot tehty."
+
+#: file_folder_manager.php:584
+msgid "Others backup failed."
+msgstr "Muiden varmuuskopiointi epäonnistui."
+
+#: file_folder_manager.php:761 file_folder_manager.php:762
+#: lib/wpfilemanager.php:23
+msgid "WP File Manager"
+msgstr "WP-tiedostojen hallinta"
+
+#: file_folder_manager.php:769
+msgid "Settings"
+msgstr "asetukset"
+
+#: file_folder_manager.php:771 inc/root.php:48
+msgid "Preferences"
+msgstr "prefrenssit"
+
+#: file_folder_manager.php:773
+msgid "System Properties"
+msgstr "Järjestelmän ominaisuudet"
+
+#: file_folder_manager.php:775
+msgid "Shortcode - PRO"
+msgstr "Lyhytkoodi - PRO"
+
+#: file_folder_manager.php:777
+msgid "Backup/Restore"
+msgstr "Varmuuskopio"
+
+#: file_folder_manager.php:1033
+msgid "Buy Pro"
+msgstr "Osta Pro"
+
+#: file_folder_manager.php:1034
+msgid "Donate"
+msgstr "Lahjoittaa"
+
+#: file_folder_manager.php:1249
+msgid ""
+"<div class=\"updated settings-error notice is-dismissible\" id=\"setting-"
+"error-settings_updated\"> \n"
+"<p><strong>"
+msgstr ""
+
+#: file_folder_manager.php:1256
+msgid ""
+"<div class=\"error settings-error notice is-dismissible\" id=\"setting-error-"
+"settings_updated\"> \n"
+"<p><strong>"
+msgstr ""
+
+#: file_folder_manager.php:1395 file_folder_manager.php:1483
+msgid "File doesn't exist to download."
+msgstr "Tiedostoa ei ole ladattavissa."
+
+#: file_folder_manager.php:1400 file_folder_manager.php:1488
+msgid "Invalid Security Code."
+msgstr "Virheellinen turvakoodi."
+
+#: file_folder_manager.php:1405 file_folder_manager.php:1493
+msgid "Missing backup id."
+msgstr "Varmuuskopiotunnus puuttuu."
+
+#: file_folder_manager.php:1408 file_folder_manager.php:1496
+msgid "Missing parameter type."
+msgstr "Parametrityyppi puuttuu."
+
+#: file_folder_manager.php:1411 file_folder_manager.php:1499
+msgid "Missing required parameters."
+msgstr "Vaaditut parametrit puuttuvat."
+
+#: inc/backup.php:24
+msgid ""
+"Error: Unable to restore backup because database backup is heavy in size. "
+"Please try to increase Maximum allowed size  from Preferences settings."
+msgstr ""
+"Virhe: Varmuuskopiota ei voida palauttaa, koska tietokannan varmuuskopio on "
+"kooltaan suuri. Yritä suurentaa Suurin sallittu koko Asetukset-asetuksista."
+
+#: inc/backup.php:25
+msgid "Select backup(s) to delete!"
+msgstr "Valitse poistettavat varmuuskopiot!"
+
+#: inc/backup.php:26
+msgid "Are you sure want to remove selected backup(s)?"
+msgstr "Haluatko varmasti poistaa valitut varmuuskopiot?"
+
+#: inc/backup.php:31
+msgid "Backup is running, please wait"
+msgstr "Varmuuskopiointi on käynnissä, odota"
+
+#: inc/backup.php:32
+msgid "Restore is running, please wait"
+msgstr "Palautus on käynnissä, odota"
+
+#: inc/backup.php:33
+msgid "Nothing selected for backup."
+msgstr "Varmuuskopiointiin ei ole valittu mitään."
+
+#: inc/backup.php:45
+msgid "WP File Manager - Backup/Restore"
+msgstr "WP tiedostonhallinta - Varmuuskopiointi / palautus"
+
+#: inc/backup.php:51
+msgid "Backup Options:"
+msgstr "Varmuuskopiointivaihtoehdot:"
+
+#: inc/backup.php:58
+msgid "Database Backup"
+msgstr "Tietokannan varmuuskopiointi"
+
+#: inc/backup.php:64
+msgid "Files Backup"
+msgstr "Tiedostojen varmuuskopiointi"
+
+#: inc/backup.php:68
+msgid "Plugins"
+msgstr "Laajennukset"
+
+#: inc/backup.php:71
+msgid "Themes"
+msgstr "Teemat"
+
+#: inc/backup.php:74
+msgid "Uploads"
+msgstr "Lataukset"
+
+#: inc/backup.php:77
+msgid "Others (Any other directories found inside wp-content)"
+msgstr "Muut (muut hakemistot, jotka löytyvät wp-sisällöstä)"
+
+#: inc/backup.php:81
+msgid "Backup Now"
+msgstr "Varmuuskopioi nyt"
+
+#: inc/backup.php:89
+msgid "Time now"
+msgstr "Aika Nyt"
+
+#: inc/backup.php:99
+msgid "SUCCESS"
+msgstr "MENESTYS"
+
+#: inc/backup.php:101
+msgid "Backup successfully deleted."
+msgstr "Varmuuskopiointi poistettu."
+
+#: inc/backup.php:102
+msgid "Ok"
+msgstr "Ok"
+
+#: inc/backup.php:117
+msgid "DELETE FILES"
+msgstr "POISTA TIEDOSTOT"
+
+#: inc/backup.php:119
+msgid "Are you sure you want to delete this backup?"
+msgstr "Haluatko varmasti poistaa tämän varmuuskopion?"
+
+#: inc/backup.php:120 inc/backup.php:139
+msgid "Cancel"
+msgstr "Peruuttaa"
+
+#: inc/backup.php:121 inc/backup.php:140
+msgid "Confirm"
+msgstr "Vahvistaa"
+
+#: inc/backup.php:136
+msgid "RESTORE FILES"
+msgstr "PALAUTA TIEDOSTOT"
+
+#: inc/backup.php:138
+msgid "Are you sure you want to restore this backup?"
+msgstr "Haluatko varmasti palauttaa tämän varmuuskopion?"
+
+#: inc/backup.php:166
+msgid "Last Log Message"
+msgstr "Viimeinen lokiviesti"
+
+#: inc/backup.php:169
+msgid "The backup apparently succeeded and is now complete."
+msgstr "Varmuuskopiointi onnistui ilmeisesti ja on nyt valmis."
+
+#: inc/backup.php:171
+msgid "No log message"
+msgstr "Ei lokiviestiä"
+
+#: inc/backup.php:177
+msgid "Existing Backup(s)"
+msgstr "Olemassa olevat varmuuskopiot"
+
+#: inc/backup.php:184
+msgid "Backup Date"
+msgstr "Varmuuskopiointipäivä"
+
+#: inc/backup.php:187
+msgid "Backup data (click to download)"
+msgstr "Varmuuskopiotiedot (lataa napsauttamalla)"
+
+#: inc/backup.php:190
+msgid "Action"
+msgstr "Toiminta"
+
+#: inc/backup.php:210
+msgid "Today"
+msgstr "Tänään"
+
+#: inc/backup.php:239
+msgid "Restore"
+msgstr "Palauttaa"
+
+#: inc/backup.php:240 inc/backup.php:250
+msgid "Delete"
+msgstr "Poistaa"
+
+#: inc/backup.php:241
+msgid "View Log"
+msgstr "Näytä loki"
+
+#: inc/backup.php:246
+msgid "Currently no backup(s) found."
+msgstr "Tällä hetkellä varmuuskopioita ei löydy."
+
+#: inc/backup.php:249
+msgid "Actions upon selected backup(s)"
+msgstr "Toimet valitun varmuuskopion jälkeen"
+
+#: inc/backup.php:251
+msgid "Select All"
+msgstr "Valitse kaikki"
+
+#: inc/backup.php:252
+msgid "Deselect"
+msgstr "Poista valinta"
+
+#: inc/backup.php:254
+msgid "Note:"
+msgstr "merkintä:"
+
+#: inc/backup.php:254
+msgid "Backup files will be under"
+msgstr "Varmuuskopiotiedostot ovat alle"
+
+#: inc/contribute.php:3
+msgid "WP File Manager Contribution"
+msgstr "WP-tiedostojen hallinnan osallistuminen"
+
+#: inc/logs.php:7
+msgid ""
+"Note: These are demo screenshots. Please buy File Manager pro to Logs "
+"functions."
+msgstr ""
+"Huomaa: Nämä ovat esittelykuvakaappauksia. Osta File Manager pro to Logs -"
+"toiminnot."
+
+#: inc/logs.php:8 lib/wpfilemanager.php:24
+msgid "Click to Buy PRO"
+msgstr "Napsauta ostaaksesi PRO"
+
+#: inc/logs.php:8 inc/settings.php:12 inc/settings.php:27
+#: inc/system_properties.php:5 lib/wpfilemanager.php:25
+msgid "Buy PRO"
+msgstr "Osta PRO"
+
+#: inc/logs.php:9
+msgid "Edit Files Logs"
+msgstr "Muokkaa tiedostolokeja"
+
+#: inc/logs.php:11
+msgid "Download Files Logs"
+msgstr "Lataa tiedostolokit"
+
+#: inc/logs.php:13
+msgid "Upload Files Logs"
+msgstr "Lähetä tiedostolokit"
+
+#: inc/root.php:43
+msgid "Settings saved."
+msgstr "Asetukset Tallennettu."
+
+#: inc/root.php:43 inc/root.php:46
+msgid "Dismiss this notice."
+msgstr "Hylkää tämä ilmoitus."
+
+#: inc/root.php:46
+msgid "You have not made any changes to be saved."
+msgstr "Et ole tehnyt mitään tallennettavia muutoksia."
+
+#: inc/root.php:55
+msgid "Public Root Path"
+msgstr "Julkinen juuripolku"
+
+#: inc/root.php:58
+msgid "File Manager Root Path, you can change according to your choice."
+msgstr "Tiedostonhallinnan juuripolku, voit muuttaa valintasi mukaan."
+
+#: inc/root.php:59
+msgid "Default:"
+msgstr "Oletus:"
+
+#: inc/root.php:60
+msgid ""
+"Please change this carefully, wrong path can lead file manager plugin to go "
+"down."
+msgstr ""
+"Muuta tätä varovasti, väärä polku voi johtaa tiedostojen hallinnan "
+"laajennukseen."
+
+#: inc/root.php:64
+msgid "Enable Trash?"
+msgstr "Otetaanko roskakori käyttöön?"
+
+#: inc/root.php:67
+msgid "After enable trash, your files will go to trash folder."
+msgstr ""
+"Kun roskakori on otettu käyttöön, tiedostosi menevät roskakorikansioon."
+
+#: inc/root.php:72
+msgid "Enable Files Upload to Media Library?"
+msgstr "Otetaanko tiedostojen lataus mediakirjastoon käyttöön?"
+
+#: inc/root.php:75
+msgid "After enabling this all files will go to media library."
+msgstr "Kun tämä on otettu käyttöön, kaikki tiedostot menevät mediakirjastoon."
+
+#: inc/root.php:80
+msgid "Maximum allowed size at the time of database backup restore."
+msgstr "Suurin sallittu koko tietokannan varmuuskopion palautuksen aikana."
+
+#: inc/root.php:83
+msgid "MB"
+msgstr ""
+
+#: inc/root.php:85
+msgid ""
+"Please increase field value if you are getting error message at the time of "
+"backup restore."
+msgstr ""
+"Suurenna kentän arvoa, jos saat virheilmoituksen varmuuskopion palautuksen "
+"yhteydessä."
+
+#: inc/root.php:90
+msgid "Save Changes"
+msgstr "Tallenna muutokset"
+
+#: inc/settings.php:10
+msgid "Settings - General"
+msgstr "Asetukset - Yleiset"
+
+#: inc/settings.php:11 inc/settings.php:26
+msgid ""
+"Note: This is just a demo screenshot. To get settings please buy our pro "
+"version."
+msgstr ""
+"Huomaa: Tämä on vain esittelykuvakaappaus. Saadaksesi asetukset, osta pro-"
+"versiomme."
+
+#: inc/settings.php:13
+msgid ""
+"Here admin can give access to user roles to use filemanager. Admin can set "
+"Default Access Folder and also control upload size of filemanager."
+msgstr ""
+"Täällä järjestelmänvalvoja voi antaa käyttöoikeuden käyttäjärooleihin "
+"käyttääksesi tiedostojen hallintaa. Järjestelmänvalvoja voi asettaa "
+"oletuskäyttökansion ja hallita myös tiedostonhallinnan latauskokoa."
+
+#: inc/settings.php:15
+msgid "Settings - Code-editor"
+msgstr "Asetukset - Koodieditori"
+
+#: inc/settings.php:16
+msgid ""
+"File Manager has a code editor with multiple themes. You can select any "
+"theme for code editor. It will display when you edit any file. Also you can "
+"allow fullscreen mode of code editor."
+msgstr ""
+"Tiedostonhallinnassa on koodieditori, jossa on useita teemoja. Voit valita "
+"minkä tahansa teeman koodieditorille. Se näkyy, kun muokkaat mitä tahansa "
+"tiedostoa. Voit myös sallia koodieditorin koko näytön tilan."
+
+#: inc/settings.php:18
+msgid "Code-editor View"
+msgstr "Koodieditorinäkymä"
+
+#: inc/settings.php:20
+msgid "Settings - User Restrictions"
+msgstr "Asetukset - Käyttäjärajoitukset"
+
+#: inc/settings.php:21
+msgid ""
+"Admin can restrict actions of any user. Also hide files and folders and can "
+"set different - different folders paths for different users."
+msgstr ""
+"Järjestelmänvalvoja voi rajoittaa minkä tahansa käyttäjän toimia. Piilota "
+"myös tiedostot ja kansiot ja voi asettaa erilaiset kansiopolut eri "
+"käyttäjille."
+
+#: inc/settings.php:23
+msgid "Settings - User Role Restrictions"
+msgstr "Asetukset - Käyttäjäroolirajoitukset"
+
+#: inc/settings.php:24
+msgid ""
+"Admin can restrict actions of any userrole. Also hide files and folders and "
+"can set different - different folders paths for different users roles."
+msgstr ""
+"Järjestelmänvalvoja voi rajoittaa minkä tahansa käyttäjän roolin toimintoja. "
+"Piilota myös tiedostot ja kansiot ja voi asettaa erilaiset kansiopolut eri "
+"käyttäjärooleille."
+
+#: inc/shortcode_docs.php:11
+msgid "File Manager - Shortcode"
+msgstr "Tiedostonhallinta - Lyhytkoodi "
+
+#: inc/shortcode_docs.php:15 inc/shortcode_docs.php:17
+#: inc/shortcode_docs.php:19
+msgid "USE:"
+msgstr "KÄYTTÄÄ:"
+
+#: inc/shortcode_docs.php:15
+msgid ""
+"It will show file manager on front end. You can control all settings from "
+"file manager settings. It will work same as backend WP File Manager."
+msgstr ""
+"Se näyttää tiedostonhallinnan käyttöliittymässä. Voit hallita kaikkia "
+"asetuksia tiedostonhallinnan asetuksista. Se toimii samalla tavalla kuin "
+"backend WP tiedostonhallinta."
+
+#: inc/shortcode_docs.php:17
+msgid ""
+"It will show file manager on front end. But only Administrator can access it "
+"and will control from file manager settings."
+msgstr ""
+"Se näyttää tiedostonhallinnan käyttöliittymässä. Mutta vain "
+"järjestelmänvalvoja voi käyttää sitä ja hallitsee tiedostonhallinnan "
+"asetuksista."
+
+#: inc/shortcode_docs.php:23
+msgid "Parameters:"
+msgstr "Parametrit:"
+
+#: inc/shortcode_docs.php:26
+msgid ""
+"It will allow all roles to access file manager on front end or You can "
+"simple use for particular user roles as like allowed_roles=\"editor,author"
+"\" (seprated by comma(,))"
+msgstr ""
+"Se antaa kaikille rooleille pääsyn tiedostonhallintaan käyttöliittymässä tai "
+"voit käyttää vain tiettyjä käyttäjärooleja, kuten sallittu_roles=\"editor,"
+"author\" (erottuna pilkulla(,))"
+
+#: inc/shortcode_docs.php:28
+msgid ""
+"Here \"test\" is the name of folder which is located on root directory, or "
+"you can give path for sub folders as like \"wp-content/plugins\". If leave "
+"blank or empty it will access all folders on root directory. Default: Root "
+"directory"
+msgstr ""
+"Tässä \"testi\" on sen kansion nimi, joka sijaitsee juurihakemistossa, tai "
+"voit antaa polun alikansioille kuten \"wp-content/plugins\". Jos jätetään "
+"tyhjäksi, se käyttää kaikkia juurihakemiston kansioita. Oletus: "
+"juurihakemisto"
+
+#: inc/shortcode_docs.php:30
+msgid "for access to write files permissions, note: true/false, default: false"
+msgstr "tiedostojen kirjoitusoikeudet, huomautus: tosi/false, oletus: false"
+
+#: inc/shortcode_docs.php:32
+msgid "for access to read files permission, note: true/false, default: true"
+msgstr "tiedostojen lukulupaa varten huomautus: tosi/false, oletus: tosi"
+
+#: inc/shortcode_docs.php:34
+msgid "it will hide mentioned here. Note: seprated by comma(,). Default: Null"
+msgstr ""
+"se piiloutuu mainittuun tänne. Huomautus: erotettu pilkulla (,). Oletus: "
+"Nolla"
+
+#: inc/shortcode_docs.php:36
+msgid ""
+"It will lock mentioned in commas. you can lock more as like \".php,.css,.js"
+"\" etc. Default: Null"
+msgstr ""
+"Se lukittuu pilkuilla mainittuna. voit lukita enemmän esimerkiksi \".php,."
+"css,.js\" jne. Oletus: Null"
+
+#: inc/shortcode_docs.php:38
+msgid ""
+"* for all operations and to allow some operation you can mention operation "
+"name as like, allowed_operations=\"upload,download\". Note: seprated by "
+"comma(,). Default: *"
+msgstr ""
+"* Kaikille toiminnoille ja joidenkin toimintojen sallimiseksi voit mainita "
+"toiminnon nimen muodossa, enabled_operations=\"upload,download\". Huomautus: "
+"erotettu pilkulla (,). Oletus: *"
+
+#: inc/shortcode_docs.php:42
+msgid "File Operations List:"
+msgstr "Tiedostotoimintoluettelo:"
+
+#: inc/shortcode_docs.php:46
+msgid "mkdir ->"
+msgstr ""
+
+#: inc/shortcode_docs.php:46
+msgid "Make directory or folder"
+msgstr "Luo hakemisto tai kansio"
+
+#: inc/shortcode_docs.php:47
+msgid "mkfile ->"
+msgstr ""
+
+#: inc/shortcode_docs.php:47
+msgid "Make file"
+msgstr "Tee tiedosto"
+
+#: inc/shortcode_docs.php:48
+msgid "rename ->"
+msgstr ""
+
+#: inc/shortcode_docs.php:48
+msgid "Rename a file or folder"
+msgstr "Nimeä tiedosto tai kansio uudelleen"
+
+#: inc/shortcode_docs.php:49
+msgid "duplicate ->"
+msgstr ""
+
+#: inc/shortcode_docs.php:49
+msgid "Duplicate or clone a folder or file"
+msgstr "Kopioi tai kloonaa kansio tai tiedosto"
+
+#: inc/shortcode_docs.php:50
+msgid "paste ->"
+msgstr ""
+
+#: inc/shortcode_docs.php:50
+msgid "Paste a file or folder"
+msgstr "Liitä tiedosto tai kansio"
+
+#: inc/shortcode_docs.php:51
+msgid "ban ->"
+msgstr ""
+
+#: inc/shortcode_docs.php:51
+msgid "Ban"
+msgstr "kieltää"
+
+#: inc/shortcode_docs.php:52
+msgid "archive ->"
+msgstr ""
+
+#: inc/shortcode_docs.php:52
+msgid "To make a archive or zip"
+msgstr "Arkiston tai zip-tiedoston luominen"
+
+#: inc/shortcode_docs.php:53
+msgid "extract ->"
+msgstr ""
+
+#: inc/shortcode_docs.php:53
+msgid "Extract archive or zipped file"
+msgstr "Pura arkisto tai pakattu tiedosto"
+
+#: inc/shortcode_docs.php:54
+msgid "copy ->"
+msgstr ""
+
+#: inc/shortcode_docs.php:54
+msgid "Copy files or folders"
+msgstr "Kopioi tiedostoja tai kansioita"
+
+#: inc/shortcode_docs.php:58
+msgid "cut ->"
+msgstr ""
+
+#: inc/shortcode_docs.php:58
+msgid "Simple cut a file or folder"
+msgstr "Leikkaa tiedosto tai kansio yksinkertaisesti"
+
+#: inc/shortcode_docs.php:59
+msgid "edit ->"
+msgstr ""
+
+#: inc/shortcode_docs.php:59
+msgid "Edit a file"
+msgstr "Muokkaa tiedostoa"
+
+#: inc/shortcode_docs.php:60
+msgid "rm ->"
+msgstr ""
+
+#: inc/shortcode_docs.php:60
+msgid "Remove or delete files and folders"
+msgstr "Poista tai poista tiedostoja ja kansioita"
+
+#: inc/shortcode_docs.php:61
+msgid "download ->"
+msgstr ""
+
+#: inc/shortcode_docs.php:61
+msgid "Download files"
+msgstr "Lataa tiedostoja"
+
+#: inc/shortcode_docs.php:62
+msgid "upload ->"
+msgstr ""
+
+#: inc/shortcode_docs.php:62
+msgid "Upload files"
+msgstr "Lähetä tiedostoja"
+
+#: inc/shortcode_docs.php:63
+msgid "search -> "
+msgstr ""
+
+#: inc/shortcode_docs.php:63
+msgid "Search things"
+msgstr "Etsi asioita"
+
+#: inc/shortcode_docs.php:64
+msgid "info ->"
+msgstr ""
+
+#: inc/shortcode_docs.php:64
+msgid "Info of file"
+msgstr "Tiedoston tiedot"
+
+#: inc/shortcode_docs.php:65
+msgid "help ->"
+msgstr ""
+
+#: inc/shortcode_docs.php:65
+msgid "Help"
+msgstr "auta"
+
+#: inc/shortcode_docs.php:71
+msgid ""
+"->  It will ban particular users by just putting their ids seprated by "
+"commas(,). If user is Ban then they will not able to access wp file manager "
+"on front end."
+msgstr ""
+"-> Se kieltää tietyt käyttäjät asettamalla tunnuksensa pilkulla (,). Jos "
+"käyttäjä on Ban, he eivät voi käyttää wp-tiedostojen hallintaa "
+"käyttöliittymässä."
+
+#: inc/shortcode_docs.php:72
+msgid "-> Filemanager UI View. Default: grid"
+msgstr "-> Filemanager UI -näkymä. Oletus: grid"
+
+#: inc/shortcode_docs.php:73
+msgid "-> File Modified or Create date format. Default: d M, Y h:i A"
+msgstr "-> Tiedosto muokattu tai Luo päivämäärä -muoto. Oletus: d M, Y h: i A"
+
+#: inc/shortcode_docs.php:74
+msgid "-> File manager Language. Default: English(en)"
+msgstr "-> Tiedostonhallinnan kieli. Oletus: English(en)"
+
+#: inc/shortcode_docs.php:75
+msgid "-> File Manager Theme. Default: Light"
+msgstr "-> Tiedostonhallinnan teema. Oletus: Light"
+
+#: inc/system_properties.php:5
+msgid "File Manager - System Properties"
+msgstr "Tiedostonhallinta - Järjestelmän ominaisuudet"
+
+#: inc/system_properties.php:10
+msgid "PHP version"
+msgstr "PHP-versio"
+
+#: inc/system_properties.php:15
+msgid "Maximum file upload size (upload_max_filesize)"
+msgstr "Tiedoston enimmäiskoko (upload_max_filesize)"
+
+#: inc/system_properties.php:20
+msgid "Post maximum file upload size (post_max_size)"
+msgstr "Viestin enimmäislatauskoko (post_max_size)"
+
+#: inc/system_properties.php:25
+msgid "Memory Limit (memory_limit)"
+msgstr "Muistiraja (memory_limit)"
+
+#: inc/system_properties.php:30
+msgid "Timeout (max_execution_time)"
+msgstr "Aikakatkaisu (max_execution_time)"
+
+#: inc/system_properties.php:35
+msgid "Browser and OS (HTTP_USER_AGENT)"
+msgstr "Selain ja käyttöjärjestelmä (HTTP_USER_AGENT)"
+
+#: lib/jquery/jquery-ui-1.11.4.js:8
+msgid "'"
+msgstr ""
+
+#: lib/wpfilemanager.php:31
+msgid "Change Theme Here:"
+msgstr "Vaihda teema täällä:"
+
+#: lib/wpfilemanager.php:35
+msgid "Default"
+msgstr "Oletus"
+
+#: lib/wpfilemanager.php:39
+msgid "Dark"
+msgstr "Tumma"
+
+#: lib/wpfilemanager.php:43
+msgid "Light"
+msgstr "Kevyt"
+
+#: lib/wpfilemanager.php:47
+msgid "Gray"
+msgstr "harmaa"
+
+#: lib/wpfilemanager.php:52
+msgid "Windows - 10"
+msgstr ""
+
+#: lib/wpfilemanager.php:85
+msgid "Welcome to File Manager"
+msgstr "Tervetuloa Tiedostonhallintaan"
+
+#: lib/wpfilemanager.php:88
+msgid ""
+"We love making new friends! Subscribe below and we promise to\n"
+"    keep you up-to-date with our latest new plugins, updates,\n"
+"    awesome deals and a few special offers."
+msgstr ""
+"Rakastamme uusien ystävien hankkimista! Tilaa alla ja lupaamme\n"
+"    pitää sinut ajan tasalla uusimmista uusista laajennuksistamme, "
+"päivityksistämme,\n"
+"    mahtavia tarjouksia ja muutama erikoistarjous."
+
+#: lib/wpfilemanager.php:99
+msgid "Please Enter First Name."
+msgstr "Anna etunimi."
+
+#: lib/wpfilemanager.php:107
+msgid "Please Enter Last Name."
+msgstr "Anna sukunimi."
+
+#: lib/wpfilemanager.php:116
+msgid "Please Enter Email Address."
+msgstr "Anna sähköpostiosoite."
+
+#: lib/wpfilemanager.php:120
+msgid "Verify"
+msgstr "Vahvista"
+
+#: lib/wpfilemanager.php:126
+msgid "No Thanks"
+msgstr "Ei kiitos"
+
+#: lib/wpfilemanager.php:132
+msgid "Terms of Service"
+msgstr "Käyttöehdot"
+
+#: lib/wpfilemanager.php:134
+msgid "Privacy Policy"
+msgstr "Tietosuojakäytäntö"
+
+#: lib/wpfilemanager.php:153
+msgid "Saving..."
+msgstr "Tallentaa..."
+
+#: lib/wpfilemanager.php:155
+msgid "OK"
+msgstr "OK"
+
+#~ msgid "Backup not found!"
+#~ msgstr "Varmuuskopiota ei löydy!"
+
+#~ msgid "Backup removed successfully!"
+#~ msgstr "Varmuuskopio poistettu!"
+
+#~ msgid "<span class=\"fm_console_error\">Nothing selected for backup</span>"
+#~ msgstr ""
+#~ "<span class=\"fm_console_error\">Mitään ei ole valittu varmuuskopiointia "
+#~ "varten</span>"
+
+#~ msgid "<span class=\"fm_console_error\">Security Issue.</span>"
+#~ msgstr "<span class=\"fm_console_error\">Tietoturvaongelma.</span>"
+
+#~ msgid "<span class=\"fm_console_success\">Database backup done.</span>"
+#~ msgstr ""
+#~ "<span class=\"fm_console_success\">Tietokannan varmuuskopiointi valmis.</"
+#~ "span>"
+
+#~ msgid ""
+#~ "<span class=\"fm_console_error\">Unable to create database backup.</span>"
+#~ msgstr ""
+#~ "<span class=\"fm_console_error\"><span class = \"fm_console_error\"></"
+#~ "span>"
+
+#~ msgid "<span class=\"fm_console_success\">Plugins backup done.</span>"
+#~ msgstr ""
+#~ "<span class=\"fm_console_success\">Laajennusten varmuuskopiointi valmis.</"
+#~ "span>"
+
+#~ msgid "<span class=\"fm_console_error\">Plugins backup failed.</span>"
+#~ msgstr ""
+#~ "<span class=\"fm_console_error\">Laajennusten varmuuskopiointi "
+#~ "epäonnistui.</span>"
+
+#~ msgid "<span class=\"fm_console_success\">Themes backup done.</span>"
+#~ msgstr ""
+#~ "<span class=\"fm_console_success\">Teemojen varmuuskopiointi valmis.</"
+#~ "span>"
+
+#~ msgid "<span class=\"fm_console_error\">Themes backup failed.</span>"
+#~ msgstr ""
+#~ "<span class=\"fm_console_error\">Teemojen varmuuskopiointi epäonnistui.</"
+#~ "span>"
+
+#~ msgid "<span class=\"fm_console_success\">Uploads backup done.</span>"
+#~ msgstr ""
+#~ "<span class=\"fm_console_success\">Latausten varmuuskopiointi valmis.</"
+#~ "span>"
+
+#~ msgid "<span class=\"fm_console_error\">Uploads backup failed.</span>"
+#~ msgstr ""
+#~ "<span class=\"fm_console_error\">Latausten varmuuskopiointi epäonnistui.</"
+#~ "span>"
+
+#~ msgid "<span class=\"fm_console_success\">Others backup done.</span>"
+#~ msgstr ""
+#~ "<span class=\"fm_console_success\">Toiset varmuuskopiointi tehty.</span>"
+
+#~ msgid "<span class=\"fm_console_error\">Others backup failed.</span>"
+#~ msgstr ""
+#~ "<span class=\"fm_console_error\">Toisten varmuuskopiointi epäonnistui.</"
+#~ "span>"
+
+#~ msgid "<span class=\"fm_console_success\">All Done</span>"
+#~ msgstr "<span class=\"fm_console_success\">Kaikki valmiit</span>"
+
+#~ msgid ""
+#~ "<code>[wp_file_manager view=\"list\" lang=\"en\" theme=\"light\" "
+#~ "dateformat=\"d M, Y h:i A\" allowed_roles=\"editor,author\" access_folder="
+#~ "\"wp-content/plugins\" write = \"true\" read = \"false\" hide_files = "
+#~ "\"kumar,abc.php\" lock_extensions=\".php,.css\" allowed_operations="
+#~ "\"upload,download\" ban_user_ids=\"2,3\"]"
+#~ msgstr ""
+#~ "<code>[wp_file_manager view=\"list\" lang=\"en\" theme=\"light\" "
+#~ "dateformat=\"d M, Y h:i A\" allowed_roles=\"editor,author\" access_folder="
+#~ "\"wp-content/plugins\" write = \"true\" read = \"false\" hide_files = "
+#~ "\"kumar,abc.php\" lock_extensions=\".php,.css\" allowed_operations="
+#~ "\"upload,download\" ban_user_ids=\"2,3\"]"
+
+#~ msgid "Manage your WP files."
+#~ msgstr "Hallitse WP-tiedostoja."
+
+#~ msgid "Extensions"
+#~ msgstr "laajennukset"
+
+#~ msgid ""
+#~ "Please contribute some donation, to make plugin more stable. You can pay "
+#~ "amount of your choice."
+#~ msgstr ""
+#~ "Anna jonkin verran lahjoituksia, jotta plugin pysyisi entistä vakaampana. "
+#~ "Voit maksaa haluamasi määrän."

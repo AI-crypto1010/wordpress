@@ -1,0 +1,187 @@
+/* Common style for pseudo-elements */
+.pix-divider {
+	z-index: 1;
+	pointer-events: none;
+}
+.pix-divider::before,
+.pix-divider::after {
+	position: absolute;
+	content: '';
+	pointer-events: none;
+}
+
+.pix-divider-in-front {
+	z-index: 9999 !important;
+}
+.pix-divider-flip-h {
+	transform: scale(-1, 1);
+}
+.pix-dividers-box {
+	height: 100px;
+	pointer-events: none;
+	* {
+		pointer-events: none;
+	}
+	&.pix-divider-bottom {
+		position: absolute;
+		bottom: 0;
+	}
+	&.pix-divider-top {
+		position: absolute;
+		top: 0;
+	}
+	&.pix-divider-top-inverse {
+		position: absolute;
+		transform: rotate(180deg);
+		top: 0;
+	}
+}
+
+.pix-divider {
+	position: absolute;
+	opacity: 1 !important;
+	width: 100%;
+	left: 0;
+	svg {
+		> path,
+		> polygon {
+			transform: translate(0px, -1px);
+			&:last-of-type {
+				transform: translate(0px, 0px);
+			}
+		}
+	}
+
+	&.pix-top-divider {
+		transform: rotate(180deg) translate(0px, 1px);
+		top: -1px;
+		&.pix-stretch-divider {
+			transform: rotate(180deg) translate(50%, 1px);
+		}
+		&.pix-divider-flip-h {
+			transform: rotate(180deg) scale(-1, 1);
+			&.pix-stretch-divider {
+				transform: rotate(180deg) scale(-1, 1) translateX(-50%);
+			}
+		}
+		svg {
+			> path {
+				transform: translate(0px, -1px) !important;
+				&:last-of-type {
+					transform: translate(0px, 1px) !important;
+				}
+			}
+			> polygon {
+				transform: translate(0px, -1px) !important;
+				&:last-of-type {
+					transform: translate(0px, 1px) !important;
+				}
+			}
+		}
+		&:not([data-style='style-26']):not([data-style='style-24']):not([data-style='style-25']) {
+			svg :first-child {
+				transform: translate(0px, -1px) !important;
+			}
+		}
+	}
+	&.pix-bottom-divider {
+		bottom: -1px;
+		&.pix-stretch-divider {
+			transform: translateX(-50%);
+			&.pix-divider-flip-h {
+				transform: translateX(-50%) scale(-1, 1);
+			}
+		}
+	}
+	&.pix-bottom-divider[data-style='style-7'] path {
+		transform: translate(0px, 1px);
+	}
+	&.pix-stretch-divider {
+		width: 100vw;
+		margin-left: 50% !important;
+	}
+}
+
+.pix-shape-dividers {
+	width: 100%;
+	height: 100px !important;
+	pointer-events: none;
+	position: relative;
+	top: 0;
+	left: 0;
+}
+// .pix-full-width-elm {
+// 	width: 100vw;
+// 	z-index: 9999;
+// 	margin-left: calc(-50vw + 50%);
+// 	left: 0;
+// }
+
+@media (max-width: ($mainMobileBreakpoint - 1)) {
+	.pix-main-intro {
+		.container {
+			padding-top: 80px !important;
+			padding-bottom: 100px !important;
+		}
+		.pix-divider:not([data-style='style-25']) {
+			max-height: 100px;
+			svg {
+				max-height: 100px !important;
+			}
+		}
+	}
+}
+
+// Elementor Dividers
+.pix-elementor-section-dividers > .pix-divider {
+	position: absolute !important;
+	z-index: 0;
+	&.pix-divider-in-front {
+		z-index: 999999999 !important;
+	}
+}
+// fix for dividers with overlay in old Elementor sections
+.pix-elementor-section-dividers:has(.elementor-background-overlay) .pix-divider {
+	z-index: 1;
+}
+.elementor > .pix-divider {
+	svg {
+		position: absolute;
+		z-index: 1;
+		bottom: -1px;
+	}
+	&.pix-top-divider {
+		z-index: 1;
+		top: 0;
+	}
+	&.pix-bottom-divider {
+		z-index: 0;
+		bottom: 0;
+	}
+}
+.pix-divider:not(.elementor-element) {
+	padding: 0 !important;
+	margin-top: 0 !important;
+	margin-bottom: 0 !important;
+}
+.pix-divider.pix-top-divider.elementor-element {
+	margin-bottom: 0px !important;
+	padding: 0px !important;
+}
+.pix-divider.pix-bottom-divider.elementor-element {
+	margin-top: 0px !important;
+	padding: 0px !important;
+	svg {
+		margin-bottom: inherit;
+	}
+}
+.pix-divider.pix-divider-in-elementor {
+	z-index: 0;
+	&.pix-divider-in-front {
+		z-index: 999999999 !important;
+	}
+}
+// fix for dividers with overlay in old Elementor sections
+// section:has(.elementor-background-overlay) .pix-divider.pix-divider-in-elementor {
+// 	z-index: 1;
+// }

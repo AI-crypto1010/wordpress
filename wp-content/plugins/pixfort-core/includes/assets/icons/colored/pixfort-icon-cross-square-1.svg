@@ -1,0 +1,6 @@
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <g id="Colored/Interface/pixfort-icon-cross-square-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect id="fill" fill-opacity="0.25" fill="currentcolor" x="3" y="3" width="18" height="18" rx="3"></rect>
+        <path d="M6,3 L18,3 C19.6568542,3 21,4.34314575 21,6 L21,18 C21,19.6568542 19.6568542,21 18,21 L6,21 C4.34314575,21 3,19.6568542 3,18 L3,6 C3,4.34314575 4.34314575,3 6,3 Z M15.5,8.5 L8.5,15.5 M8.5,8.5 L15.5,15.5" stroke="currentcolor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+    </g>
+</svg>

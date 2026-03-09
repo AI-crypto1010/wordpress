@@ -1,0 +1,998 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WP File Manager\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-02-25 12:37+0530\n"
+"PO-Revision-Date: 2022-02-25 15:14+0530\n"
+"Last-Translator: admin <munishthedeveloper48@gmail.com>\n"
+"Language-Team: \n"
+"Language: af\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Poedit 3.0.1\n"
+"X-Poedit-KeywordsList: __;_e;esc_attr__\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: file_folder_manager.php:174
+msgid "Themes backup restored successfully."
+msgstr "Rugsteun van temas is suksesvol herstel."
+
+#: file_folder_manager.php:177
+msgid "Unable to restore themes."
+msgstr "Kan nie temas herstel nie."
+
+#: file_folder_manager.php:207
+msgid "Uploads backup restored successfully."
+msgstr "Rugsteun van oplaaie is suksesvol herstel."
+
+#: file_folder_manager.php:211
+msgid "Unable to restore uploads."
+msgstr "Kan nie oplaaie herstel nie."
+
+#: file_folder_manager.php:237
+msgid "Others backup restored successfully."
+msgstr "Ander rugsteun is suksesvol herstel."
+
+#: file_folder_manager.php:241
+msgid "Unable to restore others."
+msgstr "Kan nie ander herstel nie."
+
+#: file_folder_manager.php:267
+msgid "Plugins backup restored successfully."
+msgstr "Inprop-rugsteun is suksesvol herstel."
+
+#: file_folder_manager.php:271 file_folder_manager.php:301
+msgid "Unable to restore plugins."
+msgstr "Kan nie inproppe herstel nie."
+
+#: file_folder_manager.php:286
+msgid "Database backup restored successfully."
+msgstr "Databasis-rugsteun is suksesvol herstel."
+
+#: file_folder_manager.php:286 file_folder_manager.php:297
+#: file_folder_manager.php:588 file_folder_manager.php:592
+msgid "All Done"
+msgstr "Alles klaar"
+
+#: file_folder_manager.php:289
+msgid "Unable to restore DB backup."
+msgstr "Kan nie DB-rugsteun herstel nie."
+
+#: file_folder_manager.php:347
+msgid "Backups removed successfully!"
+msgstr "Rugsteun suksesvol verwyder!"
+
+#: file_folder_manager.php:349
+msgid "Unable to removed backup!"
+msgstr "Kon nie rugsteun verwyder nie!"
+
+#: file_folder_manager.php:373
+msgid "Database backup done on date "
+msgstr "Databasis rugsteun op datum gedoen "
+
+#: file_folder_manager.php:377
+msgid "Plugins backup done on date "
+msgstr "Insteek-rugsteun op datum gedoen "
+
+#: file_folder_manager.php:381
+msgid "Themes backup done on date "
+msgstr "Rugsteun van temas op datum gedoen "
+
+#: file_folder_manager.php:385
+msgid "Uploads backup done on date "
+msgstr "Laai rugsteun op datum op "
+
+#: file_folder_manager.php:389
+msgid "Others backup done on date "
+msgstr "Ander rugsteun op datum gedoen"
+
+#: file_folder_manager.php:393 file_folder_manager.php:776
+msgid "Logs"
+msgstr "Logs"
+
+#: file_folder_manager.php:399
+msgid "No logs found!"
+msgstr "Geen logboeke gevind nie!"
+
+#: file_folder_manager.php:496
+msgid "Nothing selected for backup"
+msgstr "Niks gekies vir rugsteun nie"
+
+#: file_folder_manager.php:516
+msgid "Security Issue."
+msgstr "Sekuriteitskwessie."
+
+#: file_folder_manager.php:527
+msgid "Database backup done."
+msgstr "Databasis rugsteun gedoen."
+
+#: file_folder_manager.php:530
+msgid "Unable to create database backup."
+msgstr "Kan nie databasisrugsteun skep nie."
+
+#: file_folder_manager.php:544
+msgid "Plugins backup done."
+msgstr "Inprop-rugsteun gedoen."
+
+#: file_folder_manager.php:547
+msgid "Plugins backup failed."
+msgstr "Inprop-rugsteun het misluk."
+
+#: file_folder_manager.php:556
+msgid "Themes backup done."
+msgstr "Rugsteun van temas gedoen."
+
+#: file_folder_manager.php:559
+msgid "Themes backup failed."
+msgstr "Tema-rugsteun het misluk."
+
+#: file_folder_manager.php:569
+msgid "Uploads backup done."
+msgstr "Oplaaie rugsteun gedoen."
+
+#: file_folder_manager.php:572
+msgid "Uploads backup failed."
+msgstr "Oplaai-rugsteun het misluk."
+
+#: file_folder_manager.php:581
+msgid "Others backup done."
+msgstr "Ander rugsteun gedoen."
+
+#: file_folder_manager.php:584
+msgid "Others backup failed."
+msgstr "Ander rugsteun het misluk."
+
+#: file_folder_manager.php:761 file_folder_manager.php:762
+#: lib/wpfilemanager.php:23
+msgid "WP File Manager"
+msgstr "Naam van die inprop"
+
+#: file_folder_manager.php:769
+msgid "Settings"
+msgstr "instellings"
+
+#: file_folder_manager.php:771 inc/root.php:48
+msgid "Preferences"
+msgstr "Voorkeure"
+
+#: file_folder_manager.php:773
+msgid "System Properties"
+msgstr "Stelsel Eienskappe"
+
+#: file_folder_manager.php:775
+msgid "Shortcode - PRO"
+msgstr "Kortkode - PRO"
+
+#: file_folder_manager.php:777
+msgid "Backup/Restore"
+msgstr "Rugsteun/herstel"
+
+#: file_folder_manager.php:1033
+msgid "Buy Pro"
+msgstr "Koop Pro"
+
+#: file_folder_manager.php:1034
+msgid "Donate"
+msgstr "skenk"
+
+#: file_folder_manager.php:1249
+msgid ""
+"<div class=\"updated settings-error notice is-dismissible\" id=\"setting-"
+"error-settings_updated\"> \n"
+"<p><strong>"
+msgstr ""
+
+#: file_folder_manager.php:1256
+msgid ""
+"<div class=\"error settings-error notice is-dismissible\" id=\"setting-error-"
+"settings_updated\"> \n"
+"<p><strong>"
+msgstr ""
+
+#: file_folder_manager.php:1395 file_folder_manager.php:1483
+msgid "File doesn't exist to download."
+msgstr "Lêer bestaan ​​nie om af te laai nie."
+
+#: file_folder_manager.php:1400 file_folder_manager.php:1488
+msgid "Invalid Security Code."
+msgstr "Ongeldige sekuriteitskode."
+
+#: file_folder_manager.php:1405 file_folder_manager.php:1493
+msgid "Missing backup id."
+msgstr "Rugsteun-ID ontbreek."
+
+#: file_folder_manager.php:1408 file_folder_manager.php:1496
+msgid "Missing parameter type."
+msgstr "Parametersoort ontbreek."
+
+#: file_folder_manager.php:1411 file_folder_manager.php:1499
+msgid "Missing required parameters."
+msgstr "Ontbrekende vereiste parameters."
+
+#: inc/backup.php:24
+msgid ""
+"Error: Unable to restore backup because database backup is heavy in size. "
+"Please try to increase Maximum allowed size  from Preferences settings."
+msgstr ""
+"Fout: Kan nie rugsteun herstel nie, want databasisrugsteun is groot. Probeer "
+"asseblief om Maksimum toegelate grootte vanaf Voorkeure-instellings te "
+"vergroot."
+
+#: inc/backup.php:25
+msgid "Select backup(s) to delete!"
+msgstr "Kies rugsteun(e) om uit te vee!"
+
+#: inc/backup.php:26
+msgid "Are you sure want to remove selected backup(s)?"
+msgstr "Is u seker dat u geselekteerde rugsteun (e) wil verwyder?"
+
+#: inc/backup.php:31
+msgid "Backup is running, please wait"
+msgstr "Rugsteun loop, wag asseblief"
+
+#: inc/backup.php:32
+msgid "Restore is running, please wait"
+msgstr "Herstel loop, wag asseblief"
+
+#: inc/backup.php:33
+msgid "Nothing selected for backup."
+msgstr "Niks gekies vir rugsteun nie."
+
+#: inc/backup.php:45
+msgid "WP File Manager - Backup/Restore"
+msgstr "WP-lêerbestuurder - Rugsteun / Herstel"
+
+#: inc/backup.php:51
+msgid "Backup Options:"
+msgstr "Rugsteunopsies:"
+
+#: inc/backup.php:58
+msgid "Database Backup"
+msgstr "Databasis-rugsteun"
+
+#: inc/backup.php:64
+msgid "Files Backup"
+msgstr "Lêers rugsteun"
+
+#: inc/backup.php:68
+msgid "Plugins"
+msgstr "Inproppe"
+
+#: inc/backup.php:71
+msgid "Themes"
+msgstr "Temas"
+
+#: inc/backup.php:74
+msgid "Uploads"
+msgstr "Oplaaie"
+
+#: inc/backup.php:77
+msgid "Others (Any other directories found inside wp-content)"
+msgstr "Ander (enige ander gidse wat binne wp-inhoud voorkom)"
+
+#: inc/backup.php:81
+msgid "Backup Now"
+msgstr "Maak nou 'n rugsteun"
+
+#: inc/backup.php:89
+msgid "Time now"
+msgstr "Nou tyd"
+
+#: inc/backup.php:99
+msgid "SUCCESS"
+msgstr "SUKSES"
+
+#: inc/backup.php:101
+msgid "Backup successfully deleted."
+msgstr "Rugsteun suksesvol uitgevee."
+
+#: inc/backup.php:102
+msgid "Ok"
+msgstr "Oké"
+
+#: inc/backup.php:117
+msgid "DELETE FILES"
+msgstr "Vee lêers uit"
+
+#: inc/backup.php:119
+msgid "Are you sure you want to delete this backup?"
+msgstr "Is u seker u wil hierdie rugsteun verwyder?"
+
+#: inc/backup.php:120 inc/backup.php:139
+msgid "Cancel"
+msgstr "Kanselleer"
+
+#: inc/backup.php:121 inc/backup.php:140
+msgid "Confirm"
+msgstr "Bevestig"
+
+#: inc/backup.php:136
+msgid "RESTORE FILES"
+msgstr "HERSTEL LILERS"
+
+#: inc/backup.php:138
+msgid "Are you sure you want to restore this backup?"
+msgstr "Is u seker dat u hierdie rugsteun wil herstel?"
+
+#: inc/backup.php:166
+msgid "Last Log Message"
+msgstr "Laaste logboodskap"
+
+#: inc/backup.php:169
+msgid "The backup apparently succeeded and is now complete."
+msgstr "Die rugsteun het blykbaar geslaag en is nou voltooi."
+
+#: inc/backup.php:171
+msgid "No log message"
+msgstr "Geen logboodskap nie"
+
+#: inc/backup.php:177
+msgid "Existing Backup(s)"
+msgstr "Bestaande rugsteun (e)"
+
+#: inc/backup.php:184
+msgid "Backup Date"
+msgstr "Rugsteundatum"
+
+#: inc/backup.php:187
+msgid "Backup data (click to download)"
+msgstr "Rugsteundata (klik om af te laai)"
+
+#: inc/backup.php:190
+msgid "Action"
+msgstr "Aksie"
+
+#: inc/backup.php:210
+msgid "Today"
+msgstr "Vandag"
+
+#: inc/backup.php:239
+msgid "Restore"
+msgstr "Herstel"
+
+#: inc/backup.php:240 inc/backup.php:250
+msgid "Delete"
+msgstr "Vee uit"
+
+#: inc/backup.php:241
+msgid "View Log"
+msgstr "Sien log"
+
+#: inc/backup.php:246
+msgid "Currently no backup(s) found."
+msgstr "Tans is geen rugsteun (s) gevind nie."
+
+#: inc/backup.php:249
+msgid "Actions upon selected backup(s)"
+msgstr "Handelinge met geselekteerde rugsteun (e)"
+
+#: inc/backup.php:251
+msgid "Select All"
+msgstr "Kies Alles"
+
+#: inc/backup.php:252
+msgid "Deselect"
+msgstr "Deselekteer"
+
+#: inc/backup.php:254
+msgid "Note:"
+msgstr "Nota:"
+
+#: inc/backup.php:254
+msgid "Backup files will be under"
+msgstr "Rugsteunlêers sal onder wees"
+
+#: inc/contribute.php:3
+msgid "WP File Manager Contribution"
+msgstr "  WP-lêerbestuurder bydrae"
+
+#: inc/logs.php:7
+msgid ""
+"Note: These are demo screenshots. Please buy File Manager pro to Logs "
+"functions."
+msgstr ""
+"Opmerking: dit is demo-skermkiekies. Koop File Manager pro na Logs-funksies."
+
+#: inc/logs.php:8 lib/wpfilemanager.php:24
+msgid "Click to Buy PRO"
+msgstr "Klik om PRO te koop"
+
+#: inc/logs.php:8 inc/settings.php:12 inc/settings.php:27
+#: inc/system_properties.php:5 lib/wpfilemanager.php:25
+msgid "Buy PRO"
+msgstr "Koop PRO"
+
+#: inc/logs.php:9
+msgid "Edit Files Logs"
+msgstr "Wysig lêerlogboeke"
+
+#: inc/logs.php:11
+msgid "Download Files Logs"
+msgstr "Laai lêerlêers af"
+
+#: inc/logs.php:13
+msgid "Upload Files Logs"
+msgstr "Laai lêers op"
+
+#: inc/root.php:43
+msgid "Settings saved."
+msgstr "Instellings gestoor."
+
+#: inc/root.php:43 inc/root.php:46
+msgid "Dismiss this notice."
+msgstr "Maak hierdie kennisgewing van die hand."
+
+#: inc/root.php:46
+msgid "You have not made any changes to be saved."
+msgstr "U het geen veranderinge aangebring om gestoor te word nie."
+
+#: inc/root.php:55
+msgid "Public Root Path"
+msgstr "Openbare wortelpad"
+
+#: inc/root.php:58
+msgid "File Manager Root Path, you can change according to your choice."
+msgstr "Lêerbestuurder se wortelpad, u kan verander volgens u keuse."
+
+#: inc/root.php:59
+msgid "Default:"
+msgstr "Verstek:"
+
+#: inc/root.php:60
+msgid ""
+"Please change this carefully, wrong path can lead file manager plugin to go "
+"down."
+msgstr ""
+"Verander dit noukeurig, verkeerde pad kan daartoe lei dat die "
+"invoegtoepassing van die lêerbestuurder afgaan."
+
+#: inc/root.php:64
+msgid "Enable Trash?"
+msgstr "Skakel asblik in?"
+
+#: inc/root.php:67
+msgid "After enable trash, your files will go to trash folder."
+msgstr "Nadat die asblik geaktiveer is, gaan u lêers na die asblikmap."
+
+#: inc/root.php:72
+msgid "Enable Files Upload to Media Library?"
+msgstr "Aktiveer lêers wat na mediabiblioteek opgelaai word?"
+
+#: inc/root.php:75
+msgid "After enabling this all files will go to media library."
+msgstr "Nadat dit aangeskakel is, gaan alle lêers na die mediabiblioteek."
+
+#: inc/root.php:80
+msgid "Maximum allowed size at the time of database backup restore."
+msgstr ""
+"Maksimum toegelate grootte ten tyde van die herstel van databasisrugsteun."
+
+#: inc/root.php:83
+msgid "MB"
+msgstr ""
+
+#: inc/root.php:85
+msgid ""
+"Please increase field value if you are getting error message at the time of "
+"backup restore."
+msgstr ""
+"Verhoog asseblief veldwaarde as jy foutboodskap kry ten tyde van "
+"rugsteunherstel."
+
+#: inc/root.php:90
+msgid "Save Changes"
+msgstr "Stoor veranderinge"
+
+#: inc/settings.php:10
+msgid "Settings - General"
+msgstr "Stellings - Algemene"
+
+#: inc/settings.php:11 inc/settings.php:26
+msgid ""
+"Note: This is just a demo screenshot. To get settings please buy our pro "
+"version."
+msgstr ""
+"Let wel: Hierdie is net 'n demo skermkiekie. Om instellings te kry, koop "
+"asseblief ons pro-weergawe."
+
+#: inc/settings.php:13
+msgid ""
+"Here admin can give access to user roles to use filemanager. Admin can set "
+"Default Access Folder and also control upload size of filemanager."
+msgstr ""
+"Hier kan admin toegang gee tot gebruikersrolle om filemanager te gebruik. "
+"Admin kan die standaard toegangsmap instel en ook die oplaai grootte van "
+"lêerbestuurder beheer."
+
+#: inc/settings.php:15
+msgid "Settings - Code-editor"
+msgstr "Instellings - Kode-redakteur"
+
+#: inc/settings.php:16
+msgid ""
+"File Manager has a code editor with multiple themes. You can select any "
+"theme for code editor. It will display when you edit any file. Also you can "
+"allow fullscreen mode of code editor."
+msgstr ""
+"Lêer Bestuurder het 'n kode redakteur met verskeie temas. U kan enige tema "
+"vir kode redakteur kies. Dit sal vertoon wanneer u enige lêer wysig. Ook kan "
+"jy die volle skerm modus van kode redakteur toelaat."
+
+#: inc/settings.php:18
+msgid "Code-editor View"
+msgstr "Kode-redakteur sien"
+
+#: inc/settings.php:20
+msgid "Settings - User Restrictions"
+msgstr "Stellings - Gebruikersbeperkings"
+
+#: inc/settings.php:21
+msgid ""
+"Admin can restrict actions of any user. Also hide files and folders and can "
+"set different - different folders paths for different users."
+msgstr ""
+"Admin kan aksies van enige gebruiker beperk. Versteek ook lêers en vouers en "
+"stel verskillende - verskillende vouerspaaie vir verskillende gebruikers in."
+
+#: inc/settings.php:23
+msgid "Settings - User Role Restrictions"
+msgstr "Stellings - Gebruikersrolbeperkings"
+
+#: inc/settings.php:24
+msgid ""
+"Admin can restrict actions of any userrole. Also hide files and folders and "
+"can set different - different folders paths for different users roles."
+msgstr ""
+"Admin kan aksies van enige gebruikerrol beperk. Versteek ook lêers en vouers "
+"en stel verskillende - verskillende vouerspaaie vir verskillende "
+"gebruikersrolle in."
+
+#: inc/shortcode_docs.php:11
+msgid "File Manager - Shortcode"
+msgstr "Lêerbestuurder - kortkode"
+
+#: inc/shortcode_docs.php:15 inc/shortcode_docs.php:17
+#: inc/shortcode_docs.php:19
+msgid "USE:"
+msgstr "GEBRUIK:"
+
+#: inc/shortcode_docs.php:15
+msgid ""
+"It will show file manager on front end. You can control all settings from "
+"file manager settings. It will work same as backend WP File Manager."
+msgstr ""
+"Dit sal lêerbestuurder aan die voorkant wys. U kan alle instellings vanaf "
+"lêerbestuurderinstellings beheer. Dit sal dieselfde werk as backend WP File "
+"Manager."
+
+#: inc/shortcode_docs.php:17
+msgid ""
+"It will show file manager on front end. But only Administrator can access it "
+"and will control from file manager settings."
+msgstr ""
+"Dit sal lêerbestuurder aan die voorkant wys. Maar slegs administrateur kan "
+"toegang daartoe kry en sal beheer vanaf lêerbestuurderinstellings."
+
+#: inc/shortcode_docs.php:23
+msgid "Parameters:"
+msgstr "Grense:"
+
+#: inc/shortcode_docs.php:26
+msgid ""
+"It will allow all roles to access file manager on front end or You can "
+"simple use for particular user roles as like allowed_roles=\"editor,author"
+"\" (seprated by comma(,))"
+msgstr ""
+"Dit sal alle rolle toelaat om toegang tot lêerbestuurder aan die voorkant te "
+"kry, of jy kan eenvoudig gebruik vir spesifieke gebruikersrolle soos "
+"allow_roles=\"redakteur, skrywer\" (geskei deur komma(,))"
+
+#: inc/shortcode_docs.php:28
+msgid ""
+"Here \"test\" is the name of folder which is located on root directory, or "
+"you can give path for sub folders as like \"wp-content/plugins\". If leave "
+"blank or empty it will access all folders on root directory. Default: Root "
+"directory"
+msgstr ""
+"Hier is \"toets\" die naam van die gids wat in die wortelgids geleë is, of "
+"jy kan 'n pad vir sub-vouers gee soos \"wp-content/plugins\". As dit leeg of "
+"leeg gelaat word, sal dit toegang tot alle dopgehou in die wortelgids kry. "
+"Verstek: Wortelgids"
+
+#: inc/shortcode_docs.php:30
+msgid "for access to write files permissions, note: true/false, default: false"
+msgstr ""
+"vir toegang tot skryftoestemmings vir lêers, let op: waar/onwaar, verstek: "
+"onwaar"
+
+#: inc/shortcode_docs.php:32
+msgid "for access to read files permission, note: true/false, default: true"
+msgstr ""
+"vir toegang tot leestoestemming vir lêers, let wel: waar/onwaar, verstek: "
+"waar"
+
+#: inc/shortcode_docs.php:34
+msgid "it will hide mentioned here. Note: seprated by comma(,). Default: Null"
+msgstr ""
+"dit sal versteek hier genoem. Let wel: geskei deur komma(,). Verstek: Nul"
+
+#: inc/shortcode_docs.php:36
+msgid ""
+"It will lock mentioned in commas. you can lock more as like \".php,.css,.js"
+"\" etc. Default: Null"
+msgstr ""
+"Dit sal in kommas genoem word sluit. jy kan meer sluit soos \".php,.css,.js"
+"\" ens. Verstek: Null"
+
+#: inc/shortcode_docs.php:38
+msgid ""
+"* for all operations and to allow some operation you can mention operation "
+"name as like, allowed_operations=\"upload,download\". Note: seprated by "
+"comma(,). Default: *"
+msgstr ""
+"* vir alle operasies en om een ​​of ander operasie toe te laat, kan u die naam "
+"van die operasie noem soos, allow_operations=\"oplaai, aflaai\". Let wel: "
+"geskei deur komma(,). Verstek: *"
+
+#: inc/shortcode_docs.php:42
+msgid "File Operations List:"
+msgstr "Lêerbewerkingslys:"
+
+#: inc/shortcode_docs.php:46
+msgid "mkdir ->"
+msgstr ""
+
+#: inc/shortcode_docs.php:46
+msgid "Make directory or folder"
+msgstr "Maak 'n gids of 'n vouer"
+
+#: inc/shortcode_docs.php:47
+msgid "mkfile ->"
+msgstr ""
+
+#: inc/shortcode_docs.php:47
+msgid "Make file"
+msgstr "Maak lêer"
+
+#: inc/shortcode_docs.php:48
+msgid "rename ->"
+msgstr ""
+
+#: inc/shortcode_docs.php:48
+msgid "Rename a file or folder"
+msgstr "Hernoem 'n lêer of vouer"
+
+#: inc/shortcode_docs.php:49
+msgid "duplicate ->"
+msgstr ""
+
+#: inc/shortcode_docs.php:49
+msgid "Duplicate or clone a folder or file"
+msgstr "Dupliseer of kloon 'n vouer of lêer"
+
+#: inc/shortcode_docs.php:50
+msgid "paste ->"
+msgstr ""
+
+#: inc/shortcode_docs.php:50
+msgid "Paste a file or folder"
+msgstr "Plak 'n lêer of vouer"
+
+#: inc/shortcode_docs.php:51
+msgid "ban ->"
+msgstr ""
+
+#: inc/shortcode_docs.php:51
+msgid "Ban"
+msgstr "Verbod"
+
+#: inc/shortcode_docs.php:52
+msgid "archive ->"
+msgstr ""
+
+#: inc/shortcode_docs.php:52
+msgid "To make a archive or zip"
+msgstr "Om 'n argief of rits te maak"
+
+#: inc/shortcode_docs.php:53
+msgid "extract ->"
+msgstr ""
+
+#: inc/shortcode_docs.php:53
+msgid "Extract archive or zipped file"
+msgstr "Pak argief of lêer met rits uit"
+
+#: inc/shortcode_docs.php:54
+msgid "copy ->"
+msgstr ""
+
+#: inc/shortcode_docs.php:54
+msgid "Copy files or folders"
+msgstr "Kopieer lêers of vouers"
+
+#: inc/shortcode_docs.php:58
+msgid "cut ->"
+msgstr ""
+
+#: inc/shortcode_docs.php:58
+msgid "Simple cut a file or folder"
+msgstr "Sny 'n lêer of vouer eenvoudig"
+
+#: inc/shortcode_docs.php:59
+msgid "edit ->"
+msgstr ""
+
+#: inc/shortcode_docs.php:59
+msgid "Edit a file"
+msgstr "Wysig 'n lêer"
+
+#: inc/shortcode_docs.php:60
+msgid "rm ->"
+msgstr ""
+
+#: inc/shortcode_docs.php:60
+msgid "Remove or delete files and folders"
+msgstr "Verwyder of verwyder lêers en vouers"
+
+#: inc/shortcode_docs.php:61
+msgid "download ->"
+msgstr ""
+
+#: inc/shortcode_docs.php:61
+msgid "Download files"
+msgstr "Laai lêers af"
+
+#: inc/shortcode_docs.php:62
+msgid "upload ->"
+msgstr ""
+
+#: inc/shortcode_docs.php:62
+msgid "Upload files"
+msgstr "Laai lêers op"
+
+#: inc/shortcode_docs.php:63
+msgid "search -> "
+msgstr ""
+
+#: inc/shortcode_docs.php:63
+msgid "Search things"
+msgstr "Soek dinge"
+
+#: inc/shortcode_docs.php:64
+msgid "info ->"
+msgstr ""
+
+#: inc/shortcode_docs.php:64
+msgid "Info of file"
+msgstr "Inligting van die lêer"
+
+#: inc/shortcode_docs.php:65
+msgid "help ->"
+msgstr ""
+
+#: inc/shortcode_docs.php:65
+msgid "Help"
+msgstr "Hulp"
+
+#: inc/shortcode_docs.php:71
+msgid ""
+"->  It will ban particular users by just putting their ids seprated by "
+"commas(,). If user is Ban then they will not able to access wp file manager "
+"on front end."
+msgstr ""
+"-> Dit sal bepaalde gebruikers verbied deur net hul ID's geskei deur komma's "
+"(,). As die gebruiker Ban is, kan hulle nie toegang tot die wp-"
+"lêerbestuurder op die voorkant hê nie."
+
+#: inc/shortcode_docs.php:72
+msgid "-> Filemanager UI View. Default: grid"
+msgstr "-> Filemanager UI-aansig. Verstek: grid"
+
+#: inc/shortcode_docs.php:73
+msgid "-> File Modified or Create date format. Default: d M, Y h:i A"
+msgstr "-> Lêer gewysig of skep datumformaat. Standaard: d M, Y h:i A"
+
+#: inc/shortcode_docs.php:74
+msgid "-> File manager Language. Default: English(en)"
+msgstr "-> Lêerbestuurder Taal. Verstek: English(en)"
+
+#: inc/shortcode_docs.php:75
+msgid "-> File Manager Theme. Default: Light"
+msgstr "-> Lêerbestuurder-tema. Verstek: Light"
+
+#: inc/system_properties.php:5
+msgid "File Manager - System Properties"
+msgstr "Lêerbestuurder - stelseleienskappe"
+
+#: inc/system_properties.php:10
+msgid "PHP version"
+msgstr "PHP weergawe"
+
+#: inc/system_properties.php:15
+msgid "Maximum file upload size (upload_max_filesize)"
+msgstr "Maksimum lêeroplaaigrootte (upload_max_filesize)"
+
+#: inc/system_properties.php:20
+msgid "Post maximum file upload size (post_max_size)"
+msgstr "Plaas maksimum lêeroplaaigrootte (post_max_size)"
+
+#: inc/system_properties.php:25
+msgid "Memory Limit (memory_limit)"
+msgstr "Geheue limiet (memory_limit)"
+
+#: inc/system_properties.php:30
+msgid "Timeout (max_execution_time)"
+msgstr "Time-out (max_execution_time)"
+
+#: inc/system_properties.php:35
+msgid "Browser and OS (HTTP_USER_AGENT)"
+msgstr "Blaaier en bedryfstelsel (HTTP_USER_AGENT)"
+
+#: lib/jquery/jquery-ui-1.11.4.js:8
+msgid "'"
+msgstr ""
+
+#: lib/wpfilemanager.php:31
+msgid "Change Theme Here:"
+msgstr "Verander tema hier:"
+
+#: lib/wpfilemanager.php:35
+msgid "Default"
+msgstr "Verstek"
+
+#: lib/wpfilemanager.php:39
+msgid "Dark"
+msgstr "Donker"
+
+#: lib/wpfilemanager.php:43
+msgid "Light"
+msgstr "Lig"
+
+#: lib/wpfilemanager.php:47
+msgid "Gray"
+msgstr "Grys"
+
+#: lib/wpfilemanager.php:52
+msgid "Windows - 10"
+msgstr ""
+
+#: lib/wpfilemanager.php:85
+msgid "Welcome to File Manager"
+msgstr "Welkom by File Manager"
+
+#: lib/wpfilemanager.php:88
+msgid ""
+"We love making new friends! Subscribe below and we promise to\n"
+"    keep you up-to-date with our latest new plugins, updates,\n"
+"    awesome deals and a few special offers."
+msgstr ""
+"Ons is mal daaroor om nuwe vriende te maak! Teken hieronder in en ons belowe "
+"om\n"
+"    hou u op hoogte van ons nuutste nuwe inproppe, opdaterings,\n"
+"    fantastiese aanbiedings en 'n paar spesiale aanbiedings."
+
+#: lib/wpfilemanager.php:99
+msgid "Please Enter First Name."
+msgstr "Voer asseblief die voornaam in."
+
+#: lib/wpfilemanager.php:107
+msgid "Please Enter Last Name."
+msgstr "Voer asb. Van in."
+
+#: lib/wpfilemanager.php:116
+msgid "Please Enter Email Address."
+msgstr "Voer asb e-posadres in."
+
+#: lib/wpfilemanager.php:120
+msgid "Verify"
+msgstr "Verifieer"
+
+#: lib/wpfilemanager.php:126
+msgid "No Thanks"
+msgstr "Nee dankie"
+
+#: lib/wpfilemanager.php:132
+msgid "Terms of Service"
+msgstr "Diensvoorwaardes"
+
+#: lib/wpfilemanager.php:134
+msgid "Privacy Policy"
+msgstr "Privaatheidsbeleid"
+
+#: lib/wpfilemanager.php:153
+msgid "Saving..."
+msgstr "Stoor tans ..."
+
+#: lib/wpfilemanager.php:155
+msgid "OK"
+msgstr "OK"
+
+#~ msgid "Backup not found!"
+#~ msgstr "Rugsteun nie gevind nie!"
+
+#~ msgid "Backup removed successfully!"
+#~ msgstr "Rugsteun suksesvol verwyder!"
+
+#~ msgid "<span class=\"fm_console_error\">Nothing selected for backup</span>"
+#~ msgstr ""
+#~ "<span class=\"fm_console_error\">Niks gekies vir rugsteun nie</span>"
+
+#~ msgid "<span class=\"fm_console_error\">Security Issue.</span>"
+#~ msgstr "<span class=\"fm_console_error\">Veiligheidskwessie. </span>"
+
+#~ msgid "<span class=\"fm_console_success\">Database backup done.</span>"
+#~ msgstr ""
+#~ "<span class=\"fm_console_success\">Rugsteun van databasis gedoen. </span>"
+
+#~ msgid ""
+#~ "<span class=\"fm_console_error\">Unable to create database backup.</span>"
+#~ msgstr ""
+#~ "<span class=\"fm_console_error\">Kan nie databasis-rugsteun skep nie. </"
+#~ "span>"
+
+#~ msgid "<span class=\"fm_console_success\">Plugins backup done.</span>"
+#~ msgstr "<span class=\"fm_console_success\">Insteek-rugsteun gedoen. </span>"
+
+#~ msgid "<span class=\"fm_console_error\">Plugins backup failed.</span>"
+#~ msgstr ""
+#~ "<span class=\"fm_console_error\">Terugvoer van inproppe kon nie. </span>"
+
+#~ msgid "<span class=\"fm_console_success\">Themes backup done.</span>"
+#~ msgstr ""
+#~ "<span class=\"fm_console_success\">Rugsteun van temas gedoen. </span>"
+
+#~ msgid "<span class=\"fm_console_error\">Themes backup failed.</span>"
+#~ msgstr ""
+#~ "<span class=\"fm_console_error\">Rugsteun van temas het misluk. </span>"
+
+#~ msgid "<span class=\"fm_console_success\">Uploads backup done.</span>"
+#~ msgstr ""
+#~ "<span class=\"fm_console_success\">Rugsteun oplaaie is gedoen. </span>"
+
+#~ msgid "<span class=\"fm_console_error\">Uploads backup failed.</span>"
+#~ msgstr ""
+#~ "<span class=\"fm_console_error\">Kon nie rugsteun oplaai nie. </span>"
+
+#~ msgid "<span class=\"fm_console_success\">Others backup done.</span>"
+#~ msgstr "<span class=\"fm_console_success\">Ander rugsteun gedoen. </span>"
+
+#~ msgid "<span class=\"fm_console_error\">Others backup failed.</span>"
+#~ msgstr "<span class=\"fm_console_error\">Ander rugsteun het misluk. </span>"
+
+#~ msgid "<span class=\"fm_console_success\">All Done</span>"
+#~ msgstr "<span class=\"fm_console_success\">Almal gedoen </span>"
+
+#~ msgid ""
+#~ "<code>[wp_file_manager view=\"list\" lang=\"en\" theme=\"light\" "
+#~ "dateformat=\"d M, Y h:i A\" allowed_roles=\"editor,author\" access_folder="
+#~ "\"wp-content/plugins\" write = \"true\" read = \"false\" hide_files = "
+#~ "\"kumar,abc.php\" lock_extensions=\".php,.css\" allowed_operations="
+#~ "\"upload,download\" ban_user_ids=\"2,3\"]"
+#~ msgstr ""
+#~ "<code> [wp_file_manager view = \"list\" lang = \"en\" theme = \"light\" "
+#~ "dateformat = \"d M, Y h: i A\" allowed_roles = \"redakteur, outeur\" "
+#~ "access_folder = \"wp-content / plugins\" write = \"waar\" lees = \"onwaar"
+#~ "\" hide_files = \"kumar, abc.php\" lock_extensions = \". php, .css\" "
+#~ "allow_operations = \"oplaai, aflaai\" ban_user_ids = \"2,3\"]"
+
+#~ msgid "Manage your WP files."
+#~ msgstr "Bestuur jou WP-lêers."
+
+#, fuzzy
+#~| msgid "<span class=\"fm_console_error\">Plugins backup failed.</span>"
+#~ msgid "<p class=\"fm_console_error\">No logs found!</p>"
+#~ msgstr ""
+#~ "<span class=\"fm_console_error\">Terugvoer van inproppe kon nie. </span>"
+
+#~ msgid "Extensions"
+#~ msgstr "uitbreidings"
+
+#~ msgid ""
+#~ "Please contribute some donation, to make plugin more stable. You can pay "
+#~ "amount of your choice."
+#~ msgstr ""
+#~ "Dra asseblief 'n donasie by, om die plugin stabieler te maak. U kan die "
+#~ "bedrag van u keuse betaal."

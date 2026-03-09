@@ -1,0 +1,41 @@
+/*
+* vc editor
+*/
+.pix-popup-editor dialog .pix-popup-close, .pix-popup-editor dialog .pix-dialog-backdrop {
+  pointer-events: none !important;
+}
+.pix-popup-editor dialog .elementor-section-wrap section:first-of-type .elementor-editor-section-settings {
+  transform: translateX(-50%) !important;
+  border-radius: 0 0 5px 5px !important;
+}
+.pix-popup-editor dialog .elementor-section-wrap section:first-of-type .elementor-editor-section-settings .elementor-editor-element-setting:before,
+.pix-popup-editor dialog .elementor-section-wrap section:first-of-type .elementor-editor-section-settings .elementor-editor-element-setting:after {
+  border: none !important;
+}
+.pix-popup-editor dialog .elementor-section-wrap section:first-of-type .elementor-editor-section-settings .elementor-editor-element-setting:first-child {
+  border-radius: 0 0 0 5px !important;
+}
+.pix-popup-editor dialog .elementor-section-wrap section:first-of-type .elementor-editor-section-settings .elementor-editor-element-setting:last-child {
+  border-radius: 0 0 5px 0 !important;
+}
+
+/**
+* OLD Popup builder
+*/
+.pix-popup-edit .vc_empty-placeholder {
+  margin-bottom: 0 !important;
+}
+.pix-popup-edit .vc_row {
+  margin-left: 0 !important;
+  margin-right: 0 !important;
+}
+.pix-popup-edit #vc_no-content-helper {
+  background: rgba(0, 0, 0, 0.4);
+}
+
+#pix-popup-builder-content .particles-container, #pix-popup-builder-content .pix-scene {
+  width: 100%;
+  margin: 0;
+}
+
+/*# sourceMappingURL=popup-editor.css.map */

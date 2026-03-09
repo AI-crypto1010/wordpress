@@ -1,0 +1,17 @@
+{
+  "$schema": "https://schemas.wp.org/trunk/block.json",
+  "apiVersion": 3,
+  "name": "pixfort-core/pix-small-search",
+  "version": "0.1.0",
+  "title": "pixfort Search",
+  "category": "widgets",
+  "icon": "search",
+  "description": "Small search bar",
+  "example": {},
+  "textdomain": "pixfort-core",
+  "editorScript": "file:./index.js",
+  "editorStyle": "file:./index.css",
+  "style": "file:./style-index.css",
+  "render": "file:./render.php",
+  "viewScript": "file:./view.js"
+}

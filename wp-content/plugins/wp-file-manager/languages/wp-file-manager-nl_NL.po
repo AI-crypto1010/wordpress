@@ -1,0 +1,2684 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Theme Editor\n"
+"POT-Creation-Date: 2022-02-28 10:59+0530\n"
+"PO-Revision-Date: 2022-02-28 11:05+0530\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: nl_NL\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 3.0.1\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: __;_e;esc_attr__;esc_html__\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: file_folder_manager.php:174
+msgid "Themes backup restored successfully."
+msgstr "Thema's back-up succesvol hersteld."
+
+#: file_folder_manager.php:177
+msgid "Unable to restore themes."
+msgstr "Kan thema's niet herstellen."
+
+#: file_folder_manager.php:207
+msgid "Uploads backup restored successfully."
+msgstr "Uploadt back-up succesvol hersteld."
+
+#: file_folder_manager.php:211
+msgid "Unable to restore uploads."
+msgstr "Kan uploads niet herstellen."
+
+#: file_folder_manager.php:237
+msgid "Others backup restored successfully."
+msgstr "Anderen back-up succesvol hersteld."
+
+#: file_folder_manager.php:241
+msgid "Unable to restore others."
+msgstr "Kan anderen niet herstellen."
+
+#: file_folder_manager.php:267
+msgid "Plugins backup restored successfully."
+msgstr "Back-up van plug-ins succesvol hersteld."
+
+#: file_folder_manager.php:271 file_folder_manager.php:301
+msgid "Unable to restore plugins."
+msgstr "Kan plug-ins niet herstellen."
+
+#: file_folder_manager.php:286
+msgid "Database backup restored successfully."
+msgstr "Databaseback-up succesvol hersteld."
+
+#: file_folder_manager.php:286 file_folder_manager.php:297
+#: file_folder_manager.php:588 file_folder_manager.php:592
+msgid "All Done"
+msgstr "Helemaal klaar"
+
+#: file_folder_manager.php:289
+msgid "Unable to restore DB backup."
+msgstr "Kan DB-back-up niet herstellen."
+
+#: file_folder_manager.php:347
+msgid "Backups removed successfully!"
+msgstr "Back-ups succesvol verwijderd!"
+
+#: file_folder_manager.php:349
+msgid "Unable to removed backup!"
+msgstr "Kan back-up niet verwijderen!"
+
+#: file_folder_manager.php:373
+msgid "Database backup done on date "
+msgstr "Database back-up gedaan op datum "
+
+#: file_folder_manager.php:377
+msgid "Plugins backup done on date "
+msgstr "Back-up van plug-ins gedaan op datum "
+
+#: file_folder_manager.php:381
+msgid "Themes backup done on date "
+msgstr "Back-up van thema's gedaan op datum "
+
+#: file_folder_manager.php:385
+msgid "Uploads backup done on date "
+msgstr "Uploads back-up gedaan op datum "
+
+#: file_folder_manager.php:389
+msgid "Others backup done on date "
+msgstr "Anderen back-up gedaan op datum "
+
+#: file_folder_manager.php:393 file_folder_manager.php:776
+msgid "Logs"
+msgstr "Logboeken"
+
+#: file_folder_manager.php:399
+msgid "No logs found!"
+msgstr "Anderen back-up gedaan op datum"
+
+#: file_folder_manager.php:496
+msgid "Nothing selected for backup"
+msgstr "Niets geselecteerd voor back-up"
+
+#: file_folder_manager.php:516
+msgid "Security Issue."
+msgstr "Beveiligingsprobleem."
+
+#: file_folder_manager.php:527
+msgid "Database backup done."
+msgstr "Databaseback-up gedaan."
+
+#: file_folder_manager.php:530
+msgid "Unable to create database backup."
+msgstr "Kan geen databaseback-up maken."
+
+#: file_folder_manager.php:544
+msgid "Plugins backup done."
+msgstr "Back-up van plug-ins gedaan."
+
+#: file_folder_manager.php:547
+msgid "Plugins backup failed."
+msgstr "Back-up van plug-ins is mislukt."
+
+#: file_folder_manager.php:556
+msgid "Themes backup done."
+msgstr "Thema's back-up gedaan."
+
+#: file_folder_manager.php:559
+msgid "Themes backup failed."
+msgstr "Back-up van thema's is mislukt."
+
+#: file_folder_manager.php:569
+msgid "Uploads backup done."
+msgstr "Uploads back-up gedaan."
+
+#: file_folder_manager.php:572
+msgid "Uploads backup failed."
+msgstr "Uploaden back-up mislukt."
+
+#: file_folder_manager.php:581
+msgid "Others backup done."
+msgstr "Anderen hebben een back-up gemaakt."
+
+#: file_folder_manager.php:584
+msgid "Others backup failed."
+msgstr "Anderen back-up mislukt."
+
+#: file_folder_manager.php:761 file_folder_manager.php:762
+#: lib/wpfilemanager.php:23
+msgid "WP File Manager"
+msgstr "WP Bestandsbeheer"
+
+#: file_folder_manager.php:769
+msgid "Settings"
+msgstr "Instellingen"
+
+#: file_folder_manager.php:771 inc/root.php:48
+msgid "Preferences"
+msgstr "Voorkeuren"
+
+#: file_folder_manager.php:773
+msgid "System Properties"
+msgstr "Systeem eigenschappen"
+
+#: file_folder_manager.php:775
+msgid "Shortcode - PRO"
+msgstr "Shortcode - PRO"
+
+#: file_folder_manager.php:777
+msgid "Backup/Restore"
+msgstr "Backup herstel"
+
+#: file_folder_manager.php:1033
+msgid "Buy Pro"
+msgstr "Koop Pro"
+
+#: file_folder_manager.php:1034
+msgid "Donate"
+msgstr "Doneren"
+
+#: file_folder_manager.php:1249
+msgid ""
+"<div class=\"updated settings-error notice is-dismissible\" id=\"setting-error-"
+"settings_updated\"> \n"
+"<p><strong>"
+msgstr ""
+
+#: file_folder_manager.php:1256
+msgid ""
+"<div class=\"error settings-error notice is-dismissible\" id=\"setting-error-"
+"settings_updated\"> \n"
+"<p><strong>"
+msgstr ""
+
+#: file_folder_manager.php:1395 file_folder_manager.php:1483
+msgid "File doesn't exist to download."
+msgstr "Bestand bestaat niet om te downloaden."
+
+#: file_folder_manager.php:1400 file_folder_manager.php:1488
+msgid "Invalid Security Code."
+msgstr "Ongeldige beveiligings code."
+
+#: file_folder_manager.php:1405 file_folder_manager.php:1493
+msgid "Missing backup id."
+msgstr "Ontbrekende back-up-ID."
+
+#: file_folder_manager.php:1408 file_folder_manager.php:1496
+msgid "Missing parameter type."
+msgstr "Ontbrekend parametertype."
+
+#: file_folder_manager.php:1411 file_folder_manager.php:1499
+msgid "Missing required parameters."
+msgstr "Ontbrekende vereiste parameters."
+
+#: inc/backup.php:24
+msgid ""
+"Error: Unable to restore backup because database backup is heavy in size. "
+"Please try to increase Maximum allowed size  from Preferences settings."
+msgstr ""
+"Fout: kan back-up niet herstellen omdat databaseback-up zwaar is. Probeer de "
+"maximaal toegestane grootte te vergroten via de voorkeursinstellingen."
+
+#: inc/backup.php:25
+msgid "Select backup(s) to delete!"
+msgstr "Selecteer back-up(s) om te verwijderen!"
+
+#: inc/backup.php:26
+msgid "Are you sure want to remove selected backup(s)?"
+msgstr "Weet u zeker dat u de geselecteerde back-up(s) wilt verwijderen?"
+
+#: inc/backup.php:31
+msgid "Backup is running, please wait"
+msgstr "Back-up wordt uitgevoerd, even geduld a.u.b."
+
+#: inc/backup.php:32
+msgid "Restore is running, please wait"
+msgstr "Het terugzetten wordt uitgevoerd, even geduld a.u.b."
+
+#: inc/backup.php:33
+msgid "Nothing selected for backup."
+msgstr "Niets geselecteerd voor back-up."
+
+#: inc/backup.php:45
+msgid "WP File Manager - Backup/Restore"
+msgstr "WP Bestandsbeheer - Back-up/Herstellen"
+
+#: inc/backup.php:51
+msgid "Backup Options:"
+msgstr "Back-upopties:"
+
+#: inc/backup.php:58
+msgid "Database Backup"
+msgstr "Database back-up"
+
+#: inc/backup.php:64
+msgid "Files Backup"
+msgstr "Bestandsback-up"
+
+#: inc/backup.php:68
+msgid "Plugins"
+msgstr "Plug-ins"
+
+#: inc/backup.php:71
+msgid "Themes"
+msgstr "Thema's"
+
+#: inc/backup.php:74
+msgid "Uploads"
+msgstr "Uploads"
+
+#: inc/backup.php:77
+msgid "Others (Any other directories found inside wp-content)"
+msgstr "Anderen (alle andere mappen gevonden in wp-content)"
+
+#: inc/backup.php:81
+msgid "Backup Now"
+msgstr "Nu backuppen"
+
+#: inc/backup.php:89
+msgid "Time now"
+msgstr "Tijd nu"
+
+#: inc/backup.php:99
+msgid "SUCCESS"
+msgstr "SUCCES"
+
+#: inc/backup.php:101
+msgid "Backup successfully deleted."
+msgstr "Back-up succesvol verwijderd."
+
+#: inc/backup.php:102
+msgid "Ok"
+msgstr "OK"
+
+#: inc/backup.php:117
+msgid "DELETE FILES"
+msgstr "VERWIJDER BESTANDEN"
+
+#: inc/backup.php:119
+msgid "Are you sure you want to delete this backup?"
+msgstr "Weet u zeker dat u deze back-up wilt verwijderen?"
+
+#: inc/backup.php:120 inc/backup.php:139
+msgid "Cancel"
+msgstr "annuleren"
+
+#: inc/backup.php:121 inc/backup.php:140
+msgid "Confirm"
+msgstr "Bevestigen"
+
+#: inc/backup.php:136
+msgid "RESTORE FILES"
+msgstr "HERSTEL BESTANDEN"
+
+#: inc/backup.php:138
+msgid "Are you sure you want to restore this backup?"
+msgstr "Weet u zeker dat u deze back-up wilt herstellen?"
+
+#: inc/backup.php:166
+msgid "Last Log Message"
+msgstr "Laatste logbericht"
+
+#: inc/backup.php:169
+msgid "The backup apparently succeeded and is now complete."
+msgstr "De back-up is blijkbaar gelukt en is nu voltooid."
+
+#: inc/backup.php:171
+msgid "No log message"
+msgstr "Geen logbericht"
+
+#: inc/backup.php:177
+msgid "Existing Backup(s)"
+msgstr "Bestaande back-up(s)"
+
+#: inc/backup.php:184
+msgid "Backup Date"
+msgstr "Back-updatum"
+
+#: inc/backup.php:187
+msgid "Backup data (click to download)"
+msgstr "Back-upgegevens (klik om te downloaden)"
+
+#: inc/backup.php:190
+msgid "Action"
+msgstr "Actie"
+
+#: inc/backup.php:210
+msgid "Today"
+msgstr "Vandaag"
+
+#: inc/backup.php:239
+msgid "Restore"
+msgstr "Herstellen"
+
+#: inc/backup.php:240 inc/backup.php:250
+msgid "Delete"
+msgstr "Verwijderen"
+
+#: inc/backup.php:241
+msgid "View Log"
+msgstr "Logboek bekijken"
+
+#: inc/backup.php:246
+msgid "Currently no backup(s) found."
+msgstr "Momenteel geen back-up(s) gevonden."
+
+#: inc/backup.php:249
+msgid "Actions upon selected backup(s)"
+msgstr "Acties bij geselecteerde back-up(s)"
+
+#: inc/backup.php:251
+msgid "Select All"
+msgstr "Selecteer alles"
+
+#: inc/backup.php:252
+msgid "Deselect"
+msgstr "Deselecteren"
+
+#: inc/backup.php:254
+msgid "Note:"
+msgstr "Opmerking:"
+
+#: inc/backup.php:254
+msgid "Backup files will be under"
+msgstr "Back-upbestanden zijn onder"
+
+#: inc/contribute.php:3
+msgid "WP File Manager Contribution"
+msgstr "Bijdrage WP File Manager"
+
+#: inc/logs.php:7
+msgid ""
+"Note: These are demo screenshots. Please buy File Manager pro to Logs "
+"functions."
+msgstr ""
+"Opmerking: dit zijn demo-screenshots. Koop a.u.b. File Manager pro to Logs-"
+"functies."
+
+#: inc/logs.php:8 lib/wpfilemanager.php:24
+msgid "Click to Buy PRO"
+msgstr "Klik om PRO te kopen"
+
+#: inc/logs.php:8 inc/settings.php:12 inc/settings.php:27
+#: inc/system_properties.php:5 lib/wpfilemanager.php:25
+msgid "Buy PRO"
+msgstr "Koop PRO"
+
+#: inc/logs.php:9
+msgid "Edit Files Logs"
+msgstr "Bestandslogboeken bewerken"
+
+#: inc/logs.php:11
+msgid "Download Files Logs"
+msgstr "Bestanden downloaden Logboeken"
+
+#: inc/logs.php:13
+msgid "Upload Files Logs"
+msgstr "Bestanden uploaden Logboeken"
+
+#: inc/root.php:43
+msgid "Settings saved."
+msgstr "Instellingen opgeslagen."
+
+#: inc/root.php:43 inc/root.php:46
+msgid "Dismiss this notice."
+msgstr "Negeer deze melding."
+
+#: inc/root.php:46
+msgid "You have not made any changes to be saved."
+msgstr "U heeft geen wijzigingen aangebracht om op te slaan."
+
+#: inc/root.php:55
+msgid "Public Root Path"
+msgstr "Openbaar hoofdpad"
+
+#: inc/root.php:58
+msgid "File Manager Root Path, you can change according to your choice."
+msgstr "Bestandsbeheer Root Path, u kunt dit naar eigen keuze wijzigen."
+
+#: inc/root.php:59
+msgid "Default:"
+msgstr "Standaard:"
+
+#: inc/root.php:60
+msgid ""
+"Please change this carefully, wrong path can lead file manager plugin to go "
+"down."
+msgstr ""
+"Wijzig dit zorgvuldig, een verkeerd pad kan ertoe leiden dat de plug-in voor "
+"bestandsbeheer uitvalt."
+
+#: inc/root.php:64
+msgid "Enable Trash?"
+msgstr "Prullenbak inschakelen?"
+
+#: inc/root.php:67
+msgid "After enable trash, your files will go to trash folder."
+msgstr ""
+"Nadat u de prullenbak hebt ingeschakeld, gaan uw bestanden naar de prullenbak."
+
+#: inc/root.php:72
+msgid "Enable Files Upload to Media Library?"
+msgstr "Bestanden uploaden naar mediabibliotheek inschakelen?"
+
+#: inc/root.php:75
+msgid "After enabling this all files will go to media library."
+msgstr ""
+"Nadat u dit hebt ingeschakeld, gaan alle bestanden naar de mediabibliotheek."
+
+#: inc/root.php:80
+msgid "Maximum allowed size at the time of database backup restore."
+msgstr ""
+"Maximaal toegestane grootte op het moment dat de databaseback-up wordt "
+"hersteld."
+
+#: inc/root.php:83
+msgid "MB"
+msgstr ""
+
+#: inc/root.php:85
+msgid ""
+"Please increase field value if you are getting error message at the time of "
+"backup restore."
+msgstr ""
+"Verhoog de veldwaarde als u een foutmelding krijgt op het moment van het "
+"terugzetten van de back-up."
+
+#: inc/root.php:90
+msgid "Save Changes"
+msgstr "Wijzigingen opslaan"
+
+#: inc/settings.php:10
+msgid "Settings - General"
+msgstr "Instellingen - Algemeen"
+
+#: inc/settings.php:11 inc/settings.php:26
+msgid ""
+"Note: This is just a demo screenshot. To get settings please buy our pro "
+"version."
+msgstr ""
+"Opmerking: dit is slechts een demo-screenshot. Koop onze pro-versie om "
+"instellingen te krijgen."
+
+#: inc/settings.php:13
+msgid ""
+"Here admin can give access to user roles to use filemanager. Admin can set "
+"Default Access Folder and also control upload size of filemanager."
+msgstr ""
+"Hier kan de beheerder toegang geven tot gebruikersrollen om bestandsbeheer te "
+"gebruiken. De beheerder kan de standaardtoegangsmap instellen en ook de "
+"uploadgrootte van bestandsbeheer beheren."
+
+#: inc/settings.php:15
+msgid "Settings - Code-editor"
+msgstr "Instellingen - Code-editor"
+
+#: inc/settings.php:16
+msgid ""
+"File Manager has a code editor with multiple themes. You can select any theme "
+"for code editor. It will display when you edit any file. Also you can allow "
+"fullscreen mode of code editor."
+msgstr ""
+"Bestandsbeheer heeft een code-editor met meerdere thema's. U kunt elk thema "
+"voor de code-editor selecteren. Het wordt weergegeven wanneer u een bestand "
+"bewerkt. U kunt ook de modus voor volledig scherm van de code-editor toestaan."
+
+#: inc/settings.php:18
+msgid "Code-editor View"
+msgstr "Code-editor weergave"
+
+#: inc/settings.php:20
+msgid "Settings - User Restrictions"
+msgstr "Instellingen - Gebruikersbeperkingen"
+
+#: inc/settings.php:21
+msgid ""
+"Admin can restrict actions of any user. Also hide files and folders and can "
+"set different - different folders paths for different users."
+msgstr ""
+"Beheerder kan acties van elke gebruiker beperken. Verberg ook bestanden en "
+"mappen en kan verschillende - verschillende mappaden instellen voor "
+"verschillende gebruikers."
+
+#: inc/settings.php:23
+msgid "Settings - User Role Restrictions"
+msgstr "Instellingen - Beperkingen gebruikersrollen"
+
+#: inc/settings.php:24
+msgid ""
+"Admin can restrict actions of any userrole. Also hide files and folders and "
+"can set different - different folders paths for different users roles."
+msgstr ""
+"Beheerder kan acties van elke gebruikersrol beperken. Verberg ook bestanden en "
+"mappen en kan verschillende - verschillende mappenpaden instellen voor "
+"verschillende gebruikersrollen."
+
+#: inc/shortcode_docs.php:11
+msgid "File Manager - Shortcode"
+msgstr "Bestandsbeheer - Shortcode"
+
+#: inc/shortcode_docs.php:15 inc/shortcode_docs.php:17 inc/shortcode_docs.php:19
+msgid "USE:"
+msgstr "GEBRUIK:"
+
+#: inc/shortcode_docs.php:15
+msgid ""
+"It will show file manager on front end. You can control all settings from file "
+"manager settings. It will work same as backend WP File Manager."
+msgstr ""
+"Het toont bestandsbeheer aan de voorkant. U kunt alle instellingen beheren "
+"vanuit de instellingen van bestandsbeheer. Het werkt hetzelfde als backend WP "
+"File Manager."
+
+#: inc/shortcode_docs.php:17
+msgid ""
+"It will show file manager on front end. But only Administrator can access it "
+"and will control from file manager settings."
+msgstr ""
+"Het toont bestandsbeheer aan de voorkant. Maar alleen de beheerder heeft er "
+"toegang toe en beheert de instellingen vanuit de bestandsbeheerinstellingen."
+
+#: inc/shortcode_docs.php:23
+msgid "Parameters:"
+msgstr "Parameters:"
+
+#: inc/shortcode_docs.php:26
+msgid ""
+"It will allow all roles to access file manager on front end or You can simple "
+"use for particular user roles as like allowed_roles=\"editor,author"
+"\" (seprated by comma(,))"
+msgstr ""
+"Het geeft alle rollen toegang tot bestandsbeheer aan de front-end of u kunt "
+"het eenvoudig gebruiken voor bepaalde gebruikersrollen, zoals allow_roles="
+"\"editor,author\" (gescheiden door komma(,))"
+
+#: inc/shortcode_docs.php:28
+msgid ""
+"Here \"test\" is the name of folder which is located on root directory, or you "
+"can give path for sub folders as like \"wp-content/plugins\". If leave blank "
+"or empty it will access all folders on root directory. Default: Root directory"
+msgstr ""
+"Hier is \"test\" de naam van de map die zich in de hoofdmap bevindt, of u kunt "
+"een pad opgeven voor submappen zoals \"wp-content/plugins\". Als u dit blanco "
+"of leeg laat, heeft het toegang tot alle mappen in de hoofdmap. Standaard: "
+"Hoofdmap"
+
+#: inc/shortcode_docs.php:30
+msgid "for access to write files permissions, note: true/false, default: false"
+msgstr ""
+"voor toegang tot schrijfrechten voor bestanden, opmerking: waar/onwaar, "
+"standaard: onwaar"
+
+#: inc/shortcode_docs.php:32
+msgid "for access to read files permission, note: true/false, default: true"
+msgstr ""
+"voor toegang om bestanden te lezen toestemming, opmerking: waar/onwaar, "
+"standaard: waar"
+
+#: inc/shortcode_docs.php:34
+msgid "it will hide mentioned here. Note: seprated by comma(,). Default: Null"
+msgstr ""
+"het zal hier genoemd verbergen. Opmerking: gescheiden door komma(,). "
+"Standaard: Null"
+
+#: inc/shortcode_docs.php:36
+msgid ""
+"It will lock mentioned in commas. you can lock more as like \".php,.css,.js\" "
+"etc. Default: Null"
+msgstr ""
+"Het wordt tussen komma's vermeld. je kunt meer vergrendelen zoals \".php,.css,."
+"js\" etc. Standaard: Null"
+
+#: inc/shortcode_docs.php:38
+msgid ""
+"* for all operations and to allow some operation you can mention operation "
+"name as like, allowed_operations=\"upload,download\". Note: seprated by "
+"comma(,). Default: *"
+msgstr ""
+"* voor alle bewerkingen en om sommige bewerkingen mogelijk te maken, kunt u de "
+"naam van de bewerking vermelden als, allow_operations=\"upload,download\". "
+"Opmerking: gescheiden door komma(,). Standaard: *"
+
+#: inc/shortcode_docs.php:42
+msgid "File Operations List:"
+msgstr "Lijst met bestandsbewerkingen:"
+
+#: inc/shortcode_docs.php:46
+msgid "mkdir ->"
+msgstr ""
+
+#: inc/shortcode_docs.php:46
+msgid "Make directory or folder"
+msgstr "Map of map maken"
+
+#: inc/shortcode_docs.php:47
+msgid "mkfile ->"
+msgstr ""
+
+#: inc/shortcode_docs.php:47
+msgid "Make file"
+msgstr "Bestand maken"
+
+#: inc/shortcode_docs.php:48
+msgid "rename ->"
+msgstr ""
+
+#: inc/shortcode_docs.php:48
+msgid "Rename a file or folder"
+msgstr "De naam van een bestand of map wijzigen"
+
+#: inc/shortcode_docs.php:49
+msgid "duplicate ->"
+msgstr ""
+
+#: inc/shortcode_docs.php:49
+msgid "Duplicate or clone a folder or file"
+msgstr "Een map of bestand dupliceren of klonen"
+
+#: inc/shortcode_docs.php:50
+msgid "paste ->"
+msgstr ""
+
+#: inc/shortcode_docs.php:50
+msgid "Paste a file or folder"
+msgstr "Een bestand of map plakken"
+
+#: inc/shortcode_docs.php:51
+msgid "ban ->"
+msgstr ""
+
+#: inc/shortcode_docs.php:51
+msgid "Ban"
+msgstr "verbieden"
+
+#: inc/shortcode_docs.php:52
+msgid "archive ->"
+msgstr ""
+
+#: inc/shortcode_docs.php:52
+msgid "To make a archive or zip"
+msgstr "Een archief of zip maken"
+
+#: inc/shortcode_docs.php:53
+msgid "extract ->"
+msgstr ""
+
+#: inc/shortcode_docs.php:53
+msgid "Extract archive or zipped file"
+msgstr "Archief of gecomprimeerd bestand uitpakken"
+
+#: inc/shortcode_docs.php:54
+msgid "copy ->"
+msgstr ""
+
+#: inc/shortcode_docs.php:54
+msgid "Copy files or folders"
+msgstr "Bestanden of mappen kopiëren"
+
+#: inc/shortcode_docs.php:58
+msgid "cut ->"
+msgstr ""
+
+#: inc/shortcode_docs.php:58
+msgid "Simple cut a file or folder"
+msgstr "Eenvoudig een bestand of map knippen"
+
+#: inc/shortcode_docs.php:59
+msgid "edit ->"
+msgstr ""
+
+#: inc/shortcode_docs.php:59
+msgid "Edit a file"
+msgstr "Een bestand bewerken"
+
+#: inc/shortcode_docs.php:60
+msgid "rm ->"
+msgstr ""
+
+#: inc/shortcode_docs.php:60
+msgid "Remove or delete files and folders"
+msgstr "Bestanden en mappen verwijderen of verwijderen"
+
+#: inc/shortcode_docs.php:61
+msgid "download ->"
+msgstr ""
+
+#: inc/shortcode_docs.php:61
+msgid "Download files"
+msgstr "Bestanden downloaden"
+
+#: inc/shortcode_docs.php:62
+msgid "upload ->"
+msgstr ""
+
+#: inc/shortcode_docs.php:62
+msgid "Upload files"
+msgstr "Upload bestanden"
+
+#: inc/shortcode_docs.php:63
+msgid "search -> "
+msgstr ""
+
+#: inc/shortcode_docs.php:63
+msgid "Search things"
+msgstr "Zoek dingen"
+
+#: inc/shortcode_docs.php:64
+msgid "info ->"
+msgstr ""
+
+#: inc/shortcode_docs.php:64
+msgid "Info of file"
+msgstr "Info van bestand"
+
+#: inc/shortcode_docs.php:65
+msgid "help ->"
+msgstr ""
+
+#: inc/shortcode_docs.php:65
+msgid "Help"
+msgstr "Helpen"
+
+#: inc/shortcode_docs.php:71
+msgid ""
+"->  It will ban particular users by just putting their ids seprated by "
+"commas(,). If user is Ban then they will not able to access wp file manager on "
+"front end."
+msgstr ""
+"->  Het verbiedt bepaalde gebruikers door hun id's gescheiden door komma's (,) "
+"te plaatsen. Als de gebruiker Ban is, hebben ze geen toegang tot wp-"
+"bestandsbeheer aan de voorkant."
+
+#: inc/shortcode_docs.php:72
+msgid "-> Filemanager UI View. Default: grid"
+msgstr "-> Bestandsbeheer UI-weergave. Standaard: grid"
+
+#: inc/shortcode_docs.php:73
+msgid "-> File Modified or Create date format. Default: d M, Y h:i A"
+msgstr "-> Bestand gewijzigd of datumformaat maken. Standaard: d M, Y h:i A"
+
+#: inc/shortcode_docs.php:74
+msgid "-> File manager Language. Default: English(en)"
+msgstr "-> Bestandsbeheer Taal. Standaard: English(en)"
+
+#: inc/shortcode_docs.php:75
+msgid "-> File Manager Theme. Default: Light"
+msgstr "-> Bestandsbeheerthema. Standaard: Light"
+
+#: inc/system_properties.php:5
+msgid "File Manager - System Properties"
+msgstr "Bestandsbeheer - Systeemeigenschappen"
+
+#: inc/system_properties.php:10
+msgid "PHP version"
+msgstr "PHP-versie"
+
+#: inc/system_properties.php:15
+msgid "Maximum file upload size (upload_max_filesize)"
+msgstr "Maximale bestandsuploadgrootte (upload_max_filesize)"
+
+#: inc/system_properties.php:20
+msgid "Post maximum file upload size (post_max_size)"
+msgstr "Maximale bestandsuploadgrootte posten (post_max_size)"
+
+#: inc/system_properties.php:25
+msgid "Memory Limit (memory_limit)"
+msgstr "Geheugenlimiet (memory_limit)"
+
+#: inc/system_properties.php:30
+msgid "Timeout (max_execution_time)"
+msgstr "Time-out (max_execution_time)"
+
+#: inc/system_properties.php:35
+msgid "Browser and OS (HTTP_USER_AGENT)"
+msgstr "Browser en besturingssysteem (HTTP_USER_AGENT)"
+
+#: lib/jquery/jquery-ui-1.11.4.js:8
+msgid "'"
+msgstr ""
+
+#: lib/wpfilemanager.php:31
+msgid "Change Theme Here:"
+msgstr "Verander hier het thema:"
+
+#: lib/wpfilemanager.php:35
+msgid "Default"
+msgstr "Standaard"
+
+#: lib/wpfilemanager.php:39
+msgid "Dark"
+msgstr "Donker"
+
+#: lib/wpfilemanager.php:43
+msgid "Light"
+msgstr "Licht"
+
+#: lib/wpfilemanager.php:47
+msgid "Gray"
+msgstr "Grijs"
+
+#: lib/wpfilemanager.php:52
+msgid "Windows - 10"
+msgstr ""
+
+#: lib/wpfilemanager.php:85
+msgid "Welcome to File Manager"
+msgstr "Welkom bij Bestandsbeheer"
+
+#: lib/wpfilemanager.php:88
+msgid ""
+"We love making new friends! Subscribe below and we promise to\n"
+"    keep you up-to-date with our latest new plugins, updates,\n"
+"    awesome deals and a few special offers."
+msgstr ""
+"We maken graag nieuwe vrienden! Schrijf je hieronder in en we beloven je\n"
+"    u op de hoogte houden van onze laatste nieuwe plug-ins, updates,\n"
+"    geweldige aanbiedingen en een paar speciale aanbiedingen."
+
+#: lib/wpfilemanager.php:99
+msgid "Please Enter First Name."
+msgstr "Vul a.u.b. voornaam in."
+
+#: lib/wpfilemanager.php:107
+msgid "Please Enter Last Name."
+msgstr "Vul a.u.b. achternaam in."
+
+#: lib/wpfilemanager.php:116
+msgid "Please Enter Email Address."
+msgstr "Voer e-mailadres in."
+
+#: lib/wpfilemanager.php:120
+msgid "Verify"
+msgstr "Verifiëren"
+
+#: lib/wpfilemanager.php:126
+msgid "No Thanks"
+msgstr "Nee, dank u wel"
+
+#: lib/wpfilemanager.php:132
+msgid "Terms of Service"
+msgstr "Servicevoorwaarden"
+
+#: lib/wpfilemanager.php:134
+msgid "Privacy Policy"
+msgstr "Privacybeleid"
+
+#: lib/wpfilemanager.php:153
+msgid "Saving..."
+msgstr "Besparen..."
+
+#: lib/wpfilemanager.php:155
+msgid "OK"
+msgstr "OK"
+
+#~ msgid "Backup not found!"
+#~ msgstr "Back-up niet gevonden!"
+
+#~ msgid "Backup removed successfully!"
+#~ msgstr "Back-up succesvol verwijderd!"
+
+#~ msgid "<span class=\"fm_console_error\">Nothing selected for backup</span>"
+#~ msgstr ""
+#~ "<span class=\"fm_console_error\">Niets geselecteerd voor back-up</span>"
+
+#~ msgid "<span class=\"fm_console_error\">Security Issue.</span>"
+#~ msgstr "<span class=\"fm_console_error\">Beveiligingsprobleem.</span>"
+
+#~ msgid "<span class=\"fm_console_success\">Database backup done.</span>"
+#~ msgstr "<span class=\"fm_console_success\">Databaseback-up klaar.</span>"
+
+#~ msgid ""
+#~ "<span class=\"fm_console_error\">Unable to create database backup.</span>"
+#~ msgstr ""
+#~ "<span class=\"fm_console_error\">Kan geen databaseback-up maken.</span>"
+
+#~ msgid "<span class=\"fm_console_success\">Plugins backup done.</span>"
+#~ msgstr "<span class=\"fm_console_success\">Back-up van plug-ins klaar.</span>"
+
+#~ msgid "<span class=\"fm_console_error\">Plugins backup failed.</span>"
+#~ msgstr "<span class=\"fm_console_error\">Back-up van plug-ins mislukt.</span>"
+
+#~ msgid "<span class=\"fm_console_success\">Themes backup done.</span>"
+#~ msgstr ""
+#~ "<span class=\"fm_console_success\">Back-up van thema's voltooid.</span>"
+
+#~ msgid "<span class=\"fm_console_error\">Themes backup failed.</span>"
+#~ msgstr "<span class=\"fm_console_error\">Back-up van thema's mislukt.</span>"
+
+#~ msgid "<span class=\"fm_console_success\">Uploads backup done.</span>"
+#~ msgstr "<span class=\"fm_console_success\">Uploads back-up gedaan.</span>"
+
+#~ msgid "<span class=\"fm_console_error\">Uploads backup failed.</span>"
+#~ msgstr "<span class=\"fm_console_error\">Uploaden van back-up mislukt.</span>"
+
+#~ msgid "<span class=\"fm_console_success\">Others backup done.</span>"
+#~ msgstr "<span class=\"fm_console_success\">Andere back-up gedaan.</span>"
+
+#~ msgid "<span class=\"fm_console_error\">Others backup failed.</span>"
+#~ msgstr "<span class=\"fm_console_error\">Andere back-up mislukt.</span>"
+
+#~ msgid "<span class=\"fm_console_success\">All Done</span>"
+#~ msgstr "<span class=\"fm_console_success\">Alles klaar</span>"
+
+#~ msgid ""
+#~ "<code>[wp_file_manager view=\"list\" lang=\"en\" theme=\"light\" dateformat="
+#~ "\"d M, Y h:i A\" allowed_roles=\"editor,author\" access_folder=\"wp-content/"
+#~ "plugins\" write = \"true\" read = \"false\" hide_files = \"kumar,abc.php\" "
+#~ "lock_extensions=\".php,.css\" allowed_operations=\"upload,download\" "
+#~ "ban_user_ids=\"2,3\"]"
+#~ msgstr ""
+#~ "<code>[wp_file_manager view=\"list\" lang=\"en\" theme=\"light\" dateformat="
+#~ "\"d M, Y h:i A\" allowed_roles=\"editor,author\" access_folder=\"wp-content/"
+#~ "plugins\" write = \"true\" read = \"false\" hide_files = \"kumar,abc.php\" "
+#~ "lock_extensions=\".php,.css\" allowed_operations=\"upload,download\" "
+#~ "ban_user_ids=\"2,3\"]"
+
+#~ msgid "Image"
+#~ msgstr "Beeld"
+
+#~ msgid "of"
+#~ msgstr "van"
+
+#~ msgid "Close"
+#~ msgstr "Dichtbij"
+
+#~ msgid ""
+#~ "This feature requires inline frames. You have iframes disabled or your "
+#~ "browser does not support them."
+#~ msgstr ""
+#~ "Deze functie vereist inline frames. Je hebt iframes uitgeschakeld of je "
+#~ "browser ondersteunt ze niet."
+
+#~ msgid "Theme Editor"
+#~ msgstr "Thema-editor"
+
+#~ msgid "Plugin Editor"
+#~ msgstr "Plug-in-editor"
+
+#~ msgid "Access Control"
+#~ msgstr "Toegangscontrole"
+
+#~ msgid "Notify Me"
+#~ msgstr "Breng me op de hoogte"
+
+#~ msgid "Language folder has been downlaoded successfully."
+#~ msgstr "taal is succesvol gedownload."
+
+#~ msgid "Language folder failed to downlaod."
+#~ msgstr "Taalmap kan niet worden gedownload."
+
+#~ msgid "Security token expired!"
+#~ msgstr "Beveiligingstoken is verlopen!"
+
+#~ msgid " language has been downloaded successfully."
+#~ msgstr "taal is succesvol gedownload."
+
+#~ msgid "Currently language "
+#~ msgstr "Momenteel taal "
+
+#~ msgid " not available. Please click on the request language link."
+#~ msgstr " niet beschikbaar. Klik op de link voor het aanvragen van taal."
+
+#~ msgid "You do not have sufficient permissions to edit plugins for this site."
+#~ msgstr ""
+#~ "U heeft niet voldoende rechten om plug-ins voor deze site te bewerken."
+
+#~ msgid "There are no plugins installed on this site."
+#~ msgstr "Er zijn geen plug-ins geïnstalleerd op deze site."
+
+#~ msgid "There are no themes installed on this site."
+#~ msgstr "Er zijn geen thema's op deze site geïnstalleerd."
+
+#~ msgid "<p class=\"te_error\">Please enter folder name!</p>"
+#~ msgstr "<p class=\"te_error\">Voer de mapnaam in!</p>"
+
+#~ msgid "<p class=\"te_error\">Please enter file name!</p>"
+#~ msgstr "<p class=\"te_error\">Voer de bestandsnaam in!</p>"
+
+#~ msgid "Preview"
+#~ msgstr "Voorbeeld"
+
+#~ msgid "Edit"
+#~ msgstr "Bewerk"
+
+#~ msgid "Are you sure you want to abort the file uploading?"
+#~ msgstr "Weet u zeker dat u het uploaden van het bestand wilt afbreken?"
+
+#~ msgid "File renamed successfully."
+#~ msgstr "Bestand hernoemd met succes."
+
+#~ msgid "Are you sure you want to delete folder?"
+#~ msgstr "Weet u zeker dat u de map wilt verwijderen?"
+
+#~ msgid "Folder deleted successfully."
+#~ msgstr "Map succesvol verwijderd."
+
+#~ msgid "File deleted successfully."
+#~ msgstr "Bestand succesvol verwijderd."
+
+#~ msgid "Folder renamed successfully."
+#~ msgstr "Map succesvol hernoemd."
+
+#~ msgid "<p class=\"te_error\">Not allowed more than 30 characters.</p>"
+#~ msgstr "<p class=\"te_error\">Niet meer dan 30 tekens toegestaan.</p>"
+
+#~ msgid "Invalid request!"
+#~ msgstr "Ongeldig verzoek!"
+
+#~ msgid "No change in file!"
+#~ msgstr "Geen wijziging in bestand!"
+
+#~ msgid "File saved successfully!"
+#~ msgstr "Bestand succesvol opgeslagen!"
+
+#~ msgid "File not saved!"
+#~ msgstr "Bestand niet opgeslagen!"
+
+#~ msgid "Unable to verify security token!"
+#~ msgstr "Kan beveiligingstoken niet verifiëren!"
+
+#~ msgid "Folder created successfully!"
+#~ msgstr "Map succesvol aangemaakt!"
+
+#~ msgid "This folder format is not allowed to upload by wordpress!"
+#~ msgstr "Dit mapformaat mag niet worden geüpload door wordpress!"
+
+#~ msgid "Folder already exists!"
+#~ msgstr "Map bestaat al!"
+
+#~ msgid "File created successfully!"
+#~ msgstr "Bestand succesvol aangemaakt!"
+
+#~ msgid "This file extension is not allowed to create!"
+#~ msgstr "Deze bestandsextensie mag niet worden aangemaakt!"
+
+#~ msgid "File already exists!"
+#~ msgstr "Bestand bestaat al!"
+
+#~ msgid "Please enter a valid file extension!"
+#~ msgstr "Voer een geldige bestandsextensie in!"
+
+#~ msgid "Folder does not exists!"
+#~ msgstr "Map bestaat niet!"
+
+#~ msgid "Folder deleted successfully!"
+#~ msgstr "Map succesvol verwijderd!"
+
+#~ msgid "File deleted successfully!"
+#~ msgstr "Bestand succesvol verwijderd!"
+
+#~ msgid "This file extension is not allowed to upload by wordpress!"
+#~ msgstr ""
+#~ "Deze bestandsextensie is niet toegestaan ​​om te uploaden via wordpress!"
+
+#~ msgid "File uploaded successfully: Uploaded file path is "
+#~ msgstr "Bestand succesvol geüpload: Pad naar geüpload bestand is "
+
+#~ msgid "No file selected"
+#~ msgstr "Geen bestand geselecteerd"
+
+#~ msgid "Unable to rename file! Try again."
+#~ msgstr "Kan bestand niet hernoemen! Probeer het opnieuw."
+
+#~ msgid "Folder renamed successfully!"
+#~ msgstr "Map succesvol hernoemd!"
+
+#~ msgid "Please enter correct folder name"
+#~ msgstr "Voer de juiste mapnaam in"
+
+#~ msgid "How can we help?"
+#~ msgstr "Hoe kunnen we helpen?"
+
+#~ msgid "Learning resources, professional support and expert help."
+#~ msgstr "Leermiddelen, professionele ondersteuning en deskundige hulp."
+
+#~ msgid "Documentation"
+#~ msgstr "Documentatie"
+
+#~ msgid "Find answers quickly from our comprehensive documentation."
+#~ msgstr "Vind snel antwoorden in onze uitgebreide documentatie."
+
+#~ msgid "Learn More"
+#~ msgstr "Kom meer te weten"
+
+#~ msgid "Contact Us"
+#~ msgstr "Neem contact op"
+
+#~ msgid "Submit a support ticket for answers on questions you may have."
+#~ msgstr "Dien een supportticket in voor antwoorden op eventuele vragen."
+
+#~ msgid "Request a Feature"
+#~ msgstr "Vraag een functie aan"
+
+#~ msgid "Tell us what you want and will add it to our roadmap."
+#~ msgstr "Vertel ons wat je wilt en voeg het toe aan onze roadmap."
+
+#~ msgid "Tell us what you think!"
+#~ msgstr "Vertel ons wat je denkt!"
+
+#~ msgid "Rate and give us a review on Wordpress!"
+#~ msgstr "Beoordeel en geef ons een recensie over Wordpress!"
+
+#~ msgid "Leave a Review"
+#~ msgstr "Laat een beoordeling achter"
+
+#~ msgid "Update"
+#~ msgstr "Bijwerken"
+
+#~ msgid "Installed"
+#~ msgstr "Geïnstalleerd"
+
+#~ msgid "Theme Editor Pro Language:"
+#~ msgstr "Theme Editor Pro Taal:"
+
+#~ msgid " language"
+#~ msgstr " taal"
+
+#~ msgid "Click here to install/update "
+#~ msgstr "Klik hier om te installeren / updaten"
+
+#~ msgid " language translation for Theme Editor Pro."
+#~ msgstr " taalvertaling voor Theme Editor Pro."
+
+#~ msgid "Available languages"
+#~ msgstr "Beschikbare talen"
+
+#~ msgid "Click here to download all available languages."
+#~ msgstr "Klik hier om alle beschikbare talen te downloaden."
+
+#~ msgid "Request a language"
+#~ msgstr "Een taal aanvragen"
+
+#~ msgid "Tell us which language you want to add."
+#~ msgstr "Vertel ons welke taal u wilt toevoegen."
+
+#~ msgid "Contact us"
+#~ msgstr "Neem contact op"
+
+#~ msgid "Notifications"
+#~ msgstr "Meldingen"
+
+#~ msgid ""
+#~ "<strong>Note: This is just a screenshot. Buy PRO Version for this feature.</"
+#~ "strong>"
+#~ msgstr ""
+#~ "<strong>Opmerking: dit is slechts een screenshot. Koop een PRO-versie voor "
+#~ "deze functie.</strong>"
+
+#~ msgid "Permissions"
+#~ msgstr "Rechten"
+
+#~ msgid "Edit Plugin"
+#~ msgstr "Bewerk plug-in"
+
+#~ msgid ""
+#~ "<strong>This plugin is currently activated!</strong> Warning: Making "
+#~ "changes to active plugins is not recommended.\tIf your changes cause a "
+#~ "fatal error, the plugin will be automatically deactivated."
+#~ msgstr ""
+#~ "<strong> Deze plug-in is momenteel geactiveerd! </strong> Waarschuwing: het "
+#~ "wordt niet aanbevolen om wijzigingen aan te brengen in actieve plug-ins. "
+#~ "Als uw wijzigingen een fatale fout veroorzaken, wordt de plug-in "
+#~ "automatisch gedeactiveerd."
+
+#~ msgid "Editing <span class=\"current_file\">"
+#~ msgstr "Bewerken  <span class=\"current_file\">"
+
+#~ msgid "</span> (active)"
+#~ msgstr "</span> (actief)"
+
+#~ msgid "Browsing <span class=\"current_file\">"
+#~ msgstr "Browsen <span class=\"current_file\">"
+
+#~ msgid "</span> (inactive)"
+#~ msgstr "</span> (inactief)"
+
+#~ msgid "Update File"
+#~ msgstr "Update bestand"
+
+#~ msgid "Download Plugin"
+#~ msgstr "Plug-in downloaden"
+
+#~ msgid ""
+#~ "You need to make this file writable before you can save your changes. See "
+#~ "<a href=\"https://wordpress.org/support/article/changing-file-permissions/"
+#~ "\" target=\"_blank\">the Codex</a> for more information."
+#~ msgstr ""
+#~ "U moet dit bestand beschrijfbaar maken voordat u uw wijzigingen kunt "
+#~ "opslaan. Zie <a href=\"https://wordpress.org/support/article/changing-file-"
+#~ "permissions/\" target=\"_blank\">de Codex</a> voor meer informatie."
+
+#~ msgid "Select plugin to edit:"
+#~ msgstr "Selecteer plug-in om te bewerken:"
+
+#~ msgid "Create Folder and File"
+#~ msgstr "Maak een map en bestand"
+
+#~ msgid "Create"
+#~ msgstr "Creëer"
+
+#~ msgid "Remove Folder and File"
+#~ msgstr "Verwijder map en bestand"
+
+#~ msgid "Remove "
+#~ msgstr "Verwijderen"
+
+#~ msgid "To"
+#~ msgstr "Naar"
+
+#~ msgid "Optional: Sub-Directory"
+#~ msgstr "Optioneel: subdirectory"
+
+#~ msgid "Choose File "
+#~ msgstr "Kies bestand"
+
+#~ msgid "No file Chosen "
+#~ msgstr "Geen bestand gekozen"
+
+#~ msgid "Create a New Folder: "
+#~ msgstr "Maak een nieuwe folder:"
+
+#~ msgid "New folder will be created in: "
+#~ msgstr "Er wordt een nieuwe map gemaakt in:"
+
+#~ msgid "New Folder Name: "
+#~ msgstr "Nieuwe mapnaam:"
+
+#~ msgid "Create New Folder"
+#~ msgstr "Nieuwe map maken"
+
+#~ msgid "Create a New File: "
+#~ msgstr "Maak een nieuw bestand:"
+
+#~ msgid "New File will be created in: "
+#~ msgstr "Nieuw bestand wordt aangemaakt in:"
+
+#~ msgid "New File Name: "
+#~ msgstr "Nieuwe bestandsnaam:"
+
+#~ msgid "Create New File"
+#~ msgstr "Maak een nieuw bestand"
+
+#~ msgid "Warning: please be careful before remove any folder or file."
+#~ msgstr ""
+#~ "Waarschuwing: wees voorzichtig voordat u een map of bestand verwijdert."
+
+#~ msgid "Current Theme Path: "
+#~ msgstr "Huidig themapad:"
+
+#~ msgid "Remove Folder: "
+#~ msgstr "Map verwijderen:"
+
+#~ msgid "Folder Path which you want to remove: "
+#~ msgstr "Mappad dat u wilt verwijderen: "
+
+#~ msgid "Remove Folder"
+#~ msgstr "Map verwijderen"
+
+#~ msgid "Remove File: "
+#~ msgstr "Bestand verwijderen:"
+
+#~ msgid "File Path which you want to remove: "
+#~ msgstr "Bestandspad dat u wilt verwijderen: "
+
+#~ msgid "Remove File"
+#~ msgstr "Bestand verwijderen"
+
+#~ msgid "Please Enter Valid Email Address."
+#~ msgstr "Vul alstublieft een geldig e-mailadres in."
+
+#~ msgid "Warning: Please be careful before rename any folder or file."
+#~ msgstr "Waarschuwing: wees voorzichtig voordat u een map of bestand hernoemt."
+
+#~ msgid "File/Folder will be rename in: "
+#~ msgstr "Bestand / map wordt hernoemd in:"
+
+#~ msgid "File/Folder Rename: "
+#~ msgstr "Bestand / map hernoemen:"
+
+#~ msgid "Follow us"
+#~ msgstr "Volg ons"
+
+#~ msgid "Theme Editor Facebook"
+#~ msgstr "Thema-editor Facebook"
+
+#~ msgid "Theme Editor Instagram"
+#~ msgstr "Thema-editor Instagram"
+
+#~ msgid "Theme Editor Twitter"
+#~ msgstr "Thema-editor Twitter"
+
+#~ msgid "Theme Editor Linkedin"
+#~ msgstr "Thema-editor Linkedin"
+
+#~ msgid "Theme Editor Youtube"
+#~ msgstr "Thema-editor YouTube"
+
+#~ msgid "Go to ThemeEditor site"
+#~ msgstr "Ga naar de ThemeEditor-site"
+
+#~ msgid "Theme Editor Links"
+#~ msgstr "Theme Editor Links"
+
+#~ msgid "Child Theme"
+#~ msgstr "Thema van het kind"
+
+#~ msgid "Child Theme Permissions"
+#~ msgstr "Toestemmingen voor kindthema"
+
+#~ msgid " is not available. Please click "
+#~ msgstr " is niet beschikbaar. Klik alstublieft "
+
+#~ msgid "here"
+#~ msgstr "hier"
+
+#~ msgid "to request language."
+#~ msgstr "om taal te vragen."
+
+#~ msgid "Click"
+#~ msgstr "Klik"
+
+#~ msgid "to install "
+#~ msgstr "to install "
+
+#~ msgid " language translation  for Theme Editor Pro"
+#~ msgstr " taalvertaling voor Theme Editor Pro"
+
+#~ msgid "Success: Settings Saved!"
+#~ msgstr "Succes: instellingen opgeslagen!"
+
+#~ msgid "No changes have been made to save."
+#~ msgstr "Er zijn geen wijzigingen aangebracht om op te slaan."
+
+#~ msgid "Enable Theme Editor For Themes"
+#~ msgstr "Thema-editor inschakelen voor thema's"
+
+#~ msgid "Yes"
+#~ msgstr "Ja"
+
+#~ msgid "No"
+#~ msgstr "Nee"
+
+#~ msgid ""
+#~ "This will Enable/Disable the theme editor.<br/><strong class=\"defs"
+#~ "\">Default: </strong>Yes"
+#~ msgstr ""
+#~ "Hiermee wordt de thema-editor in-/uitgeschakeld.<br/><strong class=\"defs"
+#~ "\">Standaard: </strong>Ja"
+
+#~ msgid "Disable Default WordPress Theme Editor?"
+#~ msgstr "Standaard WordPress Theme Editor uitschakelen?"
+
+#~ msgid ""
+#~ "This will Enable/Disable the Default theme editor.<br/><strong class=\"defs"
+#~ "\">Default: </strong>Yes"
+#~ msgstr ""
+#~ "Hiermee wordt de standaard thema-editor in-/uitgeschakeld.<br/><strong "
+#~ "class=\"defs\">Standaard: </strong>Ja"
+
+#~ msgid "Enable Plugin Editor For Plugin"
+#~ msgstr "Plugin-editor inschakelen voor plug-in"
+
+#~ msgid ""
+#~ "This will Enable/Disable the plugin editor.<br/><strong class=\"defs"
+#~ "\">Default: </strong>Yes"
+#~ msgstr ""
+#~ "Hiermee wordt de plug-in-editor in-/uitgeschakeld.<br/><strong class=\"defs"
+#~ "\">Standaard: </strong>Ja"
+
+#~ msgid "Disable Default WordPress Plugin Editor?"
+#~ msgstr "Standaard WordPress Plugin Editor uitschakelen?"
+
+#~ msgid ""
+#~ "This will Enable/Disable the Default plugin editor.<br/><strong class=\"defs"
+#~ "\">Default: </strong>Yes"
+#~ msgstr ""
+#~ "Hiermee wordt de standaard plug-in-editor in-/uitgeschakeld.<br/><strong "
+#~ "class=\"defs\">Standaard: </strong>Ja"
+
+#~ msgid "Code Editor"
+#~ msgstr "Code-editor"
+
+#~ msgid ""
+#~ "Allows you to select theme for theme editor.<br/><strong class=\"defs"
+#~ "\">Default: </strong>Cobalt"
+#~ msgstr ""
+#~ "Hiermee kunt u een thema selecteren voor de thema-editor.<br/><strong class="
+#~ "\"defs\">Standaard: </strong>Kobalt"
+
+#~ msgid "Edit Themes"
+#~ msgstr "Thema's bewerken"
+
+#~ msgid ""
+#~ "<strong>This theme is currently activated!</strong> Warning: Making changes "
+#~ "to active themes is not recommended."
+#~ msgstr ""
+#~ "<strong> Dit thema is momenteel geactiveerd! </strong> Waarschuwing: het "
+#~ "wordt niet aanbevolen wijzigingen aan te brengen in actieve thema's."
+
+#~ msgid "Editing"
+#~ msgstr "Bewerken"
+
+#~ msgid "Browsing"
+#~ msgstr "Browsen"
+
+#~ msgid "Update File and Attempt to Reactivate"
+#~ msgstr "Update bestand en probeer opnieuw te activeren"
+
+#~ msgid "Download Theme"
+#~ msgstr "Thema downloaden"
+
+#~ msgid "Select theme to edit:"
+#~ msgstr "Selecteer een thema om te bewerken:"
+
+#~ msgid "Theme Files"
+#~ msgstr "Themabestanden"
+
+#~ msgid "Choose File"
+#~ msgstr "Kies bestand"
+
+#~ msgid "No File Chosen"
+#~ msgstr "Geen bestand gekozen"
+
+#~ msgid "Warning: Please be careful before remove any folder or file."
+#~ msgstr ""
+#~ "Waarschuwing: wees voorzichtig voordat u een map of bestand verwijdert."
+
+#~ msgid "Child Theme Permission"
+#~ msgstr "Toestemming voor kinderthema"
+
+#~ msgid "Translations"
+#~ msgstr "Vertalingen"
+
+#~ msgid "You do not have the permission to create new child theme."
+#~ msgstr "U bent niet gemachtigd om een ​​nieuw child-thema te maken."
+
+#~ msgid ""
+#~ "You do not have the permission to change configure existing child theme."
+#~ msgstr ""
+#~ "U bent niet gemachtigd om het configureren van een bestaand child-thema te "
+#~ "wijzigen."
+
+#~ msgid "You do not have the permission to duplicate the child theme."
+#~ msgstr "U bent niet gemachtigd om kinderbestanden te verwijderen."
+
+#~ msgid "You do not have the permission to access query/ selector menu."
+#~ msgstr "U heeft geen toestemming om het vraag- / selectiemenu te openen."
+
+#~ msgid "You do not have the permission to access web fonts & CSS menu."
+#~ msgstr "U heeft geen toestemming om het webfonts & CSS-menu te openen."
+
+#~ msgid "You do not have the permission to copy files."
+#~ msgstr "U heeft geen toestemming om bestanden te kopiëren."
+
+#~ msgid "You do not have the permission to delete child files."
+#~ msgstr "U heeft geen toestemming om kinderbestanden te verwijderen."
+
+#~ msgid "You do not have the permission to upload new screenshot."
+#~ msgstr "U heeft geen toestemming om een ​​nieuwe screenshot te uploaden."
+
+#~ msgid "You do not have the permission to upload new images."
+#~ msgstr "U heeft geen toestemming om nieuwe afbeeldingen te uploaden."
+
+#~ msgid "You do not have the permission to delete images."
+#~ msgstr "U heeft geen toestemming om afbeeldingen te verwijderen."
+
+#~ msgid "You do not have the permission to download file."
+#~ msgstr "U heeft geen toestemming om het bestand te downloaden."
+
+#~ msgid "You do not have the permission to create new directory."
+#~ msgstr "U heeft geen toestemming om een ​​nieuwe directory te maken."
+
+#~ msgid "You do not have the permission to create new file."
+#~ msgstr "U bent niet gemachtigd om een ​​nieuw bestand aan te maken."
+
+#~ msgid "You don't have permission to update file!"
+#~ msgstr "U bent niet gemachtigd om het bestand bij te werken!"
+
+#~ msgid "You don't have permission to create folder!"
+#~ msgstr "U bent niet gemachtigd om een ​​map te maken!"
+
+#~ msgid "You don't have permission to delete folder!"
+#~ msgstr "U bent niet gemachtigd om een ​​map te verwijderen!"
+
+#~ msgid "You don't have permission to delete file!"
+#~ msgstr "U bent niet gemachtigd om een ​​bestand te verwijderen!"
+
+#~ msgid "You don't have permission to upload file!"
+#~ msgstr "U bent niet gemachtigd om een ​​bestand te uploaden!"
+
+#~ msgid "Child Theme permissions saved successfully."
+#~ msgstr "Toestemmingen voor kindthema zijn succesvol opgeslagen."
+
+#~ msgid "There are no changes made in the child theme permissions to be saved."
+#~ msgstr ""
+#~ "Er zijn geen wijzigingen aangebracht in de machtigingen voor het "
+#~ "onderliggende thema om te worden opgeslagen."
+
+#~ msgid "Child Theme permission message saved successfully."
+#~ msgstr "Toestemmingsbericht voor kindthema succesvol opgeslagen."
+
+#~ msgid "Users"
+#~ msgstr "Gebruikers"
+
+#~ msgid "Create New Child Theme"
+#~ msgstr "Maak een nieuw kindthema"
+
+#~ msgid "Configure an Existing Child Themes"
+#~ msgstr "Configureer bestaande onderliggende thema's"
+
+#~ msgid "Duplicate Child Themes"
+#~ msgstr "Dubbele onderliggende thema's"
+
+#~ msgid "Query/ Selector"
+#~ msgstr "Query / Selector"
+
+#~ msgid "Web/font"
+#~ msgstr "Web / lettertype"
+
+#~ msgid "Copy File Parent Theme To Child Theme"
+#~ msgstr "Kopieer bestand ouderthema naar kindthema"
+
+#~ msgid "Deleted Child Files"
+#~ msgstr "Verwijderde onderliggende bestanden"
+
+#~ msgid "Upload New Screenshoot"
+#~ msgstr "Upload nieuwe screenshoot"
+
+#~ msgid "Upload New Images"
+#~ msgstr "Upload nieuwe afbeeldingen"
+
+#~ msgid "Deleted Images "
+#~ msgstr "Verwijderde afbeeldingen"
+
+#~ msgid "Download Images"
+#~ msgstr "Download afbeeldingen"
+
+#~ msgid "Create New Directory"
+#~ msgstr "Maak een nieuwe directory"
+
+#~ msgid "Create New Files"
+#~ msgstr "Maak nieuwe bestanden"
+
+#~ msgid "Export Theme"
+#~ msgstr "Thema exporteren"
+
+#~ msgid "User Roles"
+#~ msgstr "Gebruikersrollen"
+
+#~ msgid "Query/ Seletor"
+#~ msgstr "Query / Seletor"
+
+#~ msgid "Deleted Images"
+#~ msgstr "Verwijderde afbeeldingen"
+
+#~ msgid "Child Theme Permission Message"
+#~ msgstr "Toestemmingsbericht voor kindthema"
+
+#~ msgid "You do not have the permission to create new Child Theme."
+#~ msgstr "U heeft geen toestemming om een ​​nieuw kindthema te maken."
+
+#~ msgid "Query/Selector"
+#~ msgstr "Query / Selector"
+
+#~ msgid "You do not have the permission to access query / selector menu."
+#~ msgstr "U heeft geen toestemming om het query-/selectormenu te openen."
+
+#~ msgid " Web/font"
+#~ msgstr "Web / lettertype"
+
+#~ msgid " Export Theme"
+#~ msgstr "Thema exporteren"
+
+#~ msgid "Save Child Theme Message"
+#~ msgstr "Toestemmingsbericht voor kindthema"
+
+#~ msgid "Please select atleast one image."
+#~ msgstr "Selecteer ten minste één afbeelding."
+
+#~ msgid "You don't have the permission to delete images."
+#~ msgstr "U heeft geen toestemming om afbeeldingen te verwijderen."
+
+#~ msgid "You don't have the permission to upload new images."
+#~ msgstr "U heeft geen toestemming om nieuwe afbeeldingen te uploaden."
+
+#~ msgid "You don't have the permission to download."
+#~ msgstr "U heeft geen toestemming om te downloaden."
+
+#~ msgid "You don't have the permission to create new directory."
+#~ msgstr "U bent niet gemachtigd om een ​​nieuwe map te maken."
+
+#~ msgid "Please choose file type."
+#~ msgstr "Kies een bestandstype."
+
+#~ msgid "Please enter file name."
+#~ msgstr "Voer de bestandsnaam in."
+
+#~ msgid "You don't have the permission to create new file."
+#~ msgstr "U bent niet gemachtigd om een ​​nieuw bestand te maken."
+
+#~ msgid "Are you sure to copy parent files into child theme?"
+#~ msgstr ""
+#~ "Weet u zeker dat u bovenliggende bestanden naar het onderliggende thema "
+#~ "kopieert?"
+
+#~ msgid "Please select file(s)."
+#~ msgstr "Selecteer bestand (en)."
+
+#~ msgid "You don't have the permission to copy files."
+#~ msgstr "U heeft geen toestemming om bestanden te kopiëren."
+
+#~ msgid "Are you sure you want to delete selected file(s)?"
+#~ msgstr "Weet u zeker dat u de geselecteerde bestanden wilt verwijderen?"
+
+#~ msgid "You don't have the permission to delete child files."
+#~ msgstr "U bent niet gemachtigd om kinderbestanden te verwijderen."
+
+#~ msgid "You don't have the permission to upload new screenshot."
+#~ msgstr "Je hebt geen toestemming om een ​​nieuwe screenshot te uploaden."
+
+#~ msgid "You don't have the permission to export theme."
+#~ msgstr "U bent niet gemachtigd om een ​​thema te exporteren."
+
+#~ msgid "You don't have the permission to access Query/ Selector menu."
+#~ msgstr "U bent niet gemachtigd om het Query / Selector-menu te openen."
+
+#~ msgid "You don't have the permission to access Web Fonts & CSS menu."
+#~ msgstr "U bent niet gemachtigd om het menu Web Fonts & CSS te openen."
+
+#~ msgid "Current Analysis Theme:"
+#~ msgstr "Huidig  analysethema:"
+
+#~ msgid "Preview Theme"
+#~ msgstr "Voorbeeldthema"
+
+#~ msgid "Parent Themes"
+#~ msgstr "Bovenliggende thema's"
+
+#~ msgid "Child Themes"
+#~ msgstr "Kinderthema's"
+
+#~ msgid "Error: Settings Not Saved!"
+#~ msgstr "Fout: instellingen niet opgeslagen!"
+
+#~ msgid "Email List"
+#~ msgstr "E-maillijst"
+
+#~ msgid "Email Address"
+#~ msgstr "E-mailadres"
+
+#~ msgid "Enter Email"
+#~ msgstr "Voer email in"
+
+#~ msgid "Add More"
+#~ msgstr "Voeg meer toe"
+
+#~ msgid ""
+#~ "This address is used for notification purposes, like theme/plugin "
+#~ "notification."
+#~ msgstr ""
+#~ "Dit adres wordt gebruikt voor meldingsdoeleinden, zoals thema- / plugin-"
+#~ "melding."
+
+#~ msgid "Theme Notification"
+#~ msgstr "Thema-melding"
+
+#~ msgid "Notify on file update"
+#~ msgstr "Melden bij bestandsupdate"
+
+#~ msgid ""
+#~ "Notification on theme file edit or update.<br/><strong>Default: </strong>Yes"
+#~ msgstr ""
+#~ "Melding bij het bewerken of bijwerken van themabestanden. <br/"
+#~ "><strong>Standaard: </strong>Ja"
+
+#~ msgid "Notify on files download"
+#~ msgstr "Melden bij het downloaden van bestanden"
+
+#~ msgid ""
+#~ "Notification on theme file edit download.<br/><strong>Default: </strong>Yes"
+#~ msgstr ""
+#~ "Melding bij downloaden van themabestand bewerken. <br/><strong>Standaard: </"
+#~ "strong>Ja"
+
+#~ msgid "Notify on theme download"
+#~ msgstr "Melden bij thema-download"
+
+#~ msgid "Notification on theme download.<br/><strong>Default: </strong>Yes"
+#~ msgstr "Melding bij downloaden van thema. <br/><strong>Standaard: </strong>Ja"
+
+#~ msgid "Notify on files upload"
+#~ msgstr "Melden bij het uploaden van bestanden"
+
+#~ msgid ""
+#~ "Notification on files upload in theme.<br/><strong>Default: </strong>Yes"
+#~ msgstr ""
+#~ "Melding bij het uploaden van bestanden in thema. <br/><strong>Standaard: </"
+#~ "strong>Ja"
+
+#~ msgid "Notify on create new file/folder"
+#~ msgstr "Melden bij het aanmaken van een nieuw bestand / map"
+
+#~ msgid ""
+#~ "Notification on create new file/folder in theme.<br/><strong>Default: </"
+#~ "strong>Yes"
+#~ msgstr ""
+#~ "Melding bij het maken van een nieuw bestand / map in thema. <br/"
+#~ "><strong>Standaard: </strong>Ja"
+
+#~ msgid "Notify on delete"
+#~ msgstr "Melden bij verwijderen"
+
+#~ msgid ""
+#~ "Notify on delete any file and folder in themes.<br/><strong>Default: </"
+#~ "strong>Yes"
+#~ msgstr ""
+#~ "Melden bij het verwijderen van bestanden en mappen in thema's. <br/"
+#~ "><strong>Standaard: </strong>Ja"
+
+#~ msgid "Notify on create New Child theme"
+#~ msgstr "Melden bij het maken van een nieuw kindthema"
+
+#~ msgid "Notify on Create New Child themes. <br/><strong>Default: </strong>Yes"
+#~ msgstr ""
+#~ "Melden bij het maken van nieuwe kindthema's. <br/><strong>Standaard: </"
+#~ "strong>Ja"
+
+#~ msgid "Notify on configure an Existing Child themes"
+#~ msgstr "Melden bij het configureren van een bestaand kindthema"
+
+#~ msgid ""
+#~ "Notify on configure an Existing Child themes.<br/><strong>Default: </"
+#~ "strong>Yes"
+#~ msgstr ""
+#~ "Melden bij het configureren van bestaande onderliggende thema's. <br/"
+#~ "><strong>Standaard: </strong>Ja"
+
+#~ msgid "Notify on Duplicate Child themes"
+#~ msgstr "Melding geven over dubbele onderliggende thema's"
+
+#~ msgid ""
+#~ "Notify on Configure an Existing Child themes.<br/><strong>Default: </"
+#~ "strong>Yes"
+#~ msgstr ""
+#~ "Melden bij het configureren van bestaande onderliggende thema's. <br/"
+#~ "><strong>Standaard: </strong>Ja"
+
+#~ msgid "Plugin Notification"
+#~ msgstr "Plugin-melding"
+
+#~ msgid ""
+#~ "Notification on theme file edit or update.<br/><strong>Default: </strong>yes"
+#~ msgstr ""
+#~ "Melding bij het bewerken of bijwerken van themabestanden. <br/"
+#~ "><strong>Standaard: </strong>ja"
+
+#~ msgid "Notify on Plugin download"
+#~ msgstr "Melden bij download van plug-in"
+
+#~ msgid "Notification on Plugin download.<br/><strong>Default: </strong>Yes"
+#~ msgstr ""
+#~ "Melding bij het downloaden van de plug-in. <br/><strong>Standaard: </"
+#~ "strong> Ja"
+
+#~ msgid ""
+#~ "Notification on file upload in theme.<br/><strong>Default: </strong>Yes"
+#~ msgstr ""
+#~ "Melding bij het uploaden van bestanden in thema. <br/><strong>Standaard: </"
+#~ "strong>Ja"
+
+#~ msgid "Permission saved successfully."
+#~ msgstr "Toestemming succesvol opgeslagen."
+
+#~ msgid "Oops! Permission cannot saved because you have not made any changes."
+#~ msgstr ""
+#~ "Oeps! Toestemming kan niet worden opgeslagen omdat u geen wijzigingen heeft "
+#~ "aangebracht."
+
+#~ msgid "Allowed User Roles"
+#~ msgstr "Toegestane gebruikersrollen"
+
+#~ msgid "Update theme files"
+#~ msgstr "Update themabestanden"
+
+#~ msgid "Create new theme files and folders"
+#~ msgstr "Maak nieuwe themabestanden en mappen"
+
+#~ msgid "Upload new theme files and folders"
+#~ msgstr "Upload nieuwe themabestanden en mappen"
+
+#~ msgid "Download theme files"
+#~ msgstr "Download themabestanden"
+
+#~ msgid "Download theme"
+#~ msgstr "Thema downloaden"
+
+#~ msgid "Update plugin files"
+#~ msgstr "Update plug-inbestanden"
+
+#~ msgid "Create new plugin files and folders"
+#~ msgstr "Maak nieuwe plug-inbestanden en -mappen"
+
+#~ msgid "Upload new plugin files and folders"
+#~ msgstr "Upload nieuwe plug-inbestanden en -mappen"
+
+#~ msgid "Delete plugin files and folders"
+#~ msgstr "Verwijder plug-inbestanden en -mappen"
+
+#~ msgid "Download plugin files"
+#~ msgstr "Download plugin-bestanden"
+
+#~ msgid "Download plugin"
+#~ msgstr "Plug-in downloaden"
+
+#~ msgid "Rename File"
+#~ msgstr "Hernoem bestand"
+
+#~ msgid ""
+#~ "Theme Editor PRO - Please add your order details below. If Not <a href="
+#~ "\"https://themeeditor.pro/product/theme-editor/\" target=\"_blank\" class="
+#~ "\"page-title-action button button-primary\" title=\"click to buy Licence Key"
+#~ "\">Buy Now</a>"
+#~ msgstr ""
+#~ "Theme Editor PRO - Voeg hieronder uw bestelgegevens toe. Als niet  <a href="
+#~ "\"https://themeeditor.pro/product/theme-editor/\" target=\"_blank\" class="
+#~ "\"page-title-action button button-primary\" title=\"click to buy Licence Key"
+#~ "\">Koop nu </a>"
+
+#~ msgid "ORDER ID (#) *"
+#~ msgstr "ORDER ID (#) *"
+
+#~ msgid "Enter Order ID"
+#~ msgstr "Voer bestellings-ID in"
+
+#~ msgid "Please Check Your email for order ID."
+#~ msgstr "Controleer uw e-mail voor de bestellings-ID."
+
+#~ msgid "LICENCE KEY *"
+#~ msgstr "LICENTIESLEUTEL *"
+
+#~ msgid "Enter License Key"
+#~ msgstr "Voer de licentiecode in"
+
+#~ msgid "Please Check Your email for Licence Key."
+#~ msgstr "Controleer uw e-mail voor de licentiecode."
+
+#~ msgid "Click To Verify"
+#~ msgstr "Klik om te verifiëren"
+
+#~ msgid "URL/None"
+#~ msgstr "URL / Geen"
+
+#~ msgid "Origin"
+#~ msgstr "Oorsprong"
+
+#~ msgid "Color 1"
+#~ msgstr "Kleur 1"
+
+#~ msgid "Color 2"
+#~ msgstr "Kleur 2"
+
+#~ msgid "Width/None"
+#~ msgstr "Breedte / geen"
+
+#~ msgid "Style"
+#~ msgstr "Stijl"
+
+#~ msgid "Color"
+#~ msgstr "Kleur"
+
+#~ msgid "Configure Child Theme"
+#~ msgstr "Configureer het kindthema"
+
+#~ msgid "Duplicate Child theme"
+#~ msgstr "Dubbele onderliggende thema's"
+
+#~ msgid ""
+#~ "After analyzing, this theme is working fine. You can use this as your Child "
+#~ "Theme."
+#~ msgstr ""
+#~ "Na analyse werkt dit thema prima. U kunt dit gebruiken als uw kindthema."
+
+#~ msgid "After analyzing this child theme appears to be functioning correctly."
+#~ msgstr "Na analyse blijkt dit child theme correct te functioneren."
+
+#~ msgid ""
+#~ "This theme loads additional stylesheets after the <code>style.css</code> "
+#~ "file:"
+#~ msgstr ""
+#~ "Dit thema laadt extra stylesheets na het bestand <code>style.css</code>:"
+
+#~ msgid "The theme"
+#~ msgstr "Thema naam"
+
+#~ msgid " could not be analyzed because the preview did not render correctly"
+#~ msgstr ""
+#~ "kon niet worden geanalyseerd omdat het voorbeeld niet correct werd "
+#~ "weergegeven"
+
+#~ msgid "This Child Theme has not been configured for this plugin"
+#~ msgstr "Dit onderliggende thema is niet geconfigureerd voor deze plug-in"
+
+#~ msgid ""
+#~ "The Configurator makes significant modifications to the child theme, "
+#~ "including stylesheet changes and additional php functions. Please consider "
+#~ "using the DUPLICATE child theme option (see step 1, above) and keeping the "
+#~ "original as a backup."
+#~ msgstr ""
+#~ "De configurator brengt belangrijke wijzigingen aan in het child-thema, "
+#~ "inclusief stylesheet-wijzigingen en extra php-functies. Overweeg om de "
+#~ "optie DUPLICATE child-thema te gebruiken (zie stap 1, hierboven) en het "
+#~ "origineel als back-up te bewaren."
+
+#~ msgid "All webfonts/css information saved successfully."
+#~ msgstr "Alle webfonts / css-informatie is succesvol opgeslagen."
+
+#~ msgid "Please enter value for webfonts/css."
+#~ msgstr "Voer een waarde in voor webfonts / css."
+
+#~ msgid "You don\\'t have permission to update webfonts/css."
+#~ msgstr "U heeft geen toestemming om webfonts / css bij te werken."
+
+#~ msgid "All information saved successfully."
+#~ msgstr "Alle informatie is succesvol opgeslagen."
+
+#~ msgid ""
+#~ "Are you sure you wish to RESET? This will destroy any work you have done in "
+#~ "the Configurator."
+#~ msgstr ""
+#~ "Weet u zeker dat u wilt RESETTEN? Dit vernietigt al het werk dat u in de "
+#~ "Configurator heeft gedaan."
+
+#~ msgid "Selectors"
+#~ msgstr "Selectoren"
+
+#~ msgid "Edit Selector"
+#~ msgstr "Bewerken Selector"
+
+#~ msgid "The stylesheet cannot be displayed."
+#~ msgstr "De stylesheet kan niet worden weergegeven."
+
+#~ msgid "(Child Only)"
+#~ msgstr "(Alleen kind)"
+
+#~ msgid "Please enter a valid Child Theme."
+#~ msgstr "Voer een geldig kindthema in."
+
+#~ msgid "Please enter a valid Child Theme name."
+#~ msgstr "Voer een geldige kindthema-naam in."
+
+#, php-format
+#~ msgid "<strong>%s</strong> exists. Please enter a different Child Theme"
+#~ msgstr "<strong>%s</strong> bestaat. Voer een ander kindthema in"
+
+#~ msgid "The page could not be loaded correctly."
+#~ msgstr "De pagina kan niet correct worden geladen."
+
+#~ msgid ""
+#~ "Conflicting or out-of-date jQuery libraries were loaded by another plugin:"
+#~ msgstr ""
+#~ "Conflicterende of verouderde jQuery-bibliotheken zijn geladen door een "
+#~ "andere plug-in:"
+
+#~ msgid "Deactivating or replacing plugins may resolve this issue."
+#~ msgstr ""
+#~ "Dit probleem kan mogelijk worden opgelost door plug-ins te deactiveren of "
+#~ "te vervangen."
+
+#~ msgid "No result found for the selection."
+#~ msgstr "Geen resultaat gevonden voor de selectie."
+
+#, php-format
+#~ msgid "%sWhy am I seeing this?%s"
+#~ msgstr "% sWaarom zie ik dit?%s"
+
+#~ msgid "Parent / Child"
+#~ msgstr "Ouder / kind"
+
+#~ msgid "Select an action:"
+#~ msgstr "Selecteer een actie:"
+
+#~ msgid "Create a new Child Theme"
+#~ msgstr "Maak een nieuw kindthema"
+
+#~ msgid "Configure an existing Child Theme"
+#~ msgstr "Een bestaand onderliggend thema configureren"
+
+#~ msgid "Duplicate an existing Child Theme"
+#~ msgstr "Dupliceer een bestaand kindthema"
+
+#~ msgid "Select a Parent Theme:"
+#~ msgstr "Selecteer een ouderthema:"
+
+#~ msgid "Analyze Parent Theme"
+#~ msgstr "Analyseer het ouderthema"
+
+#~ msgid ""
+#~ "Click \"Analyze\" to determine stylesheet dependencies and other potential "
+#~ "issues."
+#~ msgstr ""
+#~ "Klik op \"Analyseren\" om de stijlbladafhankelijkheden en andere mogelijke "
+#~ "problemen te bepalen."
+
+#~ msgid "Analyze"
+#~ msgstr "Analyseren"
+
+#~ msgid "Select a Child Theme:"
+#~ msgstr "Selecteer een kindthema:"
+
+#~ msgid "Analyze Child Theme"
+#~ msgstr "Analyseer het kindthema"
+
+#~ msgid "Name the new theme directory:"
+#~ msgstr "Geef de nieuwe themamap een naam:"
+
+#~ msgid "Directory Name"
+#~ msgstr "Directory Naam"
+
+#~ msgid "NOTE:"
+#~ msgstr "OPMERKING:"
+
+#~ msgid ""
+#~ "This is NOT the name of the Child Theme. You can customize the name, "
+#~ "description, etc. in step 7, below."
+#~ msgstr ""
+#~ "Dit is NIET de naam van het kindthema. U kunt de naam, beschrijving enz. "
+#~ "Aanpassen in stap 7 hieronder."
+
+#~ msgid "Verify Child Theme directory:"
+#~ msgstr "Controleer de map met onderliggende thema's:"
+
+#~ msgid ""
+#~ "For verification only (you cannot modify the directory of an existing Child "
+#~ "Theme)."
+#~ msgstr ""
+#~ "Alleen ter verificatie (u kunt de map van een bestaand kindthema niet "
+#~ "wijzigen)."
+
+#~ msgid "Select where to save new styles:"
+#~ msgstr "Selecteer waar u nieuwe stijlen wilt opslaan:"
+
+#~ msgid "Primary Stylesheet (style.css)"
+#~ msgstr "Primaire stylesheet (style.css)"
+
+#~ msgid ""
+#~ "Save new custom styles directly to the Child Theme primary stylesheet, "
+#~ "replacing the existing values. The primary stylesheet will load in the "
+#~ "order set by the theme."
+#~ msgstr ""
+#~ "Sla nieuwe aangepaste stijlen rechtstreeks op het primaire stijlblad van "
+#~ "het onderliggende thema op en vervang de bestaande waarden. De primaire "
+#~ "stylesheet wordt geladen in de volgorde die is ingesteld door het thema."
+
+#~ msgid "Separate Stylesheet"
+#~ msgstr "Afzonderlijk stylesheet"
+
+#~ msgid ""
+#~ "Save new custom styles to a separate stylesheet and combine any existing "
+#~ "child theme styles with the parent to form baseline. Select this option if "
+#~ "you want to preserve the existing child theme styles instead of overwriting "
+#~ "them. This option also allows you to customize stylesheets that load after "
+#~ "the primary stylesheet."
+#~ msgstr ""
+#~ "Sla nieuwe aangepaste stijlen op een apart stylesheet op en combineer "
+#~ "bestaande child-themastijlen met de bovenliggende stijl om een ​​basislijn te "
+#~ "vormen. Selecteer deze optie als u de bestaande child-themastijlen wilt "
+#~ "behouden in plaats van ze te overschrijven. Met deze optie kunt u ook "
+#~ "stylesheets aanpassen die na de primaire stylesheet worden geladen."
+
+#~ msgid "Select Parent Theme stylesheet handling:"
+#~ msgstr "Selecteer Behandeling van stylesheet voor ouderthema:"
+
+#~ msgid "Use the WordPress style queue."
+#~ msgstr "Gebruik de wachtrij in WordPress-stijl."
+
+#~ msgid ""
+#~ "Let the Configurator determine the appropriate actions and dependencies and "
+#~ "update the functions file automatically."
+#~ msgstr ""
+#~ "Laat de configurator de juiste acties en afhankelijkheden bepalen en het "
+#~ "functiebestand automatisch bijwerken."
+
+#~ msgid "Use <code>@import</code> in the child theme stylesheet."
+#~ msgstr "Gebruik <code> @import </code> in het onderliggende thema-stylesheet."
+
+#~ msgid ""
+#~ "Only use this option if the parent stylesheet cannot be loaded using the "
+#~ "WordPress style queue. Using <code>@import</code> is not recommended."
+#~ msgstr ""
+#~ "Gebruik deze optie alleen als het bovenliggende stylesheet niet kan worden "
+#~ "geladen met de WordPress-stijlwachtrij. Het gebruik van <code> @import </"
+#~ "code> wordt niet aanbevolen."
+
+#~ msgid "Do not add any parent stylesheet handling."
+#~ msgstr "Voeg geen afhandeling van bovenliggende stylesheets toe."
+
+#~ msgid ""
+#~ "Select this option if this theme already handles the parent theme "
+#~ "stylesheet or if the parent theme's <code>style.css</code> file is not used "
+#~ "for its appearance."
+#~ msgstr ""
+#~ "Selecteer deze optie als dit thema het stijlblad van het bovenliggende "
+#~ "thema al afhandelt of als het bestand <code> style.css </code> van het "
+#~ "bovenliggende thema niet wordt gebruikt voor de weergave ervan."
+
+#~ msgid "Advanced handling options"
+#~ msgstr "Geavanceerde afhandelingsopties"
+
+#~ msgid "Ignore parent theme stylesheets."
+#~ msgstr "Negeer stijlbladen voor hoofdthema's."
+
+#~ msgid ""
+#~ "Select this option if this theme already handles the parent theme "
+#~ "stylesheet or if the parent theme's style.css file is not used for its "
+#~ "appearance."
+#~ msgstr ""
+#~ "Selecteer deze optie als dit thema al het stijlblad van het bovenliggende "
+#~ "thema afhandelt of als het style.css-bestand van het bovenliggende thema "
+#~ "niet wordt gebruikt voor de weergave ervan."
+
+#~ msgid "Repair the header template in the child theme."
+#~ msgstr "Herstel de koptekstsjabloon in het child-thema."
+
+#~ msgid ""
+#~ "Let the Configurator (try to) resolve any stylesheet issues listed above. "
+#~ "This can fix many, but not all, common problems."
+#~ msgstr ""
+#~ "Laat de configurator eventuele bovenstaande problemen met stylesheet "
+#~ "(proberen) op te lossen. Dit kan veel, maar niet alle, veelvoorkomende "
+#~ "problemen oplossen."
+
+#~ msgid "Remove stylesheet dependencies"
+#~ msgstr "Verwijder stijlbladafhankelijkheden"
+
+#~ msgid ""
+#~ "By default, the order of stylesheets that load prior to the primary "
+#~ "stylesheet is preserved by treating them as dependencies. In some cases, "
+#~ "stylesheets are detected in the preview that are not used site-wide. If "
+#~ "necessary, dependency can be removed for specific stylesheets below."
+#~ msgstr ""
+#~ "Standaard wordt de volgorde van stylesheets die voorafgaand aan het "
+#~ "primaire stylesheet worden geladen, behouden door ze als afhankelijkheden "
+#~ "te beschouwen. In sommige gevallen worden stylesheets gedetecteerd in de "
+#~ "preview die niet op de hele site worden gebruikt. Indien nodig kan de "
+#~ "afhankelijkheid voor specifieke stylesheets hieronder worden verwijderd."
+
+#~ msgid "Child Theme Name"
+#~ msgstr "Naam van kindthema"
+
+#~ msgid "Theme Name"
+#~ msgstr "Thema naam"
+
+#~ msgid "Theme Website"
+#~ msgstr "Thema website"
+
+#~ msgid "Author"
+#~ msgstr "Schrijver"
+
+#~ msgid "Author Website"
+#~ msgstr "Website van de auteur"
+
+#~ msgid "Theme Description"
+#~ msgstr "Thema Beschrijving"
+
+#~ msgid "Description"
+#~ msgstr "Omschrijving"
+
+#~ msgid "Tags"
+#~ msgstr "Tags"
+
+#~ msgid ""
+#~ "Copy Menus, Widgets and other Customizer Settings from the Parent Theme to "
+#~ "the Child Theme:"
+#~ msgstr ""
+#~ "Kopieer menu's, widgets en andere Customizer-instellingen van het "
+#~ "ouderthema naar het child-thema:"
+
+#~ msgid ""
+#~ "This option replaces the Child Theme's existing Menus, Widgets and other "
+#~ "Customizer Settings with those from the Parent Theme. You should only need "
+#~ "to use this option the first time you configure a Child Theme."
+#~ msgstr ""
+#~ "Deze optie vervangt de bestaande menu's, widgets en andere "
+#~ "aanpassingsinstellingen van het kindthema door die van het ouderthema. U "
+#~ "hoeft deze optie alleen te gebruiken als u voor het eerst een kindthema "
+#~ "configureert."
+
+#~ msgid "Click to run the Configurator:"
+#~ msgstr "Klik om de Configurator te starten:"
+
+#~ msgid "Query / Selector"
+#~ msgstr "Query / Selector"
+
+#~ msgid ""
+#~ "To find specific selectors within @media query blocks, first choose the "
+#~ "query, then the selector. Use the \"base\" query to edit all other "
+#~ "selectors."
+#~ msgstr ""
+#~ "Om specifieke selectors binnen @media-queryblokken te vinden, kiest u eerst "
+#~ "de query en vervolgens de selector. Gebruik de \"basis\" -query om alle "
+#~ "andere selectors te bewerken."
+
+#~ msgid "@media Query"
+#~ msgstr "@media Query"
+
+#~ msgid "( or \"base\" )"
+#~ msgstr "(of \"basis\")"
+
+#~ msgid "Selector"
+#~ msgstr "Selector"
+
+#~ msgid "Query/Selector Action"
+#~ msgstr "Query / Selector-actie"
+
+#~ msgid "Save Child Values"
+#~ msgstr "Bewaar onderliggende waarden"
+
+#~ msgid "Delete Child Values"
+#~ msgstr "Verwijder onderliggende waarden"
+
+#~ msgid "Property"
+#~ msgstr "Eigendom"
+
+#~ msgid "Baseline Value"
+#~ msgstr "Basiswaarde"
+
+#~ msgid "Child Value"
+#~ msgstr "Kindwaarde"
+
+#~ msgid "error"
+#~ msgstr "fout"
+
+#~ msgid "You do not have permission to configure child themes."
+#~ msgstr "U heeft geen toestemming om onderliggende thema's te configureren."
+
+#, php-format
+#~ msgid "%s does not exist. Please select a valid Parent Theme."
+#~ msgstr "%s bestaat niet. Selecteer een geldig ouderthema."
+
+#~ msgid "The Functions file is required and cannot be deleted."
+#~ msgstr "Het functiebestand is vereist en kan niet worden verwijderd."
+
+#~ msgid "Please select a valid Parent Theme."
+#~ msgstr "Selecteer een geldig ouderthema."
+
+#~ msgid "Please select a valid Child Theme."
+#~ msgstr "Selecteer een geldig kindthema."
+
+#~ msgid "Please enter a valid Child Theme directory name."
+#~ msgstr "Voer een geldige mapnaam voor het kindthema in."
+
+#, php-format
+#~ msgid ""
+#~ "<strong>%s</strong> exists. Please enter a different Child Theme template "
+#~ "name."
+#~ msgstr ""
+#~ "<strong>%s</strong> bestaat. Voer een andere sjabloonnaam voor het "
+#~ "kindthema in."
+
+#~ msgid "Your theme directories are not writable."
+#~ msgstr "Uw themamappen zijn niet beschrijfbaar."
+
+#~ msgid "Could not upgrade child theme"
+#~ msgstr "Kan child-thema niet upgraden"
+
+#~ msgid "Your stylesheet is not writable."
+#~ msgstr "Je stylesheet is niet beschrijfbaar."
+
+#~ msgid ""
+#~ "A closing PHP tag was detected in Child theme functions file so \"Parent "
+#~ "Stylesheet Handling\" option was not configured. Closing PHP at the end of "
+#~ "the file is discouraged as it can cause premature HTTP headers. Please edit "
+#~ "<code>functions.php</code> to remove the final <code>?&gt;</code> tag and "
+#~ "click \"Generate/Rebuild Child Theme Files\" again."
+#~ msgstr ""
+#~ "Er is een afsluitende PHP-tag gedetecteerd in het bestand met themafuncties "
+#~ "van het kind, dus de optie \"Parent Stylesheet Handling\" was niet "
+#~ "geconfigureerd. Het sluiten van PHP aan het einde van het bestand wordt "
+#~ "afgeraden omdat dit voortijdige HTTP-headers kan veroorzaken. Bewerk <code> "
+#~ "functions.php </code> om de laatste <code>? &gt; </code> -tag te "
+#~ "verwijderen en klik nogmaals op \"Generate / Rebuild Child Theme Files\"."
+
+#, php-format
+#~ msgid "Could not copy file: %s"
+#~ msgstr "Kan bestand %s niet kopiëren"
+
+#, php-format
+#~ msgid "Could not delete %s file."
+#~ msgstr "Kan %s-bestand niet verwijderen."
+
+#, php-format
+#~ msgid "could not copy %s"
+#~ msgstr "kan niet kopiëren  %s"
+
+#, php-format
+#~ msgid "invalid dir: %s"
+#~ msgstr "ongeldige map: %s"
+
+#, php-format
+#~ msgid "deleted: %s != %s files"
+#~ msgstr "verwijderd: %s != %s files"
+
+#~ msgid "There were errors while resetting permissions."
+#~ msgstr "Er zijn fouten opgetreden bij het opnieuw instellen van machtigingen."
+
+#~ msgid "Could not upload file."
+#~ msgstr "Kan bestand niet uploaden."
+
+#~ msgid "Invalid theme root directory."
+#~ msgstr "Ongeldige hoofddirectory van het thema."
+
+#~ msgid "No writable temp directory."
+#~ msgstr "Geen beschrijfbare tijdelijke directory."
+
+#, php-format
+#~ msgid "Unpack failed -- %s"
+#~ msgstr "Uitpakken mislukt -- %s"
+
+#, php-format
+#~ msgid "Pack failed -- %s"
+#~ msgstr "Inpakken mislukt -- %s"
+
+#~ msgid "Maximum number of styles exceeded."
+#~ msgstr "Maximaal aantal stijlen overschreden."
+
+#, php-format
+#~ msgid "Error moving file: %s"
+#~ msgstr "Fout bij verplaatsen van bestand:  %s"
+
+#~ msgid "Could not set write permissions."
+#~ msgstr "Kan geen schrijfrechten instellen."
+
+#~ msgid "Error:"
+#~ msgstr "Fout:"
+
+#, php-format
+#~ msgid "Current Analysis Child Theme <strong>%s</strong> has been reset."
+#~ msgstr "Huidige analyse kindthema <strong>%s </strong> is gereset."
+
+#~ msgid "Update Key saved successfully."
+#~ msgstr "Updatesleutel succesvol opgeslagen."
+
+#~ msgid "Child Theme files modified successfully."
+#~ msgstr "Onderliggende themabestanden zijn gewijzigd."
+
+#, php-format
+#~ msgid "Child Theme <strong>%s</strong> has been generated successfully."
+#~ msgstr "Thema van het kind <strong>%s</strong>is succesvol gegenereerd."
+
+#~ msgid "Web Fonts & CSS"
+#~ msgstr "Weblettertypen en CSS"
+
+#~ msgid "Parent Styles"
+#~ msgstr "Ouderstijlen"
+
+#~ msgid "Child Styles"
+#~ msgstr "Kindstijlen"
+
+#~ msgid "View Child Images"
+#~ msgstr "Bekijk kinderafbeeldingen"
+
+#~ msgid ""
+#~ "Use <code>@import url( [path] );</code> to link additional stylesheets. "
+#~ "This Plugin uses the <code>@import</code> keyword to identify them and "
+#~ "convert them to <code>&lt;link&gt;</code> tags. <strong>Example:</strong>"
+#~ msgstr ""
+#~ "Gebruik <code> @import url ([pad]); </code> om extra stylesheets te "
+#~ "koppelen. Deze plug-in gebruikt het sleutelwoord <code> @import </code> om "
+#~ "ze te identificeren en om te zetten naar <code> &lt; link &gt; </code> -"
+#~ "tags.<strong>Voorbeeld: </strong>"
+
+#~ msgid "Save"
+#~ msgstr "Sparen"
+
+#~ msgid "Uploading image with same name will replace with existing image."
+#~ msgstr ""
+#~ "Als u een afbeelding met dezelfde naam uploadt, wordt deze vervangen door "
+#~ "een bestaande afbeelding."
+
+#~ msgid "Upload New Child Theme Image"
+#~ msgstr "Upload een nieuwe afbeelding van een kindthema"
+
+#~ msgid "Delete Selected Images"
+#~ msgstr "Verwijder geselecteerde afbeeldingen"
+
+#~ msgid "Create a New Directory"
+#~ msgstr "Maak een nieuwe directory"
+
+#~ msgid "New Directory will be created in"
+#~ msgstr "Er wordt een nieuwe directory aangemaakt in"
+
+#~ msgid "New Directory Name"
+#~ msgstr "Nieuwe directorynaam"
+
+#~ msgid "Create a New File"
+#~ msgstr "Maak een nieuw bestand"
+
+#~ msgid "New File will be created in"
+#~ msgstr "Er wordt een nieuw bestand gemaakt in"
+
+#~ msgid "New File Name"
+#~ msgstr "Nieuwe bestandsnaam"
+
+#~ msgid "File Type Extension"
+#~ msgstr "Bestandstype-extensie"
+
+#~ msgid "Choose File Type"
+#~ msgstr "Kies Bestandstype"
+
+#~ msgid "PHP File"
+#~ msgstr "PHP-bestand"
+
+#~ msgid "CSS File"
+#~ msgstr "CSS-bestand"
+
+#~ msgid "JS File"
+#~ msgstr "JS-bestand"
+
+#~ msgid "Text File"
+#~ msgstr "Tekstbestand"
+
+#~ msgid "PHP File Type"
+#~ msgstr "PHP-bestandstype"
+
+#~ msgid "Simple PHP File"
+#~ msgstr "Eenvoudig PHP-bestand"
+
+#~ msgid "Wordpress Template File"
+#~ msgstr "Wordpress-sjabloonbestand"
+
+#~ msgid "Template Name"
+#~ msgstr "Sjabloonnaam"
+
+#~ msgid "Parent Templates"
+#~ msgstr "Ouder-sjablonen"
+
+#~ msgid ""
+#~ "Copy PHP templates from the parent theme by selecting them here. The "
+#~ "Configurator defines a template as a Theme PHP file having no PHP functions "
+#~ "or classes. Other PHP files cannot be safely overridden by a child theme."
+#~ msgstr ""
+#~ "Kopieer PHP-sjablonen van het hoofdthema door ze hier te selecteren. De "
+#~ "configurator definieert een sjabloon als een PHP-themabestand zonder PHP-"
+#~ "functies of klassen. Andere PHP-bestanden kunnen niet veilig worden "
+#~ "overschreven door een child-thema."
+
+#~ msgid ""
+#~ "CAUTION: If your child theme is active, the child theme version of the file "
+#~ "will be used instead of the parent immediately after it is copied."
+#~ msgstr ""
+#~ "LET OP: Als uw child-thema actief is, wordt de child-themaversie van het "
+#~ "bestand gebruikt in plaats van de parent onmiddellijk nadat het is "
+#~ "gekopieerd."
+
+#~ msgid "The "
+#~ msgstr "De"
+
+#~ msgid " file is generated separately and cannot be copied here. "
+#~ msgstr ""
+#~ "bestand wordt afzonderlijk gegenereerd en kan hier niet worden gekopieerd."
+
+#~ msgid "Copy Selected to Child Theme"
+#~ msgstr "Kopieer geselecteerd naar onderliggend thema"
+
+#~ msgid " Child Theme Files "
+#~ msgstr "Onderliggende themabestanden"
+
+#~ msgid "Click to edit files using the Theme Editor"
+#~ msgstr "Klik om bestanden te bewerken met de thema-editor"
+
+#~ msgid "Delete child theme templates by selecting them here."
+#~ msgstr "Verwijder child-themasjablonen door ze hier te selecteren."
+
+#~ msgid "Delete Selected"
+#~ msgstr "Verwijder geselecteerde"
+
+#~ msgid "Child Theme Screenshot"
+#~ msgstr "Screenshot van het kindthema"
+
+#~ msgid "Upload New Screenshot"
+#~ msgstr "Upload een nieuwe screenshot"
+
+#~ msgid ""
+#~ "The theme screenshot should be a 4:3 ratio (e.g., 880px x 660px) JPG, PNG "
+#~ "or GIF. It will be renamed"
+#~ msgstr ""
+#~ "Het screenshot van het thema moet een 4: 3-verhouding hebben (bijvoorbeeld "
+#~ "880px x 660px) JPG, PNG of GIF. Het wordt hernoemd"
+
+#~ msgid "Screenshot"
+#~ msgstr "Screenshot"
+
+#~ msgid "Upload New Child Theme Image "
+#~ msgstr "Upload een nieuwe afbeelding van een kindthema"
+
+#~ msgid ""
+#~ "Theme images reside under the images directory in your child theme and are "
+#~ "meant for stylesheet use only. Use the Media Library for content images."
+#~ msgstr ""
+#~ "Thema-afbeeldingen bevinden zich in de afbeeldingenmap in uw child-thema en "
+#~ "zijn alleen bedoeld voor gebruik in stylesheets. Gebruik de "
+#~ "mediabibliotheek voor inhoudsafbeeldingen."
+
+#~ msgid "Preview Current Child Theme (Current analysis)"
+#~ msgstr "Voorbeeld van huidig kindthema  (huidige analyse)"
+
+#~ msgid "Preview Current Child Theme"
+#~ msgstr "Voorbeeld van huidig kindthema"
+
+#~ msgid "Export Child Theme as Zip Archive"
+#~ msgstr "Exporteer kindthema als zip-archief"
+
+#~ msgid ""
+#~ "Click \"Export Zip\" to save a backup of the currently loaded child theme. "
+#~ "You can export any of your themes from the Parent/Child tab."
+#~ msgstr ""
+#~ "Klik op \"Zip exporteren\" om een ​​back-up van het momenteel geladen child-"
+#~ "thema op te slaan. U kunt al uw thema's exporteren vanaf het tabblad "
+#~ "Ouder / kind."
+
+#~ msgid "Export Child Theme"
+#~ msgstr "Kindthema exporteren"
+
+#~ msgid "Child Theme file(s) copied successfully!"
+#~ msgstr "Child Theme file (s) succesvol gekopieerd!"
+
+#~ msgid ""
+#~ "The file which you are trying to copy from Parent Templates does not exist"
+#~ msgstr ""
+#~ "Het bestand dat u probeert te kopiëren van bovenliggende sjablonen, bestaat "
+#~ "niet"
+
+#~ msgid ""
+#~ "The file which you are trying to copy from Parent Templates is already "
+#~ "present in the Child Theme files."
+#~ msgstr ""
+#~ "Het bestand dat u probeert te kopiëren van bovenliggende sjablonen, is al "
+#~ "aanwezig in de onderliggende themabestanden."
+
+#~ msgid "Child "
+#~ msgstr "Kind"
+
+#~ msgid " and Parent "
+#~ msgstr "en ouder"
+
+#~ msgid " directories doesn't exist!"
+#~ msgstr "mappen bestaan niet!"
+
+#~ msgid " directory doesn't exist!"
+#~ msgstr "directory bestaat niet!"
+
+#~ msgid "Parent "
+#~ msgstr "Ouder"
+
+#~ msgid "Unknown error! "
+#~ msgstr "Onbekende fout!"
+
+#~ msgid "You don't have permission to copy the files!"
+#~ msgstr "U heeft geen toestemming om de bestanden te kopiëren!"
+
+#~ msgid "All selected file(s) have been deleted successfully!"
+#~ msgstr "Alle geselecteerde bestanden zijn succesvol verwijderd!"
+
+#~ msgid " does not exists!"
+#~ msgstr "bestaat niet!"
+
+#~ msgid "This file extension is not allowed to upload!"
+#~ msgstr "Deze bestandsextensie mag niet worden geüpload!"
+
+#~ msgid "Image uploaded successfully!"
+#~ msgstr "Afbeelding succesvol geüpload!"
+
+#~ msgid "There is some issue in uploading image!"
+#~ msgstr "Er is een probleem bij het uploaden van afbeeldingen!"
+
+#~ msgid ""
+#~ "This file extension is not allowed to upload as screenshot by wordpress!"
+#~ msgstr ""
+#~ "Deze bestandsextensie mag niet worden geüpload als screenshot door "
+#~ "wordpress!"
+
+#~ msgid "File uploaded successfully!"
+#~ msgstr "Bestand succesvol geüpload!"
+
+#~ msgid "Child Theme files can't be modified."
+#~ msgstr "Onderliggende themabestanden kunnen niet worden gewijzigd."
+
+#~ msgid "File(s) deleted successfully!"
+#~ msgstr "Bestand (en) succesvol verwijderd!"
+
+#~ msgid "You don't have permission to delete file(s)!"
+#~ msgstr "U heeft geen toestemming om bestand (en) te verwijderen!"
+
+#~ msgid "Entered directory name already exists"
+#~ msgstr "De ingevoerde directorynaam bestaat al"
+
+#~ msgid "You don't have permission to create directory!"
+#~ msgstr "U bent niet gemachtigd om een ​​directory te maken!"
+
+#~ msgid "Wordpress template file created"
+#~ msgstr "Wordpress-sjabloonbestand gemaakt"
+
+#~ msgid "Wordpress template file not created"
+#~ msgstr "Wordpress-sjabloonbestand niet gemaakt"
+
+#~ msgid "PHP created file successfully"
+#~ msgstr "PHP heeft het bestand succesvol gemaakt"
+
+#~ msgid "PHP file not created"
+#~ msgstr "PHP-bestand is niet gemaakt"
+
+#~ msgid " file not created"
+#~ msgstr "bestand niet gemaakt"
+
+#~ msgid "Already exists"
+#~ msgstr "Bestaat al"
+
+#~ msgid "You don't have permission to create file!"
+#~ msgstr "U bent niet gemachtigd om een bestand  te maken!"
+
+#~ msgid "create, edit, upload, download, delete Theme Files and folders"
+#~ msgstr "maak, bewerk, upload, download, verwijder themabestanden en mappen"
+
+#~ msgid "Language folder has been downlaoded."
+#~ msgstr "Taalmap is gedownload."

@@ -1,0 +1,41 @@
+
+---Downloaded files---
+The import files for: App were successfully downloaded!
+Initial max execution time = 300
+Files info:
+Site URL = https://8.222.166.234
+Data file = /www/wwwroot/8.222.166.234/wp-content/uploads/2026/03/demo-content-import-file_2026-03-05__09-56-04.xml
+Widget file = /www/wwwroot/8.222.166.234/wp-content/themes/conseil/inc/demo-content/widgets/blog-widgets.wie
+Customizer file = not defined!
+Theme Options files:
+pix_options -> /www/wwwroot/8.222.166.234/wp-content/uploads/2026/03/demo-redux-import-file_0-2026-03-05__09-56-04.json 
+
+
+------
+New AJAX call!
+
+
+---Importing widgets---
+Main Sidebar : 
+
+Block - No Title - Imported
+Block - No Title - Imported
+Block - No Title - Imported
+Block - No Title - Imported
+Block - No Title - Imported
+Block - No Title - Imported
+Block - No Title - Imported
+Block - No Title - Imported
+Block - No Title - Imported
+Block - No Title - Imported
+Block - No Title - Imported
+Block - No Title - Imported
+Block - No Title - Imported
+Block - No Title - Imported
+Block - No Title - Imported
+Block - No Title - Imported
+
+
+
+---Importing Theme Options---
+Theme Options import for: pix_options finished successfully!

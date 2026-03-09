@@ -1,0 +1,56 @@
+
+@each $color, $value in $theme-colors {
+    @include text-emphasis-variant('.text-#{$color}', $color, $value);
+}
+
+:root,
+dialog::backdrop {
+    @each $color, $value in $theme-colors {
+        --pix-#{$color}: #{$value};
+        --pix-#{$color}-light: #{rgba(lighten($value, 20%), 0.15)};
+    }
+    @each $color, $value in $opacity-values {
+        --pix-dark-#{$color}: #{rgba(darken(desaturate(#{$primary}, 85%), 55%), #{$value})};
+        --pix-light-#{$color}: #{rgba(#ffffff, #{$value})};
+    }
+    
+
+    
+    @if variable-exists(body-color-var) {    
+        --pix-body-default: #{$body-color-var};
+    } @else {
+        --pix-body-default: #{$body-color};
+    }
+    // --pix-primary-dark-muted: color-mix(in srgb, var(--pix-primary) 5%, black);
+    
+    @if variable-exists(heading-color-var) {    
+        --pix-heading-default: #{$heading-color-var};
+    } @else {
+        --pix-heading-default: #{$heading-color};
+    }
+    --pix-transparent: transparent;
+    @if variable-exists(font-family-base) {
+        --pix-body-font: #{$font-family-base};
+    }
+    --pix-heading-font: #{$font-family-secondary};
+    
+    @if $middle-gradient == 'yes' {
+        --pix-gradient-primary: #{linear-gradient($gradient-direction, $gradient-primary-1, $gradient-primary-middle, $gradient-primary-2)};
+        --pix-gradient-primary-light: #{linear-gradient($gradient-direction, rgba(lighten($gradient-primary-1, 20%), 0.15), rgba(lighten($gradient-primary-middle, 20%), 0.15), rgba(lighten($gradient-primary-2, 20%), 0.15))};
+    } @else {
+        --pix-gradient-primary: #{linear-gradient($gradient-direction, $gradient-primary-1, $gradient-primary-2)};
+        --pix-gradient-primary-light: #{linear-gradient($gradient-direction, rgba(lighten($gradient-primary-1, 20%), 0.15), rgba(lighten($gradient-primary-2, 20%), 0.15))};
+    }
+}
+
+@each $color, $value in $opacity-values {
+    @include text-emphasis-transparent-variant('.text-dark-#{$color}', darken(desaturate($primary, 85%), 55%), $value, 'dark-#{$color}');
+    @include text-emphasis-transparent-variant('.text-light-#{$color}', #ffffff, $value, 'light-#{$color}');
+}
+
+.text-body {
+    color: $body-color !important;
+}
+.text-muted {
+    color: $text-muted !important;
+}

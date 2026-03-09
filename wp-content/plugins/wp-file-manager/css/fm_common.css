@@ -1,0 +1,7 @@
+.toplevel_page_wp_file_manager .wp-menu-image img{
+    width: 23px;
+    padding-top: 5px !important;
+}
+.wp-filemanager-wrap .elfinder-touch .elfinder-cwd tr.elfinder-cwd-file td .elfinder-cwd-select, .wp-filemanager-wrap  .elfinder .elfinder-cwd table thead td .elfinder-cwd-selectall {
+    display: none;
+}

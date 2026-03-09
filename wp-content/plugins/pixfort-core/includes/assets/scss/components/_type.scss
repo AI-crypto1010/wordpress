@@ -1,0 +1,238 @@
+//
+// Typography
+//
+$font_mobile_cof: 0.6;
+
+body {
+    letter-spacing: $letter-spacing-base;
+    font-weight: $font-weight-normal;
+    @if variable-exists(font-family-base) {
+        font-family: var(--pix-body-font), $font-family-base !important;
+    }
+    /* Support for all WebKit browsers. */
+    -webkit-font-smoothing: antialiased;
+    /* Support for Safari and Chrome. */
+    text-rendering: optimizeLegibility;
+    /* Support for Firefox. */
+    -moz-osx-font-smoothing: grayscale;
+    /* Support for IE. */
+    font-feature-settings: 'liga';
+    -webkit-text-size-adjust: 100%;
+    font-display: swap;
+}
+
+.body-font {
+    font-family: var(--pix-body-font), sans-serif  !important;
+    letter-spacing: $letter-spacing-base;
+}
+.secondary-font, .heading-font {
+    font-family: var(--pix-heading-font), sans-serif  !important;
+    letter-spacing: $letter-spacing-secondary;
+}
+
+.font-weight-extra-bold { font-weight: 900; }
+
+h1, .h1 { font-size: $h1-font-size; }
+h2, .h2 { font-size: $h2-font-size; }
+h3, .h3 { font-size: $h3-font-size; }
+h4, .h4 { font-size: $h4-font-size; }
+h5, .h5 { font-size: $h5-font-size; }
+h6, .h6 { font-size: $h6-font-size; }
+
+@media screen and (max-width: $mainMobileBreakpoint) {
+    @if variable-exists(h1-font-size-tablet) {
+        h1, .h1 { font-size: $h1-font-size-tablet; }
+    }
+    @if variable-exists(h2-font-size-tablet) {
+        h2, .h2 { font-size: $h2-font-size-tablet; }
+    }
+    @if variable-exists(h3-font-size-tablet) {
+        h3, .h3 { font-size: $h3-font-size-tablet; }
+    }
+    @if variable-exists(h4-font-size-tablet) {
+        h4, .h4 { font-size: $h4-font-size-tablet; }
+    }
+    @if variable-exists(h5-font-size-tablet) {
+        h5, .h5 { font-size: $h5-font-size-tablet; }
+    }
+    @if variable-exists(h6-font-size-tablet) {
+        h6, .h6 { font-size: $h6-font-size-tablet; }
+    }
+} 
+
+
+h1, h2, h3, h4, h5, h6,
+.h1, .h2, .h3, .h4, .h5, .h6,
+.heading-font, .secondary-font {
+    @if variable-exists(heading-font-weight) {
+        font-weight: $heading-font-weight;
+    } 
+    &.font-weight-bold, .font-weight-bold,
+    &:is(strong), strong {
+        @if variable-exists(heading-bold-font-weight) {
+            font-weight: $heading-bold-font-weight !important;
+        }
+    }
+}
+@if variable-exists(heading-font-weight) {
+    .heading-font, .secondary-font {
+        font-weight: $heading-font-weight !important;
+    }
+}
+
+.font-weight-bold, strong {
+    h1, h2, h3, h4, h5, h6,
+    .h1, .h2, .h3, .h4, .h5, .h6,
+    .heading-font, .secondary-font {
+        @if variable-exists(heading-bold-font-weight) {
+            font-weight: $heading-bold-font-weight !important;
+        }
+    }
+}
+
+h1 a, h2 a, h3 a, h4 a, h5 a, h6 a {
+    font-weight: inherit;
+}
+
+a {
+    color: $link-color;
+    @include hover {
+        color: $link-hover-color;
+                text-decoration: $link-hover-decoration;
+        transition: $transition-base;
+    }
+    &:focus,
+    &.focus {
+                text-decoration: $link-hover-decoration;
+        box-shadow: none;
+    }
+
+}
+
+.wpb_text_column , .wpb_content_element, .comment, .product .tab-content {
+    ul {
+        list-style: initial !important;
+    }
+}
+
+// Blockquotes
+.blockquote {
+    font-size: $font-size-base;
+}
+
+.blockquote-footer {
+
+    &::before {
+        content: "\2014 \00A0"; // em dash, nbsp
+    }
+}
+
+// Type display classes
+.display-1 {
+    font-size: $display1-size;
+    font-weight: $display1-weight;
+    line-height: $display-line-height;
+}
+.display-2 {
+    font-size: $display2-size;
+    font-weight: $display2-weight;
+    line-height: $display-line-height;
+}
+.display-3 {
+    font-size: $display3-size;
+    font-weight: $display3-weight;
+    line-height: $display-line-height;
+}
+.display-4 {
+    font-size: $display4-size;
+    font-weight: $display4-weight;
+    line-height: $display-line-height;
+}
+@media screen and (max-width: $mainMobileBreakpoint) {
+    @if not variable-exists(h1-font-size-tablet) {
+        h1, .h1 { font-size: $h1-font-size * $font_mobile_cof; }
+    }
+    @if not variable-exists(h2-font-size-tablet) {
+        h2, .h2 { font-size: $h2-font-size * $font_mobile_cof; }
+    }
+    @if not variable-exists(h3-font-size-tablet) {
+        h3, .h3 { font-size: $h3-font-size * 0.65; }
+    }
+    @if not variable-exists(h4-font-size-tablet) {
+        h4, .h4 { font-size: $h4-font-size * 0.75; }
+    }
+    @if not variable-exists(h5-font-size-tablet) {
+        h5, .h5 { font-size: $h5-font-size * 0.85; }
+    }
+    @if not variable-exists(h6-font-size-tablet) {
+        h6, .h6 { font-size: $h6-font-size * 0.95; }
+    }
+    .display-1 {
+        font-size: $display1-size * $font_mobile_cof;
+        line-height: 1.1;
+    }
+    .display-2 {
+        font-size: $display2-size * $font_mobile_cof;
+        line-height: 1.1;
+    }
+    .display-3 {
+        font-size: $display3-size * $font_mobile_cof;
+        line-height: 1.1;
+    }
+    .display-4 {
+        font-size: $display4-size * $font_mobile_cof;
+        line-height: 1.1;
+    }
+}
+
+@media screen and (max-width: 576px) {
+    @if variable-exists(h1-font-size-mobile) {
+        h1, .h1 { font-size: $h1-font-size-mobile; }
+    }
+    @if variable-exists(h2-font-size-mobile) {
+        h2, .h2 { font-size: $h2-font-size-mobile; }
+    }
+    @if variable-exists(h3-font-size-mobile) {
+        h3, .h3 { font-size: $h3-font-size-mobile; }
+    }
+    @if variable-exists(h4-font-size-mobile) {
+        h4, .h4 { font-size: $h4-font-size-mobile; }
+    }
+    @if variable-exists(h5-font-size-mobile) {
+        h5, .h5 { font-size: $h5-font-size-mobile; }
+    }
+    @if variable-exists(h6-font-size-mobile) {
+        h6, .h6 { font-size: $h6-font-size-mobile; }
+    }
+}
+
+.post.type-post .entry-content {
+    > h1, > h2, > h3, > h4, > h5, > h6 {
+        position: relative;
+        margin-bottom: 0.75rem;
+    }
+}
+
+.pix-vertical-element {
+    writing-mode: vertical-rl;
+    h1, h2, h3, h4, h5, h6 {
+        margin: 0;
+    }
+    .text-gradient-primary {
+        background-size: 200%;
+        background-repeat: no-repeat;
+        background-position: center;
+    }
+    .slide-in-container {
+        overflow-x: hidden;
+    }
+}
+body.pix-is-safari .pix-vertical-element { width: 100%; }
+.text-left .pix-vertical-element { align-items: end;}
+.text-center .pix-vertical-element { align-items: center;}
+.text-right .pix-vertical-element { align-items: start;}
+@media screen and (max-width: 768px) {
+    .pix-vertical-element .text-gradient-primary {
+        background-attachment: scroll !important;
+    }
+}

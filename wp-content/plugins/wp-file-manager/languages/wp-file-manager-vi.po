@@ -1,0 +1,1000 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WP File Manager\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-02-28 13:04+0530\n"
+"PO-Revision-Date: 2022-02-28 13:08+0530\n"
+"Last-Translator: admin <munishthedeveloper48@gmail.com>\n"
+"Language-Team: Vietnamese\n"
+"Language: vi\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Poedit 3.0.1\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: file_folder_manager.php:174
+msgid "Themes backup restored successfully."
+msgstr "Đã khôi phục bản sao lưu chủ đề thành công."
+
+#: file_folder_manager.php:177
+msgid "Unable to restore themes."
+msgstr "Không thể khôi phục chủ đề."
+
+#: file_folder_manager.php:207
+msgid "Uploads backup restored successfully."
+msgstr "Đã khôi phục bản sao lưu tải lên thành công."
+
+#: file_folder_manager.php:211
+msgid "Unable to restore uploads."
+msgstr "Không thể khôi phục tải lên."
+
+#: file_folder_manager.php:237
+msgid "Others backup restored successfully."
+msgstr "Đã khôi phục thành công bản sao lưu khác."
+
+#: file_folder_manager.php:241
+msgid "Unable to restore others."
+msgstr "Không thể khôi phục những người khác."
+
+#: file_folder_manager.php:267
+msgid "Plugins backup restored successfully."
+msgstr "Đã khôi phục bản sao lưu plugin thành công."
+
+#: file_folder_manager.php:271 file_folder_manager.php:301
+msgid "Unable to restore plugins."
+msgstr "Không thể khôi phục các plugin."
+
+#: file_folder_manager.php:286
+msgid "Database backup restored successfully."
+msgstr "Đã khôi phục thành công sao lưu cơ sở dữ liệu."
+
+#: file_folder_manager.php:286 file_folder_manager.php:297
+#: file_folder_manager.php:588 file_folder_manager.php:592
+msgid "All Done"
+msgstr "Tất cả đã được làm xong"
+
+#: file_folder_manager.php:289
+msgid "Unable to restore DB backup."
+msgstr "Không thể khôi phục bản sao lưu DB."
+
+#: file_folder_manager.php:347
+msgid "Backups removed successfully!"
+msgstr "Đã xóa bản sao lưu thành công!"
+
+#: file_folder_manager.php:349
+msgid "Unable to removed backup!"
+msgstr "Không thể xóa bản sao lưu!"
+
+#: file_folder_manager.php:373
+msgid "Database backup done on date "
+msgstr "Sao lưu cơ sở dữ liệu được thực hiện vào ngày "
+
+#: file_folder_manager.php:377
+msgid "Plugins backup done on date "
+msgstr "Sao lưu plugin được thực hiện vào ngày "
+
+#: file_folder_manager.php:381
+msgid "Themes backup done on date "
+msgstr "Sao lưu chủ đề được thực hiện vào ngày "
+
+#: file_folder_manager.php:385
+msgid "Uploads backup done on date "
+msgstr "Tải lên bản sao lưu được thực hiện vào ngày "
+
+#: file_folder_manager.php:389
+msgid "Others backup done on date "
+msgstr "Sao lưu những người khác được thực hiện vào ngày "
+
+#: file_folder_manager.php:393 file_folder_manager.php:776
+msgid "Logs"
+msgstr "Nhật ký"
+
+#: file_folder_manager.php:399
+msgid "No logs found!"
+msgstr "Không tìm thấy nhật ký nào!"
+
+#: file_folder_manager.php:496
+msgid "Nothing selected for backup"
+msgstr "Không có gì được chọn để sao lưu"
+
+#: file_folder_manager.php:516
+msgid "Security Issue."
+msgstr "Vấn đề an ninh."
+
+#: file_folder_manager.php:527
+msgid "Database backup done."
+msgstr "Đã sao lưu cơ sở dữ liệu."
+
+#: file_folder_manager.php:530
+msgid "Unable to create database backup."
+msgstr "Không thể tạo bản sao lưu cơ sở dữ liệu."
+
+#: file_folder_manager.php:544
+msgid "Plugins backup done."
+msgstr "Đã sao lưu plugin xong."
+
+#: file_folder_manager.php:547
+msgid "Plugins backup failed."
+msgstr "Sao lưu plugin không thành công."
+
+#: file_folder_manager.php:556
+msgid "Themes backup done."
+msgstr "Đã hoàn tất sao lưu chủ đề."
+
+#: file_folder_manager.php:559
+msgid "Themes backup failed."
+msgstr "Sao lưu chủ đề không thành công."
+
+#: file_folder_manager.php:569
+msgid "Uploads backup done."
+msgstr "Đã hoàn tất tải lên sao lưu."
+
+#: file_folder_manager.php:572
+msgid "Uploads backup failed."
+msgstr "Sao lưu tải lên không thành công."
+
+#: file_folder_manager.php:581
+msgid "Others backup done."
+msgstr "Những người khác đã sao lưu xong."
+
+#: file_folder_manager.php:584
+msgid "Others backup failed."
+msgstr "Sao lưu những người khác không thành công."
+
+#: file_folder_manager.php:761 file_folder_manager.php:762
+#: lib/wpfilemanager.php:23
+msgid "WP File Manager"
+msgstr "Trình quản lý tệp WP"
+
+#: file_folder_manager.php:769
+msgid "Settings"
+msgstr "Cài đặt"
+
+#: file_folder_manager.php:771 inc/root.php:48
+msgid "Preferences"
+msgstr "Sở thích"
+
+#: file_folder_manager.php:773
+msgid "System Properties"
+msgstr "Thuộc tính hệ thống"
+
+#: file_folder_manager.php:775
+msgid "Shortcode - PRO"
+msgstr "Mã ngắn - PRO"
+
+#: file_folder_manager.php:777
+msgid "Backup/Restore"
+msgstr "Phục hồi dữ liệu đã lưu"
+
+#: file_folder_manager.php:1033
+msgid "Buy Pro"
+msgstr "Mua chuyên nghiệp"
+
+#: file_folder_manager.php:1034
+msgid "Donate"
+msgstr "Quyên góp"
+
+#: file_folder_manager.php:1249
+msgid ""
+"<div class=\"updated settings-error notice is-dismissible\" id=\"setting-"
+"error-settings_updated\"> \n"
+"<p><strong>"
+msgstr ""
+
+#: file_folder_manager.php:1256
+msgid ""
+"<div class=\"error settings-error notice is-dismissible\" id=\"setting-error-"
+"settings_updated\"> \n"
+"<p><strong>"
+msgstr ""
+
+#: file_folder_manager.php:1395 file_folder_manager.php:1483
+msgid "File doesn't exist to download."
+msgstr "Tệp không tồn tại để tải xuống."
+
+#: file_folder_manager.php:1400 file_folder_manager.php:1488
+msgid "Invalid Security Code."
+msgstr "Mã bảo mật không hợp lệ."
+
+#: file_folder_manager.php:1405 file_folder_manager.php:1493
+msgid "Missing backup id."
+msgstr "Thiếu id dự phòng."
+
+#: file_folder_manager.php:1408 file_folder_manager.php:1496
+msgid "Missing parameter type."
+msgstr "Thiếu loại tham số."
+
+#: file_folder_manager.php:1411 file_folder_manager.php:1499
+msgid "Missing required parameters."
+msgstr "Thiếu các thông số bắt buộc."
+
+#: inc/backup.php:24
+msgid ""
+"Error: Unable to restore backup because database backup is heavy in size. "
+"Please try to increase Maximum allowed size  from Preferences settings."
+msgstr ""
+"Lỗi: Không thể khôi phục bản sao lưu vì bản sao lưu cơ sở dữ liệu có dung "
+"lượng lớn. Vui lòng cố gắng tăng kích thước tối đa cho phép từ cài đặt Tùy "
+"chọn."
+
+#: inc/backup.php:25
+msgid "Select backup(s) to delete!"
+msgstr "Chọn (các) bản sao lưu để xóa!"
+
+#: inc/backup.php:26
+msgid "Are you sure want to remove selected backup(s)?"
+msgstr "Bạn có chắc chắn muốn xóa (các) bản sao lưu đã chọn không?"
+
+#: inc/backup.php:31
+msgid "Backup is running, please wait"
+msgstr "Quá trình sao lưu đang chạy, vui lòng đợi"
+
+#: inc/backup.php:32
+msgid "Restore is running, please wait"
+msgstr "Quá trình khôi phục đang chạy, vui lòng đợi"
+
+#: inc/backup.php:33
+msgid "Nothing selected for backup."
+msgstr "Không có gì được chọn để sao lưu."
+
+#: inc/backup.php:45
+msgid "WP File Manager - Backup/Restore"
+msgstr "Trình quản lý tệp WP - Sao lưu / Khôi phục"
+
+#: inc/backup.php:51
+msgid "Backup Options:"
+msgstr "Tùy chọn sao lưu:"
+
+#: inc/backup.php:58
+msgid "Database Backup"
+msgstr "Sao lưu cơ sở dữ liệu"
+
+#: inc/backup.php:64
+msgid "Files Backup"
+msgstr "Sao lưu tệp"
+
+#: inc/backup.php:68
+msgid "Plugins"
+msgstr "bổ sung"
+
+#: inc/backup.php:71
+msgid "Themes"
+msgstr "Chủ đề"
+
+#: inc/backup.php:74
+msgid "Uploads"
+msgstr "Tải lên"
+
+#: inc/backup.php:77
+msgid "Others (Any other directories found inside wp-content)"
+msgstr "Khác (Bất kỳ thư mục nào khác được tìm thấy bên trong wp-content)"
+
+#: inc/backup.php:81
+msgid "Backup Now"
+msgstr "Sao lưu ngay"
+
+#: inc/backup.php:89
+msgid "Time now"
+msgstr "Hiện tại"
+
+#: inc/backup.php:99
+msgid "SUCCESS"
+msgstr "SỰ THÀNH CÔNG"
+
+#: inc/backup.php:101
+msgid "Backup successfully deleted."
+msgstr "Đã xóa thành công bản sao lưu."
+
+#: inc/backup.php:102
+msgid "Ok"
+msgstr "Đồng ý"
+
+#: inc/backup.php:117
+msgid "DELETE FILES"
+msgstr "XÓA CÁC TẬP TIN"
+
+#: inc/backup.php:119
+msgid "Are you sure you want to delete this backup?"
+msgstr "Bạn có chắc chắn muốn xóa bản sao lưu này không?"
+
+#: inc/backup.php:120 inc/backup.php:139
+msgid "Cancel"
+msgstr "Huỷ bỏ"
+
+#: inc/backup.php:121 inc/backup.php:140
+msgid "Confirm"
+msgstr "Xác nhận"
+
+#: inc/backup.php:136
+msgid "RESTORE FILES"
+msgstr "PHỤC HỒI CÁC TẬP TIN"
+
+#: inc/backup.php:138
+msgid "Are you sure you want to restore this backup?"
+msgstr "Bạn có chắc chắn muốn khôi phục bản sao lưu này không?"
+
+#: inc/backup.php:166
+msgid "Last Log Message"
+msgstr "Tin nhắn nhật ký cuối cùng"
+
+#: inc/backup.php:169
+msgid "The backup apparently succeeded and is now complete."
+msgstr "Bản sao lưu dường như đã thành công và hiện đã hoàn tất."
+
+#: inc/backup.php:171
+msgid "No log message"
+msgstr "Không có thông báo nhật ký"
+
+#: inc/backup.php:177
+msgid "Existing Backup(s)"
+msgstr "(Các) bản sao lưu hiện có"
+
+#: inc/backup.php:184
+msgid "Backup Date"
+msgstr "Ngày sao lưu"
+
+#: inc/backup.php:187
+msgid "Backup data (click to download)"
+msgstr "Sao lưu dữ liệu (nhấp để tải xuống)"
+
+#: inc/backup.php:190
+msgid "Action"
+msgstr "Hoạt động"
+
+#: inc/backup.php:210
+msgid "Today"
+msgstr "Hôm nay"
+
+#: inc/backup.php:239
+msgid "Restore"
+msgstr "Khôi phục"
+
+#: inc/backup.php:240 inc/backup.php:250
+msgid "Delete"
+msgstr "Xóa bỏ"
+
+#: inc/backup.php:241
+msgid "View Log"
+msgstr "Xem nhật kí"
+
+#: inc/backup.php:246
+msgid "Currently no backup(s) found."
+msgstr "Hiện tại không tìm thấy (các) bản sao lưu."
+
+#: inc/backup.php:249
+msgid "Actions upon selected backup(s)"
+msgstr "Các hành động trên (các) bản sao lưu đã chọn"
+
+#: inc/backup.php:251
+msgid "Select All"
+msgstr "Chọn tất cả"
+
+#: inc/backup.php:252
+msgid "Deselect"
+msgstr "Bỏ chọn"
+
+#: inc/backup.php:254
+msgid "Note:"
+msgstr "Ghi chú:"
+
+#: inc/backup.php:254
+msgid "Backup files will be under"
+msgstr "Các tệp sao lưu sẽ được"
+
+#: inc/contribute.php:3
+msgid "WP File Manager Contribution"
+msgstr "Đóng góp của Trình quản lý tệp WP"
+
+#: inc/logs.php:7
+msgid ""
+"Note: These are demo screenshots. Please buy File Manager pro to Logs "
+"functions."
+msgstr ""
+"Lưu ý: Đây là những ảnh chụp màn hình demo. Vui lòng mua File Manager chuyên "
+"nghiệp cho các chức năng Logs."
+
+#: inc/logs.php:8 lib/wpfilemanager.php:24
+msgid "Click to Buy PRO"
+msgstr "Nhấp để mua CHUYÊN NGHIỆP"
+
+#: inc/logs.php:8 inc/settings.php:12 inc/settings.php:27
+#: inc/system_properties.php:5 lib/wpfilemanager.php:25
+msgid "Buy PRO"
+msgstr "Mua CHUYÊN NGHIỆP"
+
+#: inc/logs.php:9
+msgid "Edit Files Logs"
+msgstr "Chỉnh sửa nhật ký tệp"
+
+#: inc/logs.php:11
+msgid "Download Files Logs"
+msgstr "Tải xuống nhật ký tệp"
+
+#: inc/logs.php:13
+msgid "Upload Files Logs"
+msgstr "Tải lên nhật ký tệp"
+
+#: inc/root.php:43
+msgid "Settings saved."
+msgstr "Đã lưu cài đặt."
+
+#: inc/root.php:43 inc/root.php:46
+msgid "Dismiss this notice."
+msgstr "Loại bỏ thông báo này."
+
+#: inc/root.php:46
+msgid "You have not made any changes to be saved."
+msgstr "Bạn chưa thực hiện bất kỳ thay đổi nào để được lưu."
+
+#: inc/root.php:55
+msgid "Public Root Path"
+msgstr "Đường dẫn gốc công khai"
+
+#: inc/root.php:58
+msgid "File Manager Root Path, you can change according to your choice."
+msgstr ""
+"Đường dẫn gốc của File Manager, bạn có thể thay đổi tùy theo lựa chọn của "
+"mình."
+
+#: inc/root.php:59
+msgid "Default:"
+msgstr "Mặc định:"
+
+#: inc/root.php:60
+msgid ""
+"Please change this carefully, wrong path can lead file manager plugin to go "
+"down."
+msgstr ""
+"Vui lòng thay đổi điều này một cách cẩn thận, đường dẫn sai có thể dẫn đến "
+"plugin trình quản lý tệp đi xuống."
+
+#: inc/root.php:64
+msgid "Enable Trash?"
+msgstr "Bật Thùng rác?"
+
+#: inc/root.php:67
+msgid "After enable trash, your files will go to trash folder."
+msgstr ""
+"Sau khi bật thùng rác, các tệp của bạn sẽ chuyển đến thư mục thùng rác."
+
+#: inc/root.php:72
+msgid "Enable Files Upload to Media Library?"
+msgstr "Bật Tải tệp lên Thư viện Phương tiện?"
+
+#: inc/root.php:75
+msgid "After enabling this all files will go to media library."
+msgstr ""
+"Sau khi bật điều này, tất cả các tệp sẽ chuyển đến thư viện phương tiện."
+
+#: inc/root.php:80
+msgid "Maximum allowed size at the time of database backup restore."
+msgstr ""
+"Kích thước tối đa cho phép tại thời điểm khôi phục sao lưu cơ sở dữ liệu."
+
+#: inc/root.php:83
+msgid "MB"
+msgstr ""
+
+#: inc/root.php:85
+msgid ""
+"Please increase field value if you are getting error message at the time of "
+"backup restore."
+msgstr ""
+"Vui lòng tăng giá trị trường nếu bạn nhận được thông báo lỗi tại thời điểm "
+"khôi phục sao lưu."
+
+#: inc/root.php:90
+msgid "Save Changes"
+msgstr "Lưu thay đổi"
+
+#: inc/settings.php:10
+msgid "Settings - General"
+msgstr "Cài đặt - Chung"
+
+#: inc/settings.php:11 inc/settings.php:26
+msgid ""
+"Note: This is just a demo screenshot. To get settings please buy our pro "
+"version."
+msgstr ""
+"Lưu ý: Đây chỉ là một ảnh chụp màn hình demo. Để có được cài đặt, vui lòng "
+"mua phiên bản chuyên nghiệp của chúng tôi."
+
+#: inc/settings.php:13
+msgid ""
+"Here admin can give access to user roles to use filemanager. Admin can set "
+"Default Access Folder and also control upload size of filemanager."
+msgstr ""
+"Tại đây, quản trị viên có thể cấp quyền truy cập vào các vai trò của người "
+"dùng để sử dụng trình quản lý tệp. Quản trị viên có thể đặt Thư mục Truy cập "
+"Mặc định và cũng có thể kiểm soát kích thước tải lên của trình quản lý tệp."
+
+#: inc/settings.php:15
+msgid "Settings - Code-editor"
+msgstr "Cài đặt - Trình chỉnh sửa mã"
+
+#: inc/settings.php:16
+msgid ""
+"File Manager has a code editor with multiple themes. You can select any "
+"theme for code editor. It will display when you edit any file. Also you can "
+"allow fullscreen mode of code editor."
+msgstr ""
+"Trình quản lý tệp có một trình chỉnh sửa mã với nhiều chủ đề. Bạn có thể "
+"chọn bất kỳ chủ đề nào cho trình soạn thảo mã. Nó sẽ hiển thị khi bạn chỉnh "
+"sửa bất kỳ tệp nào. Ngoài ra, bạn có thể cho phép chế độ toàn màn hình của "
+"trình soạn thảo mã."
+
+#: inc/settings.php:18
+msgid "Code-editor View"
+msgstr "Chế độ xem trình soạn thảo mã"
+
+#: inc/settings.php:20
+msgid "Settings - User Restrictions"
+msgstr "Cài đặt - Hạn chế Người dùng"
+
+#: inc/settings.php:21
+msgid ""
+"Admin can restrict actions of any user. Also hide files and folders and can "
+"set different - different folders paths for different users."
+msgstr ""
+"Quản trị viên có thể hạn chế hành động của bất kỳ người dùng nào. Cũng ẩn "
+"các tệp và thư mục và có thể đặt các đường dẫn thư mục khác nhau cho những "
+"người dùng khác nhau."
+
+#: inc/settings.php:23
+msgid "Settings - User Role Restrictions"
+msgstr "Cài đặt - Hạn chế về vai trò của người dùng"
+
+#: inc/settings.php:24
+msgid ""
+"Admin can restrict actions of any userrole. Also hide files and folders and "
+"can set different - different folders paths for different users roles."
+msgstr ""
+"Quản trị viên có thể hạn chế các hành động của bất kỳ người dùng nào. Đồng "
+"thời ẩn các tệp và thư mục và có thể đặt các đường dẫn thư mục khác nhau cho "
+"các vai trò người dùng khác nhau."
+
+#: inc/shortcode_docs.php:11
+msgid "File Manager - Shortcode"
+msgstr "Trình quản lý tệp - Mã ngắn"
+
+#: inc/shortcode_docs.php:15 inc/shortcode_docs.php:17
+#: inc/shortcode_docs.php:19
+msgid "USE:"
+msgstr "SỬ DỤNG:"
+
+#: inc/shortcode_docs.php:15
+msgid ""
+"It will show file manager on front end. You can control all settings from "
+"file manager settings. It will work same as backend WP File Manager."
+msgstr ""
+"Nó sẽ hiển thị trình quản lý tệp trên giao diện người dùng. Bạn có thể kiểm "
+"soát tất cả các cài đặt từ cài đặt trình quản lý tệp. Nó sẽ hoạt động giống "
+"như Trình quản lý tệp WP phụ trợ."
+
+#: inc/shortcode_docs.php:17
+msgid ""
+"It will show file manager on front end. But only Administrator can access it "
+"and will control from file manager settings."
+msgstr ""
+"Nó sẽ hiển thị trình quản lý tệp trên giao diện người dùng. Nhưng chỉ Quản "
+"trị viên mới có thể truy cập nó và sẽ kiểm soát từ cài đặt trình quản lý tệp."
+
+#: inc/shortcode_docs.php:23
+msgid "Parameters:"
+msgstr "Thông số:"
+
+#: inc/shortcode_docs.php:26
+msgid ""
+"It will allow all roles to access file manager on front end or You can "
+"simple use for particular user roles as like allowed_roles=\"editor,author"
+"\" (seprated by comma(,))"
+msgstr ""
+"Nó sẽ cho phép tất cả các vai trò truy cập trình quản lý tệp trên giao diện "
+"người dùng hoặc Bạn có thể sử dụng đơn giản cho các vai trò người dùng cụ "
+"thể như allow_roles = \"editor, author\" (phân cách bằng dấu phẩy (,))"
+
+#: inc/shortcode_docs.php:28
+msgid ""
+"Here \"test\" is the name of folder which is located on root directory, or "
+"you can give path for sub folders as like \"wp-content/plugins\". If leave "
+"blank or empty it will access all folders on root directory. Default: Root "
+"directory"
+msgstr ""
+"Ở đây \"test\" là tên của thư mục nằm trên thư mục gốc, hoặc bạn có thể cung "
+"cấp đường dẫn cho các thư mục con như \"wp-content / plugins\". Nếu để trống "
+"hoặc để trống nó sẽ truy cập tất cả các thư mục trên thư mục gốc. Mặc định: "
+"Thư mục gốc"
+
+#: inc/shortcode_docs.php:30
+msgid "for access to write files permissions, note: true/false, default: false"
+msgstr "để truy cập quyền ghi tệp, lưu ý: true / false, default: false"
+
+#: inc/shortcode_docs.php:32
+msgid "for access to read files permission, note: true/false, default: true"
+msgstr "để truy cập quyền đọc tệp, lưu ý: true / false, default: true"
+
+#: inc/shortcode_docs.php:34
+msgid "it will hide mentioned here. Note: seprated by comma(,). Default: Null"
+msgstr ""
+"nó sẽ ẩn được đề cập ở đây. Lưu ý: phân cách bằng dấu phẩy (,). Mặc định: "
+"Null"
+
+#: inc/shortcode_docs.php:36
+msgid ""
+"It will lock mentioned in commas. you can lock more as like \".php,.css,.js"
+"\" etc. Default: Null"
+msgstr ""
+"Nó sẽ khóa được đề cập trong dấu phẩy. bạn có thể khóa nhiều hơn như \"."
+"php, .css, .js\", v.v. Mặc định: Null"
+
+#: inc/shortcode_docs.php:38
+msgid ""
+"* for all operations and to allow some operation you can mention operation "
+"name as like, allowed_operations=\"upload,download\". Note: seprated by "
+"comma(,). Default: *"
+msgstr ""
+"* Đối với tất cả các hoạt động và để cho phép một số hoạt động, bạn có thể "
+"đề cập đến tên hoạt động như, allow_operations = \"tải lên, tải xuống\". Lưu "
+"ý: phân cách bằng dấu phẩy (,). Mặc định: *"
+
+#: inc/shortcode_docs.php:42
+msgid "File Operations List:"
+msgstr "Danh sách thao tác tệp:"
+
+#: inc/shortcode_docs.php:46
+msgid "mkdir ->"
+msgstr ""
+
+#: inc/shortcode_docs.php:46
+msgid "Make directory or folder"
+msgstr "Tạo thư mục hoặc thư mục"
+
+#: inc/shortcode_docs.php:47
+msgid "mkfile ->"
+msgstr ""
+
+#: inc/shortcode_docs.php:47
+msgid "Make file"
+msgstr "Tạo tệp"
+
+#: inc/shortcode_docs.php:48
+msgid "rename ->"
+msgstr ""
+
+#: inc/shortcode_docs.php:48
+msgid "Rename a file or folder"
+msgstr "Đổi tên tệp hoặc thư mục"
+
+#: inc/shortcode_docs.php:49
+msgid "duplicate ->"
+msgstr ""
+
+#: inc/shortcode_docs.php:49
+msgid "Duplicate or clone a folder or file"
+msgstr "Nhân bản hoặc sao chép một thư mục hoặc tệp tin"
+
+#: inc/shortcode_docs.php:50
+msgid "paste ->"
+msgstr ""
+
+#: inc/shortcode_docs.php:50
+msgid "Paste a file or folder"
+msgstr "Dán tệp hoặc thư mục"
+
+#: inc/shortcode_docs.php:51
+msgid "ban ->"
+msgstr ""
+
+#: inc/shortcode_docs.php:51
+msgid "Ban"
+msgstr "Lệnh cấm"
+
+#: inc/shortcode_docs.php:52
+msgid "archive ->"
+msgstr ""
+
+#: inc/shortcode_docs.php:52
+msgid "To make a archive or zip"
+msgstr "Để tạo một kho lưu trữ hoặc zip"
+
+#: inc/shortcode_docs.php:53
+msgid "extract ->"
+msgstr ""
+
+#: inc/shortcode_docs.php:53
+msgid "Extract archive or zipped file"
+msgstr "Giải nén tệp lưu trữ hoặc nén"
+
+#: inc/shortcode_docs.php:54
+msgid "copy ->"
+msgstr ""
+
+#: inc/shortcode_docs.php:54
+msgid "Copy files or folders"
+msgstr "Sao chép tệp hoặc thư mục"
+
+#: inc/shortcode_docs.php:58
+msgid "cut ->"
+msgstr ""
+
+#: inc/shortcode_docs.php:58
+msgid "Simple cut a file or folder"
+msgstr "Cắt một tệp hoặc thư mục đơn giản"
+
+#: inc/shortcode_docs.php:59
+msgid "edit ->"
+msgstr ""
+
+#: inc/shortcode_docs.php:59
+msgid "Edit a file"
+msgstr "Chỉnh sửa tệp"
+
+#: inc/shortcode_docs.php:60
+msgid "rm ->"
+msgstr ""
+
+#: inc/shortcode_docs.php:60
+msgid "Remove or delete files and folders"
+msgstr "Xóa hoặc xóa các tệp và thư mục"
+
+#: inc/shortcode_docs.php:61
+msgid "download ->"
+msgstr ""
+
+#: inc/shortcode_docs.php:61
+msgid "Download files"
+msgstr "Tải tập tin"
+
+#: inc/shortcode_docs.php:62
+msgid "upload ->"
+msgstr ""
+
+#: inc/shortcode_docs.php:62
+msgid "Upload files"
+msgstr "Tải tệp lên"
+
+#: inc/shortcode_docs.php:63
+msgid "search -> "
+msgstr ""
+
+#: inc/shortcode_docs.php:63
+msgid "Search things"
+msgstr "Tìm kiếm mọi thứ"
+
+#: inc/shortcode_docs.php:64
+msgid "info ->"
+msgstr ""
+
+#: inc/shortcode_docs.php:64
+msgid "Info of file"
+msgstr "Thông tin về tệp"
+
+#: inc/shortcode_docs.php:65
+msgid "help ->"
+msgstr ""
+
+#: inc/shortcode_docs.php:65
+msgid "Help"
+msgstr "Cứu giúp"
+
+#: inc/shortcode_docs.php:71
+msgid ""
+"->  It will ban particular users by just putting their ids seprated by "
+"commas(,). If user is Ban then they will not able to access wp file manager "
+"on front end."
+msgstr ""
+"-> Nó sẽ cấm những người dùng cụ thể bằng cách chỉ đặt id của họ được phân "
+"tách bằng dấu phẩy (,). Nếu người dùng là Ban thì họ sẽ không thể truy cập "
+"trình quản lý tệp wp trên giao diện người dùng."
+
+#: inc/shortcode_docs.php:72
+msgid "-> Filemanager UI View. Default: grid"
+msgstr "-> Giao diện người dùng Filemanager. Mặc định: grid"
+
+#: inc/shortcode_docs.php:73
+msgid "-> File Modified or Create date format. Default: d M, Y h:i A"
+msgstr "-> Đã sửa đổi tệp hoặc tạo định dạng ngày. Mặc định: d M, Y h:i A"
+
+#: inc/shortcode_docs.php:74
+msgid "-> File manager Language. Default: English(en)"
+msgstr "-> Ngôn ngữ trình quản lý tệp. Mặc định: English(en)"
+
+#: inc/shortcode_docs.php:75
+msgid "-> File Manager Theme. Default: Light"
+msgstr "-> Chủ đề quản lý tệp. Mặc định: Light"
+
+#: inc/system_properties.php:5
+msgid "File Manager - System Properties"
+msgstr "Trình quản lý tệp - Thuộc tính hệ thống"
+
+#: inc/system_properties.php:10
+msgid "PHP version"
+msgstr "Phiên bản PHP"
+
+#: inc/system_properties.php:15
+msgid "Maximum file upload size (upload_max_filesize)"
+msgstr "Kích thước tải lên tệp tối đa (upload_max_filesize)"
+
+#: inc/system_properties.php:20
+msgid "Post maximum file upload size (post_max_size)"
+msgstr "Kích thước tải lên tệp tối đa của bài đăng (post_max_size)"
+
+#: inc/system_properties.php:25
+msgid "Memory Limit (memory_limit)"
+msgstr "Giới hạn bộ nhớ (memory_limit)"
+
+#: inc/system_properties.php:30
+msgid "Timeout (max_execution_time)"
+msgstr "Thời gian chờ (max_execution_time)"
+
+#: inc/system_properties.php:35
+msgid "Browser and OS (HTTP_USER_AGENT)"
+msgstr "Trình duyệt và hệ điều hành (HTTP_USER_AGENT)"
+
+#: lib/jquery/jquery-ui-1.11.4.js:8
+msgid "'"
+msgstr ""
+
+#: lib/wpfilemanager.php:31
+msgid "Change Theme Here:"
+msgstr "Thay đổi chủ đề tại đây:"
+
+#: lib/wpfilemanager.php:35
+msgid "Default"
+msgstr "Mặc định"
+
+#: lib/wpfilemanager.php:39
+msgid "Dark"
+msgstr "Tối"
+
+#: lib/wpfilemanager.php:43
+msgid "Light"
+msgstr "Ánh sáng"
+
+#: lib/wpfilemanager.php:47
+msgid "Gray"
+msgstr "Màu xám"
+
+#: lib/wpfilemanager.php:52
+msgid "Windows - 10"
+msgstr ""
+
+#: lib/wpfilemanager.php:85
+msgid "Welcome to File Manager"
+msgstr "Chào mừng bạn đến với Trình quản lý tệp"
+
+#: lib/wpfilemanager.php:88
+msgid ""
+"We love making new friends! Subscribe below and we promise to\n"
+"    keep you up-to-date with our latest new plugins, updates,\n"
+"    awesome deals and a few special offers."
+msgstr ""
+"Chúng tôi thích kết bạn mới! Đăng ký bên dưới và chúng tôi hứa sẽ\n"
+"    luôn cập nhật cho bạn các plugin, bản cập nhật mới nhất của chúng tôi,\n"
+"    giao dịch tuyệt vời và một vài ưu đãi đặc biệt."
+
+#: lib/wpfilemanager.php:99
+msgid "Please Enter First Name."
+msgstr "Vui lòng nhập Tên."
+
+#: lib/wpfilemanager.php:107
+msgid "Please Enter Last Name."
+msgstr "Vui lòng nhập Họ."
+
+#: lib/wpfilemanager.php:116
+msgid "Please Enter Email Address."
+msgstr "Vui lòng nhập địa chỉ email."
+
+#: lib/wpfilemanager.php:120
+msgid "Verify"
+msgstr "Kiểm chứng"
+
+#: lib/wpfilemanager.php:126
+msgid "No Thanks"
+msgstr "Không, cám ơn"
+
+#: lib/wpfilemanager.php:132
+msgid "Terms of Service"
+msgstr "Điều khoản dịch vụ"
+
+#: lib/wpfilemanager.php:134
+msgid "Privacy Policy"
+msgstr "Chính sách bảo mật"
+
+#: lib/wpfilemanager.php:153
+msgid "Saving..."
+msgstr "Tiết kiệm..."
+
+#: lib/wpfilemanager.php:155
+msgid "OK"
+msgstr "đồng ý"
+
+#~ msgid "Backup not found!"
+#~ msgstr "Không tìm thấy bản sao lưu!"
+
+#~ msgid "Backup removed successfully!"
+#~ msgstr "Đã xóa bản sao lưu thành công!"
+
+#~ msgid "<span class=\"fm_console_error\">Nothing selected for backup</span>"
+#~ msgstr ""
+#~ "<span class=\"fm_console_error\">Không có gì được chọn để sao lưu</span>"
+
+#~ msgid "<span class=\"fm_console_error\">Security Issue.</span>"
+#~ msgstr "<span class=\"fm_console_error\">Vấn đề bảo mật.</span>"
+
+#~ msgid "<span class=\"fm_console_success\">Database backup done.</span>"
+#~ msgstr ""
+#~ "<span class=\"fm_console_success\">Đã hoàn tất sao lưu cơ sở dữ liệu.</"
+#~ "span>"
+
+#~ msgid ""
+#~ "<span class=\"fm_console_error\">Unable to create database backup.</span>"
+#~ msgstr ""
+#~ "<span class=\"fm_console_error\">Không thể tạo bản sao lưu cơ sở dữ liệu."
+#~ "</span>"
+
+#~ msgid "<span class=\"fm_console_success\">Plugins backup done.</span>"
+#~ msgstr ""
+#~ "<span class=\"fm_console_success\">Đã hoàn tất sao lưu các plugin.</span>"
+
+#~ msgid "<span class=\"fm_console_error\">Plugins backup failed.</span>"
+#~ msgstr ""
+#~ "<span class=\"fm_console_error\">Sao lưu plugin không thành công.</span>"
+
+#~ msgid "<span class=\"fm_console_success\">Themes backup done.</span>"
+#~ msgstr ""
+#~ "<span class=\"fm_console_success\">Đã hoàn tất sao lưu chủ đề.</span>"
+
+#~ msgid "<span class=\"fm_console_error\">Themes backup failed.</span>"
+#~ msgstr ""
+#~ "<span class=\"fm_console_error\">Sao lưu chủ đề không thành công.</span>"
+
+#~ msgid "<span class=\"fm_console_success\">Uploads backup done.</span>"
+#~ msgstr ""
+#~ "<span class=\"fm_console_success\">Đã hoàn tất sao lưu tải lên.</span>"
+
+#~ msgid "<span class=\"fm_console_error\">Uploads backup failed.</span>"
+#~ msgstr ""
+#~ "<span class=\"fm_console_error\">Sao lưu tải lên không thành công.</span>"
+
+#~ msgid "<span class=\"fm_console_success\">Others backup done.</span>"
+#~ msgstr ""
+#~ "<span class=\"fm_console_success\">Người khác đã sao lưu xong.</span>"
+
+#~ msgid "<span class=\"fm_console_error\">Others backup failed.</span>"
+#~ msgstr ""
+#~ "<span class=\"fm_console_error\">Sao lưu những người khác không thành "
+#~ "công.</span>"
+
+#~ msgid "<span class=\"fm_console_success\">All Done</span>"
+#~ msgstr "<span class=\"fm_console_success\">Tất cả đã được làm xong</span>"
+
+#~ msgid ""
+#~ "<code>[wp_file_manager view=\"list\" lang=\"en\" theme=\"light\" "
+#~ "dateformat=\"d M, Y h:i A\" allowed_roles=\"editor,author\" access_folder="
+#~ "\"wp-content/plugins\" write = \"true\" read = \"false\" hide_files = "
+#~ "\"kumar,abc.php\" lock_extensions=\".php,.css\" allowed_operations="
+#~ "\"upload,download\" ban_user_ids=\"2,3\"]"
+#~ msgstr ""
+#~ "<code>[wp_file_manager view=\"list\" lang=\"en\" theme=\"light\" "
+#~ "dateformat=\"d M, Y h:i A\" allowed_roles=\"editor,author\" access_folder="
+#~ "\"wp-content/plugins\" write = \"true\" read = \"false\" hide_files = "
+#~ "\"kumar,abc.php\" lock_extensions=\".php,.css\" allowed_operations="
+#~ "\"upload,download\" ban_user_ids=\"2,3\"]"
+
+#~ msgid "Manage your WP files."
+#~ msgstr "Quản lý các tệp WP của bạn."
+
+#~ msgid "Extensions"
+#~ msgstr "Tiện ích mở rộng"
+
+#~ msgid ""
+#~ "Please contribute some donation, to make plugin more stable. You can pay "
+#~ "amount of your choice."
+#~ msgstr ""
+#~ "Xin đóng góp một số đóng góp, để làm cho plugin ổn định hơn. Bạn có thể "
+#~ "trả số tiền bạn chọn."

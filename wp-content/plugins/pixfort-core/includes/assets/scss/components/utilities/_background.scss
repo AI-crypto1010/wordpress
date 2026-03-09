@@ -1,0 +1,66 @@
+@property --pix-bg-color {
+  syntax: "<color>";
+  inherits: false;
+  initial-value: transparent;
+}
+
+@each $color, $value in $theme-colors {
+  // @include bg-variant(".bg-#{$color}", $value);
+  // @include bg-dynamic-variant(".bg-#{$color}", $color, $value);
+  @include bg-dynamic-variant(".bg-#{$color}, .dark\\:bg-#{$color}:is(.pix-dark *)", $color, $value);
+}
+
+[class^="bg-"],
+[class*=" bg-"],
+[class^="dark\:bg-"]:is(.pix-dark *),
+[class*=" dark\:bg-"]:is(.pix-dark *) {
+  background-color: var(--pix-bg-color) !important;
+}
+a,
+button {
+  &[class^="bg-"],
+  &[class*=" bg-"] {
+      &:hover {
+          background-color: color-mix(in hsl increasing hue, var(--pix-bg-color) 90%, black 20%) !important;
+      }
+    }
+  }
+svg {
+  [class^="bg-"],
+  [class*=" bg-"] {
+      fill: var(--pix-bg-color) !important;
+  }
+}
+
+
+@each $color, $value in $opacity-values {
+  // @include bg-transparent-variant(".bg-dark-#{$color}", darken(desaturate($primary, 85%), 55%), $value);
+  @include bg-transparent-variant(".bg-dark-#{$color}, .dark\\:bg-dark-#{$color}:is(.pix-dark *)", darken(desaturate($primary, 85%), 55%), $value);
+  // @include bg-transparent-dark-variant(".bg-dark-#{$color}", darken(desaturate($primary, 85%), 55%), $value);
+  // @include bg-transparent-variant(".bg-light-#{$color}", #ffffff, $value);
+  @include bg-transparent-variant(".bg-light-#{$color}, .dark\\:bg-light-#{$color}:is(.pix-dark *)", #ffffff, $value);
+}
+
+@each $c, $v in $theme-colors {
+    @include bg-transparent-variant(".bg-#{$c}-light", lighten($v, 20%), 0.15);
+}
+.bg-gradient-primary-light {
+    @if $middle-gradient == 'yes' {
+        background: linear-gradient($gradient-direction, rgba(lighten($gradient-primary-1, 20%), 0.15), rgba(lighten($gradient-primary-middle, 20%), 0.15), rgba(lighten($gradient-primary-2, 20%), 0.15)) !important;
+    } @else {
+        background: linear-gradient($gradient-direction, rgba(lighten($gradient-primary-1, 20%), 0.15), rgba(lighten($gradient-primary-2, 20%), 0.15)) !important;
+    }
+}
+
+@each $color, $value in $opacity-values {
+  .pix-#{$color} {
+      opacity: $value !important;
+  }
+  .pix-hover-#{$color}:hover {
+      opacity: $value !important;
+  }
+}
+
+.bg-transparent {
+  background-color: transparent !important;
+}

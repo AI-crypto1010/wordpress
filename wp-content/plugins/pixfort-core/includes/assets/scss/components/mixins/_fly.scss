@@ -1,0 +1,21 @@
+@mixin fly() {
+    // transition: $transition-base;
+    // transition: transform 0.4s cubic-bezier(0.165, 0.84, 0.44, 1);
+    &:hover {
+        transform: $fly !important;
+    }
+}
+@mixin fly-sm() {
+    // transition: $transition-base;
+    // transition: transform 0.4s cubic-bezier(0.165, 0.84, 0.44, 1);
+    &:hover {
+        transform: $fly-sm !important;
+    }
+}
+@mixin fly-lg() {
+    // transition: $transition-base;
+    // transition: transform 0.4s cubic-bezier(0.165, 0.84, 0.44, 1);
+    &:hover {
+        transform: $fly-lg !important;
+    }
+}

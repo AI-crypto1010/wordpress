@@ -1,0 +1,173 @@
+.image-optimization-control--list-view {
+	display: flex;
+	justify-content: flex-start;
+	align-items: center;
+	min-height: 105px;
+}
+
+.image-optimization-control--list-view.image-optimization-control--error {
+	justify-content: center;
+	align-items: flex-start;
+}
+
+.image-optimization-control__buttons-wrapper {
+	margin-block-start: 8px;
+}
+
+.image-optimization-control__buttons-wrapper :not(:last-of-type) {
+	margin-inline-end: 8px;
+}
+
+.image-optimization-control--error {
+	flex-direction: column;
+}
+
+.image-optimization-control--optimized {
+	flex-direction: column;
+	align-items: flex-start;
+}
+
+.image-optimization-control__error-message {
+	display: flex;
+	flex-direction: column;
+
+	font-family: Roboto, sans-serif;
+	font-size: 14px;
+	font-weight: 600;
+	line-height: 24px;
+	margin-block-end: 15px;
+	max-width: 200px;
+}
+
+.image-optimization-control__error-title {
+	margin-block-end: 10px;
+}
+
+.image-optimization-control__error-subtitle {
+	color: #dc2626;
+}
+
+.image-optimization-control__button {
+	font-family: Roboto, sans-serif;
+	font-weight: 500;
+	border-radius: 4px;
+}
+
+.image-optimization-control__button--optimize > .spinner {
+	float: left;
+	padding: 0;
+	margin-block-start: 4px;
+	margin-left: 0;
+	margin-block-end: 0;
+}
+
+.image-optimization-control--error .image-optimization-control__button--try-again,
+.image-optimization-control--error .image-optimization-control__button--try-again:hover {
+	color: #dc2626;
+	border-color: #dc2626;
+	background: transparent;
+}
+
+.image-optimization-control__property {
+	margin: 9px 0;
+}
+
+.image-optimization-control__details-button {
+	background-color: transparent;
+	border: none;
+	cursor: pointer;
+	color: #135e96;
+	padding: 0;
+}
+
+.image-optimization-control__property:last-of-type {
+	margin-block-end: 0;
+}
+
+.image-optimization-control .image-optimization-setting {
+	margin-block-end: 0;
+}
+
+.image-optimization-control__property-value,
+.image-optimization-control--details-view .setting .image-optimization-control__property-value {
+	font-weight: 600;
+	font-size: 13px;
+	line-height: 24px;
+}
+
+.image-optimization-control--details-view .setting .image-optimization-control__property-value {
+	margin: 6px 3px 3px;
+	text-align: start;
+}
+
+.image-optimization-control--details-view .setting .image-optimization-control__property-value--button {
+	margin: 0 0 0 3px;
+	font-weight: initial;
+}
+
+.image-optimization-control--details-view .setting .image-optimization-control__property-value--spinner {
+	display: flex;
+	justify-content: center;
+	margin: 25px 0 0 3px;
+}
+
+.image-optimization-control__action-button-wrapper {
+	margin-block-start: 37px;
+	display: flex;
+	width: 100%;
+	justify-content: flex-end;
+}
+
+.image-optimization-control__action-button-wrapper .button-link,
+.image-optimization-control--details-view .image-optimization-control__property-value--button .button-link {
+	text-decoration: none;
+}
+
+.image-optimization-control__action-button-wrapper .button-link:not(:last-of-type) {
+	margin-inline-end: 24px;
+}
+
+.image-optimization-control__action-button-wrapper .button-link:hover,
+.image-optimization-control--details-view .image-optimization-control__property-value--button .button-link:hover {
+	background-color: transparent;
+}
+
+.image-optimization-control__action-spinner-wrapper {
+	height: 75px;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+div .components-tooltip {
+	max-width: 165px;
+	text-align: start;
+}
+
+/* Optimization details */
+
+#image-optimization-optimization-details-modal {
+	padding: 20px 0;
+}
+
+.image-optimization-details-table__property {
+	display: block;
+}
+
+.image-optimization-details-table__error {
+	color: #dc2626;
+	font-size: 18px;
+	font-weight: 700;
+}
+
+.image-optimization-details-table__property--error {
+	color: #dc2626;
+}
+
+body.dialog-container #TB_overlay {
+	z-index: 999999;
+}
+
+body.dialog-container #TB_window {
+	z-index: 9999999;
+}

@@ -1,0 +1,462 @@
+//
+// Textual form controls
+//
+
+.form-control {
+	display: block;
+	width: 100%;
+	height: $input-height;
+	padding: $input-padding-y $input-padding-x;
+	font-size: $input-font-size;
+	font-weight: $input-font-weight;
+	line-height: $input-line-height;
+	color: var(--pix-body-default);
+	background-color: var(--pix-base-background);
+	background-clip: padding-box;
+	border: $input-border-width solid $input-border-color;
+
+	@include form-control-rounded($input-font-size, $input-padding-y);
+
+	// Note: This has no effect on <select>s in some browsers, due to the limited stylability of `<select>`s in CSS.
+	@include border-radius($input-border-radius, 0);
+
+	&:not(.shadow-0) {
+		@include box-shadow($input-box-shadow);
+	}
+
+	@include transition($input-transition);
+
+	// Unstyle the caret on `<select>`s in IE10+.
+	&::-ms-expand {
+		background-color: transparent;
+		border: 0;
+	}
+
+	// Customize the `:focus` state to imitate native WebKit styles.
+	@include form-control-focus();
+
+	// Placeholder
+	&::-moz-placeholder {
+		color: $input-placeholder-color;
+		// Override Firefox's unusual default opacity; see https://github.com/twbs/bootstrap/pull/11526.
+		opacity: 1;
+	}
+	&::placeholder {
+		color: $input-placeholder-color;
+		// Override Firefox's unusual default opacity; see https://github.com/twbs/bootstrap/pull/11526.
+		opacity: 1;
+	}
+
+	// Disabled and read-only inputs
+	//
+	// HTML5 says that controls under a fieldset > legend:first-child won't be
+	// disabled if the fieldset is disabled. Due to implementation difficulty, we
+	// don't honor that edge case; we style them as disabled anyway.
+	&:disabled,
+	&[readonly] {
+		background-color: $input-disabled-bg;
+		// iOS fix for unreadable disabled content; see https://github.com/twbs/bootstrap/issues/11655.
+		opacity: 1;
+	}
+}
+
+// select.form-control {
+// 	text-indent: 12px;
+// 	&:focus::-ms-value {
+// 		// Suppress the nested default white text on blue background highlight given to
+// 		// the selected option text when the (still closed) <select> receives focus
+// 		// in IE and (under certain conditions) Edge, as it looks bad and cannot be made to
+// 		// match the appearance of the native widget.
+// 		// See https://github.com/twbs/bootstrap/issues/19398.
+// 		// color: $input-color;
+// 		color: var(--pix-body-default);
+// 		background-color: #fff;
+// 	}
+// }
+
+// // Make file inputs better match text inputs by forcing them to new lines.
+// .form-control-file,
+// .form-control-range {
+// 	display: block;
+// 	width: 100%;
+// }
+
+//
+// Labels
+//
+
+// For use with horizontal and inline forms, when you need the label (or legend)
+// text to align with the form controls.
+.col-form-label {
+	padding-top: calc(#{$input-padding-y} + #{$input-border-width});
+	padding-bottom: calc(#{$input-padding-y} + #{$input-border-width});
+	margin-bottom: 0; // Override the `<label>/<legend>` default
+	font-size: inherit; // Override the `<legend>` default
+	line-height: $input-line-height;
+}
+
+.col-form-label-xl {
+	padding-top: calc(#{$input-padding-y-xl} + #{$input-border-width});
+	padding-bottom: calc(#{$input-padding-y-xl} + #{$input-border-width});
+	font-size: $input-font-size-xl;
+	line-height: $input-line-height-xl;
+}
+
+.col-form-label-lg {
+	padding-top: calc(#{$input-padding-y-lg} + #{$input-border-width});
+	padding-bottom: calc(#{$input-padding-y-lg} + #{$input-border-width});
+	font-size: $input-font-size-lg;
+	line-height: $input-line-height-lg;
+}
+
+.col-form-label-md {
+	padding-top: calc(#{$input-padding-y-md} + #{$input-border-width});
+	padding-bottom: calc(#{$input-padding-y-md} + #{$input-border-width});
+	font-size: $input-font-size-md;
+	line-height: $input-line-height-md;
+}
+
+.col-form-label-sm {
+	padding-top: calc(#{$input-padding-y-sm} + #{$input-border-width});
+	padding-bottom: calc(#{$input-padding-y-sm} + #{$input-border-width});
+	font-size: $input-font-size-sm;
+	line-height: $input-line-height-sm;
+}
+
+// Readonly controls as plain text
+//
+// Apply class to a readonly input to make it appear like regular plain
+// text (without any border, background color, focus indicator)
+
+.form-control-plaintext {
+	padding-top: $input-padding-y;
+	padding-bottom: $input-padding-y;
+	line-height: $input-line-height;
+	color: $input-plaintext-color;
+	border-width: $input-border-width 0;
+
+	&.form-control-md,
+	&.form-control-xl {
+		padding-right: 0;
+		padding-left: 0;
+	}
+}
+
+// Form control sizing
+//
+// Build on `.form-control` with modifier classes to decrease or increase the
+// height and font-size of form controls.
+//
+// Repeated in `_input_group.scss` to avoid Sass extend issues.
+
+.form-control-sm {
+	height: $input-height-sm;
+	padding: $input-padding-y-sm $input-padding-x-sm;
+	font-size: $input-font-size-sm;
+	line-height: $input-line-height-sm;
+	@include form-control-rounded($input-font-size-sm, $input-padding-y-sm);
+	@include border-radius($input-border-radius-sm);
+}
+
+.form-control-md {
+	height: $input-height-md;
+	font-size: $input-font-size-md;
+	line-height: $input-line-height-md;
+	@include form-control-rounded($input-font-size-md, $input-padding-y-md);
+	@include border-radius($input-border-radius-md);
+}
+
+.form-control-lg {
+	height: $input-height-lg;
+	font-size: $input-font-size-lg;
+	line-height: $input-line-height-lg;
+	@include form-control-rounded($input-font-size-lg, $input-padding-y-lg);
+	@include border-radius($input-border-radius-lg);
+}
+
+.form-control-xl {
+	height: $input-height-xl;
+	font-size: $input-font-size-xl;
+	line-height: $input-line-height-xl;
+	@include form-control-rounded($input-font-size-xl, $input-padding-y-xl);
+	@include border-radius($input-border-radius-xl);
+}
+
+// // stylelint-disable-next-line no-duplicate-selectors
+// textarea.form-control {
+// 	min-height: 45px;
+// }
+
+// // Form groups
+// //
+// // Designed to help with the organization and spacing of vertical forms. For
+// // horizontal forms, use the predefined grid classes.
+
+// .form-group {
+// 	margin-bottom: 1rem;
+// }
+
+// .form-text {
+// 	display: block;
+// 	margin-top: .25rem;
+// }
+
+// // Form grid
+// //
+// // Special replacement for our grid system's `.row` for tighter form layouts.
+
+// .form-row {
+// 	display: flex;
+// 	flex-wrap: wrap;
+// 	margin-right: -5px;
+// 	margin-left: -5px;
+
+// 	> .col,
+// 	> [class*='col-'] {
+// 		padding-right: 5px;
+// 		padding-left: 5px;
+// 	}
+// }
+
+// // Checkboxes and radios
+// //
+// // Indent the labels to position radios/checkboxes as hanging controls.
+
+// .form-check {
+// 	padding-left: 1.25rem;
+// }
+
+// .form-check-input {
+// 	margin-top: .3rem;
+// 	margin-left: -1.25rem;
+
+// 	&:disabled ~ .form-check-label {
+// 		color: var(--pix-gray-6);
+// 	}
+// }
+
+// .form-check-inline {
+// 	margin-right: .75rem;
+
+// 	// Undo .form-check-input defaults and add some `margin-right`.
+// 	.form-check-input {
+// 		margin-right: .3125rem;
+// 	}
+// }
+
+// Form validation
+//
+// Provide feedback to users when form field values are valid or invalid. Works
+// primarily for client-side validation via scoped `:invalid` and `:valid`
+// pseudo-classes but also includes `.is-invalid` and `.is-valid` classes for
+// server side validation.
+
+// Inline forms
+//
+// Make forms appear inline(-block) by adding the `.form-inline` class. Inline
+// forms begin stacked on extra small (mobile) devices and then go inline when
+// viewports reach <768px.
+//
+// Requires wrapping inputs and labels with `.form-group` for proper display of
+// default HTML form controls and our custom form controls (e.g., input groups).
+
+.form-inline {
+	// Kick in the inline
+	@include media-breakpoint-up(sm) {
+		.form-check-input {
+			margin-right: .25rem;
+		}
+	}
+}
+
+// .pix-style[class*='form-check'] {
+// 	padding-left: 0px;
+
+// 	> label {
+// 		padding-left: 29px !important;
+// 		display: inline-block;
+// 		position: relative;
+// 		vertical-align: middle;
+// 		margin-bottom: 0;
+// 		cursor: pointer;
+// 	}
+
+// 	> input:first-child {
+// 		position: absolute !important;
+// 		opacity: 0;
+// 		margin: 0;
+// 		margin-top: 6px;
+// 		background-color: #787878;
+// 		border-radius: 50%;
+// 		appearance: none;
+// 		-moz-appearance: none;
+// 		-webkit-appearance: none;
+// 		-ms-appearance: none;
+// 		display: block;
+// 		width: 18px;
+// 		height: 18px;
+// 		outline: none;
+// 		transform: scale(2);
+// 		-ms-transform: scale(2);
+// 		transition:
+// 			opacity 0.5s,
+// 			transform 0.5s;
+
+// 		&:disabled {
+// 			cursor: default;
+
+// 			+ label,
+// 			+ input[type='hidden'] + label,
+// 			+ label::before,
+// 			+ input[type='hidden'] + label::before {
+// 				pointer-events: none;
+// 				cursor: default;
+// 				filter: alpha(opacity=65);
+// 				box-shadow: none;
+// 				opacity: 0.65;
+// 			}
+// 		}
+
+// 		+ label::before,
+// 		+ input[type='hidden'] + label::before {
+// 			content: '';
+// 			display: inline-block;
+// 			position: absolute;
+// 			width: 18px;
+// 			height: 18px;
+// 			border: 2px solid #787878;
+// 			border-radius: 3px;
+// 			margin-left: -29px;
+// 			margin-top: 6px;
+// 			box-sizing: border-box;
+// 		}
+
+// 		&:checked {
+// 			+ label::after,
+// 			+ input[type='hidden'] + label::after {
+// 				content: '';
+// 				display: inline-block;
+// 				position: absolute;
+// 				top: 0;
+// 				left: 0;
+// 				width: 7px;
+// 				height: 10px;
+// 				border: solid 2px #fff;
+// 				border-left: none;
+// 				border-top: none;
+// 				margin-top: 6px;
+// 				transform: translate(7.75px, 4.5px) rotate(45deg);
+// 				-ms-transform: translate(7.75px, 4.5px) rotate(45deg);
+// 				box-sizing: border-box;
+// 			}
+// 		}
+
+// 		&:not(:checked):not(:disabled):hover {
+// 			+ label::before,
+// 			+ input[type='hidden'] + label::before {
+// 				border-width: 2px;
+// 			}
+// 		}
+
+// 		&::-ms-check {
+// 			opacity: 0;
+// 			border-radius: 50%;
+// 		}
+
+// 		&:active {
+// 			transform: scale(0);
+// 			-ms-transform: scale(0);
+// 			opacity: 1;
+// 			transition:
+// 				opacity 0s,
+// 				transform 0s;
+// 		}
+// 	}
+
+// 	> input[type='radio']:first-child {
+// 		+ label::before,
+// 		+ input[type='hidden'] + label::before {
+// 			border-radius: 50%;
+// 		}
+
+// 		&:checked {
+// 			+ label::before,
+// 			+ input[type='hidden'] + label::before {
+// 				background-color: transparent;
+// 			}
+
+// 			+ label::after,
+// 			+ input[type='hidden'] + label::after {
+// 				content: '';
+// 				position: absolute;
+// 				width: 8px;
+// 				height: 8px;
+// 				border-radius: 50%;
+// 				border: none;
+// 				top: 5px;
+// 				left: 5px;
+// 				transform: none;
+// 				-ms-transform: none;
+// 			}
+// 		}
+// 	}
+
+// 	> input[type='checkbox']:first-child {
+// 		&:checked {
+// 			+ label::after,
+// 			+ input[type='hidden'] + label::after {
+// 				width: 5px;
+// 				height: 12px;
+// 				transform: translate(7px, 2px) rotate(45deg);
+// 				-ms-transform: translate(7px, 2px) rotate(45deg);
+// 			}
+// 		}
+// 	}
+// }
+
+// .form-check-inline {
+// 	display: inline-block;
+// 	margin-left: 0.75rem;
+// 	margin-top: 6px;
+// }
+
+// $check-border-color: green;
+// $check-background-color: black;
+// $radio-checkmark-color: red;
+// $checkbox-checkmark-color: yellow;
+// $check-effect-color: #333;
+
+.form-check {
+	@include theme($primary);
+}
+
+// .pix-select {
+// 	.dropdown-menu {
+// 		margin-top: 10px;
+// 		box-shadow: 0 .25rem .5rem rgba(#000, .05), 0 1.5rem 2.2rem rgba(#000, .1) !important;
+// 		outline: none !important;
+// 		transition: opacity 0.4s cubic-bezier(0.165, 0.84, 0.44, 1) !important;
+// 		.text {
+// 			font-weight: 700;
+// 			font-size: 14px;
+// 		}
+// 		li a {
+// 			border-radius: 0px;
+// 			&:not(.selected) {
+// 				color: var(--pix-body-default) !important;
+// 			}
+// 			&:focus {
+// 				outline: none !important;
+// 			}
+// 			&:active {
+// 				span {
+// 					color: #fff !important;
+// 				}
+// 				background: color-mix(in srgb, var(--pix-primary) 90%, black 10%) !important;
+// 			}
+// 		&.selected {
+// 			color: color-mix(in srgb, var(--pix-body-color) 70%, black 30%) !important;
+// 		}
+// 		}
+// 	}
+// }

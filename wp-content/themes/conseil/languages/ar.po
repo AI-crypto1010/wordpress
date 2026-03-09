@@ -1,0 +1,983 @@
+# Translation file by pixfort.com
+msgid ""
+msgstr ""
+"Project-Id-Version: pixfort-theme 1.0.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/theme/conseil\n"
+"POT-Creation-Date: 2025-12-26 00:31:24+00:00\n"
+"PO-Revision-Date: 2025-12-26 01:39+0100\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ar\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=6; plural=(n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n%100>=3 "
+"&& n%100<=10 ? 3 : n%100>=11 && n%100<=99 ? 4 : 5);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: "
+"__;_e;_x:1,2c;_ex:1,2c;_n:1,2;_nx:1,2,4c;_n_noop:1,2;_nx_noop:1,2,3c;esc_attr__;esc_html__;esc_attr_e;esc_html_e;esc_attr_x:1,2c;esc_html_x:1,2c\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Bookmarks: \n"
+"X-Textdomain-Support: yes\n"
+"X-Generator: Poedit 3.8\n"
+"X-Domain: pixfort\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: 404.php:146
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "عذراً! لا يمكن العثور على هذه الصفحة."
+
+#: 404.php:157
+msgid "It looks like nothing was found at this location. Maybe try a search?"
+msgstr "يبدو أنه لم يتم العثور على أي شيء في هذا الموقع. ربما تجرب البحث؟"
+
+#. translators: 1: title.
+#: comments.php:33
+msgid "1 Comment"
+msgstr "تعليق واحد"
+
+#: comments.php:53
+msgid "Reply"
+msgstr "رد"
+
+#: comments.php:66
+msgid "Comments are closed."
+msgstr "التعليقات مغلقة."
+
+#: functions.php:56
+msgid "Primary"
+msgstr "رئيسي"
+
+#: functions.php:149
+msgid "Main Sidebar"
+msgstr "الشريط الجانبي الرئيسي"
+
+#: functions.php:151 functions.php:170
+msgid "Add widgets here."
+msgstr "أضف العناصر هنا."
+
+#: inc/bootstrap-wp-navwalker.php:776
+#, fuzzy
+#| msgid "Add a review"
+msgid "Add a menu"
+msgstr "إضافة مراجعة"
+
+#: inc/config/plugins.php:260
+msgid "No Slug Found"
+msgstr "لم يتم العثور على معرف"
+
+#: inc/config/plugins.php:276
+msgid "Activating Plugin"
+msgstr "جاري تفعيل الإضافة"
+
+#: inc/config/plugins.php:291
+msgid "Updating Plugin"
+msgstr "جاري تحديث الإضافة"
+
+#: inc/config/plugins.php:306
+msgid "Installing Plugin"
+msgstr "جاري تثبيت الإضافة"
+
+#: inc/config/plugins.php:316
+msgid "Success"
+msgstr "تم بنجاح"
+
+#: inc/custom-header.php:11
+msgid "Enable Megamenu "
+msgstr "تفعيل القائمة الكبيرة "
+
+#: inc/custom-header.php:18
+msgid "Convert to column item "
+msgstr "تحويل إلى عنصر عمود "
+
+#: inc/custom-header.php:23
+msgid "Hide the label "
+msgstr "إخفاء التسمية "
+
+#: inc/custom-header.php:33
+msgid "Use padding style "
+msgstr "استخدام نمط مع هامش "
+
+#: inc/custom-header.php:36
+msgid "No"
+msgstr "لا"
+
+#: inc/custom-header.php:37
+msgid "Normal"
+msgstr "عادي"
+
+#: inc/custom-header.php:38
+msgid "Small"
+msgstr "صغير"
+
+#: inc/custom-header.php:43
+msgid "Width"
+msgstr "العرض"
+
+#: inc/custom-header.php:46
+msgid "2 Columns (~16% of Mega menu)"
+msgstr "عمودان (~16% من القائمة الكبيرة)"
+
+#: inc/custom-header.php:47
+msgid "3 Columns (25% of Mega menu)"
+msgstr "3 أعمدة (25% من القائمة الكبيرة)"
+
+#: inc/custom-header.php:48
+msgid "4 Columns (~33% of Mega menu)"
+msgstr "4 أعمدة (~33% من القائمة الكبيرة)"
+
+#: inc/custom-header.php:49
+msgid "6 Columns (50% of Mega menu)"
+msgstr "6 أعمدة (50% من القائمة الكبيرة)"
+
+#: inc/custom-header.php:50
+msgid "12 Columns (100% of Mega menu)"
+msgstr "12 عمود (100% من القائمة الكبيرة)"
+
+#: inc/custom-header.php:55
+msgid "Add column line "
+msgstr "إضافة خط للعمود "
+
+#: inc/custom-header.php:58
+msgid "Disabled"
+msgstr "معطل"
+
+#: inc/custom-header.php:59
+msgid "Right"
+msgstr "يمين"
+
+#: inc/custom-header.php:60
+msgid "Top"
+msgstr "أعلى"
+
+#: inc/custom-header.php:61
+msgid "Right & Top"
+msgstr "يمين وأعلى"
+
+#: inc/custom-header.php:68
+msgid "Convert to Box item "
+msgstr "تحويل إلى عنصر صندوق "
+
+#: inc/custom-header.php:73
+msgid "Title"
+msgstr "العنوان"
+
+#: inc/custom-header.php:78
+msgid "Text"
+msgstr "النص"
+
+#: inc/custom-header.php:83
+msgid "Background image "
+msgstr "صورة الخلفية "
+
+#: inc/custom-header.php:88
+msgid "Box style "
+msgstr "نمط الصندوق "
+
+#: inc/custom-header.php:91 template-parts/default-header.php:23
+msgid "Default"
+msgstr "افتراضي"
+
+#: inc/custom-header.php:92
+msgid "With padding"
+msgstr "مع حشو"
+
+#: inc/custom-header.php:93
+msgid "With padding (No padding top)"
+msgstr "مع حشو (بدون حشو علوي)"
+
+#: inc/custom-header.php:98
+msgid "Make the box full column height "
+msgstr "جعل الصندوق بارتفاع العمود الكامل "
+
+#: inc/custom-header.php:103
+msgid "Use light text colors "
+msgstr "استخدام ألوان نص فاتحة "
+
+#: inc/custom-header.php:119
+msgid "Advanced "
+msgstr ""
+
+#: inc/custom-header.php:213
+msgid "Advanced menu item Options"
+msgstr "خيارات عنصر القائمة المتقدمة"
+
+#: inc/dashboard.php:32
+msgid "conseil Theme:"
+msgstr ""
+
+#: inc/dashboard.php:32
+#, fuzzy
+#| msgid ""
+#| " your copy of the theme is not verified yet! Verify it now from pixfort "
+#| "dashboard to activate all the features and demo content."
+msgid ""
+" your copy of the theme is not verified yet! Verify it now from the theme "
+"dashboard to activate all the features and demo content."
+msgstr ""
+" نسختك من القالب غير مفعلة بعد! قم بتفعيلها الآن من لوحة تحكم pixfort لتفعيل "
+"جميع الميزات والمحتوى التجريبي."
+
+#: inc/dashboard.php:33 inc/dashboard.php:59
+#, fuzzy
+#| msgid "Go to pixfort Dashboard"
+msgid "Go to Theme Dashboard"
+msgstr "الذهاب إلى لوحة تحكم pixfort"
+
+#: inc/dashboard.php:56
+msgid "Important notice!"
+msgstr "إشعار مهم!"
+
+#: inc/dashboard.php:57
+#, fuzzy
+#| msgid ""
+#| "It seems that you updated pixfort theme, please make sure to update "
+#| "\"pixfort core\" too from pixfort > Dashboard > Install plugins."
+msgid ""
+"It seems that you updated Conseil theme, please make sure to update "
+"\"pixfort core\" too from Conseil → Dashboard → Install plugins."
+msgstr ""
+"يبدو أنك قمت بتحديث سمة pixfort، يرجى التأكد من تحديث \"pixfort core\" أيضاً "
+"من pixfort > لوحة التحكم > تثبيت الإضافات."
+
+#: inc/dashboard.php:151
+msgid "Important Note: "
+msgstr "ملاحظة مهمة: "
+
+#: inc/dashboard.php:151
+#, fuzzy
+#| msgid ""
+#| "It seems that the website URL has been changed, please make sure to go to "
+#| "pixfort Theme options and click on the Save button to refresh the options "
+#| "URLs."
+msgid ""
+"It seems that the website URL has been changed, please make sure to go to "
+"the Theme options and click on the Save button to refresh the options URLs."
+msgstr ""
+"يبدو أن عنوان URL للموقع قد تغير، يرجى التأكد من الذهاب إلى خيارات سمة "
+"pixfort والنقر على زر الحفظ لتحديث عناوين URL للخيارات."
+
+#: inc/dashboard.php:152
+msgid "Go to Theme options"
+msgstr "الذهاب إلى خيارات السمة"
+
+#: inc/dashboard.php:284
+msgid "One Click Demo Import"
+msgstr "استيراد المحتوى التجريبي بنقرة واحدة"
+
+#: inc/dashboard.php:285
+msgid "Import Demo Data"
+msgstr "استيراد البيانات التجريبية"
+
+#: inc/demo-content/demos.php:37
+msgid ""
+"Please make sure that Elementor plugin is installed and activated before "
+"importing this demo content."
+msgstr ""
+"يرجى التأكد من تثبيت وتفعيل إضافة Elementor قبل استيراد هذا المحتوى التجريبي."
+
+#: inc/demo-content/forms.php:14 inc/demo-content/forms.php:23
+#: inc/demo-content/forms.php:32 inc/demo-content/forms.php:41
+#: inc/demo-content/forms.php:50 inc/demo-content/forms.php:60
+#: inc/demo-content/forms.php:70
+msgid ""
+"Contact Form 7 plugin should be installed and activated in order to import & "
+"use the forms."
+msgstr "يجب تثبيت وتفعيل إضافة Contact Form 7 لاستيراد واستخدام النماذج."
+
+#: inc/demo-content/misc.php:19
+#, fuzzy
+#| msgid ""
+#| "6 Portfolio items will be imported with associated images, you can change "
+#| "portfolio layout from theme options. <br /><strong>Note:</strong> Make "
+#| "sure that Elementor plugin is installed and activated before import!"
+msgid ""
+"6 Portfolio items will be imported with associated images, you can change "
+"portfolio layout from theme options. Note: Make sure that Elementor plugin "
+"is installed and activated before import!"
+msgstr ""
+"سيتم استيراد 6 عناصر من معرض الأعمال مع الصور المرتبطة، يمكنك تغيير تخطيط "
+"المعرض من خيارات السمة. <br /><strong>ملاحظة:</strong> تأكد من تثبيت وتفعيل "
+"إضافة Elementor قبل الاستيراد!"
+
+#: inc/demo-content/misc.php:29
+#, fuzzy
+#| msgid ""
+#| "12 WooCommerce products will be imported with associated images. <br /> "
+#| "<strong>Please note that woocommerce should be installed and activated.</"
+#| "strong>"
+msgid ""
+"12 WooCommerce products will be imported with associated images. Please note "
+"that woocommerce should be installed and activated."
+msgstr ""
+"سيتم استيراد 12 منتج من WooCommerce مع الصور المرتبطة. <br /> <strong>يرجى "
+"ملاحظة أن WooCommerce يجب أن يكون مثبتاً ومفعلاً.</strong>"
+
+#: inc/demo-content/misc.php:38
+msgid "5 Default posts will be imported with associated images."
+msgstr "سيتم استيراد 5 منشورات افتراضية مع الصور المرتبطة."
+
+#: inc/demo-content/misc.php:48
+msgid "Default blog widgets will be imported."
+msgstr "سيتم استيراد عناصر المدونة الافتراضية."
+
+#: inc/demo-content/misc.php:58
+msgid "Default shop widgets will be imported."
+msgstr "سيتم استيراد عناصر المتجر الافتراضية."
+
+#: inc/demo-content/misc.php:67
+msgid "Advisory Demo Menu"
+msgstr ""
+
+#: inc/demo-content/misc.php:77
+msgid "Consulting Demo Menu"
+msgstr ""
+
+#: inc/demo-content/misc.php:87
+msgid "Vision Demo Menu"
+msgstr ""
+
+#: inc/post-functions.php:25
+msgid "Share on Facebook"
+msgstr "مشاركة على فيسبوك"
+
+#: inc/post-functions.php:36
+msgid "Share on X"
+msgstr "مشاركة على X"
+
+#: inc/post-functions.php:79
+msgid "Previous post"
+msgstr "المنشور السابق"
+
+#: inc/post-functions.php:80
+msgid "Next post"
+msgstr "المنشور التالي"
+
+#: inc/post-functions.php:118 single-portfolio.php:106
+msgid "Continue Reading"
+msgstr "متابعة القراءة"
+
+#: inc/post-functions.php:190
+msgid "Related Posts"
+msgstr "منشورات ذات صلة"
+
+#: inc/post-functions.php:448 inc/post-functions.php:976
+msgid "By"
+msgstr "بواسطة"
+
+#: inc/post-functions.php:608 inc/post-functions.php:672
+#: inc/post-functions.php:729 inc/post-functions.php:776
+msgid "Read more"
+msgstr "اقرأ المزيد"
+
+#: inc/post-functions.php:1052 inc/post-functions.php:1065
+#: inc/post-functions.php:1079 inc/post-functions.php:1098
+msgid "Play"
+msgstr "تشغيل"
+
+#: inc/post-functions.php:1117
+msgid "Open link"
+msgstr "فتح الرابط"
+
+#: inc/template-functions.php:32
+msgid "Required fields are marked *"
+msgstr "الحقول المطلوبة محددة بـ *"
+
+#: inc/template-functions.php:36 inc/template-functions.php:38
+msgid "Name"
+msgstr "الاسم"
+
+#: inc/template-functions.php:43 inc/template-functions.php:45
+msgid "Email"
+msgstr "البريد الإلكتروني"
+
+#: inc/template-functions.php:50 inc/template-functions.php:51
+msgid "Website"
+msgstr "الموقع الإلكتروني"
+
+#: inc/template-functions.php:56
+msgid "Leave a Reply"
+msgstr "اترك تعليقاً"
+
+#: inc/template-functions.php:60
+msgid "Logged in as"
+msgstr "تسجيل الدخول باسم"
+
+#: inc/template-functions.php:60
+msgid "Log out?"
+msgstr "تسجيل الخروج؟"
+
+#: inc/template-functions.php:65
+msgid "Post Comment"
+msgstr "نشر التعليق"
+
+#: inc/template-functions.php:67 inc/template-functions.php:68
+msgid "Comment"
+msgstr "تعليق"
+
+#: inc/template-functions.php:71 woocommerce/single-product-reviews.php:86
+msgid "Your email address will not be published."
+msgstr "لن يتم نشر عنوان بريدك الإلكتروني."
+
+#: inc/template-functions.php:154
+msgid "%s"
+msgstr "%s"
+
+#: inc/template-functions.php:156
+msgid "Your comment is awaiting moderation."
+msgstr "تعليقك في انتظار المراجعة."
+
+#. translators: 1: date, 2: time
+#: inc/template-functions.php:184
+msgid "%1$s"
+msgstr "%1$s"
+
+#: inc/template-functions.php:194
+msgid "Edit"
+msgstr "تعديل"
+
+#: inc/template-functions.php:474
+msgid "Extra profile information"
+msgstr "معلومات إضافية للملف الشخصي"
+
+#: inc/template-functions.php:477
+msgid "Job title"
+msgstr "المسمى الوظيفي"
+
+#: inc/template-functions.php:480
+msgid "Please enter your job title."
+msgstr "يرجى إدخال المسمى الوظيفي الخاص بك."
+
+#: inc/wc/product.php:86
+msgid "Awaiting product image"
+msgstr "في انتظار صورة المنتج"
+
+#: inc/woocommerce.php:399
+msgid "View product"
+msgstr "عرض المنتج"
+
+#: inc/woocommerce.php:410
+msgid "Out of stock"
+msgstr "نفذت الكمية"
+
+#: inc/woocommerce.php:440
+msgid "View your shopping cart"
+msgstr "عرض سلة التسوق الخاصة بك"
+
+#. translators: number of items in the mini cart.
+#: inc/woocommerce.php:444
+msgid "%d item"
+msgid_plural "%d items"
+msgstr[0] "%d عنصر"
+msgstr[1] "%d عنصران"
+msgstr[2] "%d عناصر"
+msgstr[3] "%d عنصر"
+msgstr[4] "%d عنصر"
+msgstr[5] "%d عنصر"
+
+#: single-pixfooter.php:37 single-pixintro.php:37
+msgid "Skip to content"
+msgstr "تخطي إلى المحتوى"
+
+#: single-portfolio.php:65
+msgid "Previous project"
+msgstr "المشروع السابق"
+
+#: single-portfolio.php:66
+msgid "Next project"
+msgstr "المشروع التالي"
+
+#: template-parts/banner.php:50
+msgid "Close"
+msgstr "إغلاق"
+
+#: template-parts/banner.php:78
+msgid "Days"
+msgstr "أيام"
+
+#: template-parts/banner.php:82
+msgid "Hours"
+msgstr "ساعات"
+
+#: template-parts/banner.php:86
+msgid "Minutes"
+msgstr "دقائق"
+
+#: template-parts/banner.php:90
+msgid "Seconds"
+msgstr "ثواني"
+
+#: template-parts/content-none.php:14
+msgid "Nothing Found"
+msgstr "لم يتم العثور على شيء"
+
+#. translators: 1: link to WP admin new post page.
+#: template-parts/content-none.php:24
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "هل أنت جاهز لنشر منشورك الأول؟ <a href=\"%1$s\">ابدأ هنا</a>."
+
+#: template-parts/content-none.php:37
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+"عذراً، لكن لم يتم العثور على أي شيء يتطابق مع شروط البحث الخاصة بك. يرجى "
+"المحاولة مرة أخرى باستخدام كلمات مفتاحية مختلفة."
+
+#: template-parts/content-none.php:46
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr "يبدو أننا لا نستطيع العثور على ما تبحث عنه. ربما يمكن أن يساعد البحث."
+
+#: template-parts/content-page.php:30
+#: template-parts/content-post-normal.php:260
+#: template-parts/content-post-sidebar.php:223
+#: template-parts/content-post.php:254
+#: template-parts/portfolio-item-box.php:143
+#: template-parts/portfolio-item-default.php:138
+#: template-parts/portfolio-item-sidebar-full.php:103
+#: template-parts/portfolio-item-sidebar.php:93
+msgid "Pages:"
+msgstr "الصفحات:"
+
+#. translators: %s: Name of current post. Only visible to screen readers
+#: template-parts/content-post-normal.php:249
+#: template-parts/content-post-sidebar.php:212
+#: template-parts/content-post.php:243
+msgid "Continue reading<span class=\"screen-reader-text\"> \"%s\"</span>"
+msgstr "متابعة قراءة<span class=\"screen-reader-text\"> \"%s\"</span>"
+
+#: template-parts/default-header.php:36
+#, fuzzy
+#| msgid "Default"
+msgid "Default Pattern"
+msgstr "افتراضي"
+
+#: template-parts/default-header.php:37
+msgid "A simple default pattern."
+msgstr ""
+
+#: template-parts/default-header.php:284 template-parts/default-header.php:345
+msgid "Toggle navigation"
+msgstr ""
+
+#: template-parts/intro.php:468 template-parts/intro.php:473
+#: templates/template-blog-full-width.php:83
+#: templates/template-blog-left-sidebar.php:85
+#: templates/template-blog-right-sidebar.php:83
+#: templates/template-blog-with-offset.php:82
+#: templates/template-blog-without-sidebar.php:83
+msgid "Search Results for: %s"
+msgstr "نتائج البحث عن: %s"
+
+#. translators: %s: Quantity.
+#: woocommerce/global/quantity-input.php:23
+msgid "%s quantity"
+msgstr "الكمية %s"
+
+#: woocommerce/global/quantity-input.php:23
+msgid "Quantity"
+msgstr "الكمية"
+
+#: woocommerce/loop/orderby.php:24
+msgid "Shop order"
+msgstr "ترتيب المتجر"
+
+#: woocommerce/loop/pagination.php:31
+msgid "Product Pagination"
+msgstr ""
+
+#: woocommerce/loop/result-count.php:27
+msgid "Showing the single result"
+msgstr "عرض النتيجة الواحدة"
+
+#. translators: %d: total results
+#: woocommerce/loop/result-count.php:30
+msgid "Showing all %d result"
+msgid_plural "Showing all %d results"
+msgstr[0] "عرض جميع النتائج %d"
+msgstr[1] "عرض النتيجتين %d"
+msgstr[2] "عرض النتائج %d"
+msgstr[3] "عرض النتائج %d"
+msgstr[4] "عرض النتائج %d"
+msgstr[5] "عرض النتائج %d"
+
+#: woocommerce/loop/sale-flash.php:32
+msgid "Sale!"
+msgstr "تخفيض!"
+
+#: woocommerce/myaccount/form-login.php:28
+#: woocommerce/myaccount/form-login.php:31
+msgid "Login"
+msgstr "تسجيل الدخول"
+
+#: woocommerce/myaccount/form-login.php:40
+msgid "Username or email address"
+msgstr "اسم المستخدم أو البريد الإلكتروني"
+
+#: woocommerce/myaccount/form-login.php:44
+#: woocommerce/myaccount/form-login.php:103
+msgid "Password"
+msgstr "كلمة المرور"
+
+#: woocommerce/myaccount/form-login.php:54
+msgid "Remember me"
+msgstr "تذكرني"
+
+#: woocommerce/myaccount/form-login.php:58
+msgid "Log in"
+msgstr "تسجيل الدخول"
+
+#: woocommerce/myaccount/form-login.php:62
+msgid "Lost your password?"
+msgstr "نسيت كلمة المرور؟"
+
+#: woocommerce/myaccount/form-login.php:80
+#: woocommerce/myaccount/form-login.php:117
+msgid "Register"
+msgstr "تسجيل"
+
+#: woocommerce/myaccount/form-login.php:89
+msgid "Username"
+msgstr "اسم المستخدم"
+
+#: woocommerce/myaccount/form-login.php:96
+msgid "Email address"
+msgstr "عنوان البريد الإلكتروني"
+
+#: woocommerce/myaccount/form-login.php:109
+msgid "A password will be sent to your email address."
+msgstr "سيتم إرسال كلمة المرور إلى عنوان بريدك الإلكتروني."
+
+#: woocommerce/myaccount/navigation.php:25
+msgid "Account pages"
+msgstr ""
+
+#: woocommerce/single-product/meta.php:30
+msgid "SKU:"
+msgstr "رمز المنتج:"
+
+#: woocommerce/single-product/meta.php:30
+msgid "N/A"
+msgstr "غير متوفر"
+
+#: woocommerce/single-product/meta.php:36
+msgid "Tag:"
+msgid_plural "Tags:"
+msgstr[0] "الوسم:"
+msgstr[1] "الوسمان:"
+msgstr[2] "الأوسمة:"
+msgstr[3] "الأوسمة:"
+msgstr[4] "الأوسمة:"
+msgstr[5] "الأوسمة:"
+
+#: woocommerce/single-product/rating.php:39
+msgid "%s customer review"
+msgid_plural "%s customer reviews"
+msgstr[0] "مراجعة %s من العميل"
+msgstr[1] "مراجعتان %s من العميل"
+msgstr[2] "مراجعات %s من العميل"
+msgstr[3] "مراجعات %s من العميل"
+msgstr[4] "مراجعات %s من العميل"
+msgstr[5] "مراجعات %s من العميل"
+
+#: woocommerce/single-product/related.php:29
+msgid "Related Products"
+msgstr "منتجات ذات صلة"
+
+#: woocommerce/single-product/review-meta.php:27
+msgid "Your review is awaiting approval"
+msgstr "مراجعتك في انتظار الموافقة"
+
+#: woocommerce/single-product/review-meta.php:37
+msgid "verified owner"
+msgstr "مالك موثق"
+
+#: woocommerce/single-product/tabs/additional-information.php:27
+msgid "Additional information"
+msgstr "معلومات إضافية"
+
+#: woocommerce/single-product/tabs/description.php:25
+msgid "Description"
+msgstr "الوصف"
+
+#: woocommerce/single-product/up-sells.php:27
+msgid "You may also like"
+msgstr "قد يعجبك أيضاً"
+
+#. translators: 1: reviews count 2: product name
+#: woocommerce/single-product-reviews.php:32
+msgid "%1$s review for %2$s"
+msgid_plural "%1$s reviews for %2$s"
+msgstr[0] "مراجعة %1$s لـ %2$s"
+msgstr[1] "مراجعتان %1$s لـ %2$s"
+msgstr[2] "مراجعات %1$s لـ %2$s"
+msgstr[3] "مراجعات %1$s لـ %2$s"
+msgstr[4] "مراجعات %1$s لـ %2$s"
+msgstr[5] "مراجعات %1$s لـ %2$s"
+
+#: woocommerce/single-product-reviews.php:34
+msgid "Reviews"
+msgstr "المراجعات"
+
+#: woocommerce/single-product-reviews.php:56
+msgid "There are no reviews yet."
+msgstr "لا توجد مراجعات بعد."
+
+#: woocommerce/single-product-reviews.php:71
+msgid "Add a review"
+msgstr "إضافة مراجعة"
+
+#: woocommerce/single-product-reviews.php:71
+msgid "Be the first to review &ldquo;%s&rdquo;"
+msgstr "كن أول من يراجع &ldquo;%s&rdquo;"
+
+#: woocommerce/single-product-reviews.php:72
+msgid "Leave a Reply to %s"
+msgstr "اترك رداً لـ %s"
+
+#: woocommerce/single-product-reviews.php:78
+msgid "Name *"
+msgstr "الاسم *"
+
+#: woocommerce/single-product-reviews.php:80
+msgid "Email *"
+msgstr "البريد الإلكتروني *"
+
+#: woocommerce/single-product-reviews.php:82
+msgid "Submit"
+msgstr "إرسال"
+
+#: woocommerce/single-product-reviews.php:92
+msgid "You must be %1$slogged in%2$s to post a review."
+msgstr "يجب أن تكون %1$sمسجلاً دخولاً%2$s لنشر مراجعة."
+
+#: woocommerce/single-product-reviews.php:95
+msgid "Your rating"
+msgstr "تقييمك"
+
+#: woocommerce/single-product-reviews.php:96
+msgid "Rate&hellip;"
+msgstr "قيم&hellip;"
+
+#: woocommerce/single-product-reviews.php:97
+msgid "Perfect"
+msgstr "ممتاز"
+
+#: woocommerce/single-product-reviews.php:98
+msgid "Good"
+msgstr "جيد"
+
+#: woocommerce/single-product-reviews.php:99
+msgid "Average"
+msgstr "متوسط"
+
+#: woocommerce/single-product-reviews.php:100
+msgid "Not that bad"
+msgstr "ليس سيئاً"
+
+#: woocommerce/single-product-reviews.php:101
+msgid "Very poor"
+msgstr "سيء جداً"
+
+#: woocommerce/single-product-reviews.php:105
+msgid "Write your review"
+msgstr "اكتب مراجعتك"
+
+#: woocommerce/single-product-reviews.php:115
+msgid ""
+"Only logged in customers who have purchased this product may leave a review."
+msgstr "فقط العملاء المسجلون دخولاً الذين اشتروا هذا المنتج يمكنهم ترك مراجعة."
+
+#. Theme Name of the plugin/theme
+msgid "Conseil"
+msgstr "‫Conseil"
+
+#. Theme URI of the plugin/theme
+msgid "https://conseil.pixfort.com/"
+msgstr "‫https://conseil.pixfort.com/"
+
+#. Description of the plugin/theme
+msgid "conseil theme"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "pixfort"
+msgstr "pixfort"
+
+#. Author URI of the plugin/theme
+msgid "https://1.envato.market/pixfort"
+msgstr "‫https://1.envato.market/pixfort"
+
+#. Template Name of the plugin/theme
+msgid "Blog (Theme options Default) */"
+msgstr "المدونة (خيارات السمة الافتراضية) */"
+
+#. Template Name of the plugin/theme
+msgid "Blog Full width */"
+msgstr "المدونة بعرض كامل */"
+
+#. Template Name of the plugin/theme
+#, fuzzy
+#| msgid "Blog Left sidebar */"
+msgid "Blog Sidebar Start */"
+msgstr "المدونة مع شريط جانبي أيسر */"
+
+#. Template Name of the plugin/theme
+#, fuzzy
+#| msgid "Blog Left sidebar */"
+msgid "Blog Sidebar End */"
+msgstr "المدونة مع شريط جانبي أيسر */"
+
+#. Template Name of the plugin/theme
+msgid "Blog with offset */"
+msgstr "المدونة مع إزاحة */"
+
+#. Template Name of the plugin/theme
+msgid "Blog without sidebar */"
+msgstr "المدونة بدون شريط جانبي */"
+
+#. Template Name of the plugin/theme
+msgid "Full width Template */"
+msgstr "قالب بعرض كامل */"
+
+#. Template Name of the plugin/theme
+#, fuzzy
+#| msgid "Left sidebar Template */"
+msgid "Sidebar Start Template */"
+msgstr "قالب مع شريط جانبي أيسر */"
+
+#. Template Name of the plugin/theme
+msgid "Templates Library */"
+msgstr "مكتبة القوالب */"
+
+#. Template Name of the plugin/theme
+msgid "Portfolio default */"
+msgstr "معرض الأعمال الافتراضي */"
+
+#. Template Name of the plugin/theme
+msgid "Portfolio Full width */"
+msgstr "معرض الأعمال بعرض كامل */"
+
+#. Template Name of the plugin/theme
+#, fuzzy
+#| msgid "Left sidebar Template */"
+msgid "Sidebar End Template */"
+msgstr "قالب مع شريط جانبي أيسر */"
+
+#. Template Name of the plugin/theme
+msgid "Shop Template */"
+msgstr "قالب المتجر */"
+
+#. translators: 1: comment count number, 2: title.
+#: comments.php:38
+msgctxt "comments title"
+msgid "%1$s Comments"
+msgid_plural "%1$s Comments"
+msgstr[0] "%1$s تعليق"
+msgstr[1] "%1$s تعليقان"
+msgstr[2] "%1$s تعليقات"
+msgstr[3] "%1$s تعليق"
+msgstr[4] "%1$s تعليق"
+msgstr[5] "%1$s تعليق"
+
+#. translators: %s: post date.
+#: inc/template-tags.php:29
+msgctxt "post date"
+msgid "Posted on %s"
+msgstr "نشر في %s"
+
+#. translators: %s: post author.
+#: inc/template-tags.php:50
+msgctxt "post author"
+msgid "by %s"
+msgstr "بواسطة %s"
+
+#: woocommerce/global/quantity-input.php:51
+msgctxt "Product quantity input tooltip"
+msgid "Qty"
+msgstr "الكمية"
+
+#. translators: 1: first result 2: last result 3: total results
+#: woocommerce/loop/result-count.php:35
+msgctxt "with first and last result"
+msgid "Showing %1$d&ndash;%2$d of %3$d result"
+msgid_plural "Showing %1$d&ndash;%2$d of %3$d results"
+msgstr[0] "عرض %1$d&ndash;%2$d من %3$d نتيجة"
+msgstr[1] "عرض %1$d&ndash;%2$d من %3$d نتيجتين"
+msgstr[2] "عرض %1$d&ndash;%2$d من %3$d نتائج"
+msgstr[3] "عرض %1$d&ndash;%2$d من %3$d نتيجة"
+msgstr[4] "عرض %1$d&ndash;%2$d من %3$d نتيجة"
+msgstr[5] "عرض %1$d&ndash;%2$d من %3$d نتيجة"
+
+#~ msgid "The item has been added to your shopping cart!"
+#~ msgstr "تمت إضافة العنصر إلى سلة التسوق الخاصة بك!"
+
+#~ msgid "...verifying"
+#~ msgstr "...جاري التحقق"
+
+#~ msgid ""
+#~ "Your website needs a few essential plugins. The following selected "
+#~ "plugins will be installed or updated:"
+#~ msgstr ""
+#~ "يحتاج موقعك إلى بعض الإضافات الأساسية. سيتم تثبيت أو تحديث الإضافات "
+#~ "المحددة التالية:"
+
+#~ msgid "You can add and remove plugins later on from within WordPress."
+#~ msgstr "يمكنك إضافة وإزالة الإضافات لاحقاً من داخل ووردبريس."
+
+#~ msgid "Good news!"
+#~ msgstr "أخبار سارة!"
+
+#~ msgid "All required plugins are already installed and up to date."
+#~ msgstr "جميع الإضافات المطلوبة مثبتة بالفعل ومحدثة."
+
+#~ msgid "pixfort Theme:"
+#~ msgstr "سمة pixfort:"
+
+#~ msgid ""
+#~ "Please make sure to go to pixfort Theme options and click on the Save "
+#~ "options button."
+#~ msgstr ""
+#~ "يرجى التأكد من الذهاب إلى خيارات سمة pixfort والنقر على زر حفظ الخيارات."
+
+#~ msgid "Consulting Essentials menu example."
+#~ msgstr "مثال قائمة أساسيات الاستشارات."
+
+#~ msgid "Search for:"
+#~ msgstr "البحث عن:"
+
+#~ msgid "Search …"
+#~ msgstr "بحث …"
+
+#~ msgid "Search"
+#~ msgstr "بحث"
+
+#~ msgid "Hit enter to search or ESC to close"
+#~ msgstr "اضغط Enter للبحث أو ESC للإغلاق"
+
+#~ msgid "Your shopping cart"
+#~ msgstr "سلة التسوق الخاصة بك"
+
+#~ msgid "Close Cart Sidebar"
+#~ msgstr "إغلاق الشريط الجانبي للسلة"
+
+#~ msgid "WooCommerce should be installed and activated!"
+#~ msgstr "يجب تثبيت وتفعيل WooCommerce!"
+
+#~ msgid "Home"
+#~ msgstr "الرئيسية"
+
+#~ msgid "pixfort theme"
+#~ msgstr "سمة pixfort"
+
+#~ msgid "https://pixfort.com"
+#~ msgstr "https://pixfort.com"
+
+#~ msgid "Blog Right sidebar */"
+#~ msgstr "المدونة مع شريط جانبي أيمن */"
+
+#~ msgid "Right sidebar Template */"
+#~ msgstr "قالب مع شريط جانبي أيمن */"

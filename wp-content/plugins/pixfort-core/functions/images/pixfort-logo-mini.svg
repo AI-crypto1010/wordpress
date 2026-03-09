@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="21" height="26" viewBox="0 0 21 26">
+  <g fill="#FFF" fill-rule="evenodd">
+    <rect width="5" height="5" x="2" y="21"/>
+    <rect width="5" height="5" x="2" y="15"/>
+    <rect width="5" height="5" x="8" y="15"/>
+    <rect width="5" height="5" x="2" y="9"/>
+    <rect width="5" height="5" x="8" y="9"/>
+    <rect width="5" height="5" x="14" y="9"/>
+    <polyline points="0 0 4.5 0 4.5 3.204 8.25 3.204 8.25 0 12.75 0 12.75 3.204 16.5 3.204 16.5 0 21 0 21 5.608 18.75 8 2.25 8 0 5.609"/>
+  </g>
+</svg>

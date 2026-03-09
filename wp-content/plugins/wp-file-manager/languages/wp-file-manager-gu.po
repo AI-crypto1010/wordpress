@@ -1,0 +1,872 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WP File Manager\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-02-28 09:41+0530\n"
+"PO-Revision-Date: 2022-03-02 10:57+0530\n"
+"Last-Translator: admin <kajal.gill@mysenseinc.in>\n"
+"Language-Team: \n"
+"Language: gu\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Poedit 3.0.1\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: file_folder_manager.php:174
+msgid "Themes backup restored successfully."
+msgstr "થીમ્સ બેકઅપ સફળતાપૂર્વક પુનઃસ્થાપિત."
+
+#: file_folder_manager.php:177
+msgid "Unable to restore themes."
+msgstr "થીમ્સ પુનઃસ્થાપિત કરવામાં અસમર્થ."
+
+#: file_folder_manager.php:207
+msgid "Uploads backup restored successfully."
+msgstr "અપલોડ્સ બેકઅપ સફળતાપૂર્વક પુનઃસ્થાપિત."
+
+#: file_folder_manager.php:211
+msgid "Unable to restore uploads."
+msgstr "અપલોડ્સ પુનઃસ્થાપિત કરવામાં અસમર્થ."
+
+#: file_folder_manager.php:237
+msgid "Others backup restored successfully."
+msgstr "અન્ય બેકઅપ સફળતાપૂર્વક પુનઃસ્થાપિત."
+
+#: file_folder_manager.php:241
+msgid "Unable to restore others."
+msgstr "અન્ય પુનઃસ્થાપિત કરવામાં અસમર્થ."
+
+#: file_folder_manager.php:267
+msgid "Plugins backup restored successfully."
+msgstr "પ્લગઈન્સ બેકઅપ સફળતાપૂર્વક પુનઃસ્થાપિત."
+
+#: file_folder_manager.php:271 file_folder_manager.php:301
+msgid "Unable to restore plugins."
+msgstr "પ્લગઈન્સ પુનઃસ્થાપિત કરવામાં અસમર્થ."
+
+#: file_folder_manager.php:286
+msgid "Database backup restored successfully."
+msgstr "ડેટાબેઝ બેકઅપ સફળતાપૂર્વક પુનઃસ્થાપિત."
+
+#: file_folder_manager.php:286 file_folder_manager.php:297 file_folder_manager.php:588
+#: file_folder_manager.php:592
+msgid "All Done"
+msgstr "બધુ થઈ ગયું"
+
+#: file_folder_manager.php:289
+msgid "Unable to restore DB backup."
+msgstr "DB બેકઅપ પુનઃસ્થાપિત કરવામાં અસમર્થ."
+
+#: file_folder_manager.php:347
+msgid "Backups removed successfully!"
+msgstr "બેકઅપ સફળતાપૂર્વક દૂર કર્યા!"
+
+#: file_folder_manager.php:349
+msgid "Unable to removed backup!"
+msgstr "બેકઅપ દૂર કરવામાં અસમર્થ!"
+
+#: file_folder_manager.php:373
+msgid "Database backup done on date "
+msgstr "ડેટાબેઝ બેકઅપ તારીખે પૂર્ણ થયું"
+
+#: file_folder_manager.php:377
+msgid "Plugins backup done on date "
+msgstr "પ્લગઇન્સ બેકઅપ તારીખે પૂર્ણ થયું"
+
+#: file_folder_manager.php:381
+msgid "Themes backup done on date "
+msgstr "થીમ્સ બેકઅપ તારીખે પૂર્ણ થયું"
+
+#: file_folder_manager.php:385
+msgid "Uploads backup done on date "
+msgstr "અપલોડ બેકઅપ તારીખે પૂર્ણ થયું"
+
+#: file_folder_manager.php:389
+msgid "Others backup done on date "
+msgstr "અન્ય બેકઅપ તારીખે પૂર્ણ"
+
+#: file_folder_manager.php:393 file_folder_manager.php:776
+msgid "Logs"
+msgstr "લોગ્સ"
+
+#: file_folder_manager.php:399
+msgid "No logs found!"
+msgstr "કોઈ લોગ મળ્યા નથી!"
+
+#: file_folder_manager.php:496
+msgid "Nothing selected for backup"
+msgstr "બેકઅપ માટે કંઈપણ પસંદ કરેલ નથી"
+
+#: file_folder_manager.php:516
+msgid "Security Issue."
+msgstr "સુરક્ષા સમસ્યા."
+
+#: file_folder_manager.php:527
+msgid "Database backup done."
+msgstr "ડેટાબેઝ બેકઅપ પૂર્ણ."
+
+#: file_folder_manager.php:530
+msgid "Unable to create database backup."
+msgstr "ડેટાબેઝ બેકઅપ બનાવવામાં અસમર્થ."
+
+#: file_folder_manager.php:544
+msgid "Plugins backup done."
+msgstr "પ્લગઈન્સ બેકઅપ થઈ ગયું."
+
+#: file_folder_manager.php:547
+msgid "Plugins backup failed."
+msgstr "પ્લગઈન્સ બેકઅપ નિષ્ફળ થયું."
+
+#: file_folder_manager.php:556
+msgid "Themes backup done."
+msgstr "થીમ્સ બેકઅપ થઈ ગયું."
+
+#: file_folder_manager.php:559
+msgid "Themes backup failed."
+msgstr "થીમ્સ બેકઅપ નિષ્ફળ થયું."
+
+#: file_folder_manager.php:569
+msgid "Uploads backup done."
+msgstr "અપલોડ બેકઅપ પૂર્ણ થયું."
+
+#: file_folder_manager.php:572
+msgid "Uploads backup failed."
+msgstr "અપલોડ બેકઅપ નિષ્ફળ થયું."
+
+#: file_folder_manager.php:581
+msgid "Others backup done."
+msgstr "અન્ય બેકઅપ પૂર્ણ."
+
+#: file_folder_manager.php:584
+msgid "Others backup failed."
+msgstr "અન્ય બેકઅપ નિષ્ફળ થયું."
+
+#: file_folder_manager.php:761 file_folder_manager.php:762 lib/wpfilemanager.php:23
+msgid "WP File Manager"
+msgstr "WP ફાઇલ વ્યવસ્થાપક"
+
+#: file_folder_manager.php:769
+msgid "Settings"
+msgstr "સેટિંગ્સ"
+
+#: file_folder_manager.php:771 inc/root.php:48
+msgid "Preferences"
+msgstr "પસંદગીઓ"
+
+#: file_folder_manager.php:773
+msgid "System Properties"
+msgstr "સિસ્ટમ ગુણધર્મો"
+
+#: file_folder_manager.php:775
+msgid "Shortcode - PRO"
+msgstr "શોર્ટકોડ – પ્રો"
+
+#: file_folder_manager.php:777
+msgid "Backup/Restore"
+msgstr "બેકઅપ/રીસ્ટોર"
+
+#: file_folder_manager.php:1033
+msgid "Buy Pro"
+msgstr "પ્રો ખરીદો"
+
+#: file_folder_manager.php:1034
+msgid "Donate"
+msgstr "દાન કરવું"
+
+#: file_folder_manager.php:1249
+msgid ""
+"<div class=\"updated settings-error notice is-dismissible\" id=\"setting-error-settings_updated\"> \n"
+"<p><strong>"
+msgstr ""
+
+#: file_folder_manager.php:1256
+msgid ""
+"<div class=\"error settings-error notice is-dismissible\" id=\"setting-error-settings_updated\"> \n"
+"<p><strong>"
+msgstr ""
+
+#: file_folder_manager.php:1395 file_folder_manager.php:1483
+msgid "File doesn't exist to download."
+msgstr "ડાઉનલોડ કરવા માટે ફાઇલ અસ્તિત્વમાં નથી."
+
+#: file_folder_manager.php:1400 file_folder_manager.php:1488
+msgid "Invalid Security Code."
+msgstr "અમાન્ય સુરક્ષા કોડ."
+
+#: file_folder_manager.php:1405 file_folder_manager.php:1493
+msgid "Missing backup id."
+msgstr "બેકઅપ આઈડી ખૂટે છે."
+
+#: file_folder_manager.php:1408 file_folder_manager.php:1496
+msgid "Missing parameter type."
+msgstr "પેરામીટર પ્રકાર ખૂટે છે."
+
+#: file_folder_manager.php:1411 file_folder_manager.php:1499
+msgid "Missing required parameters."
+msgstr "જરૂરી પરિમાણો ખૂટે છે."
+
+#: inc/backup.php:24
+msgid ""
+"Error: Unable to restore backup because database backup is heavy in size. Please try to increase Maximum "
+"allowed size  from Preferences settings."
+msgstr ""
+"ભૂલ: બેકઅપ પુનઃસ્થાપિત કરવામાં અસમર્થ કારણ કે ડેટાબેઝ બેકઅપ કદમાં ભારે છે. કૃપા કરીને પસંદગી સેટિંગ્સમાંથી મહત્તમ માન્ય કદ "
+"વધારવાનો પ્રયાસ કરો."
+
+#: inc/backup.php:25
+msgid "Select backup(s) to delete!"
+msgstr "કાઢી નાખવા માટે બેકઅપ પસંદ કરો!"
+
+#: inc/backup.php:26
+msgid "Are you sure want to remove selected backup(s)?"
+msgstr "શું તમે ખરેખર પસંદ કરેલ બેકઅપ(ઓ) દૂર કરવા માંગો છો?"
+
+#: inc/backup.php:31
+msgid "Backup is running, please wait"
+msgstr "બેકઅપ ચાલી રહ્યું છે, કૃપા કરીને રાહ જુઓ"
+
+#: inc/backup.php:32
+msgid "Restore is running, please wait"
+msgstr "રિસ્ટોર ચાલી રહ્યું છે, કૃપા કરીને રાહ જુઓ"
+
+#: inc/backup.php:33
+msgid "Nothing selected for backup."
+msgstr "બેકઅપ માટે કંઈપણ પસંદ કરેલ નથી."
+
+#: inc/backup.php:45
+msgid "WP File Manager - Backup/Restore"
+msgstr "WP ફાઇલ મેનેજર - બેકઅપ/રીસ્ટોર"
+
+#: inc/backup.php:51
+msgid "Backup Options:"
+msgstr "બેકઅપ વિકલ્પો:"
+
+#: inc/backup.php:58
+msgid "Database Backup"
+msgstr "ડેટાબેઝ બેકઅપ"
+
+#: inc/backup.php:64
+msgid "Files Backup"
+msgstr "ફાઈલો બેકઅપ"
+
+#: inc/backup.php:68
+msgid "Plugins"
+msgstr "પ્લગઇન્સ"
+
+#: inc/backup.php:71
+msgid "Themes"
+msgstr "થીમ્સ"
+
+#: inc/backup.php:74
+msgid "Uploads"
+msgstr "અપલોડ્સ"
+
+#: inc/backup.php:77
+msgid "Others (Any other directories found inside wp-content)"
+msgstr "અન્ય (wp-content ની અંદર જોવા મળતી અન્ય કોઈપણ ડિરેક્ટરીઓ)"
+
+#: inc/backup.php:81
+msgid "Backup Now"
+msgstr "હવે બેકઅપ લો"
+
+#: inc/backup.php:89
+msgid "Time now"
+msgstr "હવે સમય"
+
+#: inc/backup.php:99
+msgid "SUCCESS"
+msgstr "સફળતા"
+
+#: inc/backup.php:101
+msgid "Backup successfully deleted."
+msgstr "બેકઅપ સફળતાપૂર્વક કાઢી નાખ્યું."
+
+#: inc/backup.php:102
+msgid "Ok"
+msgstr "બરાબર"
+
+#: inc/backup.php:117
+msgid "DELETE FILES"
+msgstr "ફાઇલો કાઢી નાખો"
+
+#: inc/backup.php:119
+msgid "Are you sure you want to delete this backup?"
+msgstr "શું તમે ખરેખર આ બેકઅપ કાઢી નાખવા માંગો છો?"
+
+#: inc/backup.php:120 inc/backup.php:139
+msgid "Cancel"
+msgstr "રદ કરો"
+
+#: inc/backup.php:121 inc/backup.php:140
+msgid "Confirm"
+msgstr "પુષ્ટિ કરો"
+
+#: inc/backup.php:136
+msgid "RESTORE FILES"
+msgstr "ફાઇલો પુનઃસ્થાપિત કરો"
+
+#: inc/backup.php:138
+msgid "Are you sure you want to restore this backup?"
+msgstr "શું તમે ખરેખર આ બેકઅપ પુનઃસ્થાપિત કરવા માંગો છો?"
+
+#: inc/backup.php:166
+msgid "Last Log Message"
+msgstr "છેલ્લો લોગ સંદેશ"
+
+#: inc/backup.php:169
+msgid "The backup apparently succeeded and is now complete."
+msgstr "બેકઅપ દેખીતી રીતે સફળ થયું અને હવે પૂર્ણ થયું છે."
+
+#: inc/backup.php:171
+msgid "No log message"
+msgstr "કોઈ લોગ સંદેશ નથી"
+
+#: inc/backup.php:177
+msgid "Existing Backup(s)"
+msgstr "હાલનું બેકઅપ"
+
+#: inc/backup.php:184
+msgid "Backup Date"
+msgstr "બેકઅપ તારીખ"
+
+#: inc/backup.php:187
+msgid "Backup data (click to download)"
+msgstr "બેકઅપ ડેટા (ડાઉનલોડ કરવા માટે ક્લિક કરો)"
+
+#: inc/backup.php:190
+msgid "Action"
+msgstr "ક્રિયા"
+
+#: inc/backup.php:210
+msgid "Today"
+msgstr "આજે"
+
+#: inc/backup.php:239
+msgid "Restore"
+msgstr "પુનઃસ્થાપિત"
+
+#: inc/backup.php:240 inc/backup.php:250
+msgid "Delete"
+msgstr "કાઢી નાખો"
+
+#: inc/backup.php:241
+msgid "View Log"
+msgstr "લોગ જુઓ"
+
+#: inc/backup.php:246
+msgid "Currently no backup(s) found."
+msgstr "હાલમાં કોઈ બેકઅપ(ઓ) મળ્યું નથી."
+
+#: inc/backup.php:249
+msgid "Actions upon selected backup(s)"
+msgstr "પસંદ કરેલ બેકઅપ(ઓ) પરની ક્રિયાઓ"
+
+#: inc/backup.php:251
+msgid "Select All"
+msgstr "બધા પસંદ કરો"
+
+#: inc/backup.php:252
+msgid "Deselect"
+msgstr "નાપસંદ કરો"
+
+#: inc/backup.php:254
+msgid "Note:"
+msgstr "નૉૅધ:"
+
+#: inc/backup.php:254
+msgid "Backup files will be under"
+msgstr "બેકઅપ ફાઈલો હેઠળ હશે"
+
+#: inc/contribute.php:3
+msgid "WP File Manager Contribution"
+msgstr "WP ફાઇલ મેનેજરનું યોગદાન"
+
+#: inc/logs.php:7
+msgid "Note: These are demo screenshots. Please buy File Manager pro to Logs functions."
+msgstr "નોંધ: આ ડેમો સ્ક્રીનશૉટ્સ છે. કૃપા કરીને લોગ્સ ફંક્શન માટે ફાઇલ મેનેજર પ્રો ખરીદો."
+
+#: inc/logs.php:8 lib/wpfilemanager.php:24
+msgid "Click to Buy PRO"
+msgstr "પ્રો ખરીદવા માટે ક્લિક કરો"
+
+#: inc/logs.php:8 inc/settings.php:12 inc/settings.php:27 inc/system_properties.php:5 lib/wpfilemanager.php:25
+msgid "Buy PRO"
+msgstr "પ્રો ખરીદો"
+
+#: inc/logs.php:9
+msgid "Edit Files Logs"
+msgstr "ફાઇલ લૉગ્સ સંપાદિત કરો"
+
+#: inc/logs.php:11
+msgid "Download Files Logs"
+msgstr "ફાઇલ લૉગ્સ ડાઉનલોડ કરો"
+
+#: inc/logs.php:13
+msgid "Upload Files Logs"
+msgstr "ફાઇલો લોગ અપલોડ કરો"
+
+#: inc/root.php:43
+msgid "Settings saved."
+msgstr "સેટિંગ્સ સાચવી."
+
+#: inc/root.php:43 inc/root.php:46
+msgid "Dismiss this notice."
+msgstr "આ નોટિસ કાઢી નાખો."
+
+#: inc/root.php:46
+msgid "You have not made any changes to be saved."
+msgstr "તમે સાચવવા માટે કોઈ ફેરફાર કર્યા નથી."
+
+#: inc/root.php:55
+msgid "Public Root Path"
+msgstr "જાહેર રુટ પાથ"
+
+#: inc/root.php:58
+msgid "File Manager Root Path, you can change according to your choice."
+msgstr "ફાઇલ મેનેજર રૂટ પાથ, તમે તમારી પસંદગી અનુસાર બદલી શકો છો."
+
+#: inc/root.php:59
+msgid "Default:"
+msgstr "ડિફૉલ્ટ:"
+
+#: inc/root.php:60
+msgid "Please change this carefully, wrong path can lead file manager plugin to go down."
+msgstr "કૃપા કરીને આને કાળજીપૂર્વક બદલો, ખોટો રસ્તો ફાઈલ મેનેજર પ્લગઈનને નીચે જઈ શકે છે."
+
+#: inc/root.php:64
+msgid "Enable Trash?"
+msgstr "ટ્રેશ સક્ષમ કરીએ?"
+
+#: inc/root.php:67
+msgid "After enable trash, your files will go to trash folder."
+msgstr "ટ્રેશને સક્ષમ કર્યા પછી, તમારી ફાઇલો ટ્રેશ ફોલ્ડરમાં જશે."
+
+#: inc/root.php:72
+msgid "Enable Files Upload to Media Library?"
+msgstr "મીડિયા લાઇબ્રેરીમાં ફાઇલો અપલોડ કરવાનું સક્ષમ કરીએ?"
+
+#: inc/root.php:75
+msgid "After enabling this all files will go to media library."
+msgstr "આને સક્ષમ કર્યા પછી બધી ફાઇલો મીડિયા લાઇબ્રેરીમાં જશે."
+
+#: inc/root.php:80
+msgid "Maximum allowed size at the time of database backup restore."
+msgstr "ડેટાબેઝ બેકઅપ પુનઃસ્થાપના સમયે મહત્તમ માન્ય કદ."
+
+#: inc/root.php:83
+msgid "MB"
+msgstr ""
+
+#: inc/root.php:85
+msgid "Please increase field value if you are getting error message at the time of backup restore."
+msgstr "જો તમને બેકઅપ પુનઃસ્થાપના સમયે ભૂલ સંદેશો મળે તો કૃપા કરીને ફીલ્ડ મૂલ્ય વધારો."
+
+#: inc/root.php:90
+msgid "Save Changes"
+msgstr "ફેરફારો સંગ્રહ"
+
+#: inc/settings.php:10
+msgid "Settings - General"
+msgstr "સેટિંગ્સ - સામાન્ય"
+
+#: inc/settings.php:11 inc/settings.php:26
+msgid "Note: This is just a demo screenshot. To get settings please buy our pro version."
+msgstr "નોંધ: આ ફક્ત એક ડેમો સ્ક્રીન છે સેટિંગ્સ મેળવવા માટે અમારા પ્રો આવૃત્તિ ખરીદી કરો."
+
+#: inc/settings.php:13
+msgid ""
+"Here admin can give access to user roles to use filemanager. Admin can set Default Access Folder and also "
+"control upload size of filemanager."
+msgstr ""
+"અહીં એડમિન ફાઇલમેનિઅરનો ઉપયોગ કરવા માટે વપરાશકર્તા ભૂમિકાઓને ઍક્સેસ આપી શકે છે. એડમિન ડિફૉલ્ટ ઍક્સેસ ફોલ્ડર સેટ કરી શકે છે અને "
+"ફાઇલમેનિઅરનું અપલોડ માપ પણ નિયંત્રિત કરી શકે છે."
+
+#: inc/settings.php:15
+msgid "Settings - Code-editor"
+msgstr "સેટિંગ્સ - કોડ-એડિટર"
+
+#: inc/settings.php:16
+msgid ""
+"File Manager has a code editor with multiple themes. You can select any theme for code editor. It will "
+"display when you edit any file. Also you can allow fullscreen mode of code editor."
+msgstr ""
+"ફાઇલ વ્યવસ્થાપક પાસે બહુવિધ થીમ્સ સાથેનો કોડ એડિટર છે તમે કોડ એડિટર માટે કોઈપણ થીમ પસંદ કરી શકો છો. જ્યારે તમે કોઈપણ ફાઇલ "
+"સંપાદિત કરો ત્યારે તે પ્રદર્શિત થશે. પણ તમે કોડ એડિટરના પૂર્ણસ્ક્રીન મોડને મંજૂરી આપી શકો છો."
+
+#: inc/settings.php:18
+msgid "Code-editor View"
+msgstr "કોડ એડિટર જુઓ"
+
+#: inc/settings.php:20
+msgid "Settings - User Restrictions"
+msgstr "સેટિંગ્સ - વપરાશકર્તા પ્રતિબંધો"
+
+#: inc/settings.php:21
+msgid ""
+"Admin can restrict actions of any user. Also hide files and folders and can set different - different "
+"folders paths for different users."
+msgstr ""
+"એડમિન કોઈપણ વપરાશકર્તાની ક્રિયાઓ પ્રતિબંધિત કરી શકે છે. પણ ફાઇલો અને ફોલ્ડર્સને છુપાવી શકો છો અને અલગ અલગ સેટ કરી શકો છો "
+"- જુદા જુદા વપરાશકર્તાઓ માટે અલગ ફોલ્ડર પાથ."
+
+#: inc/settings.php:23
+msgid "Settings - User Role Restrictions"
+msgstr "સેટિંગ્સ - વપરાશકર્તા ભૂમિકા પ્રતિબંધો"
+
+#: inc/settings.php:24
+msgid ""
+"Admin can restrict actions of any userrole. Also hide files and folders and can set different - different "
+"folders paths for different users roles."
+msgstr ""
+"એડમિન કોઈપણ userrole ની ક્રિયાઓ પ્રતિબંધિત કરી શકે છે. ફાઇલો અને ફોલ્ડર્સ પણ છુપાવો અને જુદા જુદા વપરાશકર્તાઓની ભૂમિકાઓ "
+"માટે અલગ-અલગ ફોલ્ડર્સ પાથ સેટ કરી શકો છો."
+
+#: inc/shortcode_docs.php:11
+msgid "File Manager - Shortcode"
+msgstr "ફાઇલ મેનેજર - શોર્ટકોડ"
+
+#: inc/shortcode_docs.php:15 inc/shortcode_docs.php:17 inc/shortcode_docs.php:19
+msgid "USE:"
+msgstr "વાપરવુ:"
+
+#: inc/shortcode_docs.php:15
+msgid ""
+"It will show file manager on front end. You can control all settings from file manager settings. It will "
+"work same as backend WP File Manager."
+msgstr ""
+"તે ફ્રન્ટ એન્ડ પર ફાઇલ મેનેજર બતાવશે. તમે ફાઇલ મેનેજર સેટિંગ્સમાંથી બધી સેટિંગ્સને નિયંત્રિત કરી શકો છો. તે બેકએન્ડ WP ફાઇલ મેનેજરની "
+"જેમ જ કામ કરશે."
+
+#: inc/shortcode_docs.php:17
+msgid ""
+"It will show file manager on front end. But only Administrator can access it and will control from file "
+"manager settings."
+msgstr ""
+"તે ફ્રન્ટ એન્ડ પર ફાઇલ મેનેજર બતાવશે. પરંતુ માત્ર એડમિનિસ્ટ્રેટર જ તેને એક્સેસ કરી શકે છે અને તે ફાઇલ મેનેજર સેટિંગ્સમાંથી નિયંત્રિત કરશે."
+
+#: inc/shortcode_docs.php:23
+msgid "Parameters:"
+msgstr "પરિમાણો:"
+
+#: inc/shortcode_docs.php:26
+msgid ""
+"It will allow all roles to access file manager on front end or You can simple use for particular user roles "
+"as like allowed_roles=\"editor,author\" (seprated by comma(,))"
+msgstr ""
+"તે બધી ભૂમિકાઓને ફ્રન્ટ એન્ડ પર ફાઇલ મેનેજરને ઍક્સેસ કરવાની મંજૂરી આપશે અથવા તમે ચોક્કસ વપરાશકર્તા ભૂમિકાઓ માટે સરળ ઉપયોગ કરી "
+"શકો છો જેમ કે allow_roles=\"editor,author\" (અલ્પવિરામ દ્વારા વિભાજિત(,))"
+
+#: inc/shortcode_docs.php:28
+msgid ""
+"Here \"test\" is the name of folder which is located on root directory, or you can give path for sub folders "
+"as like \"wp-content/plugins\". If leave blank or empty it will access all folders on root directory. "
+"Default: Root directory"
+msgstr ""
+"અહીં \"ટેસ્ટ\" એ ફોલ્ડરનું નામ છે જે રૂટ ડાયરેક્ટરી પર સ્થિત છે, અથવા તમે \"wp-content/plugins\" જેવા સબ ફોલ્ડર્સ માટે પાથ આપી "
+"શકો છો. જો ખાલી અથવા ખાલી છોડો તો તે રૂટ ડિરેક્ટરી પરના તમામ ફોલ્ડર્સને ઍક્સેસ કરશે. ડિફૉલ્ટ: રૂટ ડિરેક્ટરી"
+
+#: inc/shortcode_docs.php:30
+msgid "for access to write files permissions, note: true/false, default: false"
+msgstr "ફાઇલો લખવાની પરવાનગી મેળવવા માટે, નોંધ કરો: true/false, default: false"
+
+#: inc/shortcode_docs.php:32
+msgid "for access to read files permission, note: true/false, default: true"
+msgstr "ફાઇલો વાંચવાની પરવાનગી મેળવવા માટે, નોંધ કરો: true/false, default: true"
+
+#: inc/shortcode_docs.php:34
+msgid "it will hide mentioned here. Note: seprated by comma(,). Default: Null"
+msgstr "તે અહીં ઉલ્લેખ છુપાવશે. નોંધ: અલ્પવિરામ (,) દ્વારા વિભાજિત. ડિફૉલ્ટ: નલ"
+
+#: inc/shortcode_docs.php:36
+msgid "It will lock mentioned in commas. you can lock more as like \".php,.css,.js\" etc. Default: Null"
+msgstr "તે અલ્પવિરામમાં ઉલ્લેખિત લૉક કરશે. તમે \".php,.css,.js\" વગેરે જેવા વધુ લોક કરી શકો છો. ડિફોલ્ટ: નલ"
+
+#: inc/shortcode_docs.php:38
+msgid ""
+"* for all operations and to allow some operation you can mention operation name as like, allowed_operations="
+"\"upload,download\". Note: seprated by comma(,). Default: *"
+msgstr ""
+"* તમામ કામગીરી માટે અને અમુક કામગીરીને મંજૂરી આપવા માટે તમે ઓપરેશન નામનો ઉલ્લેખ કરી શકો છો જેમ કે, મંજૂર_ઓપરેશન=\"અપલોડ, "
+"ડાઉનલોડ\". નોંધ: અલ્પવિરામ (,) દ્વારા વિભાજિત. ડિફૉલ્ટ: *"
+
+#: inc/shortcode_docs.php:42
+msgid "File Operations List:"
+msgstr "ફાઇલ કામગીરીની સૂચિ:"
+
+#: inc/shortcode_docs.php:46
+msgid "mkdir ->"
+msgstr ""
+
+#: inc/shortcode_docs.php:46
+msgid "Make directory or folder"
+msgstr "ડિરેક્ટરી અથવા ફોલ્ડર બનાવો"
+
+#: inc/shortcode_docs.php:47
+msgid "mkfile ->"
+msgstr ""
+
+#: inc/shortcode_docs.php:47
+msgid "Make file"
+msgstr "ફાઇલ બનાવો"
+
+#: inc/shortcode_docs.php:48
+msgid "rename ->"
+msgstr ""
+
+#: inc/shortcode_docs.php:48
+msgid "Rename a file or folder"
+msgstr "ફાઇલ અથવા ફોલ્ડરનું નામ બદલો"
+
+#: inc/shortcode_docs.php:49
+msgid "duplicate ->"
+msgstr ""
+
+#: inc/shortcode_docs.php:49
+msgid "Duplicate or clone a folder or file"
+msgstr "ફોલ્ડર અથવા ફાઇલનું ડુપ્લિકેટ અથવા ક્લોન કરો"
+
+#: inc/shortcode_docs.php:50
+msgid "paste ->"
+msgstr ""
+
+#: inc/shortcode_docs.php:50
+msgid "Paste a file or folder"
+msgstr "ફાઇલ અથવા ફોલ્ડર પેસ્ટ કરો"
+
+#: inc/shortcode_docs.php:51
+msgid "ban ->"
+msgstr ""
+
+#: inc/shortcode_docs.php:51
+msgid "Ban"
+msgstr "પ્રતિબંધ"
+
+#: inc/shortcode_docs.php:52
+msgid "archive ->"
+msgstr ""
+
+#: inc/shortcode_docs.php:52
+msgid "To make a archive or zip"
+msgstr "આર્કાઇવ અથવા ઝિપ બનાવવા માટે"
+
+#: inc/shortcode_docs.php:53
+msgid "extract ->"
+msgstr ""
+
+#: inc/shortcode_docs.php:53
+msgid "Extract archive or zipped file"
+msgstr "આર્કાઇવ અથવા ઝિપ કરેલી ફાઇલને બહાર કાઢો"
+
+#: inc/shortcode_docs.php:54
+msgid "copy ->"
+msgstr ""
+
+#: inc/shortcode_docs.php:54
+msgid "Copy files or folders"
+msgstr "ફાઇલો અથવા ફોલ્ડર્સની નકલ કરો"
+
+#: inc/shortcode_docs.php:58
+msgid "cut ->"
+msgstr ""
+
+#: inc/shortcode_docs.php:58
+msgid "Simple cut a file or folder"
+msgstr "ફાઇલ અથવા ફોલ્ડરને સરળ કાપો"
+
+#: inc/shortcode_docs.php:59
+msgid "edit ->"
+msgstr ""
+
+#: inc/shortcode_docs.php:59
+msgid "Edit a file"
+msgstr "ફાઇલમાં ફેરફાર કરો"
+
+#: inc/shortcode_docs.php:60
+msgid "rm ->"
+msgstr ""
+
+#: inc/shortcode_docs.php:60
+msgid "Remove or delete files and folders"
+msgstr "ફાઇલો અને ફોલ્ડર્સ દૂર કરો અથવા કાઢી નાખો"
+
+#: inc/shortcode_docs.php:61
+msgid "download ->"
+msgstr ""
+
+#: inc/shortcode_docs.php:61
+msgid "Download files"
+msgstr "ફાઇલો ડાઉનલોડ કરો"
+
+#: inc/shortcode_docs.php:62
+msgid "upload ->"
+msgstr ""
+
+#: inc/shortcode_docs.php:62
+msgid "Upload files"
+msgstr "ફાઇલો અપલોડ કરો"
+
+#: inc/shortcode_docs.php:63
+msgid "search -> "
+msgstr ""
+
+#: inc/shortcode_docs.php:63
+msgid "Search things"
+msgstr "વસ્તુઓ શોધો"
+
+#: inc/shortcode_docs.php:64
+msgid "info ->"
+msgstr ""
+
+#: inc/shortcode_docs.php:64
+msgid "Info of file"
+msgstr "ફાઇલની માહિતી"
+
+#: inc/shortcode_docs.php:65
+msgid "help ->"
+msgstr ""
+
+#: inc/shortcode_docs.php:65
+msgid "Help"
+msgstr "મદદ"
+
+#: inc/shortcode_docs.php:71
+msgid ""
+"->  It will ban particular users by just putting their ids seprated by commas(,). If user is Ban then they "
+"will not able to access wp file manager on front end."
+msgstr ""
+"-> તે ચોક્કસ વપરાશકર્તાઓને અલ્પવિરામ (,) દ્વારા અલગ કરાયેલ તેમના આઈડી મૂકીને પ્રતિબંધિત કરશે. જો વપરાશકર્તા પ્રતિબંધિત છે તો "
+"તેઓ આગળના છેડે wp ફાઇલ મેનેજરને ઍક્સેસ કરી શકશે નહીં."
+
+#: inc/shortcode_docs.php:72
+msgid "-> Filemanager UI View. Default: grid"
+msgstr "-> ફાઇલમેનેજર UI વ્યૂ. ડિફૉલ્ટ: ગ્રીડ"
+
+#: inc/shortcode_docs.php:73
+msgid "-> File Modified or Create date format. Default: d M, Y h:i A"
+msgstr "-> ફાઇલ સંશોધિત અથવા તારીખ ફોર્મેટ બનાવો. ડિફોલ્ટ: d M, Y h:i A"
+
+#: inc/shortcode_docs.php:74
+msgid "-> File manager Language. Default: English(en)"
+msgstr "-> ફાઇલ મેનેજર ભાષા. મૂળભૂત: અંગ્રેજી(en)"
+
+#: inc/shortcode_docs.php:75
+msgid "-> File Manager Theme. Default: Light"
+msgstr "-> ફાઇલ મેનેજર થીમ. મૂળભૂત: પ્રકાશ"
+
+#: inc/system_properties.php:5
+msgid "File Manager - System Properties"
+msgstr "ફાઇલ મેનેજર - સિસ્ટમ ગુણધર્મો"
+
+#: inc/system_properties.php:10
+msgid "PHP version"
+msgstr "PHP આવૃત્તિ"
+
+#: inc/system_properties.php:15
+msgid "Maximum file upload size (upload_max_filesize)"
+msgstr "મહત્તમ ફાઇલ અપલોડ કદ (અપલોડ_માક્સ_ફાઇલેસીઝ) "
+
+#: inc/system_properties.php:20
+msgid "Post maximum file upload size (post_max_size)"
+msgstr "મહત્તમ ફાઇલ અપલોડ કદ પોસ્ટ કરો (પોસ્ટ_મેક્સ_સાઇઝ)"
+
+#: inc/system_properties.php:25
+msgid "Memory Limit (memory_limit)"
+msgstr "મેમરી મર્યાદા (memory_limit)"
+
+#: inc/system_properties.php:30
+msgid "Timeout (max_execution_time)"
+msgstr "સમયસમાપ્તિ (max_execution_time)"
+
+#: inc/system_properties.php:35
+msgid "Browser and OS (HTTP_USER_AGENT)"
+msgstr "બ્રાઉઝર અને OS (HTTP_USER_AGENT)"
+
+#: lib/jquery/jquery-ui-1.11.4.js:8
+msgid "'"
+msgstr ""
+
+#: lib/wpfilemanager.php:31
+msgid "Change Theme Here:"
+msgstr "થીમ અહીં બદલો:"
+
+#: lib/wpfilemanager.php:35
+msgid "Default"
+msgstr "ડિફૉલ્ટ"
+
+#: lib/wpfilemanager.php:39
+msgid "Dark"
+msgstr "શ્યામ"
+
+#: lib/wpfilemanager.php:43
+msgid "Light"
+msgstr "પ્રકાશ"
+
+#: lib/wpfilemanager.php:47
+msgid "Gray"
+msgstr "ભૂખરા"
+
+#: lib/wpfilemanager.php:52
+msgid "Windows - 10"
+msgstr ""
+
+#: lib/wpfilemanager.php:85
+msgid "Welcome to File Manager"
+msgstr "ફાઇલ મેનેજરમાં આપનું સ્વાગત છે"
+
+#: lib/wpfilemanager.php:88
+msgid ""
+"We love making new friends! Subscribe below and we promise to\n"
+"    keep you up-to-date with our latest new plugins, updates,\n"
+"    awesome deals and a few special offers."
+msgstr ""
+"અમને નવા મિત્રો બનાવવાનું ગમે છે! નીચે સબ્સ્ક્રાઇબ કરો અને અમે તમને અમારા નવીનતમ નવા પ્લગિન્સ, અપડેટ્સ, અદ્ભુત ડીલ્સ અને કેટલીક "
+"વિશેષ ઑફર્સ સાથે અપ-ટૂ-ડેટ રાખવાનું વચન આપીએ છીએ."
+
+#: lib/wpfilemanager.php:99
+msgid "Please Enter First Name."
+msgstr "કૃપા કરીને પ્રથમ નામ દાખલ કરો."
+
+#: lib/wpfilemanager.php:107
+msgid "Please Enter Last Name."
+msgstr "કૃપા કરીને છેલ્લું નામ દાખલ કરો."
+
+#: lib/wpfilemanager.php:116
+msgid "Please Enter Email Address."
+msgstr "કૃપા કરીને ઇમેઇલ સરનામું દાખલ કરો."
+
+#: lib/wpfilemanager.php:120
+msgid "Verify"
+msgstr "ચકાસો"
+
+#: lib/wpfilemanager.php:126
+msgid "No Thanks"
+msgstr "ના આભાર"
+
+#: lib/wpfilemanager.php:132
+msgid "Terms of Service"
+msgstr "સેવાની શરતો"
+
+#: lib/wpfilemanager.php:134
+msgid "Privacy Policy"
+msgstr "ગોપનીયતા નીતિ"
+
+#: lib/wpfilemanager.php:153
+msgid "Saving..."
+msgstr "સાચવી રહ્યું છે..."
+
+#: lib/wpfilemanager.php:155
+msgid "OK"
+msgstr "બરાબર"
+
+#~ msgid "Manage your WP files."
+#~ msgstr "તમારા WP ફાઇલો મેનેજ કરો"
+
+#~ msgid "Extensions"
+#~ msgstr "એક્સ્ટેન્શન્સ"
+
+#~ msgid "Please contribute some donation, to make plugin more stable. You can pay amount of your choice."
+#~ msgstr "પ્લગઇન વધુ સ્થિર બનાવવા માટે, કેટલાક દાન ફાળો કૃપા કરીને. તમે તમારી પસંદગીની રકમ ચૂકવી શકો છો"

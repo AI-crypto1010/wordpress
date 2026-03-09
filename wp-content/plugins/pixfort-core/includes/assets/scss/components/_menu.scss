@@ -1,0 +1,28 @@
+.pix-menu-element {
+    --pix-menu-color: var(--pix-body-default);
+    --pix-menu-title-color: var(--pix-heading-default);
+    .text-custom-nav-color {
+        color: var(--pix-menu-color) !important;
+    }
+    .title-custom-nav-color {
+        color: var(--pix-menu-title-color) !important;
+    }
+
+    .dropdown-item {
+        &:hover,
+        &:focus,
+        &:active {
+            background-color: color-mix(in srgb, transparent 95%, var(--pix-menu-color));
+            color: color-mix(in srgb, var(--pix-menu-color) 90%, transparent  10%) !important;
+
+            .pix-dropdown-title,
+            .pix-dropdown-title::after,
+            &::after {
+                color: color-mix(in srgb, var(--pix-menu-color) 90%, transparent 10%) !important;
+            }
+        }
+        &.pix-nav-link:hover {
+            color: color-mix(in srgb, var(--pix-menu-color) 90%, transparent 10%) !important;
+        }
+	}
+}

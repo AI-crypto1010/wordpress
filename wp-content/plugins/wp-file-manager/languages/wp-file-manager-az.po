@@ -1,0 +1,1008 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WP File Manager\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-02-25 15:19+0530\n"
+"PO-Revision-Date: 2022-02-28 14:51+0530\n"
+"Last-Translator: admin <kajal.gill@mysenseinc.in>\n"
+"Language-Team: \n"
+"Language: az\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Poedit 3.0.1\n"
+"X-Poedit-KeywordsList: __;_e;esc_attr__\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: file_folder_manager.php:174
+msgid "Themes backup restored successfully."
+msgstr "Temaların yedəklənməsi uğurla bərpa edildi."
+
+#: file_folder_manager.php:177
+msgid "Unable to restore themes."
+msgstr "Temaları bərpa etmək mümkün deyil."
+
+#: file_folder_manager.php:207
+msgid "Uploads backup restored successfully."
+msgstr "Yüklənmə ehtiyatı uğurla bərpa edildi."
+
+#: file_folder_manager.php:211
+msgid "Unable to restore uploads."
+msgstr "Yüklənmələri bərpa etmək mümkün deyil."
+
+#: file_folder_manager.php:237
+msgid "Others backup restored successfully."
+msgstr "Digərləri uğurla bərpa edildi."
+
+#: file_folder_manager.php:241
+msgid "Unable to restore others."
+msgstr "Başqalarını bərpa etmək mümkün deyil."
+
+#: file_folder_manager.php:267
+msgid "Plugins backup restored successfully."
+msgstr "Plugins backup uğurla bərpa edildi."
+
+#: file_folder_manager.php:271 file_folder_manager.php:301
+msgid "Unable to restore plugins."
+msgstr "Plaginləri bərpa etmək mümkün deyil."
+
+#: file_folder_manager.php:286
+msgid "Database backup restored successfully."
+msgstr "Verilənlər bazası ehtiyatla bərpa edildi."
+
+#: file_folder_manager.php:286 file_folder_manager.php:297
+#: file_folder_manager.php:588 file_folder_manager.php:592
+msgid "All Done"
+msgstr "Hər şey hazırdır"
+
+#: file_folder_manager.php:289
+msgid "Unable to restore DB backup."
+msgstr "DB ehtiyatını bərpa etmək mümkün deyil."
+
+#: file_folder_manager.php:347
+msgid "Backups removed successfully!"
+msgstr "Yedəklər uğurla silindi!"
+
+#: file_folder_manager.php:349
+msgid "Unable to removed backup!"
+msgstr "Yedək silinmədi!"
+
+#: file_folder_manager.php:373
+msgid "Database backup done on date "
+msgstr "Verilənlər bazasının yedəklənməsi tarixdə edildi "
+
+#: file_folder_manager.php:377
+msgid "Plugins backup done on date "
+msgstr "Plugins ehtiyatı tarixdə edildi "
+
+#: file_folder_manager.php:381
+msgid "Themes backup done on date "
+msgstr "Mövzular yedəkləmə tarixində edildi "
+
+#: file_folder_manager.php:385
+msgid "Uploads backup done on date "
+msgstr "Tarixdə yükləmələrin yedəklənməsi "
+
+#: file_folder_manager.php:389
+msgid "Others backup done on date "
+msgstr "Digərləri tarixdə həyata keçirilmişdir "
+
+#: file_folder_manager.php:393 file_folder_manager.php:776
+msgid "Logs"
+msgstr "Qeydlər"
+
+#: file_folder_manager.php:399
+msgid "No logs found!"
+msgstr "Günlük tapılmadı!"
+
+#: file_folder_manager.php:496
+msgid "Nothing selected for backup"
+msgstr "Yedəkləmə üçün heç nə seçilməyib"
+
+#: file_folder_manager.php:516
+msgid "Security Issue."
+msgstr "Təhlükəsizlik Problemi."
+
+#: file_folder_manager.php:527
+msgid "Database backup done."
+msgstr "Verilənlər bazasının ehtiyat nüsxəsi tamamlandı."
+
+#: file_folder_manager.php:530
+msgid "Unable to create database backup."
+msgstr "Verilənlər bazası ehtiyat nüsxəsini yaratmaq mümkün deyil."
+
+#: file_folder_manager.php:544
+msgid "Plugins backup done."
+msgstr "Pluginlərin ehtiyat nüsxəsi tamamlandı."
+
+#: file_folder_manager.php:547
+msgid "Plugins backup failed."
+msgstr "Pluginlərin ehtiyat nüsxəsi alınmadı."
+
+#: file_folder_manager.php:556
+msgid "Themes backup done."
+msgstr "Mövzuların yedəklənməsi tamamlandı."
+
+#: file_folder_manager.php:559
+msgid "Themes backup failed."
+msgstr "Mövzuların yedəklənməsi alınmadı."
+
+#: file_folder_manager.php:569
+msgid "Uploads backup done."
+msgstr "Yükləmələrin ehtiyat nüsxəsi tamamlandı."
+
+#: file_folder_manager.php:572
+msgid "Uploads backup failed."
+msgstr "Yükləmələrin ehtiyat nüsxəsi alınmadı."
+
+#: file_folder_manager.php:581
+msgid "Others backup done."
+msgstr "Digərlərinin yedəkləməsi tamamlandı."
+
+#: file_folder_manager.php:584
+msgid "Others backup failed."
+msgstr "Digərlərinin yedəkləməsi uğursuz oldu."
+
+#: file_folder_manager.php:761 file_folder_manager.php:762
+#: lib/wpfilemanager.php:23
+msgid "WP File Manager"
+msgstr "WP Fayl meneceri"
+
+#: file_folder_manager.php:769
+msgid "Settings"
+msgstr "Ayarlar"
+
+#: file_folder_manager.php:771 inc/root.php:48
+msgid "Preferences"
+msgstr "Üstünlüklər"
+
+#: file_folder_manager.php:773
+msgid "System Properties"
+msgstr "Sistemin xüsusiyyətləri"
+
+#: file_folder_manager.php:775
+msgid "Shortcode - PRO"
+msgstr "Qısa kod - PRO"
+
+#: file_folder_manager.php:777
+msgid "Backup/Restore"
+msgstr "Yedəkləyin/bərpa edin"
+
+#: file_folder_manager.php:1033
+msgid "Buy Pro"
+msgstr "Pro satın alın"
+
+#: file_folder_manager.php:1034
+msgid "Donate"
+msgstr "Bağışlayın"
+
+#: file_folder_manager.php:1249
+msgid ""
+"<div class=\"updated settings-error notice is-dismissible\" id=\"setting-"
+"error-settings_updated\"> \n"
+"<p><strong>"
+msgstr ""
+
+#: file_folder_manager.php:1256
+msgid ""
+"<div class=\"error settings-error notice is-dismissible\" id=\"setting-error-"
+"settings_updated\"> \n"
+"<p><strong>"
+msgstr ""
+
+#: file_folder_manager.php:1395 file_folder_manager.php:1483
+msgid "File doesn't exist to download."
+msgstr "Fayl yükləmək üçün mövcud deyil."
+
+#: file_folder_manager.php:1400 file_folder_manager.php:1488
+msgid "Invalid Security Code."
+msgstr "Yanlış Təhlükəsizlik Kodu."
+
+#: file_folder_manager.php:1405 file_folder_manager.php:1493
+msgid "Missing backup id."
+msgstr "Ehtiyat id nömrəsi yoxdur."
+
+#: file_folder_manager.php:1408 file_folder_manager.php:1496
+msgid "Missing parameter type."
+msgstr "Parametr növü yoxdur."
+
+#: file_folder_manager.php:1411 file_folder_manager.php:1499
+msgid "Missing required parameters."
+msgstr "Lazımi parametrlər yoxdur."
+
+#: inc/backup.php:24
+msgid ""
+"Error: Unable to restore backup because database backup is heavy in size. "
+"Please try to increase Maximum allowed size  from Preferences settings."
+msgstr ""
+"Xəta: Verilənlər bazasının ehtiyat nüsxəsinin ölçüsü çox olduğundan ehtiyat "
+"nüsxəni bərpa etmək mümkün deyil. Lütfən, Üstünlüklər ayarlarından icazə "
+"verilən maksimum ölçüsü artırmağa çalışın."
+
+#: inc/backup.php:25
+msgid "Select backup(s) to delete!"
+msgstr "Silmək üçün ehtiyat nüsxə(lər) seçin!"
+
+#: inc/backup.php:26
+msgid "Are you sure want to remove selected backup(s)?"
+msgstr "Seçilmiş yedəkləri silmək istədiyinizə əminsiniz?"
+
+#: inc/backup.php:31
+msgid "Backup is running, please wait"
+msgstr "Yedəkləmə işləyir, xahiş edirəm gözləyin"
+
+#: inc/backup.php:32
+msgid "Restore is running, please wait"
+msgstr "Bərpa işləyir, lütfən gözləyin"
+
+#: inc/backup.php:33
+msgid "Nothing selected for backup."
+msgstr "Yedəkləmə üçün heç nə seçilməyib."
+
+#: inc/backup.php:45
+msgid "WP File Manager - Backup/Restore"
+msgstr "WP Fayl meneceri - Yedəkləmə / Geri Yükləmə"
+
+#: inc/backup.php:51
+msgid "Backup Options:"
+msgstr "Yedəkləmə Seçimləri:"
+
+#: inc/backup.php:58
+msgid "Database Backup"
+msgstr "Database Backup"
+
+#: inc/backup.php:64
+msgid "Files Backup"
+msgstr "Faylların Yedəklənməsi"
+
+#: inc/backup.php:68
+msgid "Plugins"
+msgstr "Plugins"
+
+#: inc/backup.php:71
+msgid "Themes"
+msgstr "Themes"
+
+#: inc/backup.php:74
+msgid "Uploads"
+msgstr "Yükləmələr"
+
+#: inc/backup.php:77
+msgid "Others (Any other directories found inside wp-content)"
+msgstr "Digərləri (wp-məzmunun içərisində olan digər bütün qovluqlar)"
+
+#: inc/backup.php:81
+msgid "Backup Now"
+msgstr "İndi yedəkləyin"
+
+#: inc/backup.php:89
+msgid "Time now"
+msgstr "İndi vaxt"
+
+#: inc/backup.php:99
+msgid "SUCCESS"
+msgstr "UĞUR"
+
+#: inc/backup.php:101
+msgid "Backup successfully deleted."
+msgstr "Yedəkləmə uğurla silindi."
+
+#: inc/backup.php:102
+msgid "Ok"
+msgstr "Tamam"
+
+#: inc/backup.php:117
+msgid "DELETE FILES"
+msgstr "DOSYALARI SİLİN"
+
+#: inc/backup.php:119
+msgid "Are you sure you want to delete this backup?"
+msgstr "Bu ehtiyatı silmək istədiyinizə əminsiniz?"
+
+#: inc/backup.php:120 inc/backup.php:139
+msgid "Cancel"
+msgstr "Ləğv et"
+
+#: inc/backup.php:121 inc/backup.php:140
+msgid "Confirm"
+msgstr "Təsdiqləyin"
+
+#: inc/backup.php:136
+msgid "RESTORE FILES"
+msgstr "DOSYALARI QARATIN"
+
+#: inc/backup.php:138
+msgid "Are you sure you want to restore this backup?"
+msgstr "Bu nüsxəni bərpa etmək istədiyinizə əminsiniz?"
+
+#: inc/backup.php:166
+msgid "Last Log Message"
+msgstr "Son Giriş Mesajı"
+
+#: inc/backup.php:169
+msgid "The backup apparently succeeded and is now complete."
+msgstr "Yedəkləmə aydın oldu və indi tamamlandı."
+
+#: inc/backup.php:171
+msgid "No log message"
+msgstr "Giriş mesajı yoxdur"
+
+#: inc/backup.php:177
+msgid "Existing Backup(s)"
+msgstr "Mövcud Yedək (lər)"
+
+#: inc/backup.php:184
+msgid "Backup Date"
+msgstr "Yedəkləmə tarixi"
+
+#: inc/backup.php:187
+msgid "Backup data (click to download)"
+msgstr "Yedək məlumatları (yükləmək üçün vurun)"
+
+#: inc/backup.php:190
+msgid "Action"
+msgstr "Fəaliyyət"
+
+#: inc/backup.php:210
+msgid "Today"
+msgstr "Bu gün"
+
+#: inc/backup.php:239
+msgid "Restore"
+msgstr "Bərpa edin"
+
+#: inc/backup.php:240 inc/backup.php:250
+msgid "Delete"
+msgstr "Sil"
+
+#: inc/backup.php:241
+msgid "View Log"
+msgstr "Girişə baxın"
+
+#: inc/backup.php:246
+msgid "Currently no backup(s) found."
+msgstr "Hal hazırda heç bir ehtiyat (lər) tapılmadı."
+
+#: inc/backup.php:249
+msgid "Actions upon selected backup(s)"
+msgstr "Seçilmiş yedek (lər) lə bağlı əməliyyatlar"
+
+#: inc/backup.php:251
+msgid "Select All"
+msgstr "Hamısını seç"
+
+#: inc/backup.php:252
+msgid "Deselect"
+msgstr "Seçimi ləğv edin"
+
+#: inc/backup.php:254
+msgid "Note:"
+msgstr "Qeyd:"
+
+#: inc/backup.php:254
+msgid "Backup files will be under"
+msgstr "Yedək faylları altında olacaq"
+
+#: inc/contribute.php:3
+msgid "WP File Manager Contribution"
+msgstr "WP Fayl meneceri qatqısı"
+
+#: inc/logs.php:7
+msgid ""
+"Note: These are demo screenshots. Please buy File Manager pro to Logs "
+"functions."
+msgstr ""
+"Qeyd: Bunlar demo ekran şəkilləridir. Zəhmət olmasa Qeydlər funksiyaları "
+"üçün File Manager pro məhsulunu alın."
+
+#: inc/logs.php:8 lib/wpfilemanager.php:24
+msgid "Click to Buy PRO"
+msgstr "PRO Almaq üçün klikləyin"
+
+#: inc/logs.php:8 inc/settings.php:12 inc/settings.php:27
+#: inc/system_properties.php:5 lib/wpfilemanager.php:25
+msgid "Buy PRO"
+msgstr "PRO alın"
+
+#: inc/logs.php:9
+msgid "Edit Files Logs"
+msgstr "Faylların qeydlərini redaktə edin"
+
+#: inc/logs.php:11
+msgid "Download Files Logs"
+msgstr "Faylların qeydlərini yükləyin"
+
+#: inc/logs.php:13
+msgid "Upload Files Logs"
+msgstr "Fayl qeydlərini yükləyin"
+
+#: inc/root.php:43
+msgid "Settings saved."
+msgstr "Parametrlər yadda saxlandı."
+
+#: inc/root.php:43 inc/root.php:46
+msgid "Dismiss this notice."
+msgstr "Bu bildirişi rədd edin."
+
+#: inc/root.php:46
+msgid "You have not made any changes to be saved."
+msgstr "Qurtarmaq üçün heç bir dəyişiklik etməmisiniz."
+
+#: inc/root.php:55
+msgid "Public Root Path"
+msgstr "İctimai Kök Yolu"
+
+#: inc/root.php:58
+msgid "File Manager Root Path, you can change according to your choice."
+msgstr "File Manager Kök Yolu, seçiminizə görə dəyişə bilərsiniz."
+
+#: inc/root.php:59
+msgid "Default:"
+msgstr "Defolt:"
+
+#: inc/root.php:60
+msgid ""
+"Please change this carefully, wrong path can lead file manager plugin to go "
+"down."
+msgstr ""
+"Xahiş edirəm bunu diqqətlə dəyişdirin, səhv yol fayl meneceri plagininin "
+"enməsinə səbəb ola bilər."
+
+#: inc/root.php:64
+msgid "Enable Trash?"
+msgstr "Zibil qutusu aktiv edilsin?"
+
+#: inc/root.php:67
+msgid "After enable trash, your files will go to trash folder."
+msgstr ""
+"Zibil qutusunu aktivləşdirdikdən sonra sənədləriniz zibil qovluğuna gedəcək."
+
+#: inc/root.php:72
+msgid "Enable Files Upload to Media Library?"
+msgstr "Faylları Media Kitabxanasına yükləməyi aktivləşdirin?"
+
+#: inc/root.php:75
+msgid "After enabling this all files will go to media library."
+msgstr ""
+"Bunu təmin etdikdən sonra bütün fayllar media kitabxanasına gedəcəkdir."
+
+#: inc/root.php:80
+msgid "Maximum allowed size at the time of database backup restore."
+msgstr ""
+"Verilənlər bazası ehtiyat nüsxəsinin bərpası zamanı icazə verilən maksimum "
+"ölçü."
+
+#: inc/root.php:83
+msgid "MB"
+msgstr ""
+
+#: inc/root.php:85
+msgid ""
+"Please increase field value if you are getting error message at the time of "
+"backup restore."
+msgstr ""
+"Zəhmət olmasa, ehtiyat nüsxəsinin bərpası zamanı xəta mesajı alırsınızsa, "
+"sahənin dəyərini artırın."
+
+#: inc/root.php:90
+msgid "Save Changes"
+msgstr "Dəyişiklikləri yadda saxla"
+
+#: inc/settings.php:10
+msgid "Settings - General"
+msgstr "Stellings - General"
+
+#: inc/settings.php:11 inc/settings.php:26
+msgid ""
+"Note: This is just a demo screenshot. To get settings please buy our pro "
+"version."
+msgstr ""
+"Qeyd: Bu yalnız bir demo ekran görüntüsüdür. Ayarları almaq üçün pro "
+"versiyasını satın al."
+
+#: inc/settings.php:13
+msgid ""
+"Here admin can give access to user roles to use filemanager. Admin can set "
+"Default Access Folder and also control upload size of filemanager."
+msgstr ""
+"Burada admin filemanager istifadə etmək üçün istifadəçi rollarına çıxış verə "
+"bilər. Administrator Default Access Qovluqunu təyin edə bilər və filemanager "
+"yükləmə ölçüsünü də idarə edə bilər."
+
+#: inc/settings.php:15
+msgid "Settings - Code-editor"
+msgstr "Ayarlar - kod redaktoru"
+
+#: inc/settings.php:16
+msgid ""
+"File Manager has a code editor with multiple themes. You can select any "
+"theme for code editor. It will display when you edit any file. Also you can "
+"allow fullscreen mode of code editor."
+msgstr ""
+"Dosya menecerində bir çox mövzuda bir kod redaktoru var. Kod redaktoru üçün "
+"hər hansı bir mövzu seçə bilərsiniz. Hər hansı bir faylı düzəldən zaman "
+"göstərilir. Həmçinin, tam ekran rejimində kod redaktoruna icazə verə "
+"bilərsiniz."
+
+#: inc/settings.php:18
+msgid "Code-editor View"
+msgstr "Kod redaktoru"
+
+#: inc/settings.php:20
+msgid "Settings - User Restrictions"
+msgstr "Ayarlar - İstifadəçi məhdudiyyətləri"
+
+#: inc/settings.php:21
+msgid ""
+"Admin can restrict actions of any user. Also hide files and folders and can "
+"set different - different folders paths for different users."
+msgstr ""
+"Admin hər hansı bir istifadəçinin hərəkətlərini məhdudlaşdıra bilər. "
+"Həmçinin faylları və qovluqları gizləyin və fərqli istifadəçilər üçün fərqli "
+"qovluq yollarını təyin edə bilərsiniz."
+
+#: inc/settings.php:23
+msgid "Settings - User Role Restrictions"
+msgstr "Ayarlar - İstifadəçi rolu məhdudiyyətləri"
+
+#: inc/settings.php:24
+msgid ""
+"Admin can restrict actions of any userrole. Also hide files and folders and "
+"can set different - different folders paths for different users roles."
+msgstr ""
+"Admin hər hansı bir userrole hərəkətini məhdudlaşdıra bilər. Həmçinin "
+"faylları və qovluqları gizləyin və fərqli istifadəçi rolları üçün fərqli "
+"qovluq yollarını təyin edə bilərsiniz."
+
+#: inc/shortcode_docs.php:11
+msgid "File Manager - Shortcode"
+msgstr "Fayl meneceri - Qisa kod"
+
+#: inc/shortcode_docs.php:15 inc/shortcode_docs.php:17
+#: inc/shortcode_docs.php:19
+msgid "USE:"
+msgstr "İSTİFADƏ:"
+
+#: inc/shortcode_docs.php:15
+msgid ""
+"It will show file manager on front end. You can control all settings from "
+"file manager settings. It will work same as backend WP File Manager."
+msgstr ""
+"Ön tərəfdə fayl menecerini göstərəcək. Siz fayl meneceri parametrlərindən "
+"bütün parametrlərə nəzarət edə bilərsiniz. Backend WP Fayl meneceri ilə eyni "
+"işləyəcək."
+
+#: inc/shortcode_docs.php:17
+msgid ""
+"It will show file manager on front end. But only Administrator can access it "
+"and will control from file manager settings."
+msgstr ""
+"Ön tərəfdə fayl menecerini göstərəcək. Ancaq yalnız Administrator ona daxil "
+"ola bilər və fayl meneceri parametrlərindən idarə edəcək."
+
+#: inc/shortcode_docs.php:23
+msgid "Parameters:"
+msgstr "Parametrlər:"
+
+#: inc/shortcode_docs.php:26
+msgid ""
+"It will allow all roles to access file manager on front end or You can "
+"simple use for particular user roles as like allowed_roles=\"editor,author"
+"\" (seprated by comma(,))"
+msgstr ""
+"Bu, bütün rolların ön tərəfdəki fayl menecerinə daxil olmasına imkan verəcək "
+"və ya siz allow_roles=\"editor,author\" (vergül(,) ilə ayrılmış) kimi xüsusi "
+"istifadəçi rolları üçün sadə istifadə edə bilərsiniz."
+
+#: inc/shortcode_docs.php:28
+msgid ""
+"Here \"test\" is the name of folder which is located on root directory, or "
+"you can give path for sub folders as like \"wp-content/plugins\". If leave "
+"blank or empty it will access all folders on root directory. Default: Root "
+"directory"
+msgstr ""
+"Burada \"test\" kök kataloqda yerləşən qovluğun adıdır və ya alt qovluqlar "
+"üçün \"wp-content/plugins\" kimi yol verə bilərsiniz. Boş və ya boş "
+"qoysanız, o, kök kataloqdakı bütün qovluqlara daxil olacaq. Defolt: Kök "
+"kataloqu"
+
+#: inc/shortcode_docs.php:30
+msgid "for access to write files permissions, note: true/false, default: false"
+msgstr ""
+"faylları yazmaq icazələri üçün qeyd edin: doğru/yanlış, standart: yanlış"
+
+#: inc/shortcode_docs.php:32
+msgid "for access to read files permission, note: true/false, default: true"
+msgstr "faylları oxumaq icazəsi üçün qeyd edin: true/false, default: true"
+
+#: inc/shortcode_docs.php:34
+msgid "it will hide mentioned here. Note: seprated by comma(,). Default: Null"
+msgstr ""
+"burada qeyd olunan gizlənəcək. Qeyd: vergül(,) ilə ayrılır. Defolt: Null"
+
+#: inc/shortcode_docs.php:36
+msgid ""
+"It will lock mentioned in commas. you can lock more as like \".php,.css,.js"
+"\" etc. Default: Null"
+msgstr ""
+"Vergüllə qeyd olunan kilidlənəcək. daha çox \".php,.css,.js\" və s. kimi "
+"kilidləyə bilərsiniz. Defolt: Null"
+
+#: inc/shortcode_docs.php:38
+msgid ""
+"* for all operations and to allow some operation you can mention operation "
+"name as like, allowed_operations=\"upload,download\". Note: seprated by "
+"comma(,). Default: *"
+msgstr ""
+"* bütün əməliyyatlar üçün və bəzi əməliyyatlara icazə vermək üçün əməliyyat "
+"adını, allow_operations=\"yüklə, endir\" kimi qeyd edə bilərsiniz. Qeyd: "
+"vergül(,) ilə ayrılır. Defolt: *"
+
+#: inc/shortcode_docs.php:42
+msgid "File Operations List:"
+msgstr "Fayl əməliyyatları siyahısı:"
+
+#: inc/shortcode_docs.php:46
+msgid "mkdir ->"
+msgstr ""
+
+#: inc/shortcode_docs.php:46
+msgid "Make directory or folder"
+msgstr "Dizin və ya qovluq yaradın"
+
+#: inc/shortcode_docs.php:47
+msgid "mkfile ->"
+msgstr ""
+
+#: inc/shortcode_docs.php:47
+msgid "Make file"
+msgstr "Fayl edin"
+
+#: inc/shortcode_docs.php:48
+msgid "rename ->"
+msgstr ""
+
+#: inc/shortcode_docs.php:48
+msgid "Rename a file or folder"
+msgstr "Bir faylı və ya qovluğu dəyişdirin"
+
+#: inc/shortcode_docs.php:49
+msgid "duplicate ->"
+msgstr ""
+
+#: inc/shortcode_docs.php:49
+msgid "Duplicate or clone a folder or file"
+msgstr "Bir qovluğu və ya dosyanı kopyalayın və ya klonlayın"
+
+#: inc/shortcode_docs.php:50
+msgid "paste ->"
+msgstr ""
+
+#: inc/shortcode_docs.php:50
+msgid "Paste a file or folder"
+msgstr "Bir faylı və ya qovluğu yapışdırın"
+
+#: inc/shortcode_docs.php:51
+msgid "ban ->"
+msgstr ""
+
+#: inc/shortcode_docs.php:51
+msgid "Ban"
+msgstr "Qadağa"
+
+#: inc/shortcode_docs.php:52
+msgid "archive ->"
+msgstr ""
+
+#: inc/shortcode_docs.php:52
+msgid "To make a archive or zip"
+msgstr "Arxiv və ya zip etmək"
+
+#: inc/shortcode_docs.php:53
+msgid "extract ->"
+msgstr ""
+
+#: inc/shortcode_docs.php:53
+msgid "Extract archive or zipped file"
+msgstr "Arxivi və ya sıxılmış faylı çıxarın"
+
+#: inc/shortcode_docs.php:54
+msgid "copy ->"
+msgstr ""
+
+#: inc/shortcode_docs.php:54
+msgid "Copy files or folders"
+msgstr "Faylları və ya qovluqları kopyalayın"
+
+#: inc/shortcode_docs.php:58
+msgid "cut ->"
+msgstr ""
+
+#: inc/shortcode_docs.php:58
+msgid "Simple cut a file or folder"
+msgstr "Sadə bir fayl və ya qovluq kəsdi"
+
+#: inc/shortcode_docs.php:59
+msgid "edit ->"
+msgstr ""
+
+#: inc/shortcode_docs.php:59
+msgid "Edit a file"
+msgstr "Bir faylı redaktə edin"
+
+#: inc/shortcode_docs.php:60
+msgid "rm ->"
+msgstr ""
+
+#: inc/shortcode_docs.php:60
+msgid "Remove or delete files and folders"
+msgstr "Faylları və qovluqları silin və ya silin"
+
+#: inc/shortcode_docs.php:61
+msgid "download ->"
+msgstr ""
+
+#: inc/shortcode_docs.php:61
+msgid "Download files"
+msgstr "Faylları yükləyin"
+
+#: inc/shortcode_docs.php:62
+msgid "upload ->"
+msgstr ""
+
+#: inc/shortcode_docs.php:62
+msgid "Upload files"
+msgstr "Faylları yükləyin"
+
+#: inc/shortcode_docs.php:63
+msgid "search -> "
+msgstr ""
+
+#: inc/shortcode_docs.php:63
+msgid "Search things"
+msgstr "Şeyi axtarın"
+
+#: inc/shortcode_docs.php:64
+msgid "info ->"
+msgstr ""
+
+#: inc/shortcode_docs.php:64
+msgid "Info of file"
+msgstr "Fayl haqqında məlumat"
+
+#: inc/shortcode_docs.php:65
+msgid "help ->"
+msgstr ""
+
+#: inc/shortcode_docs.php:65
+msgid "Help"
+msgstr "Kömək edin"
+
+#: inc/shortcode_docs.php:71
+msgid ""
+"->  It will ban particular users by just putting their ids seprated by "
+"commas(,). If user is Ban then they will not able to access wp file manager "
+"on front end."
+msgstr ""
+"-> Şəxsi identifikatorlarını vergüllə (,) ayıraraq xüsusi istifadəçiləri "
+"qadağan edəcəkdir. İstifadəçi qadağandırsa, əvvəldən wp fayl menecerinə "
+"daxil ola bilməyəcəklər."
+
+#: inc/shortcode_docs.php:72
+msgid "-> Filemanager UI View. Default: grid"
+msgstr "-> Filemanager UI Görünüşü. Varsayılan: şəbəkə"
+
+#: inc/shortcode_docs.php:73
+msgid "-> File Modified or Create date format. Default: d M, Y h:i A"
+msgstr ""
+"-> Dəyişdirilmiş Fayl və ya tarix formatı yaradın. Varsayılan: d M, Y h: i A"
+
+#: inc/shortcode_docs.php:74
+msgid "-> File manager Language. Default: English(en)"
+msgstr "-> Fayl meneceri dili. Varsayılan: İngilis dili (az)"
+
+#: inc/shortcode_docs.php:75
+msgid "-> File Manager Theme. Default: Light"
+msgstr "-> Fayl Meneceri Teması. Varsayılan: Yüngül"
+
+#: inc/system_properties.php:5
+msgid "File Manager - System Properties"
+msgstr "Fayl meneceri - Sistem xüsusiyyətləri"
+
+#: inc/system_properties.php:10
+msgid "PHP version"
+msgstr "PHP versiyası"
+
+#: inc/system_properties.php:15
+msgid "Maximum file upload size (upload_max_filesize)"
+msgstr "Maksimum fayl yükləmə ölçüsü (upload_max_filesize)"
+
+#: inc/system_properties.php:20
+msgid "Post maximum file upload size (post_max_size)"
+msgstr "Maksimum fayl yükləmə ölçüsünü göndərin (post_max_size)"
+
+#: inc/system_properties.php:25
+msgid "Memory Limit (memory_limit)"
+msgstr "Yaddaş Limiti (memory_limit)"
+
+#: inc/system_properties.php:30
+msgid "Timeout (max_execution_time)"
+msgstr "Təminat (max_execution_time)"
+
+#: inc/system_properties.php:35
+msgid "Browser and OS (HTTP_USER_AGENT)"
+msgstr "Brauzer və OS (HTTP_USER_AGENT)"
+
+#: lib/jquery/jquery-ui-1.11.4.js:8
+msgid "'"
+msgstr ""
+
+#: lib/wpfilemanager.php:31
+msgid "Change Theme Here:"
+msgstr "Mövzunu dəyişdirin:"
+
+#: lib/wpfilemanager.php:35
+msgid "Default"
+msgstr "Defolt"
+
+#: lib/wpfilemanager.php:39
+msgid "Dark"
+msgstr "Qaranlıq"
+
+#: lib/wpfilemanager.php:43
+msgid "Light"
+msgstr "İşıq"
+
+#: lib/wpfilemanager.php:47
+msgid "Gray"
+msgstr "Boz"
+
+#: lib/wpfilemanager.php:52
+msgid "Windows - 10"
+msgstr ""
+
+#: lib/wpfilemanager.php:85
+msgid "Welcome to File Manager"
+msgstr "Fayl menecerinə xoş gəlmisiniz"
+
+#: lib/wpfilemanager.php:88
+msgid ""
+"We love making new friends! Subscribe below and we promise to\n"
+"    keep you up-to-date with our latest new plugins, updates,\n"
+"    awesome deals and a few special offers."
+msgstr ""
+"Yeni dostlar qazanmağı sevirik! Aşağıdakı abunə olun və söz veririk\n"
+"    ən son yeni eklentilərimizi, yeniləmələrimizi,\n"
+"    zəhmli sövdələşmələr və bir neçə xüsusi təklif."
+
+#: lib/wpfilemanager.php:99
+msgid "Please Enter First Name."
+msgstr "Zəhmət olmasa Adınızı daxil edin."
+
+#: lib/wpfilemanager.php:107
+msgid "Please Enter Last Name."
+msgstr "Zəhmət olmasa soyadınızı daxil edin."
+
+#: lib/wpfilemanager.php:116
+msgid "Please Enter Email Address."
+msgstr "Zəhmət olmasa elektron poçt ünvanınızı daxil edin."
+
+#: lib/wpfilemanager.php:120
+msgid "Verify"
+msgstr "Doğrulayın"
+
+#: lib/wpfilemanager.php:126
+msgid "No Thanks"
+msgstr "Xeyr, təşəkkürlər"
+
+#: lib/wpfilemanager.php:132
+msgid "Terms of Service"
+msgstr "Xidmət Şərtləri"
+
+#: lib/wpfilemanager.php:134
+msgid "Privacy Policy"
+msgstr "Gizlilik Siyasəti"
+
+#: lib/wpfilemanager.php:153
+msgid "Saving..."
+msgstr "Yadda saxlanır ..."
+
+#: lib/wpfilemanager.php:155
+msgid "OK"
+msgstr "tamam"
+
+#~ msgid "Backup not found!"
+#~ msgstr "Yedək tapılmadı!"
+
+#~ msgid "Backup removed successfully!"
+#~ msgstr "Yedəkləmə uğurla silindi!"
+
+#~ msgid "<span class=\"fm_console_error\">Nothing selected for backup</span>"
+#~ msgstr ""
+#~ "<span class=\"fm_console_error\">Yedəkləmə üçün heç bir şey seçilmədi</"
+#~ "span>"
+
+#~ msgid "<span class=\"fm_console_error\">Security Issue.</span>"
+#~ msgstr "<span class=\"fm_console_error\">Təhlükəsizlik Məsələsi. </span>"
+
+#~ msgid "<span class=\"fm_console_success\">Database backup done.</span>"
+#~ msgstr ""
+#~ "<span class=\"fm_console_success\">Verilənlər bazasının yedəklənməsi "
+#~ "aparıldı.</span>"
+
+#~ msgid ""
+#~ "<span class=\"fm_console_error\">Unable to create database backup.</span>"
+#~ msgstr ""
+#~ "<span class=\"fm_console_error\">Verilənlər bazası ehtiyatı yaratmaq "
+#~ "mümkün deyil.</span>"
+
+#~ msgid "<span class=\"fm_console_success\">Plugins backup done.</span>"
+#~ msgstr ""
+#~ "<span class=\"fm_console_success\">Eklentilərin yedəklənməsi aparıldı. </"
+#~ "span>"
+
+#~ msgid "<span class=\"fm_console_error\">Plugins backup failed.</span>"
+#~ msgstr ""
+#~ "<span class=\"fm_console_error\">Eklentilərin ehtiyat nüsxəsi alınmadı. </"
+#~ "span>"
+
+#~ msgid "<span class=\"fm_console_success\">Themes backup done.</span>"
+#~ msgstr ""
+#~ "<span class=\"fm_console_success\">Temaların yedəklənməsi aparıldı. </"
+#~ "span>"
+
+#~ msgid "<span class=\"fm_console_error\">Themes backup failed.</span>"
+#~ msgstr ""
+#~ "<span class=\"fm_console_error\">Temaların yedəklənməsi uğursuz oldu. </"
+#~ "span>"
+
+#~ msgid "<span class=\"fm_console_success\">Uploads backup done.</span>"
+#~ msgstr ""
+#~ "<span class=\"fm_console_success\">Yükləmələrin yedəklənməsi tamamlandı. "
+#~ "</span>"
+
+#~ msgid "<span class=\"fm_console_error\">Uploads backup failed.</span>"
+#~ msgstr ""
+#~ "<span class=\"fm_console_error\">Yükləmələrin yedəklənməsi uğursuz oldu. "
+#~ "</span>"
+
+#~ msgid "<span class=\"fm_console_success\">Others backup done.</span>"
+#~ msgstr ""
+#~ "<span class=\"fm_console_success\">Digərlərinin ehtiyatı hazırlandı.</"
+#~ "span>"
+
+#~ msgid "<span class=\"fm_console_error\">Others backup failed.</span>"
+#~ msgstr ""
+#~ "<span class=\"fm_console_error\">Digərlərinin ehtiyat nüsxəsi alınmadı. </"
+#~ "span>"
+
+#~ msgid "<span class=\"fm_console_success\">All Done</span>"
+#~ msgstr "<span class=\"fm_console_success\">Hər şey bitdi </span>"
+
+#~ msgid ""
+#~ "<code>[wp_file_manager view=\"list\" lang=\"en\" theme=\"light\" "
+#~ "dateformat=\"d M, Y h:i A\" allowed_roles=\"editor,author\" access_folder="
+#~ "\"wp-content/plugins\" write = \"true\" read = \"false\" hide_files = "
+#~ "\"kumar,abc.php\" lock_extensions=\".php,.css\" allowed_operations="
+#~ "\"upload,download\" ban_user_ids=\"2,3\"]"
+#~ msgstr ""
+#~ "<code> [wp_file_manager view = \"list\" lang = \"en\" theme = \"light\" "
+#~ "dateformat = \"d M, Y h: i A\" allow_roles = \"editor, author\" "
+#~ "access_folder = \"wp-content / plugins\" write = \"true\" read = \"false"
+#~ "\" hide_files = \"kumar, abc.php\" lock_extensions = \". php, .css\" "
+#~ "icazə_operations = \"yüklə, yüklə\" ban_user_ids = \"2,3\"]"
+
+#~ msgid "Manage your WP files."
+#~ msgstr "WP fayllarınızı idarə edin."
+
+#~ msgid "Extensions"
+#~ msgstr "Extensions"
+
+#~ msgid ""
+#~ "Please contribute some donation, to make plugin more stable. You can pay "
+#~ "amount of your choice."
+#~ msgstr ""
+#~ "Plugin daha sabit olmasını təmin etmək üçün, bəzi donorlara kömək edin. "
+#~ "Seçdiyiniz məbləği ödəyə bilərsiniz."

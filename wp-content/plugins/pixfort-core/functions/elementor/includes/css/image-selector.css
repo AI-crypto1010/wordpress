@@ -1,0 +1,16 @@
+.elementor-control-image-selector-wrapper input[type="radio"] {
+	display: none;
+}
+.elementor-label-block .elementor-control-image-selector-wrapper{
+	width: 100%;
+	margin-top: 10px;
+}
+.elementor-control-image-selector-wrapper .elementor-image-selector-label {
+	display: inline-block;
+	border: 3px solid transparent;
+	cursor: pointer;
+	overflow: hidden;
+}
+.elementor-control-image-selector-wrapper input:checked+.elementor-image-selector-label {
+	border: 3px solid #a4afb7;
+}

@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="40" height="34" viewBox="0 0 40 34">
+  <defs>
+    <rect id="elements-icon-a" width="18" height="15" x="0" y="0" rx="2"/>
+    <rect id="elements-icon-c" width="18" height="15" x="0" y="0" rx="2"/>
+    <rect id="elements-icon-e" width="18" height="15" x="0" y="0" rx="2"/>
+  </defs>
+  <g fill="none" fill-rule="evenodd">
+    <mask id="elements-icon-b" fill="#fff">
+      <use xlink:href="#elements-icon-a"/>
+    </mask>
+    <use fill="#555" xlink:href="#elements-icon-a"/>
+    <rect width="18" height="5" y="10" fill="#3A3A3A" mask="url(#elements-icon-b)"/>
+    <g transform="translate(0 19)">
+      <mask id="elements-icon-d" fill="#fff">
+        <use xlink:href="#elements-icon-c"/>
+      </mask>
+      <use fill="#555" xlink:href="#elements-icon-c"/>
+      <rect width="18" height="5" y="10" fill="#3A3A3A" mask="url(#elements-icon-d)"/>
+    </g>
+    <g transform="translate(22)">
+      <mask id="elements-icon-f" fill="#fff">
+        <use xlink:href="#elements-icon-e"/>
+      </mask>
+      <use fill="#555" xlink:href="#elements-icon-e"/>
+      <rect width="18" height="5" y="10" fill="#3A3A3A" mask="url(#elements-icon-f)"/>
+    </g>
+    <path fill="#FFF" fill-rule="nonzero" d="M33.9344262,24.954918 C34.2349742,24.954918 34.4877039,25.0539608 34.692623,25.2520492 C34.897542,25.4501376 35,25.699452 35,26 C35,26.300548 34.897542,26.5532777 34.692623,26.7581967 C34.4877039,26.9631158 34.2349742,27.0655738 33.9344262,27.0655738 L31.0655738,27.0655738 L31.0655738,29.954918 C31.0655738,30.255466 30.9631158,30.5047804 30.7581967,30.7028689 C30.5532777,30.9009573 30.300548,31 30,31 C29.699452,31 29.4467223,30.9009573 29.2418033,30.7028689 C29.0368842,30.5047804 28.9344262,30.255466 28.9344262,29.954918 L28.9344262,27.0655738 L26.0655738,27.0655738 C25.7650258,27.0655738 25.5122961,26.9631158 25.307377,26.7581967 C25.102458,26.5532777 25,26.300548 25,26 C25,25.699452 25.102458,25.4501376 25.307377,25.2520492 C25.5122961,25.0539608 25.7650258,24.954918 26.0655738,24.954918 L28.9344262,24.954918 L28.9344262,22.0655738 C28.9344262,21.7650258 29.0368842,21.5122961 29.2418033,21.307377 C29.4467223,21.102458 29.699452,21 30,21 C30.300548,21 30.5532777,21.102458 30.7581967,21.307377 C30.9631158,21.5122961 31.0655738,21.7650258 31.0655738,22.0655738 L31.0655738,24.954918 L33.9344262,24.954918 Z"/>
+  </g>
+</svg>

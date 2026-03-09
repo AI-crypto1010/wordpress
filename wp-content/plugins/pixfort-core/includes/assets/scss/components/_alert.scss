@@ -1,0 +1,15 @@
+@mixin alert-variant($background, $border, $color) {
+	color: $color;
+	border-color: $border;
+	background: $background;
+}
+
+// Alternate styles
+//
+// Generate contextual modifier classes for colorizing the alert.
+.alert-primary {
+	@include alert-variant(theme-color-level('primary', $alert-bg-level), theme-color-level('primary', $alert-border-level), theme-color-level('primary', $alert-color-level));
+}
+.alert-secondary {
+	@include alert-variant(theme-color-level('secondary', $alert-bg-level), theme-color-level('secondary', $alert-border-level), theme-color-level('secondary', $alert-color-level));
+}

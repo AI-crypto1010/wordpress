@@ -1,0 +1,35 @@
+// Typography
+
+@mixin text-emphasis-variant($parent, $name, $color) {
+    #{$parent} {
+        // color: $color !important;
+        color: var(--pix-#{$name}) !important;
+    }
+    a#{$parent} {
+        @include hover-focus {
+            color: darken($color, 15%) !important;
+        }
+    }
+}
+@mixin text-emphasis-transparent-variant($parent, $color, $opacity, $name) {
+    #{$parent} {
+        color: rgba($color, $opacity) !important;
+    }
+
+    a#{$parent} {
+        // @include hover-focus {
+        //     color: rgba(darken($color, 15%), $opacity) !important;
+        // }
+        &:hover,
+        &:focus,
+        &:active {
+            color: rgba(darken($color, 20%), $opacity) !important;
+        }
+        &.btn span:before {
+            background: rgba($color, $opacity) !important;
+        }
+    }
+
+    $new-color: ( $name: rgba($color, $opacity));
+
+}

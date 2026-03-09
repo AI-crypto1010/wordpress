@@ -1,0 +1,29 @@
+// Contextual backgrounds
+
+@mixin bg-variant($parent, $color) {
+	#{$parent} {
+		--pix-bg-color: #{$color};
+		// background-color: $color !important;
+		// background-color: var(--pix-bg-color) !important;
+	}
+}
+@mixin bg-dynamic-variant($parent, $name, $color) {
+	#{$parent} {
+		--pix-bg-color: var(--pix-#{$name}, #{$color});
+	}
+}
+
+@mixin bg-transparent-variant($parent, $color, $opacity) {
+	#{$parent} {
+		--pix-bg-color: #{rgba($color, $opacity)};
+		// background-color: rgba($color, $opacity) !important;
+	}
+}
+
+@mixin bg-transparent-dark-variant($parent, $color, $opacity) {
+	$opacity100: $opacity * 100%;
+	#{$parent} {
+		--pix-bg-color: color-mix(in srgb, var(--pix-primary-muted) $opacity100, transparent) !important;
+		// background-color: rgba($color, $opacity) !important;
+	}
+}

@@ -1,0 +1,2713 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Theme Editor Pro\n"
+"POT-Creation-Date: 2022-02-28 11:25+0530\n"
+"PO-Revision-Date: 2022-02-28 11:28+0530\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: sk_SK\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n>=2 && n<=4 ? 1 : 2);\n"
+"X-Generator: Poedit 3.0.1\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: __;_e;esc_attr__;esc_html__\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: file_folder_manager.php:174
+msgid "Themes backup restored successfully."
+msgstr "Zálohovanie motívov bolo úspešne obnovené."
+
+#: file_folder_manager.php:177
+msgid "Unable to restore themes."
+msgstr "Témy sa nepodarilo obnoviť."
+
+#: file_folder_manager.php:207
+msgid "Uploads backup restored successfully."
+msgstr "Zálohovanie nahrávok bolo úspešne obnovené."
+
+#: file_folder_manager.php:211
+msgid "Unable to restore uploads."
+msgstr "Nepodarilo sa obnoviť nahrané súbory."
+
+#: file_folder_manager.php:237
+msgid "Others backup restored successfully."
+msgstr "Záloha ostatných bola úspešne obnovená."
+
+#: file_folder_manager.php:241
+msgid "Unable to restore others."
+msgstr "Nie je možné obnoviť ostatných."
+
+#: file_folder_manager.php:267
+msgid "Plugins backup restored successfully."
+msgstr "Záloha doplnkov bola úspešne obnovená."
+
+#: file_folder_manager.php:271 file_folder_manager.php:301
+msgid "Unable to restore plugins."
+msgstr "Nepodarilo sa obnoviť doplnky."
+
+#: file_folder_manager.php:286
+msgid "Database backup restored successfully."
+msgstr "Záloha databázy bola úspešne obnovená."
+
+#: file_folder_manager.php:286 file_folder_manager.php:297
+#: file_folder_manager.php:588 file_folder_manager.php:592
+msgid "All Done"
+msgstr "Všetko hotové"
+
+#: file_folder_manager.php:289
+msgid "Unable to restore DB backup."
+msgstr "Nie je možné obnoviť zálohu databázy."
+
+#: file_folder_manager.php:347
+msgid "Backups removed successfully!"
+msgstr "Zálohy boli úspešne odstránené!"
+
+#: file_folder_manager.php:349
+msgid "Unable to removed backup!"
+msgstr "Zálohu sa nepodarilo odstrániť!"
+
+#: file_folder_manager.php:373
+msgid "Database backup done on date "
+msgstr "Zálohovanie databázy vykonané k dátumu "
+
+#: file_folder_manager.php:377
+msgid "Plugins backup done on date "
+msgstr "Zálohovanie doplnkov bolo vykonané k dátumu "
+
+#: file_folder_manager.php:381
+msgid "Themes backup done on date "
+msgstr "Zálohovanie motívov bolo vykonané k dátumu "
+
+#: file_folder_manager.php:385
+msgid "Uploads backup done on date "
+msgstr "Zálohy nahrávania boli vykonané k dátumu "
+
+#: file_folder_manager.php:389
+msgid "Others backup done on date "
+msgstr "Ostatné zálohovanie vykonané k dátumu "
+
+#: file_folder_manager.php:393 file_folder_manager.php:776
+msgid "Logs"
+msgstr "Záznamy"
+
+#: file_folder_manager.php:399
+msgid "No logs found!"
+msgstr "Nenašli sa žiadne protokoly!"
+
+#: file_folder_manager.php:496
+msgid "Nothing selected for backup"
+msgstr "Na zálohovanie nebolo vybraté nič"
+
+#: file_folder_manager.php:516
+msgid "Security Issue."
+msgstr "Bezpečnostný problém."
+
+#: file_folder_manager.php:527
+msgid "Database backup done."
+msgstr "Záloha databázy dokončená."
+
+#: file_folder_manager.php:530
+msgid "Unable to create database backup."
+msgstr "Nie je možné vytvoriť zálohu databázy."
+
+#: file_folder_manager.php:544
+msgid "Plugins backup done."
+msgstr "Zálohovanie pluginov je hotové."
+
+#: file_folder_manager.php:547
+msgid "Plugins backup failed."
+msgstr "Zálohovanie doplnkov zlyhalo."
+
+#: file_folder_manager.php:556
+msgid "Themes backup done."
+msgstr "Zálohovanie tém je hotové."
+
+#: file_folder_manager.php:559
+msgid "Themes backup failed."
+msgstr "Zálohovanie motívov zlyhalo."
+
+#: file_folder_manager.php:569
+msgid "Uploads backup done."
+msgstr "Záloha nahrávania bola dokončená."
+
+#: file_folder_manager.php:572
+msgid "Uploads backup failed."
+msgstr "Zálohovanie nahrávania zlyhalo."
+
+#: file_folder_manager.php:581
+msgid "Others backup done."
+msgstr "Ostatné zálohovanie hotovo."
+
+#: file_folder_manager.php:584
+msgid "Others backup failed."
+msgstr "Iné zálohovanie zlyhalo."
+
+#: file_folder_manager.php:761 file_folder_manager.php:762
+#: lib/wpfilemanager.php:23
+msgid "WP File Manager"
+msgstr "Správca súborov WP"
+
+#: file_folder_manager.php:769
+msgid "Settings"
+msgstr "nastavenie"
+
+#: file_folder_manager.php:771 inc/root.php:48
+msgid "Preferences"
+msgstr "Predvoľby"
+
+#: file_folder_manager.php:773
+msgid "System Properties"
+msgstr "Vlastnosti systému"
+
+#: file_folder_manager.php:775
+msgid "Shortcode - PRO"
+msgstr "Krátky kód - PRO"
+
+#: file_folder_manager.php:777
+msgid "Backup/Restore"
+msgstr "Zálohovanie/obnovenie"
+
+#: file_folder_manager.php:1033
+msgid "Buy Pro"
+msgstr "Kúpte si Pro"
+
+#: file_folder_manager.php:1034
+msgid "Donate"
+msgstr "Prispieť"
+
+#: file_folder_manager.php:1249
+msgid ""
+"<div class=\"updated settings-error notice is-dismissible\" id=\"setting-"
+"error-settings_updated\"> \n"
+"<p><strong>"
+msgstr ""
+
+#: file_folder_manager.php:1256
+msgid ""
+"<div class=\"error settings-error notice is-dismissible\" id=\"setting-error-"
+"settings_updated\"> \n"
+"<p><strong>"
+msgstr ""
+
+#: file_folder_manager.php:1395 file_folder_manager.php:1483
+msgid "File doesn't exist to download."
+msgstr "Súbor neexistuje na stiahnutie."
+
+#: file_folder_manager.php:1400 file_folder_manager.php:1488
+msgid "Invalid Security Code."
+msgstr "Neplatný bezpečnostný kód."
+
+#: file_folder_manager.php:1405 file_folder_manager.php:1493
+msgid "Missing backup id."
+msgstr "Chýba záložné ID."
+
+#: file_folder_manager.php:1408 file_folder_manager.php:1496
+msgid "Missing parameter type."
+msgstr "Chýba typ parametra."
+
+#: file_folder_manager.php:1411 file_folder_manager.php:1499
+msgid "Missing required parameters."
+msgstr "Chýbajú požadované parametre."
+
+#: inc/backup.php:24
+msgid ""
+"Error: Unable to restore backup because database backup is heavy in size. "
+"Please try to increase Maximum allowed size  from Preferences settings."
+msgstr ""
+"Chyba: Zálohu nie je možné obnoviť, pretože záloha databázy má veľkú "
+"veľkosť. Skúste zvýšiť maximálnu povolenú veľkosť v nastaveniach predvolieb."
+
+#: inc/backup.php:25
+msgid "Select backup(s) to delete!"
+msgstr "Vyberte zálohy, ktoré chcete odstrániť!"
+
+#: inc/backup.php:26
+msgid "Are you sure want to remove selected backup(s)?"
+msgstr "Naozaj chcete odstrániť vybraté zálohy?"
+
+#: inc/backup.php:31
+msgid "Backup is running, please wait"
+msgstr "Zálohovanie je spustené, čakajte prosím"
+
+#: inc/backup.php:32
+msgid "Restore is running, please wait"
+msgstr "Obnovenie je spustené, čakajte"
+
+#: inc/backup.php:33
+msgid "Nothing selected for backup."
+msgstr "Na zálohovanie nebolo vybraté nič."
+
+#: inc/backup.php:45
+msgid "WP File Manager - Backup/Restore"
+msgstr "Správca súborov WP - zálohovanie / obnovenie"
+
+#: inc/backup.php:51
+msgid "Backup Options:"
+msgstr "Možnosti zálohovania:"
+
+#: inc/backup.php:58
+msgid "Database Backup"
+msgstr "Zálohovanie databázy"
+
+#: inc/backup.php:64
+msgid "Files Backup"
+msgstr "Zálohovanie súborov"
+
+#: inc/backup.php:68
+msgid "Plugins"
+msgstr "Pluginy"
+
+#: inc/backup.php:71
+msgid "Themes"
+msgstr "Témy"
+
+#: inc/backup.php:74
+msgid "Uploads"
+msgstr "Načítania"
+
+#: inc/backup.php:77
+msgid "Others (Any other directories found inside wp-content)"
+msgstr "Ostatné (Akékoľvek iné adresáre nájdené vo vnútri wp-content)"
+
+#: inc/backup.php:81
+msgid "Backup Now"
+msgstr "Zálohujte teraz"
+
+#: inc/backup.php:89
+msgid "Time now"
+msgstr "Teraz čas"
+
+#: inc/backup.php:99
+msgid "SUCCESS"
+msgstr "ÚSPECH"
+
+#: inc/backup.php:101
+msgid "Backup successfully deleted."
+msgstr "Záloha bola úspešne odstránená."
+
+#: inc/backup.php:102
+msgid "Ok"
+msgstr "Ok"
+
+#: inc/backup.php:117
+msgid "DELETE FILES"
+msgstr "VYMAZAŤ SÚBORY"
+
+#: inc/backup.php:119
+msgid "Are you sure you want to delete this backup?"
+msgstr "Naozaj chcete odstrániť túto zálohu?"
+
+#: inc/backup.php:120 inc/backup.php:139
+msgid "Cancel"
+msgstr "Zrušiť"
+
+#: inc/backup.php:121 inc/backup.php:140
+msgid "Confirm"
+msgstr "Potvrdiť"
+
+#: inc/backup.php:136
+msgid "RESTORE FILES"
+msgstr "OBNOVIŤ SÚBORY"
+
+#: inc/backup.php:138
+msgid "Are you sure you want to restore this backup?"
+msgstr "Naozaj chcete obnoviť túto zálohu?"
+
+#: inc/backup.php:166
+msgid "Last Log Message"
+msgstr "Posledná správa z protokolu"
+
+#: inc/backup.php:169
+msgid "The backup apparently succeeded and is now complete."
+msgstr "Zdá sa, že zálohovanie bolo úspešné a teraz je dokončené."
+
+#: inc/backup.php:171
+msgid "No log message"
+msgstr "Žiadna správa z denníka"
+
+#: inc/backup.php:177
+msgid "Existing Backup(s)"
+msgstr "Existujúce zálohy"
+
+#: inc/backup.php:184
+msgid "Backup Date"
+msgstr "Dátum zálohy"
+
+#: inc/backup.php:187
+msgid "Backup data (click to download)"
+msgstr "Záložné údaje (kliknutím ich stiahnete)"
+
+#: inc/backup.php:190
+msgid "Action"
+msgstr "Akcia"
+
+#: inc/backup.php:210
+msgid "Today"
+msgstr "Dnes"
+
+#: inc/backup.php:239
+msgid "Restore"
+msgstr "Obnoviť"
+
+#: inc/backup.php:240 inc/backup.php:250
+msgid "Delete"
+msgstr "Odstrániť"
+
+#: inc/backup.php:241
+msgid "View Log"
+msgstr "Prezrieť záznam"
+
+#: inc/backup.php:246
+msgid "Currently no backup(s) found."
+msgstr "Momentálne sa nenašli žiadne zálohy."
+
+#: inc/backup.php:249
+msgid "Actions upon selected backup(s)"
+msgstr "Akcie pri vybratých zálohách"
+
+#: inc/backup.php:251
+msgid "Select All"
+msgstr "Vybrať všetko"
+
+#: inc/backup.php:252
+msgid "Deselect"
+msgstr "Zrušiť výber"
+
+#: inc/backup.php:254
+msgid "Note:"
+msgstr "Poznámka:"
+
+#: inc/backup.php:254
+msgid "Backup files will be under"
+msgstr "Záložné súbory budú pod"
+
+#: inc/contribute.php:3
+msgid "WP File Manager Contribution"
+msgstr "Príspevok správcu súborov WP"
+
+#: inc/logs.php:7
+msgid ""
+"Note: These are demo screenshots. Please buy File Manager pro to Logs "
+"functions."
+msgstr ""
+"Poznámka: Toto sú ukážkové snímky obrazovky. Zakúpte si funkcie File Manager "
+"pro do denníkov."
+
+#: inc/logs.php:8 lib/wpfilemanager.php:24
+msgid "Click to Buy PRO"
+msgstr "Kliknutím kúpite PRO"
+
+#: inc/logs.php:8 inc/settings.php:12 inc/settings.php:27
+#: inc/system_properties.php:5 lib/wpfilemanager.php:25
+msgid "Buy PRO"
+msgstr "Kúpte si PRO"
+
+#: inc/logs.php:9
+msgid "Edit Files Logs"
+msgstr "Upravte protokoly súborov"
+
+#: inc/logs.php:11
+msgid "Download Files Logs"
+msgstr "Stiahnite si protokoly súborov"
+
+#: inc/logs.php:13
+msgid "Upload Files Logs"
+msgstr "Odovzdajte protokoly súborov"
+
+#: inc/root.php:43
+msgid "Settings saved."
+msgstr "Nastavenia boli uložené."
+
+#: inc/root.php:43 inc/root.php:46
+msgid "Dismiss this notice."
+msgstr "Zamietnuť toto oznámenie."
+
+#: inc/root.php:46
+msgid "You have not made any changes to be saved."
+msgstr "Neurobili ste žiadne zmeny, ktoré by sa dali uložiť."
+
+#: inc/root.php:55
+msgid "Public Root Path"
+msgstr "Verejná koreňová cesta"
+
+#: inc/root.php:58
+msgid "File Manager Root Path, you can change according to your choice."
+msgstr "Root Path File Manager môžete zmeniť podľa vášho výberu."
+
+#: inc/root.php:59
+msgid "Default:"
+msgstr "Predvolená hodnota:"
+
+#: inc/root.php:60
+msgid ""
+"Please change this carefully, wrong path can lead file manager plugin to go "
+"down."
+msgstr ""
+"Zmeňte to opatrne, nesprávna cesta môže viesť doplnok správcu súborov k pádu."
+
+#: inc/root.php:64
+msgid "Enable Trash?"
+msgstr "Povoliť kôš?"
+
+#: inc/root.php:67
+msgid "After enable trash, your files will go to trash folder."
+msgstr "Po povolení koša sa vaše súbory dostanú do priečinka koša."
+
+#: inc/root.php:72
+msgid "Enable Files Upload to Media Library?"
+msgstr "Povoliť nahrávanie súborov do knižnice médií?"
+
+#: inc/root.php:75
+msgid "After enabling this all files will go to media library."
+msgstr "Po povolení tejto možnosti sa všetky súbory dostanú do knižnice médií."
+
+#: inc/root.php:80
+msgid "Maximum allowed size at the time of database backup restore."
+msgstr "Maximálna povolená veľkosť v čase obnovy zálohy databázy."
+
+#: inc/root.php:83
+msgid "MB"
+msgstr ""
+
+#: inc/root.php:85
+msgid ""
+"Please increase field value if you are getting error message at the time of "
+"backup restore."
+msgstr ""
+"Ak sa počas obnovy zálohy zobrazuje chybové hlásenie, zvýšte hodnotu poľa."
+
+#: inc/root.php:90
+msgid "Save Changes"
+msgstr "Uložiť zmeny"
+
+#: inc/settings.php:10
+msgid "Settings - General"
+msgstr "Nastavenia - Všeobecné"
+
+#: inc/settings.php:11 inc/settings.php:26
+msgid ""
+"Note: This is just a demo screenshot. To get settings please buy our pro "
+"version."
+msgstr ""
+"Poznámka: Toto je iba ukážkový screenshot. Ak chcete získať nastavenia, "
+"zakúpte si našu profesionálnu verziu."
+
+#: inc/settings.php:13
+msgid ""
+"Here admin can give access to user roles to use filemanager. Admin can set "
+"Default Access Folder and also control upload size of filemanager."
+msgstr ""
+"Tu môže správca poskytnúť prístup k rolám používateľov na použitie správcu "
+"súborov. Správca môže nastaviť predvolený priečinok prístupu a tiež ovládať "
+"veľkosť nahrávania správcu súborov."
+
+#: inc/settings.php:15
+msgid "Settings - Code-editor"
+msgstr "Nastavenia - editor kódov"
+
+#: inc/settings.php:16
+msgid ""
+"File Manager has a code editor with multiple themes. You can select any "
+"theme for code editor. It will display when you edit any file. Also you can "
+"allow fullscreen mode of code editor."
+msgstr ""
+"Správca súborov má editor kódov s viacerými témami. Pre editor kódu môžete "
+"zvoliť ľubovoľnú tému. Zobrazí sa pri úprave ľubovoľného súboru. Môžete tiež "
+"povoliť režim celej obrazovky editora kódu."
+
+#: inc/settings.php:18
+msgid "Code-editor View"
+msgstr "Zobrazenie editora kódu"
+
+#: inc/settings.php:20
+msgid "Settings - User Restrictions"
+msgstr "Nastavenia - obmedzenia používateľa"
+
+#: inc/settings.php:21
+msgid ""
+"Admin can restrict actions of any user. Also hide files and folders and can "
+"set different - different folders paths for different users."
+msgstr ""
+"Správca môže obmedziť akcie ľubovoľného používateľa. Skryte tiež súbory a "
+"priečinky a môžete nastaviť rôzne cesty rôznych priečinkov pre rôznych "
+"používateľov."
+
+#: inc/settings.php:23
+msgid "Settings - User Role Restrictions"
+msgstr "Nastavenia - obmedzenia roly používateľa"
+
+#: inc/settings.php:24
+msgid ""
+"Admin can restrict actions of any userrole. Also hide files and folders and "
+"can set different - different folders paths for different users roles."
+msgstr ""
+"Správca môže obmedziť akcie ľubovoľnej užívateľskej domény. Skryte tiež "
+"súbory a priečinky a môžete nastaviť rôzne cesty rôznych priečinkov pre "
+"rôzne roly používateľov."
+
+#: inc/shortcode_docs.php:11
+msgid "File Manager - Shortcode"
+msgstr "Správca súborov - krátky kód"
+
+#: inc/shortcode_docs.php:15 inc/shortcode_docs.php:17
+#: inc/shortcode_docs.php:19
+msgid "USE:"
+msgstr "POUŽITIE:"
+
+#: inc/shortcode_docs.php:15
+msgid ""
+"It will show file manager on front end. You can control all settings from "
+"file manager settings. It will work same as backend WP File Manager."
+msgstr ""
+"Na frontende sa zobrazí správca súborov. Všetky nastavenia môžete ovládať z "
+"nastavení správcu súborov. Bude to fungovať rovnako ako backend WP File "
+"Manager."
+
+#: inc/shortcode_docs.php:17
+msgid ""
+"It will show file manager on front end. But only Administrator can access it "
+"and will control from file manager settings."
+msgstr ""
+"Na frontende sa zobrazí správca súborov. Prístup k nemu má však iba správca "
+"a bude ho ovládať z nastavení správcu súborov."
+
+#: inc/shortcode_docs.php:23
+msgid "Parameters:"
+msgstr "Parametre:"
+
+#: inc/shortcode_docs.php:26
+msgid ""
+"It will allow all roles to access file manager on front end or You can "
+"simple use for particular user roles as like allowed_roles=\"editor,author"
+"\" (seprated by comma(,))"
+msgstr ""
+"Umožní všetkým rolám prístup k správcovi súborov na frontende alebo môžete "
+"jednoducho použiť pre konkrétne používateľské roly, ako napríklad "
+"allow_roles=\"editor,author\" (oddelené čiarkou(,))"
+
+#: inc/shortcode_docs.php:28
+msgid ""
+"Here \"test\" is the name of folder which is located on root directory, or "
+"you can give path for sub folders as like \"wp-content/plugins\". If leave "
+"blank or empty it will access all folders on root directory. Default: Root "
+"directory"
+msgstr ""
+"Tu je \"test\" názov priečinka, ktorý sa nachádza v koreňovom adresári, "
+"alebo môžete zadať cestu pre podpriečinky ako \"wp-content/plugins\". Ak "
+"necháte prázdne alebo prázdne, pristúpi sa ku všetkým priečinkom v koreňovom "
+"adresári. Predvolené: Koreňový adresár"
+
+#: inc/shortcode_docs.php:30
+msgid "for access to write files permissions, note: true/false, default: false"
+msgstr ""
+"pre prístup k oprávneniam na zapisovanie súborov, poznámka: true/false, "
+"default: false"
+
+#: inc/shortcode_docs.php:32
+msgid "for access to read files permission, note: true/false, default: true"
+msgstr ""
+"pre povolenie prístupu na čítanie súborov, poznámka: true/false, predvolená "
+"hodnota: true"
+
+#: inc/shortcode_docs.php:34
+msgid "it will hide mentioned here. Note: seprated by comma(,). Default: Null"
+msgstr ""
+"skryje sa tu spomínané. Poznámka: oddelené čiarkou (,). Predvolená hodnota: "
+"Null"
+
+#: inc/shortcode_docs.php:36
+msgid ""
+"It will lock mentioned in commas. you can lock more as like \".php,.css,.js"
+"\" etc. Default: Null"
+msgstr ""
+"Zamkne sa uvedené v čiarkach. môžete uzamknúť viac ako napríklad \".php,."
+"css,.js\" atď. Predvolená hodnota: Null"
+
+#: inc/shortcode_docs.php:38
+msgid ""
+"* for all operations and to allow some operation you can mention operation "
+"name as like, allowed_operations=\"upload,download\". Note: seprated by "
+"comma(,). Default: *"
+msgstr ""
+"* pre všetky operácie a na umožnenie niektorých operácií môžete uviesť názov "
+"operácie ako like, allow_operations=\"upload,download\". Poznámka: oddelené "
+"čiarkou (,). Predvolené: *"
+
+#: inc/shortcode_docs.php:42
+msgid "File Operations List:"
+msgstr "Zoznam operácií so súbormi:"
+
+#: inc/shortcode_docs.php:46
+msgid "mkdir ->"
+msgstr ""
+
+#: inc/shortcode_docs.php:46
+msgid "Make directory or folder"
+msgstr "Vytvorte adresár alebo priečinok"
+
+#: inc/shortcode_docs.php:47
+msgid "mkfile ->"
+msgstr ""
+
+#: inc/shortcode_docs.php:47
+msgid "Make file"
+msgstr "Vytvorte súbor"
+
+#: inc/shortcode_docs.php:48
+msgid "rename ->"
+msgstr ""
+
+#: inc/shortcode_docs.php:48
+msgid "Rename a file or folder"
+msgstr "Premenujte súbor alebo priečinok"
+
+#: inc/shortcode_docs.php:49
+msgid "duplicate ->"
+msgstr ""
+
+#: inc/shortcode_docs.php:49
+msgid "Duplicate or clone a folder or file"
+msgstr "Duplikujte alebo klonujte priečinok alebo súbor"
+
+#: inc/shortcode_docs.php:50
+msgid "paste ->"
+msgstr ""
+
+#: inc/shortcode_docs.php:50
+msgid "Paste a file or folder"
+msgstr "Prilepte súbor alebo priečinok"
+
+#: inc/shortcode_docs.php:51
+msgid "ban ->"
+msgstr ""
+
+#: inc/shortcode_docs.php:51
+msgid "Ban"
+msgstr "Ban"
+
+#: inc/shortcode_docs.php:52
+msgid "archive ->"
+msgstr ""
+
+#: inc/shortcode_docs.php:52
+msgid "To make a archive or zip"
+msgstr "Vytvorenie archívu alebo zipu"
+
+#: inc/shortcode_docs.php:53
+msgid "extract ->"
+msgstr ""
+
+#: inc/shortcode_docs.php:53
+msgid "Extract archive or zipped file"
+msgstr "Extrahujte archív alebo komprimovaný súbor"
+
+#: inc/shortcode_docs.php:54
+msgid "copy ->"
+msgstr ""
+
+#: inc/shortcode_docs.php:54
+msgid "Copy files or folders"
+msgstr "Kopírujte súbory alebo priečinky"
+
+#: inc/shortcode_docs.php:58
+msgid "cut ->"
+msgstr ""
+
+#: inc/shortcode_docs.php:58
+msgid "Simple cut a file or folder"
+msgstr "Jednoduché vyrezanie súboru alebo priečinka"
+
+#: inc/shortcode_docs.php:59
+msgid "edit ->"
+msgstr ""
+
+#: inc/shortcode_docs.php:59
+msgid "Edit a file"
+msgstr "Upravte súbor"
+
+#: inc/shortcode_docs.php:60
+msgid "rm ->"
+msgstr ""
+
+#: inc/shortcode_docs.php:60
+msgid "Remove or delete files and folders"
+msgstr "Odstráňte alebo odstráňte súbory a priečinky"
+
+#: inc/shortcode_docs.php:61
+msgid "download ->"
+msgstr ""
+
+#: inc/shortcode_docs.php:61
+msgid "Download files"
+msgstr "Stiahnutie súborov"
+
+#: inc/shortcode_docs.php:62
+msgid "upload ->"
+msgstr ""
+
+#: inc/shortcode_docs.php:62
+msgid "Upload files"
+msgstr "Nahrať súbory"
+
+#: inc/shortcode_docs.php:63
+msgid "search -> "
+msgstr ""
+
+#: inc/shortcode_docs.php:63
+msgid "Search things"
+msgstr "Hľadajte veci"
+
+#: inc/shortcode_docs.php:64
+msgid "info ->"
+msgstr ""
+
+#: inc/shortcode_docs.php:64
+msgid "Info of file"
+msgstr "Informácie o súbore"
+
+#: inc/shortcode_docs.php:65
+msgid "help ->"
+msgstr ""
+
+#: inc/shortcode_docs.php:65
+msgid "Help"
+msgstr "Pomoc"
+
+#: inc/shortcode_docs.php:71
+msgid ""
+"->  It will ban particular users by just putting their ids seprated by "
+"commas(,). If user is Ban then they will not able to access wp file manager "
+"on front end."
+msgstr ""
+"-> Zakáže konkrétnym používateľom iba vloženie ich identifikátorov "
+"oddelených čiarkami (,). Ak je používateľ Ban, nebude mať prístup k "
+"správcovi súborov wp na klientskom rozhraní."
+
+#: inc/shortcode_docs.php:72
+msgid "-> Filemanager UI View. Default: grid"
+msgstr ""
+"-> Zobrazenie používateľského rozhrania Filemanager. Predvolená hodnota: grid"
+
+#: inc/shortcode_docs.php:73
+msgid "-> File Modified or Create date format. Default: d M, Y h:i A"
+msgstr ""
+"-> Súbor zmenený alebo Vytvoriť formát dátumu. Predvolené: d M, Y h:i A"
+
+#: inc/shortcode_docs.php:74
+msgid "-> File manager Language. Default: English(en)"
+msgstr "-> Jazyk správcu súborov. Predvolená hodnota: English(en)"
+
+#: inc/shortcode_docs.php:75
+msgid "-> File Manager Theme. Default: Light"
+msgstr "-> Téma Správca súborov. Predvolené: Light"
+
+#: inc/system_properties.php:5
+msgid "File Manager - System Properties"
+msgstr "Správca súborov - vlastnosti systému"
+
+#: inc/system_properties.php:10
+msgid "PHP version"
+msgstr "Verzia PHP"
+
+#: inc/system_properties.php:15
+msgid "Maximum file upload size (upload_max_filesize)"
+msgstr "Maximálna veľkosť nahrávaného súboru (upload_max_filesize)"
+
+#: inc/system_properties.php:20
+msgid "Post maximum file upload size (post_max_size)"
+msgstr "Zverejniť maximálnu veľkosť nahrávaného súboru (post_max_size)"
+
+#: inc/system_properties.php:25
+msgid "Memory Limit (memory_limit)"
+msgstr "Limit pamäte (memory_limit)"
+
+#: inc/system_properties.php:30
+msgid "Timeout (max_execution_time)"
+msgstr "Časový limit (max_execution_time)"
+
+#: inc/system_properties.php:35
+msgid "Browser and OS (HTTP_USER_AGENT)"
+msgstr "Prehliadač a OS (HTTP_USER_AGENT)"
+
+#: lib/jquery/jquery-ui-1.11.4.js:8
+msgid "'"
+msgstr ""
+
+#: lib/wpfilemanager.php:31
+msgid "Change Theme Here:"
+msgstr "Tu zmeniť tému:"
+
+#: lib/wpfilemanager.php:35
+msgid "Default"
+msgstr "Predvolené"
+
+#: lib/wpfilemanager.php:39
+msgid "Dark"
+msgstr "Tma"
+
+#: lib/wpfilemanager.php:43
+msgid "Light"
+msgstr "Svetlo"
+
+#: lib/wpfilemanager.php:47
+msgid "Gray"
+msgstr "Šedá"
+
+#: lib/wpfilemanager.php:52
+msgid "Windows - 10"
+msgstr ""
+
+#: lib/wpfilemanager.php:85
+msgid "Welcome to File Manager"
+msgstr "Vitajte v Správcovi súborov"
+
+#: lib/wpfilemanager.php:88
+msgid ""
+"We love making new friends! Subscribe below and we promise to\n"
+"    keep you up-to-date with our latest new plugins, updates,\n"
+"    awesome deals and a few special offers."
+msgstr ""
+"Radi nadväzujeme nové priateľstvá! Prihláste sa na odber nižšie a sľubujeme\n"
+"    budeme vás informovať o našich najnovších nových doplnkoch, "
+"aktualizáciách,\n"
+"    úžasné ponuky a niekoľko špeciálnych ponúk."
+
+#: lib/wpfilemanager.php:99
+msgid "Please Enter First Name."
+msgstr "Zadajte krstné meno."
+
+#: lib/wpfilemanager.php:107
+msgid "Please Enter Last Name."
+msgstr "Zadajte priezvisko."
+
+#: lib/wpfilemanager.php:116
+msgid "Please Enter Email Address."
+msgstr "Zadajte e-mailovú adresu."
+
+#: lib/wpfilemanager.php:120
+msgid "Verify"
+msgstr "Overiť"
+
+#: lib/wpfilemanager.php:126
+msgid "No Thanks"
+msgstr "Nie ďakujem"
+
+#: lib/wpfilemanager.php:132
+msgid "Terms of Service"
+msgstr "Podmienky služby"
+
+#: lib/wpfilemanager.php:134
+msgid "Privacy Policy"
+msgstr "Zásady ochrany osobných údajov"
+
+#: lib/wpfilemanager.php:153
+msgid "Saving..."
+msgstr "Ukladá sa ..."
+
+#: lib/wpfilemanager.php:155
+msgid "OK"
+msgstr "Ok"
+
+#~ msgid "Backup not found!"
+#~ msgstr "Záloha sa nenašla!"
+
+#~ msgid "Backup removed successfully!"
+#~ msgstr "Záloha bola úspešne odstránená!"
+
+#~ msgid "<span class=\"fm_console_error\">Nothing selected for backup</span>"
+#~ msgstr ""
+#~ "<span class=\"fm_console_error\">Nie je vybraté nič na zálohovanie</span>"
+
+#~ msgid "<span class=\"fm_console_error\">Security Issue.</span>"
+#~ msgstr "<span class=\"fm_console_error\">Problém so zabezpečením. </span>"
+
+#~ msgid "<span class=\"fm_console_success\">Database backup done.</span>"
+#~ msgstr ""
+#~ "<span class=\"fm_console_success\">Zálohovanie databázy je hotové. </span>"
+
+#~ msgid ""
+#~ "<span class=\"fm_console_error\">Unable to create database backup.</span>"
+#~ msgstr ""
+#~ "<span class=\"fm_console_error\">Nie je možné vytvoriť zálohu databázy. </"
+#~ "span>"
+
+#~ msgid "<span class=\"fm_console_success\">Plugins backup done.</span>"
+#~ msgstr ""
+#~ "<span class=\"fm_console_success\">Zálohovanie doplnkov je hotové. </span>"
+
+#~ msgid "<span class=\"fm_console_error\">Plugins backup failed.</span>"
+#~ msgstr ""
+#~ "<span class=\"fm_console_error\">Zálohovanie doplnkov zlyhalo. </span>"
+
+#~ msgid "<span class=\"fm_console_success\">Themes backup done.</span>"
+#~ msgstr ""
+#~ "<span class=\"fm_console_success\">Zálohovanie motívov je hotové. </span>"
+
+#~ msgid "<span class=\"fm_console_error\">Themes backup failed.</span>"
+#~ msgstr ""
+#~ "<span class=\"fm_console_error\">Zálohovanie motívov zlyhalo. </span>"
+
+#~ msgid "<span class=\"fm_console_success\">Uploads backup done.</span>"
+#~ msgstr ""
+#~ "<span class=\"fm_console_success\">Nahrávanie zálohy je hotové. </span>"
+
+#~ msgid "<span class=\"fm_console_error\">Uploads backup failed.</span>"
+#~ msgstr ""
+#~ "<span class=\"fm_console_error\">Zálohovanie nahrávok zlyhalo. </span>"
+
+#~ msgid "<span class=\"fm_console_success\">Others backup done.</span>"
+#~ msgstr ""
+#~ "<span class=\"fm_console_success\">Ostatné zálohovanie hotové. </span>"
+
+#~ msgid "<span class=\"fm_console_error\">Others backup failed.</span>"
+#~ msgstr ""
+#~ "<span class=\"fm_console_error\">Zálohovanie ostatných zlyhalo. </span>"
+
+#~ msgid "<span class=\"fm_console_success\">All Done</span>"
+#~ msgstr "<span class=\"fm_console_success\">Hotovo </span>"
+
+#~ msgid ""
+#~ "<code>[wp_file_manager view=\"list\" lang=\"en\" theme=\"light\" "
+#~ "dateformat=\"d M, Y h:i A\" allowed_roles=\"editor,author\" access_folder="
+#~ "\"wp-content/plugins\" write = \"true\" read = \"false\" hide_files = "
+#~ "\"kumar,abc.php\" lock_extensions=\".php,.css\" allowed_operations="
+#~ "\"upload,download\" ban_user_ids=\"2,3\"]"
+#~ msgstr ""
+#~ "<code>[wp_file_manager view=\"list\" lang=\"en\" theme=\"light\" "
+#~ "dateformat=\"d M, Y h:i A\" allowed_roles=\"editor,author\" access_folder="
+#~ "\"wp-content/plugins\" write = \"true\" read = \"false\" hide_files = "
+#~ "\"kumar,abc.php\" lock_extensions=\".php,.css\" allowed_operations="
+#~ "\"upload,download\" ban_user_ids=\"2,3\"]"
+
+#~ msgid "Image"
+#~ msgstr "Obrázok"
+
+#~ msgid "of"
+#~ msgstr "z"
+
+#~ msgid "Close"
+#~ msgstr "Zavrieť"
+
+#~ msgid ""
+#~ "This feature requires inline frames. You have iframes disabled or your "
+#~ "browser does not support them."
+#~ msgstr ""
+#~ "Táto funkcia vyžaduje vložené rámy. Máte zakázané prvky iframe alebo ich "
+#~ "prehliadač nepodporuje."
+
+#~ msgid "Theme Editor"
+#~ msgstr "Editor tém"
+
+#~ msgid "Plugin Editor"
+#~ msgstr "Editor doplnkov"
+
+#~ msgid "Access Control"
+#~ msgstr "Riadenie prístupu"
+
+#~ msgid "Notify Me"
+#~ msgstr "Upozorni ma"
+
+#~ msgid "Language folder has been downlaoded successfully."
+#~ msgstr "jazyk bol úspešne stiahnutý."
+
+#~ msgid "Language folder failed to downlaod."
+#~ msgstr "Priečinok jazyka sa nepodarilo stiahnuť."
+
+#~ msgid "Security token expired!"
+#~ msgstr "Platnosť bezpečnostného tokenu uplynula!"
+
+#~ msgid " language has been downloaded successfully."
+#~ msgstr "jazyk bol úspešne stiahnutý."
+
+#~ msgid "Currently language "
+#~ msgstr "Momentálne jazyk "
+
+#~ msgid " not available. Please click on the request language link."
+#~ msgstr " nie je k dispozícií. Kliknite na odkaz na požadovaný jazyk."
+
+#~ msgid ""
+#~ "You do not have sufficient permissions to edit plugins for this site."
+#~ msgstr "Na úpravu doplnkov pre tento web nemáte dostatočné povolenie."
+
+#~ msgid "There are no plugins installed on this site."
+#~ msgstr "Na tomto webe nie sú nainštalované žiadne doplnky."
+
+#~ msgid "There are no themes installed on this site."
+#~ msgstr "Na tomto webe nie sú nainštalované žiadne motívy."
+
+#~ msgid "<p class=\"te_error\">Please enter folder name!</p>"
+#~ msgstr "<p class=\"te_error\">Zadajte názov priečinka! </p>"
+
+#~ msgid "<p class=\"te_error\">Please enter file name!</p>"
+#~ msgstr "<p class=\"te_error\">Zadajte názov súboru! </p>"
+
+#~ msgid "Open"
+#~ msgstr "Otvorené"
+
+#~ msgid "Preview"
+#~ msgstr "Náhľad"
+
+#~ msgid "Edit"
+#~ msgstr "Úpravy"
+
+#~ msgid "Are you sure you want to abort the file uploading?"
+#~ msgstr "Naozaj chcete prerušiť nahrávanie súborov?"
+
+#~ msgid "File renamed successfully."
+#~ msgstr "Súbor bol úspešne premenovaný."
+
+#~ msgid "Are you sure you want to delete folder?"
+#~ msgstr "Naozaj chcete odstrániť priečinok?"
+
+#~ msgid "Folder deleted successfully."
+#~ msgstr "Priečinok bol úspešne odstránený."
+
+#~ msgid "File deleted successfully."
+#~ msgstr "Súbor bol úspešne odstránený."
+
+#~ msgid "Folder renamed successfully."
+#~ msgstr "Priečinok bol úspešne premenovaný."
+
+#~ msgid "<p class=\"te_error\">Not allowed more than 30 characters.</p>"
+#~ msgstr "<p class=\"te_error\">Nie je povolených viac ako 30 znakov.</p>"
+
+#~ msgid "Invalid request!"
+#~ msgstr "Neplatná požiadavka!"
+
+#~ msgid "No change in file!"
+#~ msgstr "Žiadna zmena v súbore!"
+
+#~ msgid "File saved successfully!"
+#~ msgstr "Súbor bol úspešne uložený!"
+
+#~ msgid "File not saved!"
+#~ msgstr "Súbor nebol uložený!"
+
+#~ msgid "Unable to verify security token!"
+#~ msgstr "Bezpečnostný token sa nepodarilo overiť!"
+
+#~ msgid "Folder created successfully!"
+#~ msgstr "Priečinok bol úspešne vytvorený!"
+
+#~ msgid "This folder format is not allowed to upload by wordpress!"
+#~ msgstr "Tento formát priečinka nie je povolené nahrávať pomocou wordpressu!"
+
+#~ msgid "Folder already exists!"
+#~ msgstr "Priečinok už existuje!"
+
+#~ msgid "File created successfully!"
+#~ msgstr "Súbor bol úspešne vytvorený!"
+
+#~ msgid "This file extension is not allowed to create!"
+#~ msgstr "Vytváranie tejto prípony súboru nie je povolené!"
+
+#~ msgid "File already exists!"
+#~ msgstr "Súbor už existuje!"
+
+#~ msgid "Please enter a valid file extension!"
+#~ msgstr "Zadajte platnú príponu súboru!"
+
+#~ msgid "Folder does not exists!"
+#~ msgstr "Priečinok neexistuje!"
+
+#~ msgid "Folder deleted successfully!"
+#~ msgstr "Priečinok bol úspešne odstránený!"
+
+#~ msgid "File deleted successfully!"
+#~ msgstr "Súbor bol úspešne odstránený!"
+
+#~ msgid "This file extension is not allowed to upload by wordpress!"
+#~ msgstr "Nahrávanie tejto prípony súboru nie je povolené wordpressom!"
+
+#~ msgid " already exists"
+#~ msgstr " Už existuje"
+
+#~ msgid "File uploaded successfully: Uploaded file path is "
+#~ msgstr "Súbor bol úspešne nahraný: Cesta k nahranému súboru je "
+
+#~ msgid "No file selected"
+#~ msgstr "Nie je vybraný žiadny súbor"
+
+#~ msgid "Unable to rename file! Try again."
+#~ msgstr "Súbor sa nedá premenovať! Skúste to znova."
+
+#~ msgid "Folder renamed successfully!"
+#~ msgstr "Priečinok bol úspešne premenovaný!"
+
+#~ msgid "Please enter correct folder name"
+#~ msgstr "Zadajte správny názov priečinka"
+
+#~ msgid "How can we help?"
+#~ msgstr "Ako môžeme pomôcť?"
+
+#~ msgid "Learning resources, professional support and expert help."
+#~ msgstr "Učebné zdroje, odborná podpora a pomoc odborníkov."
+
+#~ msgid "Documentation"
+#~ msgstr "Dokumentácia"
+
+#~ msgid "Find answers quickly from our comprehensive documentation."
+#~ msgstr "Odpovede rýchlo nájdete v našej komplexnej dokumentácii."
+
+#~ msgid "Learn More"
+#~ msgstr "Uč sa viac"
+
+#~ msgid "Contact Us"
+#~ msgstr "Kontaktuj nás"
+
+#~ msgid "Submit a support ticket for answers on questions you may have."
+#~ msgstr "Odošlite lístok s podporou pre odpovede na vaše otázky."
+
+#~ msgid "Request a Feature"
+#~ msgstr "Vyžiadajte si funkciu"
+
+#~ msgid "Tell us what you want and will add it to our roadmap."
+#~ msgstr "Povedzte nám, čo chcete, a pridá to do nášho plánu."
+
+#~ msgid "Tell us what you think!"
+#~ msgstr "Povedz nám čo si myslíš!"
+
+#~ msgid "Rate and give us a review on Wordpress!"
+#~ msgstr "Ohodnoťte a dajte nám recenziu na Wordpresse!"
+
+#~ msgid "Leave a Review"
+#~ msgstr "Zanechajte recenziu"
+
+#~ msgid "Update"
+#~ msgstr "Aktualizácia"
+
+#~ msgid "Click here to install/update "
+#~ msgstr "Kliknite tu pre inštaláciu / aktualizáciu"
+
+#~ msgid " language translation for Theme Editor."
+#~ msgstr " jazykový preklad pre editor tém."
+
+#~ msgid "Installed"
+#~ msgstr "Nainštalované"
+
+#~ msgid "English is the default language of Theme Editor. "
+#~ msgstr "Predvoleným jazykom editora tém je angličtina. "
+
+#~ msgid "Request "
+#~ msgstr "Žiadosť "
+
+#~ msgid "Click here to request"
+#~ msgstr "Kliknutím tu požiadate"
+
+#~ msgid "language translation for Theme Editor"
+#~ msgstr "jazykový preklad pre editor tém"
+
+#~ msgid "Theme Editor Language:"
+#~ msgstr "Jazyk editora témy:"
+
+#~ msgid " language"
+#~ msgstr " Jazyk"
+
+#~ msgid "Available languages"
+#~ msgstr "Dostupné jazyky"
+
+#~ msgid "Click here to download all available languages."
+#~ msgstr "Kliknutím sem stiahnete všetky dostupné jazyky."
+
+#~ msgid "Request a language"
+#~ msgstr "Vyžiadajte si jazyk"
+
+#~ msgid "Tell us which language you want to add."
+#~ msgstr "Povedzte nám, ktorý jazyk chcete pridať."
+
+#~ msgid "Contact us"
+#~ msgstr "Kontaktuj nás"
+
+#~ msgid "Notifications"
+#~ msgstr "Oznámenia"
+
+#~ msgid ""
+#~ "<strong>Note: This is just a screenshot. Buy PRO Version for this feature."
+#~ "</strong>"
+#~ msgstr ""
+#~ "<strong> Poznámka: Toto je iba snímka obrazovky. Kúpte si pre túto "
+#~ "funkciu verziu PRO. </strong>"
+
+#~ msgid "Permissions"
+#~ msgstr "Povolenia"
+
+#~ msgid "Edit Plugin"
+#~ msgstr "Upraviť doplnok"
+
+#~ msgid ""
+#~ "<strong>This plugin is currently activated!</strong> Warning: Making "
+#~ "changes to active plugins is not recommended.\tIf your changes cause a "
+#~ "fatal error, the plugin will be automatically deactivated."
+#~ msgstr ""
+#~ "<strong> Tento doplnok je momentálne aktivovaný! </strong> Upozornenie: "
+#~ "Vykonávanie zmien v aktívnych doplnkoch sa neodporúča. Ak vaše zmeny "
+#~ "spôsobia závažnú chybu, doplnok sa automaticky deaktivuje."
+
+#~ msgid "Editing <span class=\"current_file\">"
+#~ msgstr "Úpravy <span class=\"current_file\">"
+
+#~ msgid "</span> (active)"
+#~ msgstr "</span> (aktívne)"
+
+#~ msgid "Browsing <span class=\"current_file\">"
+#~ msgstr "Prehliadanie <span class=\"current_file\">"
+
+#~ msgid "</span> (inactive)"
+#~ msgstr "</span> (neaktívne)"
+
+#~ msgid "Update File"
+#~ msgstr "Aktualizovať súbor"
+
+#~ msgid "Download Plugin"
+#~ msgstr "Stiahnite si doplnok"
+
+#~ msgid ""
+#~ "You need to make this file writable before you can save your changes. See "
+#~ "<a href=\"https://wordpress.org/support/article/changing-file-permissions/"
+#~ "\" target=\"_blank\">the Codex</a> for more information."
+#~ msgstr ""
+#~ "Pred uložením zmien musíte do tohto súboru urobiť zápis. Ďalšie "
+#~ "informácie nájdete v <a href=\"https://wordpress.org/support/article/"
+#~ "changing-file-permissions/\" target=\"_blank\"> kódexe </a>."
+
+#~ msgid "Select plugin to edit:"
+#~ msgstr "Vyberte doplnok, ktorý chcete upraviť:"
+
+#~ msgid "Create Folder and File"
+#~ msgstr "Vytvorte priečinok a súbor"
+
+#~ msgid "Create"
+#~ msgstr "Vytvoriť"
+
+#~ msgid "Remove Folder and File"
+#~ msgstr "Odstrániť priečinok a súbor"
+
+#~ msgid "Remove "
+#~ msgstr "Odstrániť"
+
+#~ msgid "To"
+#~ msgstr "To"
+
+#~ msgid "Optional: Sub-Directory"
+#~ msgstr "Voliteľné: podadresár"
+
+#~ msgid "Choose File "
+#~ msgstr "Vyberte súbor"
+
+#~ msgid "No file Chosen "
+#~ msgstr "Žiaden súbor nie je vybraný "
+
+#~ msgid "Create a New Folder: "
+#~ msgstr "Vytvorte nový priečinok:"
+
+#~ msgid "New folder will be created in: "
+#~ msgstr "Nový priečinok sa vytvorí v:"
+
+#~ msgid "New Folder Name: "
+#~ msgstr "Nový názov priečinka:"
+
+#~ msgid "Create New Folder"
+#~ msgstr "Vytvorte nový priečinok"
+
+#~ msgid "Create a New File: "
+#~ msgstr "Vytvoriť nový súbor:"
+
+#~ msgid "New File will be created in: "
+#~ msgstr "Nový súbor bude vytvorený v:"
+
+#~ msgid "New File Name: "
+#~ msgstr "Nový názov súboru:"
+
+#~ msgid "Create New File"
+#~ msgstr "Vytvoriť nový súbor"
+
+#~ msgid "Warning: please be careful before remove any folder or file."
+#~ msgstr ""
+#~ "Varovanie: Pred odstránením ľubovoľného priečinka alebo súboru buďte "
+#~ "opatrní."
+
+#~ msgid "Current Theme Path: "
+#~ msgstr "Aktuálna cesta témy:"
+
+#~ msgid "Remove Folder: "
+#~ msgstr "Odstrániť priečinok:"
+
+#~ msgid "Folder Path which you want to remove: "
+#~ msgstr "Cesta k priečinku, ktorý chcete odstrániť: "
+
+#~ msgid "Remove Folder"
+#~ msgstr "Odstrániť priečinok"
+
+#~ msgid "Remove File: "
+#~ msgstr "Odstrániť súbor:"
+
+#~ msgid "File Path which you want to remove: "
+#~ msgstr "Cesta k súboru, ktorú chcete odstrániť: "
+
+#~ msgid "Remove File"
+#~ msgstr "Odstrániť súbor"
+
+#~ msgid "Please Enter Valid Email Address."
+#~ msgstr "Zadajte e-mailovú adresu."
+
+#~ msgid "Warning: Please be careful before rename any folder or file."
+#~ msgstr ""
+#~ "Varovanie: Pred premenovaním ľubovoľného priečinka alebo súboru buďte "
+#~ "opatrní."
+
+#~ msgid "File/Folder will be rename in: "
+#~ msgstr "Súbor / priečinok bude premenovaný v:"
+
+#~ msgid "File/Folder Rename: "
+#~ msgstr "Premenovanie súboru / priečinka:"
+
+#~ msgid "Rename File"
+#~ msgstr "Premenovať súbor"
+
+#~ msgid "Follow us"
+#~ msgstr "Nasleduj nás"
+
+#~ msgid "Theme Editor Facebook"
+#~ msgstr "Editor tém Facebook"
+
+#~ msgid "Theme Editor Instagram"
+#~ msgstr "Editor tém Instagram"
+
+#~ msgid "Theme Editor Twitter"
+#~ msgstr "Editor tém na Twitteri"
+
+#~ msgid "Theme Editor Linkedin"
+#~ msgstr "Editor tém prepojený"
+
+#~ msgid "Theme Editor Youtube"
+#~ msgstr "Editor tém Youtube"
+
+#~ msgid "Go to ThemeEditor site"
+#~ msgstr "Prejdite na stránku ThemeEditor"
+
+#~ msgid "Theme Editor Links"
+#~ msgstr "Odkazy na editor tém"
+
+#~ msgid "Child Theme"
+#~ msgstr "Detská téma"
+
+#~ msgid "Child Theme Permissions"
+#~ msgstr "Povolenia témy dieťaťa"
+
+#~ msgid " is not available. Please click "
+#~ msgstr "nie je k dispozícii. Prosím kliknite"
+
+#~ msgid "here"
+#~ msgstr "tu"
+
+#~ msgid "to request language."
+#~ msgstr "požiadať o jazyk."
+
+#~ msgid "Click"
+#~ msgstr "Kliknite"
+
+#~ msgid "to install "
+#~ msgstr "inštalovať "
+
+#~ msgid " language translation  for Theme Editor."
+#~ msgstr " jazykový preklad pre editor tém."
+
+#~ msgid "Success: Settings Saved!"
+#~ msgstr "Úspech: Nastavenia boli uložené!"
+
+#~ msgid "No changes have been made to save."
+#~ msgstr "Na uloženie neboli urobené žiadne zmeny."
+
+#~ msgid "Enable Theme Editor For Themes"
+#~ msgstr "Povoliť editor tém pre témy"
+
+#~ msgid "Yes"
+#~ msgstr "Áno"
+
+#~ msgid "No"
+#~ msgstr "Nie"
+
+#~ msgid ""
+#~ "This will Enable/Disable the theme editor.<br/><strong class=\"defs"
+#~ "\">Default: </strong>Yes"
+#~ msgstr ""
+#~ "Týmto povolíte / zakážete editor tém. <br/><strong class=\"defs"
+#~ "\">Predvolené nastavenie: </strong>Áno"
+
+#~ msgid "Disable Default WordPress Theme Editor?"
+#~ msgstr "Zakázať predvolený editor tém WordPress?"
+
+#~ msgid ""
+#~ "This will Enable/Disable the Default theme editor.<br/><strong class="
+#~ "\"defs\">Default: </strong>Yes"
+#~ msgstr ""
+#~ "Týmto povolíte / zakážete predvolený editor tém. <br/><strong class=\"defs"
+#~ "\">Predvolené: </strong>Áno"
+
+#~ msgid "Enable Plugin Editor For Plugin"
+#~ msgstr "Povoliť editor doplnkov pre doplnky"
+
+#~ msgid ""
+#~ "This will Enable/Disable the plugin editor.<br/><strong class=\"defs"
+#~ "\">Default: </strong>Yes"
+#~ msgstr ""
+#~ "Týmto povolíte / zakážete editor doplnkov. <br/><strong class=\"defs"
+#~ "\">Predvolené nastavenie: </strong>Áno"
+
+#~ msgid "Disable Default WordPress Plugin Editor?"
+#~ msgstr "Zakázať predvolený editor doplnkov WordPress?"
+
+#~ msgid ""
+#~ "This will Enable/Disable the Default plugin editor.<br/><strong class="
+#~ "\"defs\">Default: </strong>Yes"
+#~ msgstr ""
+#~ "Týmto povolíte alebo zakážete predvolený editor doplnkov. <br/><strong "
+#~ "class=\"defs\">Predvolené: </strong> Áno"
+
+#~ msgid "Code Editor"
+#~ msgstr "Editor kódu"
+
+#~ msgid ""
+#~ "Allows you to select theme for theme editor.<br/><strong class=\"defs"
+#~ "\">Default: </strong>Cobalt"
+#~ msgstr ""
+#~ "Umožňuje vám zvoliť tému pre editor tém. <br/><strong class=\"defs"
+#~ "\">Predvolené: </strong>Kobalt"
+
+#~ msgid "Edit Themes"
+#~ msgstr "Upraviť témy"
+
+#~ msgid ""
+#~ "<strong>This theme is currently activated!</strong> Warning: Making "
+#~ "changes to active themes is not recommended."
+#~ msgstr ""
+#~ "<strong> Tento motív je momentálne aktivovaný! </strong> Varovanie: "
+#~ "Neodporúča sa vykonávať zmeny v aktívnych motívoch."
+
+#~ msgid "Editing"
+#~ msgstr "Úpravy"
+
+#~ msgid "Browsing"
+#~ msgstr "Prehliadanie"
+
+#~ msgid "Update File and Attempt to Reactivate"
+#~ msgstr "Aktualizujte súbor a pokúste sa znova aktivovať"
+
+#~ msgid "Download Theme"
+#~ msgstr "Stiahnuť tému"
+
+#~ msgid "Select theme to edit:"
+#~ msgstr "Vyberte motív, ktorý chcete upraviť:"
+
+#~ msgid "Theme Files"
+#~ msgstr "Súbory tém"
+
+#~ msgid "Choose File"
+#~ msgstr "Vyberte súbor"
+
+#~ msgid "No File Chosen"
+#~ msgstr "Žiaden súbor nie je vybraný"
+
+#~ msgid "Warning: Please be careful before remove any folder or file."
+#~ msgstr ""
+#~ "Varovanie: Pred odstránením ľubovoľného priečinka alebo súboru buďte "
+#~ "opatrní."
+
+#~ msgid "Child Theme Permission"
+#~ msgstr "Povolenie témy dieťaťa"
+
+#~ msgid "Translations"
+#~ msgstr "Preklady"
+
+#~ msgid "create, edit, upload, download, delete Theme Files and folders"
+#~ msgstr ""
+#~ "vytvárať, upravovať, nahrávať, sťahovať, mazať súbory a priečinky tém"
+
+#~ msgid "You do not have the permission to create new child theme."
+#~ msgstr "Nemáte povolenie na vytvorenie novej podradenej témy."
+
+#~ msgid ""
+#~ "You do not have the permission to change configure existing child theme."
+#~ msgstr "Nemáte povolenie na zmenu konfigurácie existujúcej podradenej témy."
+
+#~ msgid "You do not have the permission to duplicate the child theme."
+#~ msgstr "Nemáte povolenie na duplikovanie podradenej témy."
+
+#~ msgid "You do not have the permission to access query/ selector menu."
+#~ msgstr "Nemáte povolenie na prístup k ponuke dopytu / selektora."
+
+#~ msgid "You do not have the permission to access web fonts & CSS menu."
+#~ msgstr "Nemáte povolenie na prístup k webovým fontom a ponuke CSS."
+
+#~ msgid "You do not have the permission to copy files."
+#~ msgstr "Na kopírovanie súborov nemáte povolenie."
+
+#~ msgid "You do not have the permission to delete child files."
+#~ msgstr "Nemáte povolenie na odstránenie podradených súborov."
+
+#~ msgid "You do not have the permission to upload new screenshot."
+#~ msgstr "Nemáte povolenie na nahrávanie nových snímok obrazovky."
+
+#~ msgid "You do not have the permission to upload new images."
+#~ msgstr "Nemáte povolenie na nahrávanie nových obrázkov."
+
+#~ msgid "You do not have the permission to delete images."
+#~ msgstr "Nemáte povolenie na mazanie obrázkov."
+
+#~ msgid "You do not have the permission to download file."
+#~ msgstr "Na stiahnutie súboru nemáte povolenie."
+
+#~ msgid "You do not have the permission to create new directory."
+#~ msgstr "Nemáte povolenie na vytvorenie nového adresára."
+
+#~ msgid "You do not have the permission to create new file."
+#~ msgstr "Nemáte povolenie na vytvorenie nového súboru."
+
+#~ msgid "You don't have permission to update file!"
+#~ msgstr "Nemáte povolenie na aktualizáciu súboru!"
+
+#~ msgid "You don't have permission to create folder!"
+#~ msgstr "Nemáte povolenie na vytvorenie priečinka!"
+
+#~ msgid "You don't have permission to delete folder!"
+#~ msgstr "Nemáte povolenie na odstránenie priečinka!"
+
+#~ msgid "You don't have permission to delete file!"
+#~ msgstr "Nemáte povolenie na odstránenie súboru!"
+
+#~ msgid "You don't have permission to upload file!"
+#~ msgstr "Nemáte povolenie na nahrávanie súboru!"
+
+#~ msgid "Child Theme permissions saved successfully."
+#~ msgstr "Povolenia podradenej témy boli úspešne uložené."
+
+#~ msgid ""
+#~ "There are no changes made in the child theme permissions to be saved."
+#~ msgstr ""
+#~ "V povoleniach podradenej témy, ktoré sa majú uložiť, nie sú vykonané "
+#~ "žiadne zmeny."
+
+#~ msgid "Child Theme permission message saved successfully."
+#~ msgstr "Správa o povolení témy dieťaťa sa úspešne uložila."
+
+#~ msgid "Users"
+#~ msgstr "Používatelia"
+
+#~ msgid "Create New Child Theme"
+#~ msgstr "Vytvorte tému nového dieťaťa"
+
+#~ msgid "Configure an Existing Child Themes"
+#~ msgstr "Konfigurujte existujúce motívy dieťaťa"
+
+#~ msgid "Duplicate Child Themes"
+#~ msgstr "Duplicitné podradené motívy"
+
+#~ msgid "Query/ Selector"
+#~ msgstr "Dopyt / selektor"
+
+#~ msgid "Web/font"
+#~ msgstr "Web / písmo"
+
+#~ msgid "Copy File Parent Theme To Child Theme"
+#~ msgstr "Skopírujte nadradenú tému súboru na detskú tému"
+
+#~ msgid "Deleted Child Files"
+#~ msgstr "Odstránené podradené súbory"
+
+#~ msgid "Upload New Screenshoot"
+#~ msgstr "Odovzdajte nové snímanie obrazovky"
+
+#~ msgid "Upload New Images"
+#~ msgstr "Odovzdajte nové obrázky"
+
+#~ msgid "Deleted Images "
+#~ msgstr "Odstránené obrázky"
+
+#~ msgid "Download Images"
+#~ msgstr "Stiahnutie obrázkov"
+
+#~ msgid "Create New Directory"
+#~ msgstr "Vytvorte nový adresár"
+
+#~ msgid "Create New Files"
+#~ msgstr "Vytvorte nové súbory"
+
+#~ msgid "Export Theme"
+#~ msgstr "Exportovať tému"
+
+#~ msgid "User Roles"
+#~ msgstr "Roly používateľov"
+
+#~ msgid "Query/ Seletor"
+#~ msgstr "Dopyt / Seletor"
+
+#~ msgid "Deleted Images"
+#~ msgstr "Odstránené obrázky"
+
+#~ msgid "Child Theme Permission Message"
+#~ msgstr "Správa o povolení témy dieťaťa"
+
+#~ msgid "You do not have the permission to create new Child Theme."
+#~ msgstr "Nemáte povolenie na vytvorenie novej podradenej témy."
+
+#~ msgid "Query/Selector"
+#~ msgstr "Dopyt / selektor"
+
+#~ msgid "You do not have the permission to access query / selector menu."
+#~ msgstr "Nemáte povolenie na prístup k ponuke dopytu / selektora."
+
+#~ msgid " Web/font"
+#~ msgstr "Web / písmo"
+
+#~ msgid " Export Theme"
+#~ msgstr "Exportovať tému"
+
+#~ msgid "Save Child Theme Message"
+#~ msgstr "Správa o povolení témy dieťaťa"
+
+#~ msgid "Please select atleast one image."
+#~ msgstr "Vyberte aspoň jeden obrázok."
+
+#~ msgid "You don't have the permission to delete images."
+#~ msgstr "Nemáte povolenie na mazanie obrázkov."
+
+#~ msgid "You don't have the permission to upload new images."
+#~ msgstr "Nemáte povolenie na nahrávanie nových obrázkov."
+
+#~ msgid "You don't have the permission to download."
+#~ msgstr "Na stiahnutie nemáte povolenie."
+
+#~ msgid "You don't have the permission to create new directory."
+#~ msgstr "Nemáte povolenie na vytvorenie nového adresára."
+
+#~ msgid "Please choose file type."
+#~ msgstr "Vyberte typ súboru."
+
+#~ msgid "Please enter file name."
+#~ msgstr "Zadajte názov súboru."
+
+#~ msgid "You don't have the permission to create new file."
+#~ msgstr "Nemáte povolenie na vytvorenie nového súboru."
+
+#~ msgid "Are you sure to copy parent files into child theme?"
+#~ msgstr "Naozaj chcete skopírovať nadradené súbory do podradenej témy?"
+
+#~ msgid "Please select file(s)."
+#~ msgstr "Vyberte súbory."
+
+#~ msgid "You don't have the permission to copy files."
+#~ msgstr "Nemáte povolenie na kopírovanie súborov."
+
+#~ msgid "Are you sure you want to delete selected file(s)?"
+#~ msgstr "Naozaj chcete odstrániť vybraté súbory?"
+
+#~ msgid "You don't have the permission to delete child files."
+#~ msgstr "Nemáte povolenie na odstránenie podradených súborov."
+
+#~ msgid "You don't have the permission to upload new screenshot."
+#~ msgstr "Nemáte povolenie na nahrávanie nových snímok obrazovky."
+
+#~ msgid "You don't have the permission to export theme."
+#~ msgstr "Nemáte povolenie na exportovanie témy."
+
+#~ msgid "You don't have the permission to access Query/ Selector menu."
+#~ msgstr "Nemáte povolenie na prístup do ponuky Dotaz / Selektor."
+
+#~ msgid "You don't have the permission to access Web Fonts & CSS menu."
+#~ msgstr "Nemáte povolenie na prístup do ponuky Web Fonts & CSS."
+
+#~ msgid "Current Analysis Theme:"
+#~ msgstr "Aktuálna téma analýzy:"
+
+#~ msgid "Preview Theme"
+#~ msgstr "Ukážka témy"
+
+#~ msgid "Parent Themes"
+#~ msgstr "Nadradené témy"
+
+#~ msgid "Child Themes"
+#~ msgstr "Detské témy"
+
+#~ msgid "Error: Settings Not Saved!"
+#~ msgstr "Chyba: Nastavenia sa neuložili!"
+
+#~ msgid "Email List"
+#~ msgstr "Zoznam e-mailov"
+
+#~ msgid "Email Address"
+#~ msgstr "Emailová adresa"
+
+#~ msgid "Enter Email"
+#~ msgstr "Zadajte e-mail"
+
+#~ msgid "Add More"
+#~ msgstr "Pridať VIAC"
+
+#~ msgid ""
+#~ "This address is used for notification purposes, like theme/plugin "
+#~ "notification."
+#~ msgstr ""
+#~ "Táto adresa sa používa na účely upozornenia, ako je napríklad upozornenie "
+#~ "na tému alebo doplnok."
+
+#~ msgid "Theme Notification"
+#~ msgstr "Oznámenie témy"
+
+#~ msgid "Notify on file update"
+#~ msgstr "Upozorniť na aktualizáciu súboru"
+
+#~ msgid ""
+#~ "Notification on theme file edit or update.<br/><strong>Default: </"
+#~ "strong>Yes"
+#~ msgstr ""
+#~ "Oznámenie o úprave alebo aktualizácii súboru motívu. <br/> <strong> "
+#~ "Predvolené nastavenie: </strong> Áno"
+
+#~ msgid "Notify on files download"
+#~ msgstr "Upozorniť na stiahnutie súborov"
+
+#~ msgid ""
+#~ "Notification on theme file edit download.<br/><strong>Default: </"
+#~ "strong>Yes"
+#~ msgstr ""
+#~ "Oznámenie o stiahnutí úprav súboru témy. <br/> <strong> Predvolené "
+#~ "nastavenie: </strong> Áno"
+
+#~ msgid "Notify on theme download"
+#~ msgstr "Upozorniť na stiahnutie motívu"
+
+#~ msgid "Notification on theme download.<br/><strong>Default: </strong>Yes"
+#~ msgstr ""
+#~ "Oznámenie o stiahnutí motívu. <br/> <strong> Predvolené nastavenie: </"
+#~ "strong> Áno"
+
+#~ msgid "Notify on files upload"
+#~ msgstr "Upozorniť na nahranie súborov"
+
+#~ msgid ""
+#~ "Notification on files upload in theme.<br/><strong>Default: </strong>Yes"
+#~ msgstr ""
+#~ "Oznámenie o nahrávaní súborov v motíve. <br/> <strong> Predvolené "
+#~ "nastavenie: </strong> Áno"
+
+#~ msgid "Notify on create new file/folder"
+#~ msgstr "Upozorniť na vytvorenie nového súboru / priečinka"
+
+#~ msgid ""
+#~ "Notification on create new file/folder in theme.<br/><strong>Default: </"
+#~ "strong>Yes"
+#~ msgstr ""
+#~ "Oznámenie o vytvorení nového súboru alebo priečinka v motíve. <br/> "
+#~ "<strong> Predvolené nastavenie: </strong> Áno"
+
+#~ msgid "Notify on delete"
+#~ msgstr "Upozorniť na odstránenie"
+
+#~ msgid ""
+#~ "Notify on delete any file and folder in themes.<br/><strong>Default: </"
+#~ "strong>Yes"
+#~ msgstr ""
+#~ "Upozorniť na odstránenie ľubovoľného súboru a priečinka v motívoch. <br/> "
+#~ "<strong> Predvolené nastavenie: </strong> Áno"
+
+#~ msgid "Notify on create New Child theme"
+#~ msgstr "Upozorniť na vytvorenie motívu Nové dieťa"
+
+#~ msgid ""
+#~ "Notify on Create New Child themes. <br/><strong>Default: </strong>Yes"
+#~ msgstr ""
+#~ "Upozorniť pri vytváraní nových motívov dieťaťa. <br/> <strong> "
+#~ "Predvolené: </strong> Áno"
+
+#~ msgid "Notify on configure an Existing Child themes"
+#~ msgstr "Upozorniť na konfiguráciu tém existujúceho dieťaťa"
+
+#~ msgid ""
+#~ "Notify on configure an Existing Child themes.<br/><strong>Default: </"
+#~ "strong>Yes"
+#~ msgstr ""
+#~ "Upozorniť na konfiguráciu existujúcich motívov dieťaťa. <br/> <strong> "
+#~ "Predvolené nastavenie: </strong> Áno"
+
+#~ msgid "Notify on Duplicate Child themes"
+#~ msgstr "Upozorniť na duplikované podradené témy"
+
+#~ msgid ""
+#~ "Notify on Configure an Existing Child themes.<br/><strong>Default: </"
+#~ "strong>Yes"
+#~ msgstr ""
+#~ "Upozorniť pri konfigurácii motívov existujúceho dieťaťa. <br/> <strong> "
+#~ "Predvolené nastavenie: </strong> Áno"
+
+#~ msgid "Plugin Notification"
+#~ msgstr "Oznámenie o doplnku"
+
+#~ msgid ""
+#~ "Notification on theme file edit or update.<br/><strong>Default: </"
+#~ "strong>yes"
+#~ msgstr ""
+#~ "Oznámenie o úprave alebo aktualizácii súboru motívu. <br/> <strong> "
+#~ "Predvolené nastavenie: </strong> áno"
+
+#~ msgid "Notify on Plugin download"
+#~ msgstr "Upozorniť na stiahnutie doplnku"
+
+#~ msgid "Notification on Plugin download.<br/><strong>Default: </strong>Yes"
+#~ msgstr ""
+#~ "Oznámenie o stiahnutí doplnku. <br/> <strong> Predvolené nastavenie: </"
+#~ "strong> Áno"
+
+#~ msgid ""
+#~ "Notification on file upload in theme.<br/><strong>Default: </strong>Yes"
+#~ msgstr ""
+#~ "Oznámenie o nahraní súboru v motíve. <br/> <strong> Predvolené "
+#~ "nastavenie: </strong> Áno"
+
+#~ msgid "Permission saved successfully."
+#~ msgstr "Povolenie bolo úspešne uložené."
+
+#~ msgid "Oops! Permission cannot saved because you have not made any changes."
+#~ msgstr ""
+#~ "Ojoj! Povolenie nie je možné uložiť, pretože ste neurobili žiadne zmeny."
+
+#~ msgid "Allowed User Roles"
+#~ msgstr "Povolené roly používateľa"
+
+#~ msgid "Update theme files"
+#~ msgstr "Aktualizujte súbory motívov"
+
+#~ msgid "Create new theme files and folders"
+#~ msgstr "Vytvorte nové súbory a priečinky tém"
+
+#~ msgid "Upload new theme files and folders"
+#~ msgstr "Načítajte nové súbory a priečinky tém"
+
+#~ msgid "Download theme files"
+#~ msgstr "Stiahnite si súbory tém"
+
+#~ msgid "Download theme"
+#~ msgstr "Stiahnuť tému"
+
+#~ msgid "Update plugin files"
+#~ msgstr "Aktualizujte súbory doplnkov"
+
+#~ msgid "Create new plugin files and folders"
+#~ msgstr "Vytvorte nové súbory a priečinky doplnkov"
+
+#~ msgid "Upload new plugin files and folders"
+#~ msgstr "Nahrajte nové súbory a priečinky doplnkov"
+
+#~ msgid "Delete plugin files and folders"
+#~ msgstr "Odstráňte súbory a priečinky doplnkov"
+
+#~ msgid "Download plugin files"
+#~ msgstr "Stiahnite si súbory doplnkov"
+
+#~ msgid "Download plugin"
+#~ msgstr "Stiahnite si doplnok"
+
+#~ msgid ""
+#~ "Theme Editor PRO - Please add your order details below. If Not <a href="
+#~ "\"https://themeeditor.pro/product/theme-editor/\" target=\"_blank\" class="
+#~ "\"page-title-action button button-primary\" title=\"click to buy Licence "
+#~ "Key\">Buy Now</a>"
+#~ msgstr ""
+#~ "Editor tém PRO - nižšie uveďte podrobnosti objednávky. Ak nie <a href="
+#~ "\"https://themeeditor.pro/product/theme-editor/\" target=\"_blank\" class="
+#~ "\"page-title-action button button-primary\" title=\"click to buy Licence "
+#~ "Key\">Kúpiť teraz </a>"
+
+#~ msgid "ORDER ID (#) *"
+#~ msgstr "ČÍSLO OBJEDNÁVKY (#) *"
+
+#~ msgid "Enter Order ID"
+#~ msgstr "Zadajte ID objednávky"
+
+#~ msgid "Please Check Your email for order ID."
+#~ msgstr "Skontrolujte ID svojho e-mailu."
+
+#~ msgid "LICENCE KEY *"
+#~ msgstr "LICENČNÝ KLÍČ *"
+
+#~ msgid "Enter License Key"
+#~ msgstr "Zadajte licenčný kľúč"
+
+#~ msgid "Please Check Your email for Licence Key."
+#~ msgstr "Skontrolujte prosím svoj e-mail, či neobsahuje licenčný kľúč."
+
+#~ msgid "Click To Verify"
+#~ msgstr "Kliknite na položku Overiť"
+
+#~ msgid "URL/None"
+#~ msgstr "URL / Žiadne"
+
+#~ msgid "Origin"
+#~ msgstr "Pôvod"
+
+#~ msgid "Color 1"
+#~ msgstr "Farba 1"
+
+#~ msgid "Color 2"
+#~ msgstr "Farba 2"
+
+#~ msgid "Width/None"
+#~ msgstr "Šírka / žiadna"
+
+#~ msgid "Style"
+#~ msgstr "Štýl"
+
+#~ msgid "Color"
+#~ msgstr "Farba"
+
+#~ msgid "Configure Child Theme"
+#~ msgstr "Konfigurácia témy dieťaťa"
+
+#~ msgid "Duplicate Child theme"
+#~ msgstr "Duplicitné podradené motívy"
+
+#~ msgid ""
+#~ "After analyzing, this theme is working fine. You can use this as your "
+#~ "Child Theme."
+#~ msgstr ""
+#~ "Po analýze táto téma funguje dobre. Môžete to použiť ako svoju detskú "
+#~ "tému."
+
+#~ msgid ""
+#~ "After analyzing this child theme appears to be functioning correctly."
+#~ msgstr "Po analýze sa zdá, že táto podradená téma funguje správne."
+
+#~ msgid ""
+#~ "This theme loads additional stylesheets after the <code>style.css</code> "
+#~ "file:"
+#~ msgstr ""
+#~ "Táto téma načítava ďalšie tabuľky štýlov po súbore <code> style.css </"
+#~ "code>:"
+
+#~ msgid "The theme"
+#~ msgstr "Názov témy"
+
+#~ msgid " could not be analyzed because the preview did not render correctly"
+#~ msgstr "nebolo možné analyzovať, pretože ukážka sa nevykreslila správne"
+
+#~ msgid "This Child Theme has not been configured for this plugin"
+#~ msgstr "Táto podradená téma nebola nakonfigurovaná pre tento doplnok"
+
+#~ msgid ""
+#~ "The Configurator makes significant modifications to the child theme, "
+#~ "including stylesheet changes and additional php functions. Please "
+#~ "consider using the DUPLICATE child theme option (see step 1, above) and "
+#~ "keeping the original as a backup."
+#~ msgstr ""
+#~ "Konfigurátor významne upravuje podradenú tému, vrátane zmien štýlov a "
+#~ "ďalších funkcií php. Zvážte použitie možnosti DUPLIKOVAŤ podradenú tému "
+#~ "(pozri krok 1 vyššie) a originál si ponechať ako zálohu."
+
+#~ msgid "All webfonts/css information saved successfully."
+#~ msgstr "Všetky informácie webfonts / css sa úspešne uložili."
+
+#~ msgid "Please enter value for webfonts/css."
+#~ msgstr "Zadajte hodnotu pre webfonts / css."
+
+#~ msgid "You don\\'t have permission to update webfonts/css."
+#~ msgstr "Nemáte povolenie na aktualizáciu webfonts / css."
+
+#~ msgid "All information saved successfully."
+#~ msgstr "Všetky informácie sa úspešne uložili."
+
+#~ msgid ""
+#~ "Are you sure you wish to RESET? This will destroy any work you have done "
+#~ "in the Configurator."
+#~ msgstr ""
+#~ "Naozaj chcete vynulovať? Zničí sa tým všetka práca, ktorú ste vykonali v "
+#~ "konfigurátore."
+
+#~ msgid "Selectors"
+#~ msgstr "Selektory"
+
+#~ msgid "Edit Selector"
+#~ msgstr "Upraviť výber"
+
+#~ msgid "The stylesheet cannot be displayed."
+#~ msgstr "Šablónu so štýlmi nie je možné zobraziť."
+
+#~ msgid "(Child Only)"
+#~ msgstr "(Iba dieťa)"
+
+#~ msgid "Please enter a valid Child Theme."
+#~ msgstr "Zadajte platnú tému dieťaťa."
+
+#~ msgid "Please enter a valid Child Theme name."
+#~ msgstr "Zadajte platný názov témy dieťaťa."
+
+#, php-format
+#~ msgid "<strong>%s</strong> exists. Please enter a different Child Theme"
+#~ msgstr "<strong>%s</strong> existuje. Zadajte inú tému dieťaťa"
+
+#~ msgid "The page could not be loaded correctly."
+#~ msgstr "Stránku sa nepodarilo načítať správne."
+
+#~ msgid ""
+#~ "Conflicting or out-of-date jQuery libraries were loaded by another plugin:"
+#~ msgstr ""
+#~ "Konfliktné alebo zastarané knižnice jQuery boli načítané iným doplnkom:"
+
+#~ msgid "Deactivating or replacing plugins may resolve this issue."
+#~ msgstr "Tento problém môže vyriešiť deaktivácia alebo výmena doplnkov."
+
+#~ msgid "No result found for the selection."
+#~ msgstr "Pre výber sa nenašiel žiadny výsledok."
+
+#, php-format
+#~ msgid "%sWhy am I seeing this?%s"
+#~ msgstr "%sPrečo to vidím?%s"
+
+#~ msgid "Parent / Child"
+#~ msgstr "Rodič / dieťa"
+
+#~ msgid "Select an action:"
+#~ msgstr "Vyberte akciu:"
+
+#~ msgid "Create a new Child Theme"
+#~ msgstr "Vytvorte novú tému dieťaťa"
+
+#~ msgid "Configure an existing Child Theme"
+#~ msgstr "Nakonfigurujte existujúcu podradenú tému"
+
+#~ msgid "Duplicate an existing Child Theme"
+#~ msgstr "Duplikujte existujúcu podradenú tému"
+
+#~ msgid "Select a Parent Theme:"
+#~ msgstr "Vyberte nadradenú tému:"
+
+#~ msgid "Analyze Parent Theme"
+#~ msgstr "Analyzujte nadradenú tému"
+
+#~ msgid ""
+#~ "Click \"Analyze\" to determine stylesheet dependencies and other "
+#~ "potential issues."
+#~ msgstr ""
+#~ "Kliknutím na tlačidlo „Analyzovať“ určíte závislosti štýlov a ďalšie "
+#~ "potenciálne problémy."
+
+#~ msgid "Analyze"
+#~ msgstr "Analyzovať"
+
+#~ msgid "Select a Child Theme:"
+#~ msgstr "Vyberte tému dieťaťa:"
+
+#~ msgid "Analyze Child Theme"
+#~ msgstr "Analyzujte tému dieťaťa"
+
+#~ msgid "Name the new theme directory:"
+#~ msgstr "Pomenujte nový adresár tém:"
+
+#~ msgid "Directory Name"
+#~ msgstr "Názov adresára"
+
+#~ msgid "NOTE:"
+#~ msgstr "POZNÁMKA:"
+
+#~ msgid ""
+#~ "This is NOT the name of the Child Theme. You can customize the name, "
+#~ "description, etc. in step 7, below."
+#~ msgstr ""
+#~ "Toto NIE je názov témy dieťaťa. Názov, popis atď. Môžete prispôsobiť v "
+#~ "kroku 7 nižšie."
+
+#~ msgid "Verify Child Theme directory:"
+#~ msgstr "Adresár témy Overiť dieťa:"
+
+#~ msgid ""
+#~ "For verification only (you cannot modify the directory of an existing "
+#~ "Child Theme)."
+#~ msgstr ""
+#~ "Iba na overenie (nemôžete zmeniť adresár existujúcej podradenej témy)."
+
+#~ msgid "Select where to save new styles:"
+#~ msgstr "Vyberte, kam chcete uložiť nové štýly:"
+
+#~ msgid "Primary Stylesheet (style.css)"
+#~ msgstr "Primárna šablóna so štýlmi (style.css)"
+
+#~ msgid ""
+#~ "Save new custom styles directly to the Child Theme primary stylesheet, "
+#~ "replacing the existing values. The primary stylesheet will load in the "
+#~ "order set by the theme."
+#~ msgstr ""
+#~ "Uložiť nové vlastné štýly priamo do primárnej šablóny štýlov podradenej "
+#~ "témy a nahradiť tak existujúce hodnoty. Primárna šablóna so štýlmi sa "
+#~ "načíta v poradí stanovenom témou."
+
+#~ msgid "Separate Stylesheet"
+#~ msgstr "Samostatná šablóna so štýlmi"
+
+#~ msgid ""
+#~ "Save new custom styles to a separate stylesheet and combine any existing "
+#~ "child theme styles with the parent to form baseline. Select this option "
+#~ "if you want to preserve the existing child theme styles instead of "
+#~ "overwriting them. This option also allows you to customize stylesheets "
+#~ "that load after the primary stylesheet."
+#~ msgstr ""
+#~ "Uložte nové vlastné štýly do samostatnej šablóny so štýlmi a skombinujte "
+#~ "všetky existujúce podradené štýly motívov s rodičmi do základnej čiary. "
+#~ "Túto možnosť vyberte, ak chcete zachovať existujúce štýly podradených "
+#~ "motívov namiesto ich prepisovania. Táto možnosť vám tiež umožňuje "
+#~ "prispôsobiť šablóny štýlov, ktoré sa načítajú po primárnej šablóne so "
+#~ "štýlmi."
+
+#~ msgid "Select Parent Theme stylesheet handling:"
+#~ msgstr "Vyberte prácu so šablónou štýlov nadradenej témy:"
+
+#~ msgid "Use the WordPress style queue."
+#~ msgstr "Použite rad štýlov WordPress."
+
+#~ msgid ""
+#~ "Let the Configurator determine the appropriate actions and dependencies "
+#~ "and update the functions file automatically."
+#~ msgstr ""
+#~ "Nechajte konfigurátor, aby určil príslušné akcie a závislosti a "
+#~ "automaticky aktualizoval súbor funkcií."
+
+#~ msgid "Use <code>@import</code> in the child theme stylesheet."
+#~ msgstr ""
+#~ "V šablóne so štýlmi podradených motívov použite <code> @import </code>."
+
+#~ msgid ""
+#~ "Only use this option if the parent stylesheet cannot be loaded using the "
+#~ "WordPress style queue. Using <code>@import</code> is not recommended."
+#~ msgstr ""
+#~ "Túto možnosť použite, iba ak nie je možné načítať nadradenú šablónu so "
+#~ "štýlmi pomocou frontu štýlov WordPress. Používanie <code> @import </code> "
+#~ "sa neodporúča."
+
+#~ msgid "Do not add any parent stylesheet handling."
+#~ msgstr "Nepridávajte žiadne nadradené spracovanie štýlov."
+
+#~ msgid ""
+#~ "Select this option if this theme already handles the parent theme "
+#~ "stylesheet or if the parent theme's <code>style.css</code> file is not "
+#~ "used for its appearance."
+#~ msgstr ""
+#~ "Túto možnosť vyberte, ak táto téma už spracováva šablónu štýlov "
+#~ "nadradenej témy alebo ak sa na jej vzhľad nepoužíva súbor <code> style."
+#~ "css </code> nadradenej témy."
+
+#~ msgid "Advanced handling options"
+#~ msgstr "Pokročilé možnosti manipulácie"
+
+#~ msgid "Ignore parent theme stylesheets."
+#~ msgstr "Ignorujte šablóny štýlov nadradených tém."
+
+#~ msgid ""
+#~ "Select this option if this theme already handles the parent theme "
+#~ "stylesheet or if the parent theme's style.css file is not used for its "
+#~ "appearance."
+#~ msgstr ""
+#~ "Túto možnosť vyberte, ak táto téma už spracováva šablónu štýlov "
+#~ "nadradenej témy alebo ak sa na jej vzhľad nepoužíva súbor style.css "
+#~ "nadradenej témy."
+
+#~ msgid "Repair the header template in the child theme."
+#~ msgstr "Opravte šablónu hlavičky v podradenej téme."
+
+#~ msgid ""
+#~ "Let the Configurator (try to) resolve any stylesheet issues listed above. "
+#~ "This can fix many, but not all, common problems."
+#~ msgstr ""
+#~ "Nechajte konfigurátora (pokúsiť sa) vyriešiť všetky problémy so štýlmi "
+#~ "uvedené vyššie. Týmto sa dá vyriešiť veľa, ale nie všetky bežné problémy."
+
+#~ msgid "Remove stylesheet dependencies"
+#~ msgstr "Odstráňte závislosti šablón štýlov"
+
+#~ msgid ""
+#~ "By default, the order of stylesheets that load prior to the primary "
+#~ "stylesheet is preserved by treating them as dependencies. In some cases, "
+#~ "stylesheets are detected in the preview that are not used site-wide. If "
+#~ "necessary, dependency can be removed for specific stylesheets below."
+#~ msgstr ""
+#~ "Poradie štýlov, ktoré sa načítajú pred primárnou šablónou štýlov, sa "
+#~ "predvolene zachováva tak, že sa s nimi zaobchádza ako so závislosťami. V "
+#~ "niektorých prípadoch sa v ukážke zistia šablóny štýlov, ktoré sa "
+#~ "nepoužívajú na celom webe. V prípade potreby je možné odstrániť závislosť "
+#~ "pre konkrétne tabuľky štýlov uvedené nižšie."
+
+#~ msgid "Child Theme Name"
+#~ msgstr "Názov témy dieťaťa"
+
+#~ msgid "Theme Name"
+#~ msgstr "Názov témy"
+
+#~ msgid "Theme Website"
+#~ msgstr "Tematický web"
+
+#~ msgid "Author"
+#~ msgstr "Autor"
+
+#~ msgid "Author Website"
+#~ msgstr "Autorský web"
+
+#~ msgid "Theme Description"
+#~ msgstr "Popis témy"
+
+#~ msgid "Description"
+#~ msgstr "Popis"
+
+#~ msgid "Tags"
+#~ msgstr "Značky"
+
+#~ msgid ""
+#~ "Copy Menus, Widgets and other Customizer Settings from the Parent Theme "
+#~ "to the Child Theme:"
+#~ msgstr ""
+#~ "Ponuky, widgety a ďalšie nastavenia prispôsobenia od nadradenej témy po "
+#~ "tému dieťaťa:"
+
+#~ msgid ""
+#~ "This option replaces the Child Theme's existing Menus, Widgets and other "
+#~ "Customizer Settings with those from the Parent Theme. You should only "
+#~ "need to use this option the first time you configure a Child Theme."
+#~ msgstr ""
+#~ "Táto možnosť nahradí existujúce ponuky, widgety a ďalšie nastavenia "
+#~ "prispôsobovacieho nástroja podradenej témy témami z nadradenej témy. Túto "
+#~ "možnosť by ste mali použiť iba pri prvej konfigurácii podradenej témy."
+
+#~ msgid "Click to run the Configurator:"
+#~ msgstr "Kliknutím spustíte konfigurátor:"
+
+#~ msgid "Query / Selector"
+#~ msgstr "Dopyt / selektor"
+
+#~ msgid ""
+#~ "To find specific selectors within @media query blocks, first choose the "
+#~ "query, then the selector. Use the \"base\" query to edit all other "
+#~ "selectors."
+#~ msgstr ""
+#~ "Ak chcete nájsť konkrétne selektory v rámci blokov dotazov @media, "
+#~ "najskôr vyberte dotaz a potom selektor. Pomocou základného dotazu môžete "
+#~ "upraviť všetky ostatné selektory."
+
+#~ msgid "@media Query"
+#~ msgstr "@media Dotaz"
+
+#~ msgid "( or \"base\" )"
+#~ msgstr "(alebo „základňa“)"
+
+#~ msgid "Selector"
+#~ msgstr "Selektor"
+
+#~ msgid "Query/Selector Action"
+#~ msgstr "Akcia Dotaz / Selektor"
+
+#~ msgid "Save Child Values"
+#~ msgstr "Uložiť hodnoty dieťaťa"
+
+#~ msgid "Delete Child Values"
+#~ msgstr "Odstrániť hodnoty dieťaťa"
+
+#~ msgid "Property"
+#~ msgstr "Nehnuteľnosť"
+
+#~ msgid "Baseline Value"
+#~ msgstr "Východisková hodnota"
+
+#~ msgid "Child Value"
+#~ msgstr "Hodnota dieťaťa"
+
+#~ msgid "error"
+#~ msgstr "chyba"
+
+#~ msgid "You do not have permission to configure child themes."
+#~ msgstr "Nemáte povolenie na konfiguráciu podradených tém."
+
+#, php-format
+#~ msgid "%s does not exist. Please select a valid Parent Theme."
+#~ msgstr "%s neexistuje. Vyberte platnú nadradenú tému."
+
+#~ msgid "The Functions file is required and cannot be deleted."
+#~ msgstr "Súbor Functions je povinný a nemožno ho vymazať."
+
+#~ msgid "Please select a valid Parent Theme."
+#~ msgstr "Vyberte platnú nadradenú tému."
+
+#~ msgid "Please select a valid Child Theme."
+#~ msgstr "Vyberte platnú tému dieťaťa."
+
+#~ msgid "Please enter a valid Child Theme directory name."
+#~ msgstr "Zadajte platný názov adresára témy dieťaťa."
+
+#, php-format
+#~ msgid ""
+#~ "<strong>%s</strong> exists. Please enter a different Child Theme template "
+#~ "name."
+#~ msgstr ""
+#~ "<strong>%s</strong> existuje. Zadajte iný názov šablóny detskej témy."
+
+#~ msgid "Your theme directories are not writable."
+#~ msgstr "Do vašich adresárov tém nie je možné zapisovať."
+
+#~ msgid "Could not upgrade child theme"
+#~ msgstr "Podradenú tému sa nepodarilo inovovať"
+
+#~ msgid "Your stylesheet is not writable."
+#~ msgstr "Na vašu šablónu štýlov sa nedá zapisovať."
+
+#~ msgid ""
+#~ "A closing PHP tag was detected in Child theme functions file so \"Parent "
+#~ "Stylesheet Handling\" option was not configured. Closing PHP at the end "
+#~ "of the file is discouraged as it can cause premature HTTP headers. Please "
+#~ "edit <code>functions.php</code> to remove the final <code>?&gt;</code> "
+#~ "tag and click \"Generate/Rebuild Child Theme Files\" again."
+#~ msgstr ""
+#~ "V súbore funkcií detských tém bola zistená uzatváracia značka PHP, takže "
+#~ "nebola nakonfigurovaná možnosť „Rodičovská úprava štýlov“. Uzatváranie "
+#~ "PHP na konci súboru sa neodporúča, pretože by to mohlo spôsobiť predčasné "
+#~ "hlavičky HTTP. Upravte súbor <code> functions.php </code>, aby ste "
+#~ "odstránili výslednú značku <code>?&gt;</code>, a kliknite znova na "
+#~ "možnosť „Generovať / znova vytvoriť súbory podradených tém“."
+
+#, php-format
+#~ msgid "Could not copy file: %s"
+#~ msgstr "Súbor sa nepodarilo skopírovať: %s"
+
+#, php-format
+#~ msgid "Could not delete %s file."
+#~ msgstr "Súbor %s sa nepodarilo odstrániť."
+
+#, php-format
+#~ msgid "could not copy %s"
+#~ msgstr "%s sa nepodarilo skopírovať"
+
+#, php-format
+#~ msgid "invalid dir: %s"
+#~ msgstr "neplatný adresár: %s"
+
+#~ msgid "There were errors while resetting permissions."
+#~ msgstr "Pri resetovaní povolení sa vyskytli chyby."
+
+#~ msgid "Could not upload file."
+#~ msgstr "Súbor sa nepodarilo nahrať."
+
+#~ msgid "Invalid theme root directory."
+#~ msgstr "Neplatný koreňový adresár témy."
+
+#~ msgid "No writable temp directory."
+#~ msgstr "Žiadny dočasný adresár, do ktorého je možné zapísať."
+
+#, php-format
+#~ msgid "Unpack failed -- %s"
+#~ msgstr "Rozbalenie zlyhalo -- %s"
+
+#, php-format
+#~ msgid "Pack failed -- %s"
+#~ msgstr "Balenie zlyhalo -- %s"
+
+#~ msgid "Maximum number of styles exceeded."
+#~ msgstr "Bol prekročený maximálny počet štýlov."
+
+#, php-format
+#~ msgid "Error moving file: %s"
+#~ msgstr "Chyba pri presúvaní súboru: %s"
+
+#~ msgid "Could not set write permissions."
+#~ msgstr "Nepodarilo sa nastaviť oprávnenie na zápis."
+
+#~ msgid "Error:"
+#~ msgstr "Chyba:"
+
+#, php-format
+#~ msgid "Current Analysis Child Theme <strong>%s</strong> has been reset."
+#~ msgstr ""
+#~ "Aktuálna podradená téma dieťaťa <strong>%s</strong> bola resetovaná."
+
+#~ msgid "Update Key saved successfully."
+#~ msgstr "Aktualizačný kľúč bol úspešne uložený."
+
+#~ msgid "Child Theme files modified successfully."
+#~ msgstr "Súbory podradenej témy boli úspešne zmenené."
+
+#, php-format
+#~ msgid "Child Theme <strong>%s</strong> has been generated successfully."
+#~ msgstr "Podradená téma <strong>%s</strong> bola vygenerovaná úspešne."
+
+#~ msgid "Web Fonts & CSS"
+#~ msgstr "Webové písma a CSS"
+
+#~ msgid "Parent Styles"
+#~ msgstr "Rodičovské štýly"
+
+#~ msgid "Child Styles"
+#~ msgstr "Štýly dieťaťa"
+
+#~ msgid "View Child Images"
+#~ msgstr "Zobraziť obrázky dieťaťa"
+
+#~ msgid ""
+#~ "Use <code>@import url( [path] );</code> to link additional stylesheets. "
+#~ "This Plugin uses the <code>@import</code> keyword to identify them and "
+#~ "convert them to <code>&lt;link&gt;</code> tags. <strong>Example:</strong>"
+#~ msgstr ""
+#~ "Na prepojenie ďalších šablón štýlov použite <code> @import url ([path]); "
+#~ "</code>. Tento doplnok používa kľúčové slovo <code> @import </code> na "
+#~ "ich identifikáciu a ich prevod na značky <code>&lt;link&gt;</code>. "
+#~ "<strong> Príklad: </strong>"
+
+#~ msgid "Save"
+#~ msgstr "Uložiť"
+
+#~ msgid "Uploading image with same name will replace with existing image."
+#~ msgstr "Nahraním obrázka s rovnakým názvom sa nahradí existujúci obrázok."
+
+#~ msgid "Upload New Child Theme Image"
+#~ msgstr "Nahrajte obrázok nového dieťaťa"
+
+#~ msgid "Delete Selected Images"
+#~ msgstr "Odstrániť vybrané obrázky"
+
+#~ msgid "Create a New Directory"
+#~ msgstr "Vytvorte nový adresár"
+
+#~ msgid "New Directory will be created in"
+#~ msgstr "Nový adresár bude vytvorený v"
+
+#~ msgid "New Directory Name"
+#~ msgstr "Nový názov adresára"
+
+#~ msgid "Create a New File"
+#~ msgstr "Vytvorte nový súbor"
+
+#~ msgid "New File will be created in"
+#~ msgstr "Nový súbor bude vytvorený v"
+
+#~ msgid "New File Name"
+#~ msgstr "Nový názov súboru"
+
+#~ msgid "File Type Extension"
+#~ msgstr "Prípona typu súboru"
+
+#~ msgid "Choose File Type"
+#~ msgstr "Vyberte typ súboru"
+
+#~ msgid "PHP File"
+#~ msgstr "Súbor PHP"
+
+#~ msgid "CSS File"
+#~ msgstr "Súbor CSS*"
+
+#~ msgid "JS File"
+#~ msgstr "Súbor JS"
+
+#~ msgid "Text File"
+#~ msgstr "Textový súbor"
+
+#~ msgid "PHP File Type"
+#~ msgstr "Typ súboru PHP"
+
+#~ msgid "Simple PHP File"
+#~ msgstr "Jednoduchý súbor PHP"
+
+#~ msgid "Wordpress Template File"
+#~ msgstr "Súbor šablóny Wordpress"
+
+#~ msgid "Template Name"
+#~ msgstr "Názov šablóny"
+
+#~ msgid "Parent Templates"
+#~ msgstr "Rodičovské šablóny"
+
+#~ msgid ""
+#~ "Copy PHP templates from the parent theme by selecting them here. The "
+#~ "Configurator defines a template as a Theme PHP file having no PHP "
+#~ "functions or classes. Other PHP files cannot be safely overridden by a "
+#~ "child theme."
+#~ msgstr ""
+#~ "Skopírujte šablóny PHP z nadradenej témy tak, že ich tu vyberiete. "
+#~ "Konfigurátor definuje šablónu ako súbor Theme Theme bez akýchkoľvek "
+#~ "funkcií alebo tried PHP. Ostatné súbory PHP nemôžu byť bezpečne prepísané "
+#~ "podradenou témou."
+
+#~ msgid ""
+#~ "CAUTION: If your child theme is active, the child theme version of the "
+#~ "file will be used instead of the parent immediately after it is copied."
+#~ msgstr ""
+#~ "UPOZORNENIE: Ak je váš podradený motív aktívny, okamžite po skopírovaní "
+#~ "sa namiesto rodiča použije verzia podradeného motívu."
+
+#~ msgid " file is generated separately and cannot be copied here. "
+#~ msgstr "súbor sa generuje osobitne a nemožno ho sem skopírovať."
+
+#~ msgid "Copy Selected to Child Theme"
+#~ msgstr "Kopírovať vybraté do detských tém"
+
+#~ msgid " Child Theme Files "
+#~ msgstr "Súbory detských tém"
+
+#~ msgid "Click to edit files using the Theme Editor"
+#~ msgstr "Kliknutím upravíte súbory pomocou editora tém"
+
+#~ msgid "Delete child theme templates by selecting them here."
+#~ msgstr "Tu môžete odstrániť šablóny podradených motívov."
+
+#~ msgid "Delete Selected"
+#~ msgstr "Zmaž označené"
+
+#~ msgid "Child Theme Screenshot"
+#~ msgstr "Screenshot témy dieťaťa"
+
+#~ msgid "Upload New Screenshot"
+#~ msgstr "Nahrajte novú snímku obrazovky"
+
+#~ msgid ""
+#~ "The theme screenshot should be a 4:3 ratio (e.g., 880px x 660px) JPG, PNG "
+#~ "or GIF. It will be renamed"
+#~ msgstr ""
+#~ "Screenshot témy by mal mať pomer 4: 3 (napr. 880px x 660px) JPG, PNG "
+#~ "alebo GIF. Bude premenovaná"
+
+#~ msgid "Screenshot"
+#~ msgstr "Screenshot"
+
+#~ msgid "Upload New Child Theme Image "
+#~ msgstr "Nahrajte obrázok nového dieťaťa"
+
+#~ msgid ""
+#~ "Theme images reside under the images directory in your child theme and "
+#~ "are meant for stylesheet use only. Use the Media Library for content "
+#~ "images."
+#~ msgstr ""
+#~ "Obrázky témy sa nachádzajú v adresári obrázkov v podradenej téme a sú "
+#~ "určené iba na použitie šablóny so štýlmi. Pre obrázky obsahu použite "
+#~ "knižnicu médií."
+
+#~ msgid "Preview Current Child Theme (Current analysis)"
+#~ msgstr "Ukážka aktuálnej témy dieťaťa (aktuálna analýza)"
+
+#~ msgid "Preview Current Child Theme"
+#~ msgstr "Ukážka aktuálnej témy dieťaťa"
+
+#~ msgid "Export Child Theme as Zip Archive"
+#~ msgstr "Exportovať detskú tému ako archív Zip"
+
+#~ msgid ""
+#~ "Click \"Export Zip\" to save a backup of the currently loaded child "
+#~ "theme. You can export any of your themes from the Parent/Child tab."
+#~ msgstr ""
+#~ "Kliknutím na tlačidlo „Exportovať súbor Zip“ uložte zálohu aktuálne "
+#~ "načítanej podradenej témy. Ktorékoľvek zo svojich tém môžete exportovať z "
+#~ "karty Rodič / Dieťa."
+
+#~ msgid "Export Child Theme"
+#~ msgstr "Exportovať detskú tému"
+
+#~ msgid "Child Theme file(s) copied successfully!"
+#~ msgstr "Súbory podradenej témy boli úspešne skopírované!"
+
+#~ msgid ""
+#~ "The file which you are trying to copy from Parent Templates does not exist"
+#~ msgstr ""
+#~ "Súbor, ktorý sa pokúšate skopírovať z nadradených šablón, neexistuje"
+
+#~ msgid ""
+#~ "The file which you are trying to copy from Parent Templates is already "
+#~ "present in the Child Theme files."
+#~ msgstr ""
+#~ "Súbor, ktorý sa pokúšate skopírovať z nadradených šablón, sa už nachádza "
+#~ "v súboroch podradenej témy."
+
+#~ msgid "Child "
+#~ msgstr "Dieťa"
+
+#~ msgid " and Parent "
+#~ msgstr "a rodič"
+
+#~ msgid " directories doesn't exist!"
+#~ msgstr "adresáre neexistujú!"
+
+#~ msgid " directory doesn't exist!"
+#~ msgstr "adresár neexistuje!"
+
+#~ msgid "Parent "
+#~ msgstr "Rodič"
+
+#~ msgid "Unknown error! "
+#~ msgstr "Neznáma chyba!"
+
+#~ msgid "You don't have permission to copy the files!"
+#~ msgstr "Nemáte povolenie na kopírovanie súborov!"
+
+#~ msgid "All selected file(s) have been deleted successfully!"
+#~ msgstr "Všetky vybrané súbory boli úspešne odstránené!"
+
+#~ msgid " does not exists!"
+#~ msgstr "neexistuje!"
+
+#~ msgid "This file extension is not allowed to upload!"
+#~ msgstr "Nahrávanie tejto prípony súboru nie je povolené!"
+
+#~ msgid "Image uploaded successfully!"
+#~ msgstr "Obrázok bol úspešne nahraný!"
+
+#~ msgid "There is some issue in uploading image!"
+#~ msgstr "Pri nahrávaní obrázka sa vyskytol problém!"
+
+#~ msgid ""
+#~ "This file extension is not allowed to upload as screenshot by wordpress!"
+#~ msgstr ""
+#~ "Túto príponu súboru nie je možné nahrávať ako snímku obrazovky pomocou "
+#~ "wordpressu!"
+
+#~ msgid "File uploaded successfully!"
+#~ msgstr "Súbor bol úspešne nahraný!"
+
+#~ msgid "Child Theme files can't be modified."
+#~ msgstr "Súbory podradenej témy nemožno upraviť."
+
+#~ msgid "File(s) deleted successfully!"
+#~ msgstr "Súbory boli úspešne odstránené!"
+
+#~ msgid "You don't have permission to delete file(s)!"
+#~ msgstr "Nemáte povolenie na mazanie súborov!"
+
+#~ msgid "Entered directory name already exists"
+#~ msgstr "Zadaný názov adresára už existuje"
+
+#~ msgid "You don't have permission to create directory!"
+#~ msgstr "Nemáte povolenie na vytvorenie adresára!"
+
+#~ msgid "Wordpress template file created"
+#~ msgstr "Bol vytvorený súbor šablóny Wordpress"
+
+#~ msgid "Wordpress template file not created"
+#~ msgstr "Súbor šablóny Wordpress nebol vytvorený"
+
+#~ msgid "PHP created file successfully"
+#~ msgstr "PHP vytvoril súbor úspešne"
+
+#~ msgid "PHP file not created"
+#~ msgstr "Súbor PHP nebol vytvorený"
+
+#~ msgid " file not created"
+#~ msgstr "súbor nebol vytvorený"
+
+#~ msgid "You don't have permission to create file!"
+#~ msgstr "Nemáte povolenie na vytvorenie súboru!"
+
+#~ msgid "Language folder has been downlaoded."
+#~ msgstr "Priečinok jazyka bol zmenšený."
+
+#~ msgid "Add single or multiple languages."
+#~ msgstr "Pridajte jeden alebo viac jazykov."
+
+#~ msgid "Add single language file"
+#~ msgstr "Pridajte súbor v jednom jazyku"
+
+#~ msgid "Please click on language button."
+#~ msgstr "Kliknite na tlačidlo jazyka."
+
+#~ msgid "Add all languages zip folder"
+#~ msgstr "Pridajte priečinok zip všetkých jazykov"
+
+#~ msgid "Zip Download"
+#~ msgstr "Na stiahnutie"

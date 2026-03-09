@@ -1,0 +1,110 @@
+.header-scroll {
+	padding: 20px;
+	transition: all 0.6s cubic-bezier(0.165, 0.84, 0.44, 1);
+	z-index: 998;
+}
+.nav-item-display {
+	display: flex;
+}
+.pix-header-mobile {
+	.navbar-toggler.hamburger {
+		display: flex;
+	}
+	.collapse:not(.show) {
+		display: none !important;
+	}
+	.navbar-expand-lg .navbar-nav {
+		flex-direction: column;
+	}
+	.nav-item-display {
+		display: list-item;
+	}
+}
+@media (max-width: $mainMobileBreakpoint) {
+	.pix-nav-btns {
+		width: 100%;
+		display: inline-block;
+		margin: 0px;
+		float: right;
+		padding: 0;
+		text-align: right;
+		position: relative;
+		li {
+			display: inline-block !important;
+		}
+	}
+	.pix-header-line {
+		border-left: 0px solid rgba(0, 0, 0, 0.03) !important;
+		border-top: 2px solid rgba(0, 0, 0, 0.03) !important;
+	}
+	.navbar-nav.nav-style-megamenu .d-lg-flex {
+		display: block !important;
+	}
+}
+@media (min-width: ($mainMobileBreakpoint + 1)) {
+	.d-lg-flex {
+		display: flex !important;
+	}
+	.navbar-expand-lg .navbar-nav .dropdown-menu {
+		position: absolute;
+	}
+	.navbar-expand-lg {
+		flex-flow: row nowrap;
+		justify-content: flex-start;
+	}
+	.navbar-expand-lg .navbar-nav {
+		flex-direction: row;
+	}
+	.navbar-collapse {
+		display: flex !important;
+		flex-basis: auto;
+	}
+	.navbar.navbar-hover-drop {
+		.dropdown .dropdown-menu {
+			display: block !important;
+			visibility: hidden;
+			overflow: hidden;
+			height: 0;
+		}
+		.dropdown.hover > .dropdown-menu,
+		.dropdown > .dropdown-menu.hover,
+		.dropdown:hover > .dropdown-menu,
+		.dropdown > .dropdown-menu:hover {
+			height: auto;
+			visibility: visible;
+			overflow: visible;
+		}
+	}
+	// .navbar.navbar-hover-drop {
+	// 	.dropdown.hover > .dropdown-menu,
+	// 	.dropdown > .dropdown-menu.hover,
+	// 	.dropdown:hover > .dropdown-menu,
+	// 	.dropdown > .dropdown-menu:hover {
+	// 		.dropdown.hover > .dropdown-menu,
+	// 		.dropdown > .dropdown-menu.hover,
+	// 		.dropdown:hover > .dropdown-menu,
+	// 		.dropdown > .dropdown-menu:hover {
+	// 			top: 0;
+	// 			visibility: visible !important;
+	// 			left: 100%;
+	// 			padding-left: 10px;
+	// 			.submenu-box {
+	// 				margin-top: 0;
+	// 			}
+	// 		}
+	// 	}
+	// 	.dropdown-menu-right {
+	// 		.dropdown .dropdown-menu {
+	// 			left: auto !important;
+	// 			right: 100% !important;
+	// 			padding-left: 0px;
+	// 			padding-right: 10px;
+	// 		}
+	// 	}
+	// }
+}
+.submenu-box,
+.submenu-box * {
+	backface-visibility: hidden !important;
+	-webkit-backface-visibility: hidden !important;
+}

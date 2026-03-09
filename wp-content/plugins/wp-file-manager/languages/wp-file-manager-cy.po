@@ -1,0 +1,1004 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WP File Manager\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-02-25 16:36+0530\n"
+"PO-Revision-Date: 2022-02-25 16:40+0530\n"
+"Last-Translator: admin <kajal.gill@mysenseinc.in>\n"
+"Language-Team: \n"
+"Language: cy\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=6; plural=n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n==3 ? 3 : "
+"n==6 ? 4 : 5;\n"
+"X-Generator: Poedit 3.0.1\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: file_folder_manager.php:174
+msgid "Themes backup restored successfully."
+msgstr "Adferwyd themâu wrth gefn yn llwyddiannus."
+
+#: file_folder_manager.php:177
+msgid "Unable to restore themes."
+msgstr "Methu adfer themâu."
+
+#: file_folder_manager.php:207
+msgid "Uploads backup restored successfully."
+msgstr "Llwythiadau wrth gefn wedi'u hadfer yn llwyddiannus."
+
+#: file_folder_manager.php:211
+msgid "Unable to restore uploads."
+msgstr "Methu adfer uwchlwythiadau."
+
+#: file_folder_manager.php:237
+msgid "Others backup restored successfully."
+msgstr "Adferwyd copi wrth gefn eraill yn llwyddiannus."
+
+#: file_folder_manager.php:241
+msgid "Unable to restore others."
+msgstr "Methu adfer eraill."
+
+#: file_folder_manager.php:267
+msgid "Plugins backup restored successfully."
+msgstr "Adferwyd ategion ategion yn llwyddiannus."
+
+#: file_folder_manager.php:271 file_folder_manager.php:301
+msgid "Unable to restore plugins."
+msgstr "Methu adfer ategion."
+
+#: file_folder_manager.php:286
+msgid "Database backup restored successfully."
+msgstr "Adfer copi wrth gefn o'r gronfa ddata yn llwyddiannus."
+
+#: file_folder_manager.php:286 file_folder_manager.php:297
+#: file_folder_manager.php:588 file_folder_manager.php:592
+msgid "All Done"
+msgstr "Pawb Wedi'i Wneud"
+
+#: file_folder_manager.php:289
+msgid "Unable to restore DB backup."
+msgstr "Methu adfer copi wrth gefn DB."
+
+#: file_folder_manager.php:347
+msgid "Backups removed successfully!"
+msgstr "Tynnu copïau wrth gefn yn llwyddiannus!"
+
+#: file_folder_manager.php:349
+msgid "Unable to removed backup!"
+msgstr "Methu tynnu copi wrth gefn!"
+
+#: file_folder_manager.php:373
+msgid "Database backup done on date "
+msgstr "Gwneud copi wrth gefn o'r gronfa ddata ar y dyddiad "
+
+#: file_folder_manager.php:377
+msgid "Plugins backup done on date "
+msgstr "Gwneud copi wrth gefn o ategion ar ddyddiad "
+
+#: file_folder_manager.php:381
+msgid "Themes backup done on date "
+msgstr "Gwneud copi wrth gefn o themâu ar ddyddiad "
+
+#: file_folder_manager.php:385
+msgid "Uploads backup done on date "
+msgstr "Llwythiadau wrth gefn wedi'u llwytho ar ddyddiad "
+
+#: file_folder_manager.php:389
+msgid "Others backup done on date "
+msgstr "Eraill wrth gefn wedi'i wneud ar y dyddiad "
+
+#: file_folder_manager.php:393 file_folder_manager.php:776
+msgid "Logs"
+msgstr "Logiau"
+
+#: file_folder_manager.php:399
+msgid "No logs found!"
+msgstr "Ni chafwyd hyd i logiau!"
+
+#: file_folder_manager.php:496
+msgid "Nothing selected for backup"
+msgstr "Dim byd wedi'i ddewis ar gyfer copi wrth gefn"
+
+#: file_folder_manager.php:516
+msgid "Security Issue."
+msgstr "Mater Diogelwch."
+
+#: file_folder_manager.php:527
+msgid "Database backup done."
+msgstr "Gwneud copi wrth gefn o'r gronfa ddata."
+
+#: file_folder_manager.php:530
+msgid "Unable to create database backup."
+msgstr "Methu creu cronfa ddata wrth gefn."
+
+#: file_folder_manager.php:544
+msgid "Plugins backup done."
+msgstr "Gwneud copi wrth gefn o ategion."
+
+#: file_folder_manager.php:547
+msgid "Plugins backup failed."
+msgstr "Wedi methu gwneud copi wrth gefn o ategion."
+
+#: file_folder_manager.php:556
+msgid "Themes backup done."
+msgstr "Mae copi wrth gefn o themâu wedi'i wneud."
+
+#: file_folder_manager.php:559
+msgid "Themes backup failed."
+msgstr "Wedi methu gwneud copi wrth gefn o'r themâu."
+
+#: file_folder_manager.php:569
+msgid "Uploads backup done."
+msgstr "Llwythiadau wrth gefn wedi'u gwneud."
+
+#: file_folder_manager.php:572
+msgid "Uploads backup failed."
+msgstr "Methodd uwchlwythiadau wrth gefn."
+
+#: file_folder_manager.php:581
+msgid "Others backup done."
+msgstr "Copi wrth gefn eraill wedi'i wneud."
+
+#: file_folder_manager.php:584
+msgid "Others backup failed."
+msgstr "Methodd wrth gefn eraill."
+
+#: file_folder_manager.php:761 file_folder_manager.php:762
+#: lib/wpfilemanager.php:23
+msgid "WP File Manager"
+msgstr "Rheolwr Ffeil WP"
+
+#: file_folder_manager.php:769
+msgid "Settings"
+msgstr "Gosodiadau"
+
+#: file_folder_manager.php:771 inc/root.php:48
+msgid "Preferences"
+msgstr "Dewisiadau"
+
+#: file_folder_manager.php:773
+msgid "System Properties"
+msgstr "Priodweddau System"
+
+#: file_folder_manager.php:775
+msgid "Shortcode - PRO"
+msgstr "Cod byr - PRO"
+
+#: file_folder_manager.php:777
+msgid "Backup/Restore"
+msgstr "Gwneud copi wrth gefn / adfer"
+
+#: file_folder_manager.php:1033
+msgid "Buy Pro"
+msgstr "Prynu Pro"
+
+#: file_folder_manager.php:1034
+msgid "Donate"
+msgstr "Rhowch"
+
+#: file_folder_manager.php:1249
+msgid ""
+"<div class=\"updated settings-error notice is-dismissible\" id=\"setting-"
+"error-settings_updated\"> \n"
+"<p><strong>"
+msgstr ""
+
+#: file_folder_manager.php:1256
+msgid ""
+"<div class=\"error settings-error notice is-dismissible\" id=\"setting-error-"
+"settings_updated\"> \n"
+"<p><strong>"
+msgstr ""
+
+#: file_folder_manager.php:1395 file_folder_manager.php:1483
+msgid "File doesn't exist to download."
+msgstr "Nid yw'r ffeil yn bodoli i'w lawrlwytho."
+
+#: file_folder_manager.php:1400 file_folder_manager.php:1488
+msgid "Invalid Security Code."
+msgstr "Cod Diogelwch Annilys."
+
+#: file_folder_manager.php:1405 file_folder_manager.php:1493
+msgid "Missing backup id."
+msgstr "Id wrth gefn ar goll."
+
+#: file_folder_manager.php:1408 file_folder_manager.php:1496
+msgid "Missing parameter type."
+msgstr "Math paramedr ar goll."
+
+#: file_folder_manager.php:1411 file_folder_manager.php:1499
+msgid "Missing required parameters."
+msgstr "Y paramedrau gofynnol ar goll."
+
+#: inc/backup.php:24
+msgid ""
+"Error: Unable to restore backup because database backup is heavy in size. "
+"Please try to increase Maximum allowed size  from Preferences settings."
+msgstr ""
+"Gwall: Methu adfer copi wrth gefn oherwydd bod copi wrth gefn cronfa ddata "
+"yn drwm o ran maint. Ceisiwch gynyddu'r maint mwyaf a ganiateir o osodiadau "
+"Dewisiadau."
+
+#: inc/backup.php:25
+msgid "Select backup(s) to delete!"
+msgstr "Dewiswch wrth gefn(au) i'w dileu!"
+
+#: inc/backup.php:26
+msgid "Are you sure want to remove selected backup(s)?"
+msgstr "Ydych chi'n sicr am gael gwared ar gefn (au) dethol?"
+
+#: inc/backup.php:31
+msgid "Backup is running, please wait"
+msgstr "Mae'r copi wrth gefn yn rhedeg, arhoswch"
+
+#: inc/backup.php:32
+msgid "Restore is running, please wait"
+msgstr "Mae Restore yn rhedeg, arhoswch"
+
+#: inc/backup.php:33
+msgid "Nothing selected for backup."
+msgstr "Dim byd wedi'i ddewis ar gyfer copi wrth gefn."
+
+#: inc/backup.php:45
+msgid "WP File Manager - Backup/Restore"
+msgstr "Rheolwr Ffeil WP - Gwneud copi wrth gefn / Adfer"
+
+#: inc/backup.php:51
+msgid "Backup Options:"
+msgstr "Dewisiadau wrth gefn:"
+
+#: inc/backup.php:58
+msgid "Database Backup"
+msgstr "Gwneud copi wrth gefn o'r gronfa ddata"
+
+#: inc/backup.php:64
+msgid "Files Backup"
+msgstr "Gwneud copi wrth gefn o ffeiliau"
+
+#: inc/backup.php:68
+msgid "Plugins"
+msgstr "Ategion"
+
+#: inc/backup.php:71
+msgid "Themes"
+msgstr "Themes"
+
+#: inc/backup.php:74
+msgid "Uploads"
+msgstr "Llwythiadau"
+
+#: inc/backup.php:77
+msgid "Others (Any other directories found inside wp-content)"
+msgstr "Eraill (Unrhyw gyfeiriaduron eraill a geir y tu mewn i gynnwys wp)"
+
+#: inc/backup.php:81
+msgid "Backup Now"
+msgstr "Gwneud copi wrth gefn Nawr"
+
+#: inc/backup.php:89
+msgid "Time now"
+msgstr "Amser nawr"
+
+#: inc/backup.php:99
+msgid "SUCCESS"
+msgstr "LLWYDDIANT"
+
+#: inc/backup.php:101
+msgid "Backup successfully deleted."
+msgstr "Dilewyd y copi wrth gefn yn llwyddiannus."
+
+#: inc/backup.php:102
+msgid "Ok"
+msgstr "Iawn"
+
+#: inc/backup.php:117
+msgid "DELETE FILES"
+msgstr "FILES DILEU"
+
+#: inc/backup.php:119
+msgid "Are you sure you want to delete this backup?"
+msgstr "Ydych chi'n siŵr eich bod chi am ddileu'r copi wrth gefn hwn?"
+
+#: inc/backup.php:120 inc/backup.php:139
+msgid "Cancel"
+msgstr "Canslo"
+
+#: inc/backup.php:121 inc/backup.php:140
+msgid "Confirm"
+msgstr "Cadarnhau"
+
+#: inc/backup.php:136
+msgid "RESTORE FILES"
+msgstr "FILES RESTORE"
+
+#: inc/backup.php:138
+msgid "Are you sure you want to restore this backup?"
+msgstr "Ydych chi'n siŵr eich bod chi am adfer y copi wrth gefn hwn?"
+
+#: inc/backup.php:166
+msgid "Last Log Message"
+msgstr "Neges Log Olaf"
+
+#: inc/backup.php:169
+msgid "The backup apparently succeeded and is now complete."
+msgstr ""
+"Mae'n debyg bod y copi wrth gefn wedi llwyddo ac mae bellach wedi'i gwblhau."
+
+#: inc/backup.php:171
+msgid "No log message"
+msgstr "Dim neges log"
+
+#: inc/backup.php:177
+msgid "Existing Backup(s)"
+msgstr "Gwneud copi wrth gefn (au) presennol"
+
+#: inc/backup.php:184
+msgid "Backup Date"
+msgstr "Dyddiad wrth gefn"
+
+#: inc/backup.php:187
+msgid "Backup data (click to download)"
+msgstr "Data wrth gefn (cliciwch i lawrlwytho)"
+
+#: inc/backup.php:190
+msgid "Action"
+msgstr "Gweithredu"
+
+#: inc/backup.php:210
+msgid "Today"
+msgstr "Heddiw"
+
+#: inc/backup.php:239
+msgid "Restore"
+msgstr "Adfer"
+
+#: inc/backup.php:240 inc/backup.php:250
+msgid "Delete"
+msgstr "Dileu"
+
+#: inc/backup.php:241
+msgid "View Log"
+msgstr "Gweld Log"
+
+#: inc/backup.php:246
+msgid "Currently no backup(s) found."
+msgstr "Ar hyn o bryd ni ddarganfuwyd copi wrth gefn (au)."
+
+#: inc/backup.php:249
+msgid "Actions upon selected backup(s)"
+msgstr "Camau gweithredu wrth gefn (au) dethol"
+
+#: inc/backup.php:251
+msgid "Select All"
+msgstr "Dewiswch Bawb"
+
+#: inc/backup.php:252
+msgid "Deselect"
+msgstr "Dad-ddewis"
+
+#: inc/backup.php:254
+msgid "Note:"
+msgstr "Nodyn:"
+
+#: inc/backup.php:254
+msgid "Backup files will be under"
+msgstr "Bydd ffeiliau wrth gefn o dan"
+
+#: inc/contribute.php:3
+msgid "WP File Manager Contribution"
+msgstr "Cyfraniad Rheolwr Ffeil WP"
+
+#: inc/logs.php:7
+msgid ""
+"Note: These are demo screenshots. Please buy File Manager pro to Logs "
+"functions."
+msgstr ""
+"Nodyn: Mae'r rhain yn sgrinluniau demo. Prynwch Rheolwr Ffeil pro i "
+"swyddogaethau Logiau."
+
+#: inc/logs.php:8 lib/wpfilemanager.php:24
+msgid "Click to Buy PRO"
+msgstr "Cliciwch i Brynu PRO"
+
+#: inc/logs.php:8 inc/settings.php:12 inc/settings.php:27
+#: inc/system_properties.php:5 lib/wpfilemanager.php:25
+msgid "Buy PRO"
+msgstr "Prynu PRO"
+
+#: inc/logs.php:9
+msgid "Edit Files Logs"
+msgstr "Golygu Logiau Ffeiliau"
+
+#: inc/logs.php:11
+msgid "Download Files Logs"
+msgstr "Dadlwythwch Logiau Ffeiliau"
+
+#: inc/logs.php:13
+msgid "Upload Files Logs"
+msgstr "Llwythwch Logiau Ffeiliau"
+
+#: inc/root.php:43
+msgid "Settings saved."
+msgstr "Gosodiadau wedi'u cadw."
+
+#: inc/root.php:43 inc/root.php:46
+msgid "Dismiss this notice."
+msgstr "Gwrthod yr hysbysiad hwn."
+
+#: inc/root.php:46
+msgid "You have not made any changes to be saved."
+msgstr "Nid ydych wedi gwneud unrhyw newidiadau i gael eu cadw."
+
+#: inc/root.php:55
+msgid "Public Root Path"
+msgstr "Llwybr Gwreiddiau Cyhoeddus"
+
+#: inc/root.php:58
+msgid "File Manager Root Path, you can change according to your choice."
+msgstr "Llwybr Rheolwr Gwreiddiau, gallwch newid yn ôl eich dewis."
+
+#: inc/root.php:59
+msgid "Default:"
+msgstr "Rhagosodiad:"
+
+#: inc/root.php:60
+msgid ""
+"Please change this carefully, wrong path can lead file manager plugin to go "
+"down."
+msgstr ""
+"Newidiwch hwn yn ofalus, gall llwybr anghywir arwain at ategyn rheolwr "
+"ffeiliau i fynd i lawr."
+
+#: inc/root.php:64
+msgid "Enable Trash?"
+msgstr "Galluogi Sbwriel?"
+
+#: inc/root.php:67
+msgid "After enable trash, your files will go to trash folder."
+msgstr "Ar ôl galluogi sbwriel, bydd eich ffeiliau'n mynd i'r ffolder sbwriel."
+
+#: inc/root.php:72
+msgid "Enable Files Upload to Media Library?"
+msgstr "Galluogi Ffeiliau i'w Llwytho i Lyfrgell y Cyfryngau?"
+
+#: inc/root.php:75
+msgid "After enabling this all files will go to media library."
+msgstr "Ar ôl galluogi hyn bydd pob ffeil yn mynd i lyfrgell y cyfryngau."
+
+#: inc/root.php:80
+msgid "Maximum allowed size at the time of database backup restore."
+msgstr "Uchafswm maint a ganiateir ar adeg adfer copi wrth gefn cronfa ddata."
+
+#: inc/root.php:83
+msgid "MB"
+msgstr ""
+
+#: inc/root.php:85
+msgid ""
+"Please increase field value if you are getting error message at the time of "
+"backup restore."
+msgstr ""
+"Cynyddwch werth y maes os ydych chi'n cael neges gwall ar adeg adfer copi "
+"wrth gefn."
+
+#: inc/root.php:90
+msgid "Save Changes"
+msgstr "Arbed Newidiadau"
+
+#: inc/settings.php:10
+msgid "Settings - General"
+msgstr "Gosodiadau - Cyffredinol"
+
+#: inc/settings.php:11 inc/settings.php:26
+msgid ""
+"Note: This is just a demo screenshot. To get settings please buy our pro "
+"version."
+msgstr ""
+"Nodyn: Dim ond screenshot demo yw hwn. I gael gosodiadau, prynwch ein "
+"fersiwn pro."
+
+#: inc/settings.php:13
+msgid ""
+"Here admin can give access to user roles to use filemanager. Admin can set "
+"Default Access Folder and also control upload size of filemanager."
+msgstr ""
+"Yma gall admin roi mynediad i rolau defnyddwyr i ddefnyddio rheolwr "
+"ffeiliau. Gall Gweinyddiaeth osod Ffolder Mynediad Diofyn a hefyd reoli "
+"maint uwchlwytho rheolwr ffeiliau."
+
+#: inc/settings.php:15
+msgid "Settings - Code-editor"
+msgstr "Gosodiadau - Golygydd cod"
+
+#: inc/settings.php:16
+msgid ""
+"File Manager has a code editor with multiple themes. You can select any "
+"theme for code editor. It will display when you edit any file. Also you can "
+"allow fullscreen mode of code editor."
+msgstr ""
+"Mae gan y Rheolwr Ffeil olygydd cod gyda sawl thema. Gallwch ddewis unrhyw "
+"thema ar gyfer golygydd cod. Bydd yn arddangos pan fyddwch chi'n golygu "
+"unrhyw ffeil. Hefyd gallwch ganiatáu modd sgrin lawn o olygydd cod."
+
+#: inc/settings.php:18
+msgid "Code-editor View"
+msgstr "Golygydd cod-View"
+
+#: inc/settings.php:20
+msgid "Settings - User Restrictions"
+msgstr "Gosodiadau - Cyfyngiadau Defnyddiwr"
+
+#: inc/settings.php:21
+msgid ""
+"Admin can restrict actions of any user. Also hide files and folders and can "
+"set different - different folders paths for different users."
+msgstr ""
+"Gall gweinyddiaeth gyfyngu ar weithredoedd unrhyw ddefnyddiwr. Hefyd cuddio "
+"ffeiliau a ffolderau a gallant osod gwahanol lwybrau ffolderi gwahanol ar "
+"gyfer gwahanol ddefnyddwyr."
+
+#: inc/settings.php:23
+msgid "Settings - User Role Restrictions"
+msgstr "Gosodiadau - Cyfyngiadau Rôl Defnyddiwr"
+
+#: inc/settings.php:24
+msgid ""
+"Admin can restrict actions of any userrole. Also hide files and folders and "
+"can set different - different folders paths for different users roles."
+msgstr ""
+"Gall gweinyddiaeth gyfyngu ar weithredoedd unrhyw ddefnyddiwr. Hefyd cuddio "
+"ffeiliau a ffolderau a gallant osod gwahanol lwybrau ffolderi gwahanol ar "
+"gyfer rolau gwahanol ddefnyddwyr."
+
+#: inc/shortcode_docs.php:11
+msgid "File Manager - Shortcode"
+msgstr "Rheolwr Ffeiliau - Cod Byr"
+
+#: inc/shortcode_docs.php:15 inc/shortcode_docs.php:17
+#: inc/shortcode_docs.php:19
+msgid "USE:"
+msgstr "DEFNYDD:"
+
+#: inc/shortcode_docs.php:15
+msgid ""
+"It will show file manager on front end. You can control all settings from "
+"file manager settings. It will work same as backend WP File Manager."
+msgstr ""
+"Bydd yn dangos rheolwr ffeiliau ar y pen blaen. Gallwch reoli pob gosodiad o "
+"osodiadau rheolwr ffeiliau. Bydd yn gweithio yr un peth â Rheolwr Ffeil WP "
+"ôl-wyneb."
+
+#: inc/shortcode_docs.php:17
+msgid ""
+"It will show file manager on front end. But only Administrator can access it "
+"and will control from file manager settings."
+msgstr ""
+"Bydd yn dangos rheolwr ffeiliau ar y pen blaen. Ond dim ond Gweinyddwr all "
+"gael mynediad iddo a bydd yn rheoli o osodiadau rheolwr ffeiliau."
+
+#: inc/shortcode_docs.php:23
+msgid "Parameters:"
+msgstr "Paramedrau:"
+
+#: inc/shortcode_docs.php:26
+msgid ""
+"It will allow all roles to access file manager on front end or You can "
+"simple use for particular user roles as like allowed_roles=\"editor,author"
+"\" (seprated by comma(,))"
+msgstr ""
+"Bydd yn caniatáu i bob rôl gael mynediad i'r rheolwr ffeiliau ar y pen blaen "
+"neu Gallwch chi ei ddefnyddio'n syml ar gyfer rolau defnyddiwr penodol fel y "
+"caniatâd_roles = \"golygydd, awdur\" (wedi'i wahanu gan atalnod(,))"
+
+#: inc/shortcode_docs.php:28
+msgid ""
+"Here \"test\" is the name of folder which is located on root directory, or "
+"you can give path for sub folders as like \"wp-content/plugins\". If leave "
+"blank or empty it will access all folders on root directory. Default: Root "
+"directory"
+msgstr ""
+"Yma \"prawf\" yw enw'r ffolder sydd wedi'i leoli ar y cyfeiriadur gwraidd, "
+"neu gallwch roi llwybr ar gyfer is-ffolderi fel \"wp-content/plugins\". Os "
+"gadewch yn wag neu'n wag bydd yn cyrchu'r holl ffolderi ar y cyfeiriadur "
+"gwraidd. Diofyn: Cyfeiriadur gwraidd"
+
+#: inc/shortcode_docs.php:30
+msgid "for access to write files permissions, note: true/false, default: false"
+msgstr ""
+"ar gyfer mynediad i ganiatâd ysgrifennu ffeiliau, nodwch: gwir/anghywir, "
+"rhagosodedig: ffug"
+
+#: inc/shortcode_docs.php:32
+msgid "for access to read files permission, note: true/false, default: true"
+msgstr ""
+"i gael caniatâd i ddarllen ffeiliau, nodwch: gwir/anghywir, rhagosodedig: "
+"gwir"
+
+#: inc/shortcode_docs.php:34
+msgid "it will hide mentioned here. Note: seprated by comma(,). Default: Null"
+msgstr ""
+"bydd yn cuddio a grybwyllir yma. Nodyn: wedi'i wahanu gan goma(,). Diofyn: "
+"Null"
+
+#: inc/shortcode_docs.php:36
+msgid ""
+"It will lock mentioned in commas. you can lock more as like \".php,.css,.js"
+"\" etc. Default: Null"
+msgstr ""
+"Bydd yn cloi a grybwyllir mewn atalnodau. gallwch gloi mwy fel \".php,.css,."
+"js\" ac ati. Diofyn: Null"
+
+#: inc/shortcode_docs.php:38
+msgid ""
+"* for all operations and to allow some operation you can mention operation "
+"name as like, allowed_operations=\"upload,download\". Note: seprated by "
+"comma(,). Default: *"
+msgstr ""
+"* ar gyfer pob gweithrediad ac i ganiatáu rhywfaint o lawdriniaeth gallwch "
+"sôn am enw gweithrediad fel, allowed_operations = \"llwytho i lawr, llwytho "
+"i lawr\". Nodyn: wedi'i wahanu gan goma(,). Rhagosodedig: *"
+
+#: inc/shortcode_docs.php:42
+msgid "File Operations List:"
+msgstr "Rhestr Gweithrediadau Ffeil:"
+
+#: inc/shortcode_docs.php:46
+msgid "mkdir ->"
+msgstr ""
+
+#: inc/shortcode_docs.php:46
+msgid "Make directory or folder"
+msgstr "Gwneud cyfeiriadur neu ffolder"
+
+#: inc/shortcode_docs.php:47
+msgid "mkfile ->"
+msgstr ""
+
+#: inc/shortcode_docs.php:47
+msgid "Make file"
+msgstr "Gwneud ffeil"
+
+#: inc/shortcode_docs.php:48
+msgid "rename ->"
+msgstr ""
+
+#: inc/shortcode_docs.php:48
+msgid "Rename a file or folder"
+msgstr "Ail-enwi ffeil neu ffolder"
+
+#: inc/shortcode_docs.php:49
+msgid "duplicate ->"
+msgstr ""
+
+#: inc/shortcode_docs.php:49
+msgid "Duplicate or clone a folder or file"
+msgstr "Dyblygu neu glonio ffolder neu ffeil"
+
+#: inc/shortcode_docs.php:50
+msgid "paste ->"
+msgstr ""
+
+#: inc/shortcode_docs.php:50
+msgid "Paste a file or folder"
+msgstr "Gludwch ffeil neu ffolder"
+
+#: inc/shortcode_docs.php:51
+msgid "ban ->"
+msgstr ""
+
+#: inc/shortcode_docs.php:51
+msgid "Ban"
+msgstr "Gwahardd"
+
+#: inc/shortcode_docs.php:52
+msgid "archive ->"
+msgstr ""
+
+#: inc/shortcode_docs.php:52
+msgid "To make a archive or zip"
+msgstr "I wneud archif neu sip"
+
+#: inc/shortcode_docs.php:53
+msgid "extract ->"
+msgstr ""
+
+#: inc/shortcode_docs.php:53
+msgid "Extract archive or zipped file"
+msgstr "Detholiad archif neu ffeil wedi'i sipio"
+
+#: inc/shortcode_docs.php:54
+msgid "copy ->"
+msgstr ""
+
+#: inc/shortcode_docs.php:54
+msgid "Copy files or folders"
+msgstr "Copïwch ffeiliau neu ffolderau"
+
+#: inc/shortcode_docs.php:58
+msgid "cut ->"
+msgstr ""
+
+#: inc/shortcode_docs.php:58
+msgid "Simple cut a file or folder"
+msgstr "Torri ffeil neu ffolder yn syml"
+
+#: inc/shortcode_docs.php:59
+msgid "edit ->"
+msgstr ""
+
+#: inc/shortcode_docs.php:59
+msgid "Edit a file"
+msgstr "Golygu ffeil"
+
+#: inc/shortcode_docs.php:60
+msgid "rm ->"
+msgstr ""
+
+#: inc/shortcode_docs.php:60
+msgid "Remove or delete files and folders"
+msgstr "Tynnu neu ddileu ffeiliau a ffolderau"
+
+#: inc/shortcode_docs.php:61
+msgid "download ->"
+msgstr ""
+
+#: inc/shortcode_docs.php:61
+msgid "Download files"
+msgstr "Dadlwythwch ffeiliau"
+
+#: inc/shortcode_docs.php:62
+msgid "upload ->"
+msgstr ""
+
+#: inc/shortcode_docs.php:62
+msgid "Upload files"
+msgstr "Llwythwch ffeiliau i fyny"
+
+#: inc/shortcode_docs.php:63
+msgid "search -> "
+msgstr ""
+
+#: inc/shortcode_docs.php:63
+msgid "Search things"
+msgstr "Chwilio pethau"
+
+#: inc/shortcode_docs.php:64
+msgid "info ->"
+msgstr ""
+
+#: inc/shortcode_docs.php:64
+msgid "Info of file"
+msgstr "Gwybodaeth am y ffeil"
+
+#: inc/shortcode_docs.php:65
+msgid "help ->"
+msgstr ""
+
+#: inc/shortcode_docs.php:65
+msgid "Help"
+msgstr "Help"
+
+#: inc/shortcode_docs.php:71
+msgid ""
+"->  It will ban particular users by just putting their ids seprated by "
+"commas(,). If user is Ban then they will not able to access wp file manager "
+"on front end."
+msgstr ""
+"-> Bydd yn gwahardd defnyddwyr penodol trwy roi eu cymalau wedi'u gwahanu "
+"gan atalnodau (,). Os yw'r defnyddiwr yn Ban yna ni fydd yn gallu cyrchu "
+"rheolwr ffeiliau wp yn y pen blaen."
+
+#: inc/shortcode_docs.php:72
+msgid "-> Filemanager UI View. Default: grid"
+msgstr "-> Golwg UI Filemanager. Rhagosodiad: grid"
+
+#: inc/shortcode_docs.php:73
+msgid "-> File Modified or Create date format. Default: d M, Y h:i A"
+msgstr ""
+"-> Ffeil wedi'i haddasu neu Creu fformat dyddiad. Rhagosodiad: d M, Y h: i A."
+
+#: inc/shortcode_docs.php:74
+msgid "-> File manager Language. Default: English(en)"
+msgstr "-> Rheolwr ffeiliau Iaith. Rhagosodiad: English(en)"
+
+#: inc/shortcode_docs.php:75
+msgid "-> File Manager Theme. Default: Light"
+msgstr "Thema Rheolwr Ffeil. Rhagosodiad: Light"
+
+#: inc/system_properties.php:5
+msgid "File Manager - System Properties"
+msgstr "Rheolwr Ffeiliau - Priodweddau System"
+
+#: inc/system_properties.php:10
+msgid "PHP version"
+msgstr "Fersiwn PHP"
+
+#: inc/system_properties.php:15
+msgid "Maximum file upload size (upload_max_filesize)"
+msgstr "Uchafswm maint uwchlwytho ffeiliau (upload_max_filesize)"
+
+#: inc/system_properties.php:20
+msgid "Post maximum file upload size (post_max_size)"
+msgstr "Postiwch uchafswm maint uwchlwytho ffeiliau (post_max_size)"
+
+#: inc/system_properties.php:25
+msgid "Memory Limit (memory_limit)"
+msgstr "Terfyn Cof (memory_limit)"
+
+#: inc/system_properties.php:30
+msgid "Timeout (max_execution_time)"
+msgstr "Amserlen (max_execution_time)"
+
+#: inc/system_properties.php:35
+msgid "Browser and OS (HTTP_USER_AGENT)"
+msgstr "Porwr ac OS (HTTP_USER_AGENT)"
+
+#: lib/jquery/jquery-ui-1.11.4.js:8
+msgid "'"
+msgstr ""
+
+#: lib/wpfilemanager.php:31
+msgid "Change Theme Here:"
+msgstr "Newid Thema Yma:"
+
+#: lib/wpfilemanager.php:35
+msgid "Default"
+msgstr "Rhagosodiad"
+
+#: lib/wpfilemanager.php:39
+msgid "Dark"
+msgstr "Tywyll"
+
+#: lib/wpfilemanager.php:43
+msgid "Light"
+msgstr "Golau"
+
+#: lib/wpfilemanager.php:47
+msgid "Gray"
+msgstr "Llwyd"
+
+#: lib/wpfilemanager.php:52
+msgid "Windows - 10"
+msgstr ""
+
+#: lib/wpfilemanager.php:85
+msgid "Welcome to File Manager"
+msgstr "Croeso i'r Rheolwr Ffeiliau"
+
+#: lib/wpfilemanager.php:88
+msgid ""
+"We love making new friends! Subscribe below and we promise to\n"
+"    keep you up-to-date with our latest new plugins, updates,\n"
+"    awesome deals and a few special offers."
+msgstr ""
+"Rydyn ni'n caru gwneud ffrindiau newydd! Tanysgrifiwch isod ac rydym yn "
+"addo\n"
+"    rhoi'r wybodaeth ddiweddaraf i chi am ein ategion, diweddariadau, "
+"diweddaraf\n"
+"    bargeinion anhygoel ac ychydig o gynigion arbennig."
+
+#: lib/wpfilemanager.php:99
+msgid "Please Enter First Name."
+msgstr "Rhowch Enw Cyntaf."
+
+#: lib/wpfilemanager.php:107
+msgid "Please Enter Last Name."
+msgstr "Rhowch yr Enw Diwethaf."
+
+#: lib/wpfilemanager.php:116
+msgid "Please Enter Email Address."
+msgstr "Rhowch y Cyfeiriad E-bost."
+
+#: lib/wpfilemanager.php:120
+msgid "Verify"
+msgstr "Gwirio"
+
+#: lib/wpfilemanager.php:126
+msgid "No Thanks"
+msgstr "Dim Diolch"
+
+#: lib/wpfilemanager.php:132
+msgid "Terms of Service"
+msgstr "Telerau Gwasanaeth"
+
+#: lib/wpfilemanager.php:134
+msgid "Privacy Policy"
+msgstr "Polisi Preifatrwydd"
+
+#: lib/wpfilemanager.php:153
+msgid "Saving..."
+msgstr "Arbed ..."
+
+#: lib/wpfilemanager.php:155
+msgid "OK"
+msgstr "iawn"
+
+#~ msgid "Backup not found!"
+#~ msgstr "Ni chafwyd copi wrth gefn!"
+
+#~ msgid "Backup removed successfully!"
+#~ msgstr "Tynnu copi wrth gefn yn llwyddiannus!"
+
+#~ msgid "<span class=\"fm_console_error\">Nothing selected for backup</span>"
+#~ msgstr ""
+#~ "<span class=\"fm_console_error\">Dim byd wedi'i ddewis ar gyfer copi wrth "
+#~ "gefn</span>"
+
+#~ msgid "<span class=\"fm_console_error\">Security Issue.</span>"
+#~ msgstr "<span class=\"fm_console_error\">Mater Diogelwch.</span>"
+
+#~ msgid "<span class=\"fm_console_success\">Database backup done.</span>"
+#~ msgstr ""
+#~ "<span class=\"fm_console_success\">Gwneud copi wrth gefn o'r gronfa ddata."
+#~ "</span>"
+
+#~ msgid ""
+#~ "<span class=\"fm_console_error\">Unable to create database backup.</span>"
+#~ msgstr ""
+#~ "<span class=\"fm_console_error\">Methu creu copi wrth gefn o'r gronfa "
+#~ "ddata.</span>"
+
+#~ msgid "<span class=\"fm_console_success\">Plugins backup done.</span>"
+#~ msgstr ""
+#~ "<span class=\"fm_console_success\">Gwneud copi wrth gefn o ategion.</span>"
+
+#~ msgid "<span class=\"fm_console_error\">Plugins backup failed.</span>"
+#~ msgstr ""
+#~ "<span class=\"fm_console_error\">Methodd copi wrth gefn ategion.</span>"
+
+#~ msgid "<span class=\"fm_console_success\">Themes backup done.</span>"
+#~ msgstr ""
+#~ "<span class=\"fm_console_success\">Gwneud copi wrth gefn o themâu.</span>"
+
+#~ msgid "<span class=\"fm_console_error\">Themes backup failed.</span>"
+#~ msgstr ""
+#~ "<span class=\"fm_console_error\">Methodd y copi wrth gefn o themâu.</span>"
+
+#~ msgid "<span class=\"fm_console_success\">Uploads backup done.</span>"
+#~ msgstr ""
+#~ "<span class=\"fm_console_success\">Llwythiadau wrth gefn wedi'u llwytho "
+#~ "wedi'u gwneud.</span>"
+
+#~ msgid "<span class=\"fm_console_error\">Uploads backup failed.</span>"
+#~ msgstr ""
+#~ "<span class=\"fm_console_error\">Methodd y llwythiadau wrth gefn.</span>"
+
+#~ msgid "<span class=\"fm_console_success\">Others backup done.</span>"
+#~ msgstr ""
+#~ "<span class=\"fm_console_success\">Eraill wrth gefn wedi'i wneud.</span>"
+
+#~ msgid "<span class=\"fm_console_error\">Others backup failed.</span>"
+#~ msgstr ""
+#~ "<span class=\"fm_console_error\">Methodd copi wrth gefn eraill.</span>"
+
+#~ msgid "<span class=\"fm_console_success\">All Done</span>"
+#~ msgstr "<span class=\"fm_console_success\">Pawb Wedi'i Wneud</span>"
+
+#~ msgid ""
+#~ "<code>[wp_file_manager view=\"list\" lang=\"en\" theme=\"light\" "
+#~ "dateformat=\"d M, Y h:i A\" allowed_roles=\"editor,author\" access_folder="
+#~ "\"wp-content/plugins\" write = \"true\" read = \"false\" hide_files = "
+#~ "\"kumar,abc.php\" lock_extensions=\".php,.css\" allowed_operations="
+#~ "\"upload,download\" ban_user_ids=\"2,3\"]"
+#~ msgstr ""
+#~ "<code>[wp_file_manager view=\"list\" lang=\"en\" theme=\"light\" "
+#~ "dateformat=\"d M, Y h:i A\" allowed_roles=\"editor,author\" access_folder="
+#~ "\"wp-content/plugins\" write = \"true\" read = \"false\" hide_files = "
+#~ "\"kumar,abc.php\" lock_extensions=\".php,.css\" allowed_operations="
+#~ "\"upload,download\" ban_user_ids=\"2,3\"]"
+
+#~ msgid "Manage your WP files."
+#~ msgstr "Rheoli eich ffeiliau WP."
+
+#~ msgid "Extensions"
+#~ msgstr "Estyniadau"
+
+#~ msgid ""
+#~ "Please contribute some donation, to make plugin more stable. You can pay "
+#~ "amount of your choice."
+#~ msgstr ""
+#~ "Cyfrannwch rywfaint o rodd, i wneud ychwanegyn yn fwy sefydlog. Gallwch "
+#~ "dalu faint o'ch dewis chi."

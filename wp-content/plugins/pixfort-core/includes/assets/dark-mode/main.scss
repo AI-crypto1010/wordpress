@@ -1,0 +1,141 @@
+/*
+* Functions
+*/
+// Color contrast (Lighten or Darken)
+$yiq-contrasted-threshold:  220 !default;
+@function color-yiq-ld($color, $dark: #18181B, $light: #fff) {
+	$r: red($color);
+	$g: green($color);
+	$b: blue($color);
+
+	$yiq: (($r * 299) + ($g * 587) + ($b * 114)) / 1000;
+
+	@if ($yiq >= $yiq-contrasted-threshold) {
+		@return darken($color, 80%);
+	} @else {
+		@return lighten($color, 80%);
+	}
+}
+
+/*
+* Dark mode
+*/
+
+@if not variable-exists(pix-dynamic-gray-950-dark) {
+	$pix-dynamic-gray-950-dark: #FAFAFA;
+}
+@if not variable-exists(pix-dynamic-gray-900-dark) {
+	$pix-dynamic-gray-900-dark: #F4F4F5;
+}
+@if not variable-exists(pix-dynamic-gray-800-dark) {
+	$pix-dynamic-gray-800-dark: #E4E4E7;
+}
+@if not variable-exists(pix-dynamic-gray-700-dark) {
+	$pix-dynamic-gray-700-dark: #D4D4D8;
+}
+@if not variable-exists(pix-dynamic-gray-600-dark) {
+	$pix-dynamic-gray-600-dark: #52525B;
+}
+@if not variable-exists(pix-dynamic-gray-500-dark) {
+	$pix-dynamic-gray-500-dark: #71717A;
+}
+@if not variable-exists(pix-dynamic-gray-400-dark) {
+	$pix-dynamic-gray-400-dark: #A1A1AA;
+}
+@if not variable-exists(pix-dynamic-gray-300-dark) {
+	$pix-dynamic-gray-300-dark: #D4D4D8;
+}
+@if not variable-exists(pix-dynamic-gray-200-dark) {
+	$pix-dynamic-gray-200-dark: #E4E4E7;
+}
+@if not variable-exists(pix-dynamic-gray-100-dark) {
+	$pix-dynamic-gray-100-dark: #18181B;
+}
+@if not variable-exists(pix-dynamic-gray-50-dark) {
+	$pix-dynamic-gray-50-dark: #09090B;
+}
+@if not variable-exists(pix-dynamic-background-dark) {
+	$pix-dynamic-background-dark: #000000;
+}
+@if not variable-exists(pix-dynamic-heading-dark) {
+	$pix-dynamic-heading-dark: #FFFFFF;
+}
+
+// Dynamic gray colors
+$dynamic-gray-colors: (
+    'pix-dynamic-gray-950': $pix-dynamic-gray-950-dark,
+    'pix-dynamic-gray-900': $pix-dynamic-gray-900-dark,
+    'pix-dynamic-gray-800': $pix-dynamic-gray-800-dark,
+    'pix-dynamic-gray-700': $pix-dynamic-gray-700-dark,
+    'pix-dynamic-gray-600': $pix-dynamic-gray-600-dark,
+    'pix-dynamic-gray-500': $pix-dynamic-gray-500-dark,
+    'pix-dynamic-gray-400': $pix-dynamic-gray-400-dark,
+    'pix-dynamic-gray-300': $pix-dynamic-gray-300-dark,
+    'pix-dynamic-gray-200': $pix-dynamic-gray-200-dark,
+    'pix-dynamic-gray-100': $pix-dynamic-gray-100-dark,
+    'pix-dynamic-gray-50': $pix-dynamic-gray-50-dark,
+    'pix-dynamic-background': $pix-dynamic-background-dark,
+    'pix-dynamic-heading': $pix-dynamic-heading-dark
+);
+
+.pix-theme-switching *:not(.swiper-slide, .swiper-wrapper, .swiper-slide *, .swiper-wrapper *) {
+	transition: none !important;
+}
+.pix-dark-element {
+	display: none;
+}
+
+.pixfort-header-area:not(.is-scroll) .pix-logo-scroll {
+	display: none !important;
+}
+.pixfort-header-area.is-scroll .pix-logo,
+.pixfort-header-area.is-scroll .pix-logo-scroll.pix-dark-element {
+	display: none !important;
+}
+body:not(.pix-dark) {
+	.pix-dark-element {
+		display: none !important;
+	}
+}
+body.pix-dark {
+	.pix-light-element {
+		display: none !important;
+	}
+}
+
+:root:has(.pix-dark), html.pix-dark, .pix-dark, .pix-dark .elementor {
+	--pix-base-background: rgba(255, 255, 255, 0.1);
+	.pix-dark-element {
+		display: initial;
+	}
+	.pix-light-element {
+		display: none;
+	}
+	.pixfort-header-area.is-scroll .pix-logo-scroll.pix-dark-element {
+		display: block !important;
+	}
+	.pixfort-header-area.is-scroll .pix-logo-scroll.pix-light-element {
+		display: none !important;
+	}
+
+    @each $color-name, $color-value in $dynamic-gray-colors {
+		--#{$color-name}: #{$color-value};
+    }
+	@each $color-name, $color-value in $dynamic-gray-colors {
+		$class-name: str-slice($color-name, 5); // Remove "pix-" prefix (4 characters + 1)
+		.btn-#{$class-name}, .btn-line-#{$class-name}, .btn-outline-#{$class-name}, .btn-underline-#{$class-name}, .btn-blink-#{$class-name} {
+			--pix-btn-color: #{color-yiq-ld($color-value)};
+			--pix-btn-blink-color-hover: #{color-yiq-ld($color-value)};
+		}
+	}
+	
+	@if variable-exists(link-color) {
+		a:not(.btn), .link-color {
+			color:  $link-color;
+			&:hover {
+				color: color-mix(in srgb, transparent 30%,  $link-color);
+			}
+		}
+	}
+}
+

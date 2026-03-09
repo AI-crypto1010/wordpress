@@ -1,0 +1,35 @@
+.clients img {
+    height: auto;
+}
+.clients:not(.no-effect) {
+    &:hover {
+        .client {
+            opacity: .5;
+        }
+    }
+    img {
+        height: auto !important;
+    }
+    .client {
+        transition: opacity .2s cubic-bezier(0.165, 0.84, 0.44, 1), transform .2s cubic-bezier(0.165, 0.84, 0.44, 1);
+        backface-visibility: hidden;
+        -webkit-backface-visibility: hidden;
+        &.shadow-hover-lg {
+            transition: all .2s cubic-bezier(0.165, 0.84, 0.44, 1);
+          }
+        &:hover {
+            opacity: 1;
+            &.shadow-hover-lg {
+              background: rgba(#fff, 0.1) !important;
+            }
+        }
+
+    }
+}
+@media (max-width: 992px) {
+    .clients {
+        img {
+            max-width: 60%;
+        }
+    }
+}

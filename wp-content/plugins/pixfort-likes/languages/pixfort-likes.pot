@@ -1,0 +1,168 @@
+# Translation file by pixfort.com
+msgid ""
+msgstr ""
+"Project-Id-Version: PixFort Likes 1.0.5\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/PixFort-Likes\n"
+"POT-Creation-Date: 2024-01-15 23:40:58+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2024-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: en\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-Country: United States\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: "
+"__;_e;_x:1,2c;_ex:1,2c;_n:1,2;_nx:1,2,4c;_n_noop:1,2;_nx_noop:1,2,3c;esc_"
+"attr__;esc_html__;esc_attr_e;esc_html_e;esc_attr_x:1,2c;esc_html_x:1,2c;\n"
+"X-Poedit-Basepath: ../\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-Bookmarks: \n"
+"X-Textdomain-Support: yes\n"
+"X-Generator: grunt-wp-i18n 1.0.3\n"
+
+#: pixfort-likes.php:61
+msgid "Like icon"
+msgstr ""
+
+#: pixfort-likes.php:62
+msgid "AJAX Like Counts"
+msgstr ""
+
+#: pixfort-likes.php:63
+msgid "Shortcode and Template Tag"
+msgstr ""
+
+#: pixfort-likes.php:68 pixfort-likes.php:69 pixfort-likes.php:78
+msgid "pixfort Likes Settings"
+msgstr ""
+
+#: pixfort-likes.php:69
+msgid "Settings"
+msgstr ""
+
+#: pixfort-likes.php:81
+msgid "Settings saved."
+msgstr ""
+
+#: pixfort-likes.php:87
+msgid "Save Changes"
+msgstr ""
+
+#: pixfort-likes.php:95
+msgid "PixFort Likes allows you to display like icons throughout your site."
+msgstr ""
+
+#: pixfort-likes.php:108
+msgid "Posts"
+msgstr ""
+
+#: pixfort-likes.php:111
+msgid "Pages"
+msgstr ""
+
+#: pixfort-likes.php:114
+msgid "Blog Index Page, Archive Pages, and Search Results"
+msgstr ""
+
+#: pixfort-likes.php:122
+msgid "Comma separated list of post/page ID's (e.g. 4,7,87)"
+msgstr ""
+
+#: pixfort-likes.php:130
+msgid "I want to use my own CSS styles"
+msgstr ""
+
+#: pixfort-likes.php:137
+msgid ""
+"We recommend you check this option when using the Shutterbug theme to avoid "
+"conflicts"
+msgstr ""
+
+#: pixfort-likes.php:147
+msgid "AJAX Like Counts on page load"
+msgstr ""
+
+#: pixfort-likes.php:148
+msgid ""
+"If you are using a cacheing plugin, you may want to dynamically load the "
+"like counts via AJAX."
+msgstr ""
+
+#: pixfort-likes.php:167
+msgid ""
+"The text after the count when no one has liked a post/page. Leave blank for "
+"no text after the count."
+msgstr ""
+
+#: pixfort-likes.php:175
+msgid ""
+"The text after the count when one person has liked a post/page. Leave blank "
+"for no text after the count."
+msgstr ""
+
+#: pixfort-likes.php:183
+msgid ""
+"The text after the count when more than one person has liked a post/page. "
+"Leave blank for no text after the count."
+msgstr ""
+
+#: pixfort-likes.php:187
+msgid "To use PixFort Likes in your posts and pages you can use the shortcode:"
+msgstr ""
+
+#: pixfort-likes.php:189
+msgid ""
+"To use pixfort Likes manually in your theme template use the following PHP "
+"code:"
+msgstr ""
+
+#: pixfort-likes.php:420
+msgid "Like this"
+msgstr ""
+
+#: pixfort-likes.php:423
+msgid "You already like this"
+msgstr ""
+
+#: widget.php:11
+msgid "Displays your most popular posts sorted by most liked"
+msgstr ""
+
+#: widget.php:68
+msgid "Popular Posts"
+msgstr ""
+
+#: widget.php:83
+msgid "Title:"
+msgstr ""
+
+#: widget.php:87
+msgid "Description:"
+msgstr ""
+
+#: widget.php:91
+msgid "Posts:"
+msgstr ""
+
+#: widget.php:96
+msgid "Display like counts"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "PixFort Likes"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://www.pixfort.com"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "Add \"like\" functionality to your posts and pages"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "PixFort"
+msgstr ""

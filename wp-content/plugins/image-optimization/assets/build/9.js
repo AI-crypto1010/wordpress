@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkimage_optimization=globalThis.webpackChunkimage_optimization||[]).push([[9],{9009(e){e.exports=JSON.parse('{"example":{"component":"Componente de exemplo"}}')}}]);

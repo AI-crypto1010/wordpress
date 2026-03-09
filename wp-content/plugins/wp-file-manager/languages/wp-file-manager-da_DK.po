@@ -1,0 +1,999 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WP File Manager\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-02-25 16:40+0530\n"
+"PO-Revision-Date: 2022-03-02 11:06+0530\n"
+"Last-Translator: admin <kajal.gill@mysenseinc.in>\n"
+"Language-Team: \n"
+"Language: da_DK\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Poedit 3.0.1\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: file_folder_manager.php:174
+msgid "Themes backup restored successfully."
+msgstr "Sikkerhedskopiering af temaer blev gendannet."
+
+#: file_folder_manager.php:177
+msgid "Unable to restore themes."
+msgstr "Kunne ikke gendanne temaer."
+
+#: file_folder_manager.php:207
+msgid "Uploads backup restored successfully."
+msgstr "Uploads backup gendannet."
+
+#: file_folder_manager.php:211
+msgid "Unable to restore uploads."
+msgstr "Kunne ikke gendanne uploads."
+
+#: file_folder_manager.php:237
+msgid "Others backup restored successfully."
+msgstr "Andre sikkerhedskopier blev gendannet."
+
+#: file_folder_manager.php:241
+msgid "Unable to restore others."
+msgstr "Kan ikke gendanne andre."
+
+#: file_folder_manager.php:267
+msgid "Plugins backup restored successfully."
+msgstr "Plugin-backup gendannet."
+
+#: file_folder_manager.php:271 file_folder_manager.php:301
+msgid "Unable to restore plugins."
+msgstr "Kunne ikke gendanne plugins."
+
+#: file_folder_manager.php:286
+msgid "Database backup restored successfully."
+msgstr "Databasesikkerhedskopiering blev gendannet."
+
+#: file_folder_manager.php:286 file_folder_manager.php:297
+#: file_folder_manager.php:588 file_folder_manager.php:592
+msgid "All Done"
+msgstr "Helt færdig"
+
+#: file_folder_manager.php:289
+msgid "Unable to restore DB backup."
+msgstr "Kan ikke gendanne DB-sikkerhedskopi."
+
+#: file_folder_manager.php:347
+msgid "Backups removed successfully!"
+msgstr "Sikkerhedskopier blev fjernet med succes!"
+
+#: file_folder_manager.php:349
+msgid "Unable to removed backup!"
+msgstr "Kunne ikke fjerne sikkerhedskopien!"
+
+#: file_folder_manager.php:373
+msgid "Database backup done on date "
+msgstr "Databasesikkerhedskopiering udført på dato "
+
+#: file_folder_manager.php:377
+msgid "Plugins backup done on date "
+msgstr "Plugin-backup udført den dato "
+
+#: file_folder_manager.php:381
+msgid "Themes backup done on date "
+msgstr "Sikkerhedskopiering af temaer udført den dato "
+
+#: file_folder_manager.php:385
+msgid "Uploads backup done on date "
+msgstr "Uploads backup udført på dato "
+
+#: file_folder_manager.php:389
+msgid "Others backup done on date "
+msgstr "Andre sikkerhedskopier udført på dato "
+
+#: file_folder_manager.php:393 file_folder_manager.php:776
+msgid "Logs"
+msgstr "Logfiler"
+
+#: file_folder_manager.php:399
+msgid "No logs found!"
+msgstr "Ingen logfiler fundet!"
+
+#: file_folder_manager.php:496
+msgid "Nothing selected for backup"
+msgstr "Der er ikke valgt noget til backup"
+
+#: file_folder_manager.php:516
+msgid "Security Issue."
+msgstr "Sikkerhedsproblem."
+
+#: file_folder_manager.php:527
+msgid "Database backup done."
+msgstr "Sikkerhedskopiering af database udført."
+
+#: file_folder_manager.php:530
+msgid "Unable to create database backup."
+msgstr "Kan ikke oprette Sikkerhedskopiering af database."
+
+#: file_folder_manager.php:544
+msgid "Plugins backup done."
+msgstr "Plugins backup udført."
+
+#: file_folder_manager.php:547
+msgid "Plugins backup failed."
+msgstr "Sikkerhedskopiering af plugins mislykkedes."
+
+#: file_folder_manager.php:556
+msgid "Themes backup done."
+msgstr "Sikkerhedskopiering af temaer udført."
+
+#: file_folder_manager.php:559
+msgid "Themes backup failed."
+msgstr "Sikkerhedskopiering af temaer mislykkedes."
+
+#: file_folder_manager.php:569
+msgid "Uploads backup done."
+msgstr "Uploader backup udført."
+
+#: file_folder_manager.php:572
+msgid "Uploads backup failed."
+msgstr "Uploads backup mislykkedes."
+
+#: file_folder_manager.php:581
+msgid "Others backup done."
+msgstr "Andre sikkerhedskopiering udført."
+
+#: file_folder_manager.php:584
+msgid "Others backup failed."
+msgstr "Andre sikkerhedskopiering mislykkedes."
+
+#: file_folder_manager.php:761 file_folder_manager.php:762
+#: lib/wpfilemanager.php:23
+msgid "WP File Manager"
+msgstr "WP filhåndtering"
+
+#: file_folder_manager.php:769
+msgid "Settings"
+msgstr "Indstillinger"
+
+#: file_folder_manager.php:771 inc/root.php:48
+msgid "Preferences"
+msgstr "Præferencer"
+
+#: file_folder_manager.php:773
+msgid "System Properties"
+msgstr "Systemegenskaber"
+
+#: file_folder_manager.php:775
+msgid "Shortcode - PRO"
+msgstr "Kort kode - PRO"
+
+#: file_folder_manager.php:777
+msgid "Backup/Restore"
+msgstr "Sikkerhedskopiering/gendannelse"
+
+#: file_folder_manager.php:1033
+msgid "Buy Pro"
+msgstr "Køb Pro"
+
+#: file_folder_manager.php:1034
+msgid "Donate"
+msgstr "Doner"
+
+#: file_folder_manager.php:1249
+msgid ""
+"<div class=\"updated settings-error notice is-dismissible\" id=\"setting-"
+"error-settings_updated\"> \n"
+"<p><strong>"
+msgstr ""
+
+#: file_folder_manager.php:1256
+msgid ""
+"<div class=\"error settings-error notice is-dismissible\" id=\"setting-error-"
+"settings_updated\"> \n"
+"<p><strong>"
+msgstr ""
+
+#: file_folder_manager.php:1395 file_folder_manager.php:1483
+msgid "File doesn't exist to download."
+msgstr "Filen findes ikke til download."
+
+#: file_folder_manager.php:1400 file_folder_manager.php:1488
+msgid "Invalid Security Code."
+msgstr "Ugyldig sikkerhedskode."
+
+#: file_folder_manager.php:1405 file_folder_manager.php:1493
+msgid "Missing backup id."
+msgstr "Manglende backup-id."
+
+#: file_folder_manager.php:1408 file_folder_manager.php:1496
+msgid "Missing parameter type."
+msgstr "Manglende parametertype."
+
+#: file_folder_manager.php:1411 file_folder_manager.php:1499
+msgid "Missing required parameters."
+msgstr "Manglende krævede parametre."
+
+#: inc/backup.php:24
+msgid ""
+"Error: Unable to restore backup because database backup is heavy in size. "
+"Please try to increase Maximum allowed size  from Preferences settings."
+msgstr ""
+"Fejl: Kan ikke gendanne sikkerhedskopien, fordi "
+"databasesikkerhedskopieringen er stor. Prøv at øge den maksimalt tilladte "
+"størrelse fra indstillingerne for præferencer."
+
+#: inc/backup.php:25
+msgid "Select backup(s) to delete!"
+msgstr "Vælg backup(r) for at slette!"
+
+#: inc/backup.php:26
+msgid "Are you sure want to remove selected backup(s)?"
+msgstr "Er du sikker på, at du vil fjerne de valgte sikkerhedskopier?"
+
+#: inc/backup.php:31
+msgid "Backup is running, please wait"
+msgstr "Backup kører. Vent venligst"
+
+#: inc/backup.php:32
+msgid "Restore is running, please wait"
+msgstr "Gendannelse kører, vent venligst"
+
+#: inc/backup.php:33
+msgid "Nothing selected for backup."
+msgstr "Der er ikke valgt noget til backup."
+
+#: inc/backup.php:45
+msgid "WP File Manager - Backup/Restore"
+msgstr "WP filhåndtering - Sikkerhedskopiering / gendannelse"
+
+#: inc/backup.php:51
+msgid "Backup Options:"
+msgstr "Backupmuligheder:"
+
+#: inc/backup.php:58
+msgid "Database Backup"
+msgstr "Sikkerhedskopiering af database"
+
+#: inc/backup.php:64
+msgid "Files Backup"
+msgstr "Backup af filer"
+
+#: inc/backup.php:68
+msgid "Plugins"
+msgstr "Plugins"
+
+#: inc/backup.php:71
+msgid "Themes"
+msgstr "Temaer"
+
+#: inc/backup.php:74
+msgid "Uploads"
+msgstr "Uploads"
+
+#: inc/backup.php:77
+msgid "Others (Any other directories found inside wp-content)"
+msgstr "Andre (Andre mapper, der findes i wp-indhold)"
+
+#: inc/backup.php:81
+msgid "Backup Now"
+msgstr "Backup nu"
+
+#: inc/backup.php:89
+msgid "Time now"
+msgstr "Tid nu"
+
+#: inc/backup.php:99
+msgid "SUCCESS"
+msgstr "SUCCES"
+
+#: inc/backup.php:101
+msgid "Backup successfully deleted."
+msgstr "Backup blev slettet."
+
+#: inc/backup.php:102
+msgid "Ok"
+msgstr "Okay"
+
+#: inc/backup.php:117
+msgid "DELETE FILES"
+msgstr "SLET FILER"
+
+#: inc/backup.php:119
+msgid "Are you sure you want to delete this backup?"
+msgstr "Er du sikker på, at du vil slette denne sikkerhedskopi?"
+
+#: inc/backup.php:120 inc/backup.php:139
+msgid "Cancel"
+msgstr "Afbestille"
+
+#: inc/backup.php:121 inc/backup.php:140
+msgid "Confirm"
+msgstr "Bekræfte"
+
+#: inc/backup.php:136
+msgid "RESTORE FILES"
+msgstr "GENDAN FILER"
+
+#: inc/backup.php:138
+msgid "Are you sure you want to restore this backup?"
+msgstr "Er du sikker på, at du vil gendanne denne sikkerhedskopi?"
+
+#: inc/backup.php:166
+msgid "Last Log Message"
+msgstr "Sidste logmeddelelse"
+
+#: inc/backup.php:169
+msgid "The backup apparently succeeded and is now complete."
+msgstr "Backup lykkedes tilsyneladende og er nu afsluttet."
+
+#: inc/backup.php:171
+msgid "No log message"
+msgstr "Ingen logmeddelelse"
+
+#: inc/backup.php:177
+msgid "Existing Backup(s)"
+msgstr "Eksisterende sikkerhedskopi (er)"
+
+#: inc/backup.php:184
+msgid "Backup Date"
+msgstr "Sikkerhedskopieringsdato"
+
+#: inc/backup.php:187
+msgid "Backup data (click to download)"
+msgstr "Backup data (klik for at downloade)"
+
+#: inc/backup.php:190
+msgid "Action"
+msgstr "Handling"
+
+#: inc/backup.php:210
+msgid "Today"
+msgstr "I dag"
+
+#: inc/backup.php:239
+msgid "Restore"
+msgstr "Gendan"
+
+#: inc/backup.php:240 inc/backup.php:250
+msgid "Delete"
+msgstr "Slet"
+
+#: inc/backup.php:241
+msgid "View Log"
+msgstr "Vis log"
+
+#: inc/backup.php:246
+msgid "Currently no backup(s) found."
+msgstr "Der findes i øjeblikket ingen sikkerhedskopier."
+
+#: inc/backup.php:249
+msgid "Actions upon selected backup(s)"
+msgstr "Handlinger efter valgt (e) sikkerhedskopi (er)"
+
+#: inc/backup.php:251
+msgid "Select All"
+msgstr "Vælg alle"
+
+#: inc/backup.php:252
+msgid "Deselect"
+msgstr "Fravælg markeringen"
+
+#: inc/backup.php:254
+msgid "Note:"
+msgstr "Bemærk:"
+
+#: inc/backup.php:254
+msgid "Backup files will be under"
+msgstr "Backup filer vil være under"
+
+#: inc/contribute.php:3
+msgid "WP File Manager Contribution"
+msgstr "WP filhåndtering-bidrag"
+
+#: inc/logs.php:7
+msgid ""
+"Note: These are demo screenshots. Please buy File Manager pro to Logs "
+"functions."
+msgstr ""
+"Bemærk: Disse er demo-skærmbilleder. Køb File Manager pro til Logfunktioner."
+
+#: inc/logs.php:8 lib/wpfilemanager.php:24
+msgid "Click to Buy PRO"
+msgstr "Klik for at købe PRO"
+
+#: inc/logs.php:8 inc/settings.php:12 inc/settings.php:27
+#: inc/system_properties.php:5 lib/wpfilemanager.php:25
+msgid "Buy PRO"
+msgstr "Køb PRO"
+
+#: inc/logs.php:9
+msgid "Edit Files Logs"
+msgstr "Rediger logfiler"
+
+#: inc/logs.php:11
+msgid "Download Files Logs"
+msgstr "Download fillogfiler"
+
+#: inc/logs.php:13
+msgid "Upload Files Logs"
+msgstr "Upload filer Logfiler"
+
+#: inc/root.php:43
+msgid "Settings saved."
+msgstr "Indstillinger gemt."
+
+#: inc/root.php:43 inc/root.php:46
+msgid "Dismiss this notice."
+msgstr "Afvis denne meddelelse."
+
+#: inc/root.php:46
+msgid "You have not made any changes to be saved."
+msgstr "Du har ikke foretaget nogen ændringer, der skal gemmes."
+
+#: inc/root.php:55
+msgid "Public Root Path"
+msgstr "Offentlig rodsti"
+
+#: inc/root.php:58
+msgid "File Manager Root Path, you can change according to your choice."
+msgstr "File Manager-rodsti, du kan ændre alt efter dit valg."
+
+#: inc/root.php:59
+msgid "Default:"
+msgstr "Standard:"
+
+#: inc/root.php:60
+msgid ""
+"Please change this carefully, wrong path can lead file manager plugin to go "
+"down."
+msgstr ""
+"Ændr dette omhyggeligt, forkert sti kan få filhåndterings-plugin til at gå "
+"ned."
+
+#: inc/root.php:64
+msgid "Enable Trash?"
+msgstr "Aktivere papirkurven?"
+
+#: inc/root.php:67
+msgid "After enable trash, your files will go to trash folder."
+msgstr "Efter aktivering af papirkurven går dine filer til papirkurven."
+
+#: inc/root.php:72
+msgid "Enable Files Upload to Media Library?"
+msgstr "Aktivere filer, der uploades til mediebiblioteket?"
+
+#: inc/root.php:75
+msgid "After enabling this all files will go to media library."
+msgstr "Efter at have aktiveret dette, går alle filer til mediebiblioteket."
+
+#: inc/root.php:80
+msgid "Maximum allowed size at the time of database backup restore."
+msgstr ""
+"Maksimal tilladt størrelse på tidspunktet for gendannelse af "
+"databasesikkerhedskopi."
+
+#: inc/root.php:83
+msgid "MB"
+msgstr ""
+
+#: inc/root.php:85
+msgid ""
+"Please increase field value if you are getting error message at the time of "
+"backup restore."
+msgstr ""
+"Forøg venligst feltværdien, hvis du får fejlmeddelelse på tidspunktet for "
+"gendannelse af sikkerhedskopien."
+
+#: inc/root.php:90
+msgid "Save Changes"
+msgstr "Gem ændringer"
+
+#: inc/settings.php:10
+msgid "Settings - General"
+msgstr "Indstillinger - Generelt"
+
+#: inc/settings.php:11 inc/settings.php:26
+msgid ""
+"Note: This is just a demo screenshot. To get settings please buy our pro "
+"version."
+msgstr ""
+"Bemærk: Dette er kun et demo-screenshot. For at få indstillinger skal du "
+"købe vores pro-version."
+
+#: inc/settings.php:13
+msgid ""
+"Here admin can give access to user roles to use filemanager. Admin can set "
+"Default Access Folder and also control upload size of filemanager."
+msgstr ""
+"Her kan admin give adgang til brugerroller for at bruge filemanager. "
+"Administrator kan indstille standardadgangsmappe og også kontrollere "
+"uploadstørrelse på filadministrator."
+
+#: inc/settings.php:15
+msgid "Settings - Code-editor"
+msgstr "Indstillinger - Kode-editor"
+
+#: inc/settings.php:16
+msgid ""
+"File Manager has a code editor with multiple themes. You can select any "
+"theme for code editor. It will display when you edit any file. Also you can "
+"allow fullscreen mode of code editor."
+msgstr ""
+"File Manager har en kodeditor med flere temaer. Du kan vælge ethvert tema "
+"til kodeditor. Det vises, når du redigerer en fil. Du kan også tillade "
+"fuldskærmstilstand for kodeditor."
+
+#: inc/settings.php:18
+msgid "Code-editor View"
+msgstr "Kode-editor Vis"
+
+#: inc/settings.php:20
+msgid "Settings - User Restrictions"
+msgstr "Indstillinger - Brugerbegrænsninger"
+
+#: inc/settings.php:21
+msgid ""
+"Admin can restrict actions of any user. Also hide files and folders and can "
+"set different - different folders paths for different users."
+msgstr ""
+"Administrator kan begrænse enhver brugers handlinger. Skjul også filer og "
+"mapper og kan indstille forskellige - forskellige mappestier til forskellige "
+"brugere."
+
+#: inc/settings.php:23
+msgid "Settings - User Role Restrictions"
+msgstr "Indstillinger - Begrænsninger i brugerrolle"
+
+#: inc/settings.php:24
+msgid ""
+"Admin can restrict actions of any userrole. Also hide files and folders and "
+"can set different - different folders paths for different users roles."
+msgstr ""
+"Administrator kan begrænse handlinger fra enhver brugerrolle. Skjul også "
+"filer og mapper og kan indstille forskellige - forskellige mappestier til "
+"forskellige brugerroller."
+
+#: inc/shortcode_docs.php:11
+msgid "File Manager - Shortcode"
+msgstr "Filhåndtering - Kort kode"
+
+#: inc/shortcode_docs.php:15 inc/shortcode_docs.php:17
+#: inc/shortcode_docs.php:19
+msgid "USE:"
+msgstr "BRUG:"
+
+#: inc/shortcode_docs.php:15
+msgid ""
+"It will show file manager on front end. You can control all settings from "
+"file manager settings. It will work same as backend WP File Manager."
+msgstr ""
+"Det vil vise filhåndtering på frontend. Du kan styre alle indstillinger fra "
+"filhåndteringsindstillinger. Det fungerer på samme måde som backend WP "
+"filhåndtering."
+
+#: inc/shortcode_docs.php:17
+msgid ""
+"It will show file manager on front end. But only Administrator can access it "
+"and will control from file manager settings."
+msgstr ""
+"Det vil vise filhåndtering på frontend. Men kun administrator kan få adgang "
+"til det og vil styre fra filhåndteringsindstillinger."
+
+#: inc/shortcode_docs.php:23
+msgid "Parameters:"
+msgstr "Parametre:"
+
+#: inc/shortcode_docs.php:26
+msgid ""
+"It will allow all roles to access file manager on front end or You can "
+"simple use for particular user roles as like allowed_roles=\"editor,author"
+"\" (seprated by comma(,))"
+msgstr ""
+"Det vil tillade alle roller at få adgang til filhåndtering på frontend, "
+"eller du kan simpelt bruge til bestemte brugerroller som f.eks. allow_roles="
+"\"editor,author\" (adskilt af komma(,))"
+
+#: inc/shortcode_docs.php:28
+msgid ""
+"Here \"test\" is the name of folder which is located on root directory, or "
+"you can give path for sub folders as like \"wp-content/plugins\". If leave "
+"blank or empty it will access all folders on root directory. Default: Root "
+"directory"
+msgstr ""
+"Her er \"test\" navnet på mappen, som er placeret i rodmappen, eller du kan "
+"give stien til undermapper som \"wp-content/plugins\". Hvis det efterlades "
+"tomt eller tomt, vil det få adgang til alle mapper i rodmappen. Standard: "
+"Rodmappe"
+
+#: inc/shortcode_docs.php:30
+msgid "for access to write files permissions, note: true/false, default: false"
+msgstr "for adgang til at skrive filer, bemærk: sand/falsk, standard: falsk"
+
+#: inc/shortcode_docs.php:32
+msgid "for access to read files permission, note: true/false, default: true"
+msgstr ""
+"for adgang til tilladelse til at læse filer, bemærk: sand/falsk, standard: "
+"sand"
+
+#: inc/shortcode_docs.php:34
+msgid "it will hide mentioned here. Note: seprated by comma(,). Default: Null"
+msgstr "det vil skjule nævnt her. Bemærk: adskilt af komma(,). Standard: Nul"
+
+#: inc/shortcode_docs.php:36
+msgid ""
+"It will lock mentioned in commas. you can lock more as like \".php,.css,.js"
+"\" etc. Default: Null"
+msgstr ""
+"Det vil låse nævnt i kommaer. du kan låse flere som \".php,.css,.js\" osv. "
+"Standard: Null"
+
+#: inc/shortcode_docs.php:38
+msgid ""
+"* for all operations and to allow some operation you can mention operation "
+"name as like, allowed_operations=\"upload,download\". Note: seprated by "
+"comma(,). Default: *"
+msgstr ""
+"* for alle operationer og for at tillade nogle operationer kan du nævne "
+"operationens navn som, allow_operations=\"upload,download\". Bemærk: adskilt "
+"af komma(,). Standard: *"
+
+#: inc/shortcode_docs.php:42
+msgid "File Operations List:"
+msgstr "Liste over filoperationer:"
+
+#: inc/shortcode_docs.php:46
+msgid "mkdir ->"
+msgstr ""
+
+#: inc/shortcode_docs.php:46
+msgid "Make directory or folder"
+msgstr "Opret mappe eller mappe"
+
+#: inc/shortcode_docs.php:47
+msgid "mkfile ->"
+msgstr ""
+
+#: inc/shortcode_docs.php:47
+msgid "Make file"
+msgstr "Opret fil"
+
+#: inc/shortcode_docs.php:48
+msgid "rename ->"
+msgstr ""
+
+#: inc/shortcode_docs.php:48
+msgid "Rename a file or folder"
+msgstr "Omdøb en fil eller mappe"
+
+#: inc/shortcode_docs.php:49
+msgid "duplicate ->"
+msgstr ""
+
+#: inc/shortcode_docs.php:49
+msgid "Duplicate or clone a folder or file"
+msgstr "Kopier eller klon en mappe eller fil"
+
+#: inc/shortcode_docs.php:50
+msgid "paste ->"
+msgstr ""
+
+#: inc/shortcode_docs.php:50
+msgid "Paste a file or folder"
+msgstr "Indsæt en fil eller mappe"
+
+#: inc/shortcode_docs.php:51
+msgid "ban ->"
+msgstr ""
+
+#: inc/shortcode_docs.php:51
+msgid "Ban"
+msgstr "Forbyde"
+
+#: inc/shortcode_docs.php:52
+msgid "archive ->"
+msgstr ""
+
+#: inc/shortcode_docs.php:52
+msgid "To make a archive or zip"
+msgstr "At oprette et arkiv eller zip"
+
+#: inc/shortcode_docs.php:53
+msgid "extract ->"
+msgstr ""
+
+#: inc/shortcode_docs.php:53
+msgid "Extract archive or zipped file"
+msgstr "Uddrag arkiv eller zip-fil"
+
+#: inc/shortcode_docs.php:54
+msgid "copy ->"
+msgstr ""
+
+#: inc/shortcode_docs.php:54
+msgid "Copy files or folders"
+msgstr "Kopier filer eller mapper"
+
+#: inc/shortcode_docs.php:58
+msgid "cut ->"
+msgstr ""
+
+#: inc/shortcode_docs.php:58
+msgid "Simple cut a file or folder"
+msgstr "Enkelt klippe en fil eller mappe"
+
+#: inc/shortcode_docs.php:59
+msgid "edit ->"
+msgstr ""
+
+#: inc/shortcode_docs.php:59
+msgid "Edit a file"
+msgstr "Rediger en fil"
+
+#: inc/shortcode_docs.php:60
+msgid "rm ->"
+msgstr ""
+
+#: inc/shortcode_docs.php:60
+msgid "Remove or delete files and folders"
+msgstr "Fjern eller slet filer og mapper"
+
+#: inc/shortcode_docs.php:61
+msgid "download ->"
+msgstr ""
+
+#: inc/shortcode_docs.php:61
+msgid "Download files"
+msgstr "Download filer"
+
+#: inc/shortcode_docs.php:62
+msgid "upload ->"
+msgstr ""
+
+#: inc/shortcode_docs.php:62
+msgid "Upload files"
+msgstr "Upload filer"
+
+#: inc/shortcode_docs.php:63
+msgid "search -> "
+msgstr ""
+
+#: inc/shortcode_docs.php:63
+msgid "Search things"
+msgstr "Søg efter ting"
+
+#: inc/shortcode_docs.php:64
+msgid "info ->"
+msgstr ""
+
+#: inc/shortcode_docs.php:64
+msgid "Info of file"
+msgstr "Info om filen"
+
+#: inc/shortcode_docs.php:65
+msgid "help ->"
+msgstr ""
+
+#: inc/shortcode_docs.php:65
+msgid "Help"
+msgstr "Hjælp"
+
+#: inc/shortcode_docs.php:71
+msgid ""
+"->  It will ban particular users by just putting their ids seprated by "
+"commas(,). If user is Ban then they will not able to access wp file manager "
+"on front end."
+msgstr ""
+"-> Det vil forbyde bestemte brugere ved blot at sætte deres id adskilt med "
+"kommaer (,). Hvis brugeren er Ban, vil de ikke få adgang til wp-"
+"filhåndtering i frontend."
+
+#: inc/shortcode_docs.php:72
+msgid "-> Filemanager UI View. Default: grid"
+msgstr "-> Filemanager UI View. Standard: gitter"
+
+#: inc/shortcode_docs.php:73
+msgid "-> File Modified or Create date format. Default: d M, Y h:i A"
+msgstr "-> Filændret eller Opret datoformat. Standard: d M, Y h: i A"
+
+#: inc/shortcode_docs.php:74
+msgid "-> File manager Language. Default: English(en)"
+msgstr "-> Filhåndterings sprog. Standard: English(en)"
+
+#: inc/shortcode_docs.php:75
+msgid "-> File Manager Theme. Default: Light"
+msgstr "-> Filhåndteringstema. Standard: Light"
+
+#: inc/system_properties.php:5
+msgid "File Manager - System Properties"
+msgstr "Filhåndtering - Systemegenskaber"
+
+#: inc/system_properties.php:10
+msgid "PHP version"
+msgstr "PHP-version"
+
+#: inc/system_properties.php:15
+msgid "Maximum file upload size (upload_max_filesize)"
+msgstr "Maksimal filoverførselsstørrelse (upload_max_filesize)"
+
+#: inc/system_properties.php:20
+msgid "Post maximum file upload size (post_max_size)"
+msgstr "Opret maksimal filoverførselsstørrelse (post_max_size)"
+
+#: inc/system_properties.php:25
+msgid "Memory Limit (memory_limit)"
+msgstr "Hukommelsesgrænse (memory_limit)"
+
+#: inc/system_properties.php:30
+msgid "Timeout (max_execution_time)"
+msgstr "Tiden er gået (maks. Udførelsestid)"
+
+#: inc/system_properties.php:35
+msgid "Browser and OS (HTTP_USER_AGENT)"
+msgstr "Browser og OS (HTTP_USER_AGENT)"
+
+#: lib/jquery/jquery-ui-1.11.4.js:8
+msgid "'"
+msgstr ""
+
+#: lib/wpfilemanager.php:31
+msgid "Change Theme Here:"
+msgstr "Skift tema her:"
+
+#: lib/wpfilemanager.php:35
+msgid "Default"
+msgstr "Standard"
+
+#: lib/wpfilemanager.php:39
+msgid "Dark"
+msgstr "Mørk"
+
+#: lib/wpfilemanager.php:43
+msgid "Light"
+msgstr "Lys"
+
+#: lib/wpfilemanager.php:47
+msgid "Gray"
+msgstr "Grå"
+
+#: lib/wpfilemanager.php:52
+msgid "Windows - 10"
+msgstr ""
+
+#: lib/wpfilemanager.php:85
+msgid "Welcome to File Manager"
+msgstr "Velkommen til File Manager"
+
+#: lib/wpfilemanager.php:88
+msgid ""
+"We love making new friends! Subscribe below and we promise to\n"
+"    keep you up-to-date with our latest new plugins, updates,\n"
+"    awesome deals and a few special offers."
+msgstr ""
+"Vi elsker at få nye venner! Abonner nedenfor, og vi lover at\n"
+"    holde dig opdateret med vores nyeste nye plugins, opdateringer,\n"
+"    fantastiske tilbud og et par specielle tilbud."
+
+#: lib/wpfilemanager.php:99
+msgid "Please Enter First Name."
+msgstr "Indtast fornavn."
+
+#: lib/wpfilemanager.php:107
+msgid "Please Enter Last Name."
+msgstr "Indtast venligst efternavn."
+
+#: lib/wpfilemanager.php:116
+msgid "Please Enter Email Address."
+msgstr "Indtast venligst e-mail-adresse."
+
+#: lib/wpfilemanager.php:120
+msgid "Verify"
+msgstr "Verificere"
+
+#: lib/wpfilemanager.php:126
+msgid "No Thanks"
+msgstr "Nej tak"
+
+#: lib/wpfilemanager.php:132
+msgid "Terms of Service"
+msgstr "Terms of Service"
+
+#: lib/wpfilemanager.php:134
+msgid "Privacy Policy"
+msgstr "Fortrolighedspolitik"
+
+#: lib/wpfilemanager.php:153
+msgid "Saving..."
+msgstr "Gemmer ..."
+
+#: lib/wpfilemanager.php:155
+msgid "OK"
+msgstr "Okay"
+
+#~ msgid "Backup not found!"
+#~ msgstr "Backup ikke fundet!"
+
+#~ msgid "Backup removed successfully!"
+#~ msgstr "Backup fjernet med succes!"
+
+#~ msgid "<span class=\"fm_console_error\">Nothing selected for backup</span>"
+#~ msgstr ""
+#~ "<span class=\"fm_console_error\">Intet valgt til sikkerhedskopiering</"
+#~ "span>"
+
+#~ msgid "<span class=\"fm_console_error\">Security Issue.</span>"
+#~ msgstr "<span class=\"fm_console_error\">Sikkerhedsproblem.</span>"
+
+#~ msgid "<span class=\"fm_console_success\">Database backup done.</span>"
+#~ msgstr ""
+#~ "<span class=\"fm_console_success\">Databasesikkerhedskopiering udført. </"
+#~ "span>"
+
+#~ msgid ""
+#~ "<span class=\"fm_console_error\">Unable to create database backup.</span>"
+#~ msgstr ""
+#~ "<span class=\"fm_console_error\">Sikkerhedskopiering af database kunne "
+#~ "ikke oprettes. </span>"
+
+#~ msgid "<span class=\"fm_console_success\">Plugins backup done.</span>"
+#~ msgstr ""
+#~ "<span class=\"fm_console_success\">Plugins-sikkerhedskopi udført.</span>"
+
+#~ msgid "<span class=\"fm_console_error\">Plugins backup failed.</span>"
+#~ msgstr ""
+#~ "<span class=\"fm_console_error\">Backup af plugins mislykkedes. </span>"
+
+#~ msgid "<span class=\"fm_console_success\">Themes backup done.</span>"
+#~ msgstr ""
+#~ "<span class=\"fm_console_success\">Sikkerhedskopiering af temaer udført.</"
+#~ "span>"
+
+#~ msgid "<span class=\"fm_console_error\">Themes backup failed.</span>"
+#~ msgstr ""
+#~ "<span class=\"fm_console_error\">Sikkerhedskopiering af temaer "
+#~ "mislykkedes.</span>"
+
+#~ msgid "<span class=\"fm_console_success\">Uploads backup done.</span>"
+#~ msgstr "<span class=\"fm_console_success\">Uploads backup udført. </span>"
+
+#~ msgid "<span class=\"fm_console_error\">Uploads backup failed.</span>"
+#~ msgstr ""
+#~ "<span class=\"fm_console_error\">Sikkerhedskopiering af uploads "
+#~ "mislykkedes.</span>"
+
+#~ msgid "<span class=\"fm_console_success\">Others backup done.</span>"
+#~ msgstr ""
+#~ "<span class=\"fm_console_success\">Andre sikkerhedskopieringer er udført."
+#~ "</span>"
+
+#~ msgid "<span class=\"fm_console_error\">Others backup failed.</span>"
+#~ msgstr ""
+#~ "<span class=\"fm_console_error\">Anden sikkerhedskopiering mislykkedes. </"
+#~ "span>"
+
+#~ msgid "<span class=\"fm_console_success\">All Done</span>"
+#~ msgstr "<span class=\"fm_console_success\">Alle udført </span>"
+
+#~ msgid ""
+#~ "<code>[wp_file_manager view=\"list\" lang=\"en\" theme=\"light\" "
+#~ "dateformat=\"d M, Y h:i A\" allowed_roles=\"editor,author\" access_folder="
+#~ "\"wp-content/plugins\" write = \"true\" read = \"false\" hide_files = "
+#~ "\"kumar,abc.php\" lock_extensions=\".php,.css\" allowed_operations="
+#~ "\"upload,download\" ban_user_ids=\"2,3\"]"
+#~ msgstr ""
+#~ "<code>[wp_file_manager view=\"list\" lang=\"en\" theme=\"light\" "
+#~ "dateformat=\"d M, Y h:i A\" allowed_roles=\"editor,author\" access_folder="
+#~ "\"wp-content/plugins\" write = \"true\" read = \"false\" hide_files = "
+#~ "\"kumar,abc.php\" lock_extensions=\".php,.css\" allowed_operations="
+#~ "\"upload,download\" ban_user_ids=\"2,3\"]"
+
+#~ msgid "Manage your WP files."
+#~ msgstr "Administrer dine WP-filer."
+
+#~ msgid "Extensions"
+#~ msgstr "Udvidelser"
+
+#~ msgid ""
+#~ "Please contribute some donation, to make plugin more stable. You can pay "
+#~ "amount of your choice."
+#~ msgstr ""
+#~ "Vær venlig at bidrage med en donation for at gøre plugin mere stabil. Du "
+#~ "kan betale beløb efter eget valg."

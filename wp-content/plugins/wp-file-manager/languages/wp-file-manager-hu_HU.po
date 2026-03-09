@@ -1,0 +1,999 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WP File Manager\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-02-28 10:30+0530\n"
+"PO-Revision-Date: 2022-03-03 12:35+0530\n"
+"Last-Translator: admin <kajal.gill@mysenseinc.in>\n"
+"Language-Team: \n"
+"Language: hu_HU\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Poedit 3.0.1\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: file_folder_manager.php:174
+msgid "Themes backup restored successfully."
+msgstr "A témák biztonsági mentése sikeresen visszaállt."
+
+#: file_folder_manager.php:177
+msgid "Unable to restore themes."
+msgstr "Nem lehet visszaállítani a témákat."
+
+#: file_folder_manager.php:207
+msgid "Uploads backup restored successfully."
+msgstr "A feltöltések biztonsági mentése sikeresen visszaállt."
+
+#: file_folder_manager.php:211
+msgid "Unable to restore uploads."
+msgstr "Nem sikerült visszaállítani a feltöltéseket."
+
+#: file_folder_manager.php:237
+msgid "Others backup restored successfully."
+msgstr "Mások biztonsági mentése sikeresen visszaállítva."
+
+#: file_folder_manager.php:241
+msgid "Unable to restore others."
+msgstr "Nem sikerült visszaállítani a többieket."
+
+#: file_folder_manager.php:267
+msgid "Plugins backup restored successfully."
+msgstr "A beépülő modulok biztonsági mentése sikeresen visszaállt."
+
+#: file_folder_manager.php:271 file_folder_manager.php:301
+msgid "Unable to restore plugins."
+msgstr "Nem sikerült visszaállítani a bővítményeket."
+
+#: file_folder_manager.php:286
+msgid "Database backup restored successfully."
+msgstr "Az adatbázis biztonsági mentése sikeresen visszaállt."
+
+#: file_folder_manager.php:286 file_folder_manager.php:297
+#: file_folder_manager.php:588 file_folder_manager.php:592
+msgid "All Done"
+msgstr "Minden kész"
+
+#: file_folder_manager.php:289
+msgid "Unable to restore DB backup."
+msgstr "Nem sikerült visszaállítani a DB biztonsági másolatot."
+
+#: file_folder_manager.php:347
+msgid "Backups removed successfully!"
+msgstr "A biztonsági másolatok sikeresen eltávolítva!"
+
+#: file_folder_manager.php:349
+msgid "Unable to removed backup!"
+msgstr "Nem sikerült eltávolítani a biztonsági másolatot!"
+
+#: file_folder_manager.php:373
+msgid "Database backup done on date "
+msgstr "Az adatbázis mentése a dátummal megtörtént "
+
+#: file_folder_manager.php:377
+msgid "Plugins backup done on date "
+msgstr "A beépülő modulok biztonsági mentése a dátummal megtörtént "
+
+#: file_folder_manager.php:381
+msgid "Themes backup done on date "
+msgstr "A témák mentése a dátummal megtörtént "
+
+#: file_folder_manager.php:385
+msgid "Uploads backup done on date "
+msgstr "A feltöltés dátuma megtörtént "
+
+#: file_folder_manager.php:389
+msgid "Others backup done on date "
+msgstr "Mások biztonsági mentése a dátummal megtörtént "
+
+#: file_folder_manager.php:393 file_folder_manager.php:776
+msgid "Logs"
+msgstr "Naplók"
+
+#: file_folder_manager.php:399
+msgid "No logs found!"
+msgstr "Nem található napló!"
+
+#: file_folder_manager.php:496
+msgid "Nothing selected for backup"
+msgstr "Semmi sincs kiválasztva biztonsági mentéshez"
+
+#: file_folder_manager.php:516
+msgid "Security Issue."
+msgstr "Biztonsági probléma."
+
+#: file_folder_manager.php:527
+msgid "Database backup done."
+msgstr "Adatbázis biztonsági mentés kész."
+
+#: file_folder_manager.php:530
+msgid "Unable to create database backup."
+msgstr "Nem lehet adatbázis biztonsági másolatot készíteni."
+
+#: file_folder_manager.php:544
+msgid "Plugins backup done."
+msgstr "A bővítmények biztonsági mentése megtörtént."
+
+#: file_folder_manager.php:547
+msgid "Plugins backup failed."
+msgstr "A beépülő modulok biztonsági mentése nem sikerült."
+
+#: file_folder_manager.php:556
+msgid "Themes backup done."
+msgstr "A témák biztonsági mentése elkészült."
+
+#: file_folder_manager.php:559
+msgid "Themes backup failed."
+msgstr "A témák biztonsági mentése nem sikerült."
+
+#: file_folder_manager.php:569
+msgid "Uploads backup done."
+msgstr "A feltöltések biztonsági mentése kész."
+
+#: file_folder_manager.php:572
+msgid "Uploads backup failed."
+msgstr "A biztonsági mentés feltöltése sikertelen."
+
+#: file_folder_manager.php:581
+msgid "Others backup done."
+msgstr "A többi biztonsági mentés elkészült."
+
+#: file_folder_manager.php:584
+msgid "Others backup failed."
+msgstr "Mások biztonsági mentése nem sikerült."
+
+#: file_folder_manager.php:761 file_folder_manager.php:762
+#: lib/wpfilemanager.php:23
+msgid "WP File Manager"
+msgstr "WP fájlkezelő"
+
+#: file_folder_manager.php:769
+msgid "Settings"
+msgstr "Beállítások"
+
+#: file_folder_manager.php:771 inc/root.php:48
+msgid "Preferences"
+msgstr "preferenciák"
+
+#: file_folder_manager.php:773
+msgid "System Properties"
+msgstr "Rendszer tulajdonságai"
+
+#: file_folder_manager.php:775
+msgid "Shortcode - PRO"
+msgstr "Rövid kód – PRO"
+
+#: file_folder_manager.php:777
+msgid "Backup/Restore"
+msgstr "Biztonsági mentés visszaállítása"
+
+#: file_folder_manager.php:1033
+msgid "Buy Pro"
+msgstr "Vásároljon PRO-t"
+
+#: file_folder_manager.php:1034
+msgid "Donate"
+msgstr "Adományoz"
+
+#: file_folder_manager.php:1249
+msgid ""
+"<div class=\"updated settings-error notice is-dismissible\" id=\"setting-"
+"error-settings_updated\"> \n"
+"<p><strong>"
+msgstr ""
+
+#: file_folder_manager.php:1256
+msgid ""
+"<div class=\"error settings-error notice is-dismissible\" id=\"setting-error-"
+"settings_updated\"> \n"
+"<p><strong>"
+msgstr ""
+
+#: file_folder_manager.php:1395 file_folder_manager.php:1483
+msgid "File doesn't exist to download."
+msgstr "A fájl nem létezik letöltésre."
+
+#: file_folder_manager.php:1400 file_folder_manager.php:1488
+msgid "Invalid Security Code."
+msgstr "Érvénytelen biztonsági kód."
+
+#: file_folder_manager.php:1405 file_folder_manager.php:1493
+msgid "Missing backup id."
+msgstr "Hiányzik a biztonsági azonosító."
+
+#: file_folder_manager.php:1408 file_folder_manager.php:1496
+msgid "Missing parameter type."
+msgstr "Hiányzó paramétertípus."
+
+#: file_folder_manager.php:1411 file_folder_manager.php:1499
+msgid "Missing required parameters."
+msgstr "Hiányzik a szükséges paraméter."
+
+#: inc/backup.php:24
+msgid ""
+"Error: Unable to restore backup because database backup is heavy in size. "
+"Please try to increase Maximum allowed size  from Preferences settings."
+msgstr ""
+"Hiba: Nem lehet visszaállítani a biztonsági másolatot, mert az adatbázis "
+"biztonsági mentése nagy méretű. Kérjük, próbálja meg növelni a Maximális "
+"megengedett méretet a Beállítások beállításainál."
+
+#: inc/backup.php:25
+msgid "Select backup(s) to delete!"
+msgstr "Válassza ki a törölni kívánt biztonsági másolat(oka)t!"
+
+#: inc/backup.php:26
+msgid "Are you sure want to remove selected backup(s)?"
+msgstr "Biztosan el akarja távolítani a kijelölt biztonsági másolatokat?"
+
+#: inc/backup.php:31
+msgid "Backup is running, please wait"
+msgstr "A biztonsági mentés fut, várjon"
+
+#: inc/backup.php:32
+msgid "Restore is running, please wait"
+msgstr "A visszaállítás fut, kérjük, várjon"
+
+#: inc/backup.php:33
+msgid "Nothing selected for backup."
+msgstr "Semmi sincs kiválasztva biztonsági mentéshez."
+
+#: inc/backup.php:45
+msgid "WP File Manager - Backup/Restore"
+msgstr "WP fájlkezelő - Biztonsági mentés / Visszaállítás"
+
+#: inc/backup.php:51
+msgid "Backup Options:"
+msgstr "Biztonsági mentési lehetőségek:"
+
+#: inc/backup.php:58
+msgid "Database Backup"
+msgstr "Adatbázis biztonsági mentése"
+
+#: inc/backup.php:64
+msgid "Files Backup"
+msgstr "Fájlmentés"
+
+#: inc/backup.php:68
+msgid "Plugins"
+msgstr "Bővítmények"
+
+#: inc/backup.php:71
+msgid "Themes"
+msgstr "Témák"
+
+#: inc/backup.php:74
+msgid "Uploads"
+msgstr "Feltöltések"
+
+#: inc/backup.php:77
+msgid "Others (Any other directories found inside wp-content)"
+msgstr "Egyéb (bármely más könyvtár megtalálható a wp-tartalomban)"
+
+#: inc/backup.php:81
+msgid "Backup Now"
+msgstr "Biztonsági mentés most"
+
+#: inc/backup.php:89
+msgid "Time now"
+msgstr "Itt az idő"
+
+#: inc/backup.php:99
+msgid "SUCCESS"
+msgstr "SIKER"
+
+#: inc/backup.php:101
+msgid "Backup successfully deleted."
+msgstr "A biztonsági mentés sikeresen törölve."
+
+#: inc/backup.php:102
+msgid "Ok"
+msgstr "Rendben"
+
+#: inc/backup.php:117
+msgid "DELETE FILES"
+msgstr "FÁJLOK TÖRLÉSE"
+
+#: inc/backup.php:119
+msgid "Are you sure you want to delete this backup?"
+msgstr "Biztosan törli ezt a biztonsági másolatot?"
+
+#: inc/backup.php:120 inc/backup.php:139
+msgid "Cancel"
+msgstr "Megszünteti"
+
+#: inc/backup.php:121 inc/backup.php:140
+msgid "Confirm"
+msgstr "megerősít"
+
+#: inc/backup.php:136
+msgid "RESTORE FILES"
+msgstr "FÁJLOK VISSZAÁLLÍTÁSA"
+
+#: inc/backup.php:138
+msgid "Are you sure you want to restore this backup?"
+msgstr "Biztosan vissza akarja állítani ezt a biztonsági másolatot?"
+
+#: inc/backup.php:166
+msgid "Last Log Message"
+msgstr "Utolsó naplóüzenet"
+
+#: inc/backup.php:169
+msgid "The backup apparently succeeded and is now complete."
+msgstr "A biztonsági mentés láthatóan sikerült, és most befejeződött."
+
+#: inc/backup.php:171
+msgid "No log message"
+msgstr "Nincs naplóüzenet"
+
+#: inc/backup.php:177
+msgid "Existing Backup(s)"
+msgstr "Meglévő biztonsági mentés (ek)"
+
+#: inc/backup.php:184
+msgid "Backup Date"
+msgstr "Biztonsági mentés dátuma"
+
+#: inc/backup.php:187
+msgid "Backup data (click to download)"
+msgstr "Biztonsági adatok (kattintson a letöltéshez)"
+
+#: inc/backup.php:190
+msgid "Action"
+msgstr "Akció"
+
+#: inc/backup.php:210
+msgid "Today"
+msgstr "Ma"
+
+#: inc/backup.php:239
+msgid "Restore"
+msgstr "visszaállítás"
+
+#: inc/backup.php:240 inc/backup.php:250
+msgid "Delete"
+msgstr "Töröl"
+
+#: inc/backup.php:241
+msgid "View Log"
+msgstr "Napló megtekintése"
+
+#: inc/backup.php:246
+msgid "Currently no backup(s) found."
+msgstr "Jelenleg nincsenek biztonsági másolatok."
+
+#: inc/backup.php:249
+msgid "Actions upon selected backup(s)"
+msgstr "Műveletek a kiválasztott biztonsági mentésekkel"
+
+#: inc/backup.php:251
+msgid "Select All"
+msgstr "Mindet kiválaszt"
+
+#: inc/backup.php:252
+msgid "Deselect"
+msgstr "Törölje a kijelölést"
+
+#: inc/backup.php:254
+msgid "Note:"
+msgstr "Jegyzet:"
+
+#: inc/backup.php:254
+msgid "Backup files will be under"
+msgstr "A biztonsági mentési fájlok alatt lesznek"
+
+#: inc/contribute.php:3
+msgid "WP File Manager Contribution"
+msgstr "WP fájlkezelő hozzájárulás"
+
+#: inc/logs.php:7
+msgid ""
+"Note: These are demo screenshots. Please buy File Manager pro to Logs "
+"functions."
+msgstr ""
+"Megjegyzés: Ezek bemutató képernyőképek. Kérjük, vásárolja meg a File "
+"Manager pro to Logs funkciókat."
+
+#: inc/logs.php:8 lib/wpfilemanager.php:24
+msgid "Click to Buy PRO"
+msgstr "Kattintson a PRO vásárlásához"
+
+#: inc/logs.php:8 inc/settings.php:12 inc/settings.php:27
+#: inc/system_properties.php:5 lib/wpfilemanager.php:25
+msgid "Buy PRO"
+msgstr "Vásároljon PRO-t"
+
+#: inc/logs.php:9
+msgid "Edit Files Logs"
+msgstr "Fájlnaplók szerkesztése"
+
+#: inc/logs.php:11
+msgid "Download Files Logs"
+msgstr "Fájlnaplók letöltése"
+
+#: inc/logs.php:13
+msgid "Upload Files Logs"
+msgstr "Fájlnaplók feltöltése"
+
+#: inc/root.php:43
+msgid "Settings saved."
+msgstr "Beállítások elmentve."
+
+#: inc/root.php:43 inc/root.php:46
+msgid "Dismiss this notice."
+msgstr "Utasítsa el ezt az értesítést."
+
+#: inc/root.php:46
+msgid "You have not made any changes to be saved."
+msgstr "Nem végzett változtatásokat mentésre."
+
+#: inc/root.php:55
+msgid "Public Root Path"
+msgstr "Nyilvános gyökérút"
+
+#: inc/root.php:58
+msgid "File Manager Root Path, you can change according to your choice."
+msgstr ""
+"A File Manager gyökérútvonalát megváltoztathatja az Ön választása szerint."
+
+#: inc/root.php:59
+msgid "Default:"
+msgstr "Alapértelmezett:"
+
+#: inc/root.php:60
+msgid ""
+"Please change this carefully, wrong path can lead file manager plugin to go "
+"down."
+msgstr ""
+"Kérjük, változtassa meg ezt gondosan, a rossz elérési út a fájlkezelő "
+"beépülő modul lefutásához vezethet."
+
+#: inc/root.php:64
+msgid "Enable Trash?"
+msgstr "Engedélyezi a kukát?"
+
+#: inc/root.php:67
+msgid "After enable trash, your files will go to trash folder."
+msgstr "A kuka engedélyezése után a fájlok a kuka mappába kerülnek."
+
+#: inc/root.php:72
+msgid "Enable Files Upload to Media Library?"
+msgstr "Engedélyezi a fájlok feltöltését a médiatárba?"
+
+#: inc/root.php:75
+msgid "After enabling this all files will go to media library."
+msgstr "Ennek engedélyezése után az összes fájl a média könyvtárba kerül."
+
+#: inc/root.php:80
+msgid "Maximum allowed size at the time of database backup restore."
+msgstr ""
+"Maximális megengedett méret az adatbázis biztonsági mentésének "
+"visszaállítása idején."
+
+#: inc/root.php:83
+msgid "MB"
+msgstr ""
+
+#: inc/root.php:85
+msgid ""
+"Please increase field value if you are getting error message at the time of "
+"backup restore."
+msgstr ""
+"Kérjük, növelje a mező értékét, ha hibaüzenetet kap a biztonsági mentés "
+"visszaállítása során."
+
+#: inc/root.php:90
+msgid "Save Changes"
+msgstr "Változtatások mentése"
+
+#: inc/settings.php:10
+msgid "Settings - General"
+msgstr "Beállítások - Általános"
+
+#: inc/settings.php:11 inc/settings.php:26
+msgid ""
+"Note: This is just a demo screenshot. To get settings please buy our pro "
+"version."
+msgstr ""
+"Megjegyzés: Ez csak egy bemutató képernyőkép. A beállítások megszerzéséhez "
+"kérjük, vásárolja meg a pro verziót."
+
+#: inc/settings.php:13
+msgid ""
+"Here admin can give access to user roles to use filemanager. Admin can set "
+"Default Access Folder and also control upload size of filemanager."
+msgstr ""
+"Itt az adminisztrátor hozzáférést adhat a felhasználói szerepkörökhöz a "
+"fájlkezelő használatához. Az adminisztrátor beállíthatja az alapértelmezett "
+"hozzáférési mappát, és szabályozhatja a fájlkezelő feltöltési méretét is."
+
+#: inc/settings.php:15
+msgid "Settings - Code-editor"
+msgstr "Beállítások - Kódszerkesztő"
+
+#: inc/settings.php:16
+msgid ""
+"File Manager has a code editor with multiple themes. You can select any "
+"theme for code editor. It will display when you edit any file. Also you can "
+"allow fullscreen mode of code editor."
+msgstr ""
+"A File Manager rendelkezik több témájú kódszerkesztővel. Bármely témát "
+"kiválaszthat a kódszerkesztő számára. Bármely fájl szerkesztésekor "
+"megjelenik. Engedélyezheti a kódszerkesztő teljes képernyős módját is."
+
+#: inc/settings.php:18
+msgid "Code-editor View"
+msgstr "Kódszerkesztő nézet"
+
+#: inc/settings.php:20
+msgid "Settings - User Restrictions"
+msgstr "Beállítások - Felhasználói korlátozások"
+
+#: inc/settings.php:21
+msgid ""
+"Admin can restrict actions of any user. Also hide files and folders and can "
+"set different - different folders paths for different users."
+msgstr ""
+"Az adminisztrátor korlátozhatja bármely felhasználó műveleteit. A fájlokat "
+"és mappákat is elrejtheti, és különböző - különböző mappák elérési útjait "
+"állíthatja be a különböző felhasználók számára."
+
+#: inc/settings.php:23
+msgid "Settings - User Role Restrictions"
+msgstr "Beállítások - Felhasználói szerepkorlátozások"
+
+#: inc/settings.php:24
+msgid ""
+"Admin can restrict actions of any userrole. Also hide files and folders and "
+"can set different - different folders paths for different users roles."
+msgstr ""
+"Az adminisztrátor korlátozhatja bármely felhasználói szerepkör műveleteit. A "
+"fájlokat és mappákat is elrejtheti, és különböző - különböző mappák elérési "
+"útjait állíthatja be a különböző felhasználói szerepkörökhöz."
+
+#: inc/shortcode_docs.php:11
+msgid "File Manager - Shortcode"
+msgstr "Fájlkezelő - rövid kód"
+
+#: inc/shortcode_docs.php:15 inc/shortcode_docs.php:17
+#: inc/shortcode_docs.php:19
+msgid "USE:"
+msgstr "HASZNÁLAT:"
+
+#: inc/shortcode_docs.php:15
+msgid ""
+"It will show file manager on front end. You can control all settings from "
+"file manager settings. It will work same as backend WP File Manager."
+msgstr ""
+"Az előlapon megjelenik a fájlkezelő. Az összes beállítást a fájlkezelő "
+"beállításaiból vezérelheti. Ugyanúgy fog működni, mint a háttér WP "
+"fájlkezelője."
+
+#: inc/shortcode_docs.php:17
+msgid ""
+"It will show file manager on front end. But only Administrator can access it "
+"and will control from file manager settings."
+msgstr ""
+"Az előlapon megjelenik a fájlkezelő. De csak a rendszergazda férhet hozzá, "
+"és a fájlkezelő beállításaiból irányíthatja."
+
+#: inc/shortcode_docs.php:23
+msgid "Parameters:"
+msgstr "Paraméterek:"
+
+#: inc/shortcode_docs.php:26
+msgid ""
+"It will allow all roles to access file manager on front end or You can "
+"simple use for particular user roles as like allowed_roles=\"editor,author"
+"\" (seprated by comma(,))"
+msgstr ""
+"Lehetővé teszi, hogy minden szerepkör hozzáférjen a fájlkezelőhöz a "
+"kezelőfelületen, vagy egyszerűen használható bizonyos felhasználói "
+"szerepkörökhöz, mint például a enabled_roles=\"editor,author\" (vesszővel "
+"(,) elválasztva)"
+
+#: inc/shortcode_docs.php:28
+msgid ""
+"Here \"test\" is the name of folder which is located on root directory, or "
+"you can give path for sub folders as like \"wp-content/plugins\". If leave "
+"blank or empty it will access all folders on root directory. Default: Root "
+"directory"
+msgstr ""
+"Itt a \"teszt\" a gyökérkönyvtárban található mappa neve, vagy megadhatja az "
+"almappák elérési útját, például \"wp-content/plugins\". Ha üresen hagyja "
+"vagy üresen hagyja, akkor a gyökérkönyvtár összes mappájához hozzáfér. "
+"Alapértelmezés: Gyökérkönyvtár"
+
+#: inc/shortcode_docs.php:30
+msgid "for access to write files permissions, note: true/false, default: false"
+msgstr ""
+"a fájlok írási engedélyeihez, megjegyzés: igaz/hamis, alapértelmezett: hamis"
+
+#: inc/shortcode_docs.php:32
+msgid "for access to read files permission, note: true/false, default: true"
+msgstr "a fájlok olvasási engedélyéhez: igaz/hamis, alapértelmezett: igaz"
+
+#: inc/shortcode_docs.php:34
+msgid "it will hide mentioned here. Note: seprated by comma(,). Default: Null"
+msgstr ""
+"itt megemlítve el fog rejtőzni. Megjegyzés: vesszővel (,) elválasztva. "
+"Alapértelmezés: Null"
+
+#: inc/shortcode_docs.php:36
+msgid ""
+"It will lock mentioned in commas. you can lock more as like \".php,.css,.js"
+"\" etc. Default: Null"
+msgstr ""
+"A vesszővel említett zárolás lesz. zárolhat többet, mint például \".php,."
+"css, .js\" stb. Alapértelmezés: Null"
+
+#: inc/shortcode_docs.php:38
+msgid ""
+"* for all operations and to allow some operation you can mention operation "
+"name as like, allowed_operations=\"upload,download\". Note: seprated by "
+"comma(,). Default: *"
+msgstr ""
+"* minden művelethez és bizonyos műveletek engedélyezéséhez megadhatja a "
+"művelet nevét, mint például, enabled_operations=\"upload,download\". "
+"Megjegyzés: vesszővel (,) elválasztva. Alapértelmezett: *"
+
+#: inc/shortcode_docs.php:42
+msgid "File Operations List:"
+msgstr "Fájlműveletek listája:"
+
+#: inc/shortcode_docs.php:46
+msgid "mkdir ->"
+msgstr ""
+
+#: inc/shortcode_docs.php:46
+msgid "Make directory or folder"
+msgstr "Készítsen könyvtárat vagy mappát"
+
+#: inc/shortcode_docs.php:47
+msgid "mkfile ->"
+msgstr ""
+
+#: inc/shortcode_docs.php:47
+msgid "Make file"
+msgstr "Készítsen könyvtárat vagy mappát"
+
+#: inc/shortcode_docs.php:48
+msgid "rename ->"
+msgstr ""
+
+#: inc/shortcode_docs.php:48
+msgid "Rename a file or folder"
+msgstr "Nevezzen át egy fájlt vagy mappát"
+
+#: inc/shortcode_docs.php:49
+msgid "duplicate ->"
+msgstr ""
+
+#: inc/shortcode_docs.php:49
+msgid "Duplicate or clone a folder or file"
+msgstr "Másoljon vagy klónozzon egy mappát vagy fájlt"
+
+#: inc/shortcode_docs.php:50
+msgid "paste ->"
+msgstr ""
+
+#: inc/shortcode_docs.php:50
+msgid "Paste a file or folder"
+msgstr "Illesszen be egy fájlt vagy mappát"
+
+#: inc/shortcode_docs.php:51
+msgid "ban ->"
+msgstr ""
+
+#: inc/shortcode_docs.php:51
+msgid "Ban"
+msgstr "Tilalom"
+
+#: inc/shortcode_docs.php:52
+msgid "archive ->"
+msgstr ""
+
+#: inc/shortcode_docs.php:52
+msgid "To make a archive or zip"
+msgstr "Archívum vagy zip készítéséhez"
+
+#: inc/shortcode_docs.php:53
+msgid "extract ->"
+msgstr ""
+
+#: inc/shortcode_docs.php:53
+msgid "Extract archive or zipped file"
+msgstr "Kivonat archív vagy tömörített fájl"
+
+#: inc/shortcode_docs.php:54
+msgid "copy ->"
+msgstr ""
+
+#: inc/shortcode_docs.php:54
+msgid "Copy files or folders"
+msgstr "Fájlok vagy mappák másolása"
+
+#: inc/shortcode_docs.php:58
+msgid "cut ->"
+msgstr ""
+
+#: inc/shortcode_docs.php:58
+msgid "Simple cut a file or folder"
+msgstr "Egyszerű fájl vagy mappa kivágása"
+
+#: inc/shortcode_docs.php:59
+msgid "edit ->"
+msgstr ""
+
+#: inc/shortcode_docs.php:59
+msgid "Edit a file"
+msgstr "Fájl szerkesztése"
+
+#: inc/shortcode_docs.php:60
+msgid "rm ->"
+msgstr ""
+
+#: inc/shortcode_docs.php:60
+msgid "Remove or delete files and folders"
+msgstr "Fájl szerkesztése"
+
+#: inc/shortcode_docs.php:61
+msgid "download ->"
+msgstr ""
+
+#: inc/shortcode_docs.php:61
+msgid "Download files"
+msgstr "Fájlok letöltése"
+
+#: inc/shortcode_docs.php:62
+msgid "upload ->"
+msgstr ""
+
+#: inc/shortcode_docs.php:62
+msgid "Upload files"
+msgstr "Fájlok feltöltése"
+
+#: inc/shortcode_docs.php:63
+msgid "search -> "
+msgstr ""
+
+#: inc/shortcode_docs.php:63
+msgid "Search things"
+msgstr "Keressen dolgokat"
+
+#: inc/shortcode_docs.php:64
+msgid "info ->"
+msgstr ""
+
+#: inc/shortcode_docs.php:64
+msgid "Info of file"
+msgstr "A fájl adatai"
+
+#: inc/shortcode_docs.php:65
+msgid "help ->"
+msgstr ""
+
+#: inc/shortcode_docs.php:65
+msgid "Help"
+msgstr "Segítség"
+
+#: inc/shortcode_docs.php:71
+msgid ""
+"->  It will ban particular users by just putting their ids seprated by "
+"commas(,). If user is Ban then they will not able to access wp file manager "
+"on front end."
+msgstr ""
+"-> Megtiltja az egyes felhasználókat azáltal, hogy csak vesszővel "
+"elválasztott azonosítót tesz ((). Ha a felhasználó Ban, akkor nem fog tudni "
+"hozzáférni a wp fájlkezelőhöz a kezelőfelületen."
+
+#: inc/shortcode_docs.php:72
+msgid "-> Filemanager UI View. Default: grid"
+msgstr "-> Filemanager UI nézet. Alapértelmezett: grid"
+
+#: inc/shortcode_docs.php:73
+msgid "-> File Modified or Create date format. Default: d M, Y h:i A"
+msgstr ""
+"-> File Modified vagy Create date formátum. Alapértelmezés: d M, Y h: i A"
+
+#: inc/shortcode_docs.php:74
+msgid "-> File manager Language. Default: English(en)"
+msgstr "-> Fájlkezelő nyelve. Alapértelmezett: English(en)"
+
+#: inc/shortcode_docs.php:75
+msgid "-> File Manager Theme. Default: Light"
+msgstr "-> Fájlkezelő téma. Alapértelmezett: Light"
+
+#: inc/system_properties.php:5
+msgid "File Manager - System Properties"
+msgstr "Fájlkezelő - Rendszer tulajdonságai"
+
+#: inc/system_properties.php:10
+msgid "PHP version"
+msgstr "PHP verzió"
+
+#: inc/system_properties.php:15
+msgid "Maximum file upload size (upload_max_filesize)"
+msgstr "A fájl maximális feltöltési mérete (upload_max_filesize)"
+
+#: inc/system_properties.php:20
+msgid "Post maximum file upload size (post_max_size)"
+msgstr "A fájl maximális feltöltési mérete (post_max_size)"
+
+#: inc/system_properties.php:25
+msgid "Memory Limit (memory_limit)"
+msgstr "Memória korlát (memory_limit)"
+
+#: inc/system_properties.php:30
+msgid "Timeout (max_execution_time)"
+msgstr "Időtúllépés (max_execution_time)"
+
+#: inc/system_properties.php:35
+msgid "Browser and OS (HTTP_USER_AGENT)"
+msgstr "Böngésző és operációs rendszer (HTTP_USER_AGENT)"
+
+#: lib/jquery/jquery-ui-1.11.4.js:8
+msgid "'"
+msgstr ""
+
+#: lib/wpfilemanager.php:31
+msgid "Change Theme Here:"
+msgstr "Téma módosítása itt:"
+
+#: lib/wpfilemanager.php:35
+msgid "Default"
+msgstr "Alapértelmezett"
+
+#: lib/wpfilemanager.php:39
+msgid "Dark"
+msgstr "Sötét"
+
+#: lib/wpfilemanager.php:43
+msgid "Light"
+msgstr "Fény"
+
+#: lib/wpfilemanager.php:47
+msgid "Gray"
+msgstr "szürke"
+
+#: lib/wpfilemanager.php:52
+msgid "Windows - 10"
+msgstr ""
+
+#: lib/wpfilemanager.php:85
+msgid "Welcome to File Manager"
+msgstr "Üdvözöljük a Fájlkezelőben"
+
+#: lib/wpfilemanager.php:88
+msgid ""
+"We love making new friends! Subscribe below and we promise to\n"
+"    keep you up-to-date with our latest new plugins, updates,\n"
+"    awesome deals and a few special offers."
+msgstr ""
+"Szeretünk új barátokat szerezni! Iratkozzon fel alább, és megígérjük\n"
+"    naprakész legyen a legújabb új beépülő moduljainkkal,\n"
+"    fantasztikus ajánlatok és néhány különleges ajánlat."
+
+#: lib/wpfilemanager.php:99
+msgid "Please Enter First Name."
+msgstr "Kérjük, adja meg a keresztnevet."
+
+#: lib/wpfilemanager.php:107
+msgid "Please Enter Last Name."
+msgstr "Kérjük, adja meg a vezetéknevet."
+
+#: lib/wpfilemanager.php:116
+msgid "Please Enter Email Address."
+msgstr "Kérjük, adja meg az e-mail címet."
+
+#: lib/wpfilemanager.php:120
+msgid "Verify"
+msgstr "Ellenőrizze"
+
+#: lib/wpfilemanager.php:126
+msgid "No Thanks"
+msgstr "Nem köszönöm"
+
+#: lib/wpfilemanager.php:132
+msgid "Terms of Service"
+msgstr "Szolgáltatás feltételei"
+
+#: lib/wpfilemanager.php:134
+msgid "Privacy Policy"
+msgstr "Adatvédelmi irányelvek"
+
+#: lib/wpfilemanager.php:153
+msgid "Saving..."
+msgstr "Megtakarítás..."
+
+#: lib/wpfilemanager.php:155
+msgid "OK"
+msgstr "rendben"
+
+#~ msgid "Backup not found!"
+#~ msgstr "A biztonsági mentés nem található!"
+
+#~ msgid "Backup removed successfully!"
+#~ msgstr "A biztonsági másolat eltávolítása sikeres volt!"
+
+#~ msgid "<span class=\"fm_console_error\">Nothing selected for backup</span>"
+#~ msgstr ""
+#~ "<span class=\"fm_console_error\">Semmi sem lett kiválasztva biztonsági "
+#~ "mentésre</span>"
+
+#~ msgid "<span class=\"fm_console_error\">Security Issue.</span>"
+#~ msgstr "<span class=\"fm_console_error\">Biztonsági probléma.</span>"
+
+#~ msgid "<span class=\"fm_console_success\">Database backup done.</span>"
+#~ msgstr ""
+#~ "<span class=\"fm_console_success\">Az adatbázis biztonsági mentése kész. "
+#~ "</span>"
+
+#~ msgid ""
+#~ "<span class=\"fm_console_error\">Unable to create database backup.</span>"
+#~ msgstr ""
+#~ "<span class=\"fm_console_error\">Nem sikerült létrehozni az adatbázis "
+#~ "biztonsági mentését.</span>"
+
+#~ msgid "<span class=\"fm_console_success\">Plugins backup done.</span>"
+#~ msgstr ""
+#~ "<span class=\"fm_console_success\">A beépülő modulok biztonsági mentése "
+#~ "kész.</span>"
+
+#~ msgid "<span class=\"fm_console_error\">Plugins backup failed.</span>"
+#~ msgstr ""
+#~ "<span class=\"fm_console_error\">A beépülő modulok biztonsági mentése nem "
+#~ "sikerült.</span>"
+
+#~ msgid "<span class=\"fm_console_success\">Themes backup done.</span>"
+#~ msgstr "<span class=\"fm_console_success\">A témák mentése kész.</span>"
+
+#~ msgid "<span class=\"fm_console_error\">Themes backup failed.</span>"
+#~ msgstr ""
+#~ "<span class=\"fm_console_error\">A témák mentése nem sikerült.</span>"
+
+#~ msgid "<span class=\"fm_console_success\">Uploads backup done.</span>"
+#~ msgstr "<span class=\"fm_console_success\">Feltöltés kész.</span>"
+
+#~ msgid "<span class=\"fm_console_error\">Uploads backup failed.</span>"
+#~ msgstr ""
+#~ "<span class=\"fm_console_error\">Nem sikerült feltölteni a biztonsági "
+#~ "mentést. </span>"
+
+#~ msgid "<span class=\"fm_console_success\">Others backup done.</span>"
+#~ msgstr "<span class=\"fm_console_success\">Mások mentése kész.</span>"
+
+#~ msgid "<span class=\"fm_console_error\">Others backup failed.</span>"
+#~ msgstr "<span class=\"fm_console_error\">Mások mentése nem sikerült.</span>"
+
+#~ msgid "<span class=\"fm_console_success\">All Done</span>"
+#~ msgstr "<span class=\"fm_console_success\">Minden kész</span>"
+
+#~ msgid ""
+#~ "<code>[wp_file_manager view=\"list\" lang=\"en\" theme=\"light\" "
+#~ "dateformat=\"d M, Y h:i A\" allowed_roles=\"editor,author\" access_folder="
+#~ "\"wp-content/plugins\" write = \"true\" read = \"false\" hide_files = "
+#~ "\"kumar,abc.php\" lock_extensions=\".php,.css\" allowed_operations="
+#~ "\"upload,download\" ban_user_ids=\"2,3\"]"
+#~ msgstr ""
+#~ "<code>[wp_file_manager view=\"list\" lang=\"en\" theme=\"light\" "
+#~ "dateformat=\"d M, Y h:i A\" allowed_roles=\"editor,author\" access_folder="
+#~ "\"wp-content/plugins\" write = \"true\" read = \"false\" hide_files = "
+#~ "\"kumar,abc.php\" lock_extensions=\".php,.css\" allowed_operations="
+#~ "\"upload,download\" ban_user_ids=\"2,3\"]"
+
+#~ msgid "Manage your WP files."
+#~ msgstr "A WP-fájlok kezelése."
+
+#~ msgid "Extensions"
+#~ msgstr "Extensions"
+
+#~ msgid ""
+#~ "Please contribute some donation, to make plugin more stable. You can pay "
+#~ "amount of your choice."
+#~ msgstr ""
+#~ "Kérjük, adj hozzá néhány adományt, hogy stabilabb legyen a plugin. Meg "
+#~ "tudod fizetni az Ön által választott összeget."

@@ -1,0 +1,161 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Zilla Likes\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-10-17 08:46-0500\n"
+"PO-Revision-Date: 2012-10-17 08:46-0500\n"
+"Last-Translator: Mark Southard <mbsatunc@yahoo.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: nl_NL\n"
+"X-Generator: Poedit 1.5.4\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: ../\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: pixfort-likes.php:43
+msgid "Automatically show likes on"
+msgstr ""
+
+#: pixfort-likes.php:44
+msgid "Exclude from Post/Page ID"
+msgstr ""
+
+#: pixfort-likes.php:45
+msgid "Disable CSS"
+msgstr ""
+
+#: pixfort-likes.php:46
+msgid "AJAX Like Counts"
+msgstr ""
+
+#: pixfort-likes.php:47
+msgid "0 Count Postfix"
+msgstr ""
+
+#: pixfort-likes.php:48
+msgid "1 Count Postfix"
+msgstr ""
+
+#: pixfort-likes.php:49
+msgid "More than 1 Count Postfix"
+msgstr ""
+
+#: pixfort-likes.php:50
+msgid "Shortcode and Template Tag"
+msgstr ""
+
+#: pixfort-likes.php:56
+#: pixfort-likes.php:57
+#: pixfort-likes.php:67
+msgid "ZillaLikes Settings"
+msgstr ""
+
+#: pixfort-likes.php:57
+msgid "Settings"
+msgstr ""
+
+#: pixfort-likes.php:70
+msgid "Settings saved."
+msgstr ""
+
+#: pixfort-likes.php:76
+msgid "Save Changes"
+msgstr ""
+
+#: pixfort-likes.php:85
+msgid "ZillaLikes allows you to display like icons throughout your site. Customize the output of ZillaLike with this settings page."
+msgstr ""
+
+#: pixfort-likes.php:86
+msgid "Check out our other free <a href=\"http://www.themezilla.com/plugins/?ref=zillalikes\">plugins</a> and <a href=\"http://www.themezilla.com/themes/?ref=zillalikes\">themes</a>."
+msgstr ""
+
+#: pixfort-likes.php:100
+msgid "Posts"
+msgstr ""
+
+#: pixfort-likes.php:103
+msgid "Pages"
+msgstr ""
+
+#: pixfort-likes.php:106
+msgid "Blog Index Page, Archive Pages, and Search Results"
+msgstr ""
+
+#: pixfort-likes.php:115
+msgid "Comma separated list of post/page ID's (e.g. 4,7,87)"
+msgstr ""
+
+#: pixfort-likes.php:124
+msgid "I want to use my own CSS styles"
+msgstr ""
+
+#: pixfort-likes.php:131
+msgid "We recommend you check this option when using the Shutterbug theme to avoid conflicts"
+msgstr ""
+
+#: pixfort-likes.php:142
+msgid "AJAX Like Counts on page load"
+msgstr ""
+
+#: pixfort-likes.php:143
+msgid "If you are using a cacheing plugin, you may want to dynamically load the like counts via AJAX."
+msgstr ""
+
+#: pixfort-likes.php:152
+msgid "The text after the count when no one has liked a post/page. Leave blank for no text after the count."
+msgstr ""
+
+#: pixfort-likes.php:161
+msgid "The text after the count when one person has liked a post/page. Leave blank for no text after the count."
+msgstr ""
+
+#: pixfort-likes.php:170
+msgid "The text after the count when more than one person has liked a post/page. Leave blank for no text after the count."
+msgstr ""
+
+#: pixfort-likes.php:175
+msgid "To use ZillaLikes in your posts and pages you can use the shortcode:"
+msgstr ""
+
+#: pixfort-likes.php:177
+msgid "To use ZillaLikes manually in your theme template use the following PHP code:"
+msgstr ""
+
+#: pixfort-likes.php:326
+msgid "Like this"
+msgstr ""
+
+#: pixfort-likes.php:329
+msgid "You already like this"
+msgstr ""
+
+#: pixfort-likes.php:366
+msgid "Displays your most popular posts sorted by most liked"
+msgstr ""
+
+#: pixfort-likes.php:412
+msgid "Popular Posts"
+msgstr ""
+
+#: pixfort-likes.php:425
+msgid "Title:"
+msgstr ""
+
+#: pixfort-likes.php:429
+msgid "Description:"
+msgstr ""
+
+#: pixfort-likes.php:433
+msgid "Posts:"
+msgstr ""
+
+#~ msgid "ZillaLikes"
+#~ msgstr "Zilla Likes"
+
+#~ msgid "MindspinsLikes"
+#~ msgstr "MindspinsLikes"

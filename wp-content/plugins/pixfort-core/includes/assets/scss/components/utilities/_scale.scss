@@ -1,0 +1,61 @@
+.scale-sm,
+.scale,
+.scale-lg,
+.scale-inverse-sm,
+.scale-inverse,
+.scale-inverse-lg {
+    backface-visibility: hidden;
+    transition: $box-scale-transition;
+    * {
+        backface-visibility: hidden;
+    }
+}
+
+
+.scale-sm {
+    &:hover {
+        transform: $box-scale-sm !important;
+        z-index: 999;
+    }
+}
+.scale {
+    &:hover {
+        transform: $box-scale !important;
+        z-index: 999;
+    }
+}
+.scale-lg {
+    &:hover {
+        transform: $box-scale-lg !important;
+        z-index: 999;
+    }
+}
+
+.scaled-sm {
+    transform: $box-scale-sm !important;
+    z-index: 999;
+}
+.scaled {
+    transform: $box-scale !important;
+    z-index: 999;
+}
+.scaled-lg {
+    transform: $box-scale-lg !important;
+    z-index: 999;
+}
+
+.scale-inverse-sm {
+    &:hover {
+        transform: $box-scale-hover-sm !important;
+    }
+}
+.scale-inverse {
+    &:hover {
+        transform: $box-scale-hover !important;
+    }
+}
+.scale-inverse-lg {
+    &:hover {
+        transform: $box-scale-hover-lg !important;
+    }
+}

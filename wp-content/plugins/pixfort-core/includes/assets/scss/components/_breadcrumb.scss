@@ -1,0 +1,21 @@
+.breadcrumb {
+	display: flex;
+	flex-wrap: wrap;
+	list-style: none;
+	font-weight: $font-weight-bold;
+}
+.pix-main-intro .breadcrumb {
+	padding: $breadcrumb-padding-y $breadcrumb-padding-x;
+}
+.breadcrumb-item {
+	+ .breadcrumb-item {
+		padding-left: $breadcrumb-item-padding;
+		&::before {
+			display: none;
+		}
+	}
+
+	&.active {
+		color: $breadcrumb-active-color;
+	}
+}

@@ -1,0 +1,1010 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WP File Manager\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-02-28 10:25+0530\n"
+"PO-Revision-Date: 2022-03-03 12:32+0530\n"
+"Last-Translator: admin <kajal.gill@mysenseinc.in>\n"
+"Language-Team: \n"
+"Language: hr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10 >= 2 && n"
+"%10<=4 &&(n%100<10||n%100 >= 20)? 1 : 2;\n"
+"X-Generator: Poedit 3.0.1\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: file_folder_manager.php:174
+msgid "Themes backup restored successfully."
+msgstr "Sigurnosna kopija tema uspješno je vraćena."
+
+#: file_folder_manager.php:177
+msgid "Unable to restore themes."
+msgstr "Nije moguće vratiti teme."
+
+#: file_folder_manager.php:207
+msgid "Uploads backup restored successfully."
+msgstr "Sigurnosna kopija prijenosa uspješno je vraćena."
+
+#: file_folder_manager.php:211
+msgid "Unable to restore uploads."
+msgstr "Prijenos nije moguće vratiti."
+
+#: file_folder_manager.php:237
+msgid "Others backup restored successfully."
+msgstr "Ostale sigurnosne kopije uspješno su vraćene."
+
+#: file_folder_manager.php:241
+msgid "Unable to restore others."
+msgstr "Nije moguće vratiti druge."
+
+#: file_folder_manager.php:267
+msgid "Plugins backup restored successfully."
+msgstr "Sigurnosna kopija dodataka uspješno je vraćena."
+
+#: file_folder_manager.php:271 file_folder_manager.php:301
+msgid "Unable to restore plugins."
+msgstr "Nije moguće vratiti dodatke."
+
+#: file_folder_manager.php:286
+msgid "Database backup restored successfully."
+msgstr "Sigurnosna kopija baze podataka uspješno je vraćena."
+
+#: file_folder_manager.php:286 file_folder_manager.php:297
+#: file_folder_manager.php:588 file_folder_manager.php:592
+msgid "All Done"
+msgstr "Sve Gotovo"
+
+#: file_folder_manager.php:289
+msgid "Unable to restore DB backup."
+msgstr "Nije moguće vratiti sigurnosnu kopiju DB-a."
+
+#: file_folder_manager.php:347
+msgid "Backups removed successfully!"
+msgstr "Sigurnosne kopije uspješno su uklonjene!"
+
+#: file_folder_manager.php:349
+msgid "Unable to removed backup!"
+msgstr "Nije moguće ukloniti sigurnosnu kopiju!"
+
+#: file_folder_manager.php:373
+msgid "Database backup done on date "
+msgstr "Izrada sigurnosne kopije baze podataka na datum "
+
+#: file_folder_manager.php:377
+msgid "Plugins backup done on date "
+msgstr "Izrada sigurnosne kopije dodataka izvršena na datum "
+
+#: file_folder_manager.php:381
+msgid "Themes backup done on date "
+msgstr "Izrada sigurnosne kopije tema na datum "
+
+#: file_folder_manager.php:385
+msgid "Uploads backup done on date "
+msgstr "Prenosi sigurnosne kopije izvršene na datum "
+
+#: file_folder_manager.php:389
+msgid "Others backup done on date "
+msgstr "Ostale sigurnosne kopije izvršene na datum "
+
+#: file_folder_manager.php:393 file_folder_manager.php:776
+msgid "Logs"
+msgstr "Trupci"
+
+#: file_folder_manager.php:399
+msgid "No logs found!"
+msgstr "Nije pronađen nijedan zapisnik!"
+
+#: file_folder_manager.php:496
+msgid "Nothing selected for backup"
+msgstr "Ništa nije odabrano za sigurnosnu kopiju"
+
+#: file_folder_manager.php:516
+msgid "Security Issue."
+msgstr "Sigurnosno pitanje."
+
+#: file_folder_manager.php:527
+msgid "Database backup done."
+msgstr "Izvršeno sigurnosno kopiranje baze podataka."
+
+#: file_folder_manager.php:530
+msgid "Unable to create database backup."
+msgstr "Nije moguće stvoriti sigurnosnu kopiju baze podataka."
+
+#: file_folder_manager.php:544
+msgid "Plugins backup done."
+msgstr "Dovršeno sigurnosno kopiranje dodataka."
+
+#: file_folder_manager.php:547
+msgid "Plugins backup failed."
+msgstr "Sigurnosno kopiranje dodataka nije uspjelo."
+
+#: file_folder_manager.php:556
+msgid "Themes backup done."
+msgstr "Izvršeno sigurnosno kopiranje tema."
+
+#: file_folder_manager.php:559
+msgid "Themes backup failed."
+msgstr "Sigurnosno kopiranje tema nije uspjelo."
+
+#: file_folder_manager.php:569
+msgid "Uploads backup done."
+msgstr "Sigurnosna kopija prijenosa je gotova."
+
+#: file_folder_manager.php:572
+msgid "Uploads backup failed."
+msgstr "Sigurnosna kopija prijenosa nije uspjela."
+
+#: file_folder_manager.php:581
+msgid "Others backup done."
+msgstr "Ostala sigurnosna kopija napravljena."
+
+#: file_folder_manager.php:584
+msgid "Others backup failed."
+msgstr "Others backup failed."
+
+#: file_folder_manager.php:761 file_folder_manager.php:762
+#: lib/wpfilemanager.php:23
+msgid "WP File Manager"
+msgstr "WP upravitelj datoteka"
+
+#: file_folder_manager.php:769
+msgid "Settings"
+msgstr "Postavke"
+
+#: file_folder_manager.php:771 inc/root.php:48
+msgid "Preferences"
+msgstr "preferencijama"
+
+#: file_folder_manager.php:773
+msgid "System Properties"
+msgstr "Svojstva sustava"
+
+#: file_folder_manager.php:775
+msgid "Shortcode - PRO"
+msgstr "Kratki kod – PRO"
+
+#: file_folder_manager.php:777
+msgid "Backup/Restore"
+msgstr "Sigurnosno kopiranje/vraćanje"
+
+#: file_folder_manager.php:1033
+msgid "Buy Pro"
+msgstr "Kupite Pro"
+
+#: file_folder_manager.php:1034
+msgid "Donate"
+msgstr "darovati"
+
+#: file_folder_manager.php:1249
+msgid ""
+"<div class=\"updated settings-error notice is-dismissible\" id=\"setting-"
+"error-settings_updated\"> \n"
+"<p><strong>"
+msgstr ""
+
+#: file_folder_manager.php:1256
+msgid ""
+"<div class=\"error settings-error notice is-dismissible\" id=\"setting-error-"
+"settings_updated\"> \n"
+"<p><strong>"
+msgstr ""
+
+#: file_folder_manager.php:1395 file_folder_manager.php:1483
+msgid "File doesn't exist to download."
+msgstr "Datoteka ne postoji za preuzimanje."
+
+#: file_folder_manager.php:1400 file_folder_manager.php:1488
+msgid "Invalid Security Code."
+msgstr "Nevažeći sigurnosni kod."
+
+#: file_folder_manager.php:1405 file_folder_manager.php:1493
+msgid "Missing backup id."
+msgstr "Nedostaje sigurnosna kopija."
+
+#: file_folder_manager.php:1408 file_folder_manager.php:1496
+msgid "Missing parameter type."
+msgstr "Nedostaje vrsta parametra."
+
+#: file_folder_manager.php:1411 file_folder_manager.php:1499
+msgid "Missing required parameters."
+msgstr "Nedostaju potrebni parametri."
+
+#: inc/backup.php:24
+msgid ""
+"Error: Unable to restore backup because database backup is heavy in size. "
+"Please try to increase Maximum allowed size  from Preferences settings."
+msgstr ""
+"Pogreška: nije moguće vratiti sigurnosnu kopiju jer je sigurnosna kopija "
+"baze podataka velika. Pokušajte povećati maksimalnu dopuštenu veličinu u "
+"postavkama Preference."
+
+#: inc/backup.php:25
+msgid "Select backup(s) to delete!"
+msgstr "Odaberite sigurnosnu(e) kopiju(e) za brisanje!"
+
+#: inc/backup.php:26
+msgid "Are you sure want to remove selected backup(s)?"
+msgstr "Jeste li sigurni da želite ukloniti odabrane sigurnosne kopije?"
+
+#: inc/backup.php:31
+msgid "Backup is running, please wait"
+msgstr "Izrada sigurnosne kopije, pričekajte"
+
+#: inc/backup.php:32
+msgid "Restore is running, please wait"
+msgstr "Vraćanje je u tijeku, pričekajte"
+
+#: inc/backup.php:33
+msgid "Nothing selected for backup."
+msgstr "Ništa nije odabrano za sigurnosnu kopiju."
+
+#: inc/backup.php:45
+msgid "WP File Manager - Backup/Restore"
+msgstr "WP upravitelj datoteka - Sigurnosna kopija / Vraćanje"
+
+#: inc/backup.php:51
+msgid "Backup Options:"
+msgstr "Opcije sigurnosne kopije:"
+
+#: inc/backup.php:58
+msgid "Database Backup"
+msgstr "Sigurnosna kopija baze podataka"
+
+#: inc/backup.php:64
+msgid "Files Backup"
+msgstr "Sigurnosna kopija datoteka"
+
+#: inc/backup.php:68
+msgid "Plugins"
+msgstr "Dodaci"
+
+#: inc/backup.php:71
+msgid "Themes"
+msgstr "Teme"
+
+#: inc/backup.php:74
+msgid "Uploads"
+msgstr "Prijenosi"
+
+#: inc/backup.php:77
+msgid "Others (Any other directories found inside wp-content)"
+msgstr "Ostalo (Bilo koji drugi direktorij koji se nalazi unutar wp-sadržaja)"
+
+#: inc/backup.php:81
+msgid "Backup Now"
+msgstr "Napravite sigurnosnu kopiju odmah"
+
+#: inc/backup.php:89
+msgid "Time now"
+msgstr "Vrijeme je sada"
+
+#: inc/backup.php:99
+msgid "SUCCESS"
+msgstr "USPJEH"
+
+#: inc/backup.php:101
+msgid "Backup successfully deleted."
+msgstr "Sigurnosna kopija uspješno je izbrisana."
+
+#: inc/backup.php:102
+msgid "Ok"
+msgstr "U redu"
+
+#: inc/backup.php:117
+msgid "DELETE FILES"
+msgstr "OBRIŠI DATOTEKE"
+
+#: inc/backup.php:119
+msgid "Are you sure you want to delete this backup?"
+msgstr "Jeste li sigurni da želite izbrisati ovu sigurnosnu kopiju?"
+
+#: inc/backup.php:120 inc/backup.php:139
+msgid "Cancel"
+msgstr "Otkazati"
+
+#: inc/backup.php:121 inc/backup.php:140
+msgid "Confirm"
+msgstr "Potvrdite"
+
+#: inc/backup.php:136
+msgid "RESTORE FILES"
+msgstr "VRAĆI DATOTEKE"
+
+#: inc/backup.php:138
+msgid "Are you sure you want to restore this backup?"
+msgstr "Jeste li sigurni da želite vratiti ovu sigurnosnu kopiju?"
+
+#: inc/backup.php:166
+msgid "Last Log Message"
+msgstr "Posljednja poruka dnevnika"
+
+#: inc/backup.php:169
+msgid "The backup apparently succeeded and is now complete."
+msgstr "Sigurnosna kopija očito je uspjela i sada je gotova."
+
+#: inc/backup.php:171
+msgid "No log message"
+msgstr "Nema poruke dnevnika"
+
+#: inc/backup.php:177
+msgid "Existing Backup(s)"
+msgstr "Postojeće sigurnosne kopije"
+
+#: inc/backup.php:184
+msgid "Backup Date"
+msgstr "Datum sigurnosne kopije"
+
+#: inc/backup.php:187
+msgid "Backup data (click to download)"
+msgstr "Sigurnosna kopija podataka (kliknite za preuzimanje)"
+
+#: inc/backup.php:190
+msgid "Action"
+msgstr "Akcijski"
+
+#: inc/backup.php:210
+msgid "Today"
+msgstr "Danas"
+
+#: inc/backup.php:239
+msgid "Restore"
+msgstr "Vratiti"
+
+#: inc/backup.php:240 inc/backup.php:250
+msgid "Delete"
+msgstr "Izbrisati"
+
+#: inc/backup.php:241
+msgid "View Log"
+msgstr "Prikaži zapisnik"
+
+#: inc/backup.php:246
+msgid "Currently no backup(s) found."
+msgstr "Trenutno nije pronađena nijedna sigurnosna kopija."
+
+#: inc/backup.php:249
+msgid "Actions upon selected backup(s)"
+msgstr "Radnje po odabranim sigurnosnim kopijama"
+
+#: inc/backup.php:251
+msgid "Select All"
+msgstr "Odaberi sve"
+
+#: inc/backup.php:252
+msgid "Deselect"
+msgstr "Poništi odabir"
+
+#: inc/backup.php:254
+msgid "Note:"
+msgstr "Bilješka:"
+
+#: inc/backup.php:254
+msgid "Backup files will be under"
+msgstr "Datoteke za sigurnosne kopije bit će pod"
+
+#: inc/contribute.php:3
+msgid "WP File Manager Contribution"
+msgstr "Doprinos WP upravitelja datoteka"
+
+#: inc/logs.php:7
+msgid ""
+"Note: These are demo screenshots. Please buy File Manager pro to Logs "
+"functions."
+msgstr ""
+"Napomena: Ovo su demo snimke zaslona. Molimo kupite File Manager pro za "
+"funkcije Logs."
+
+#: inc/logs.php:8 lib/wpfilemanager.php:24
+msgid "Click to Buy PRO"
+msgstr "Kliknite za kupnju PRO"
+
+#: inc/logs.php:8 inc/settings.php:12 inc/settings.php:27
+#: inc/system_properties.php:5 lib/wpfilemanager.php:25
+msgid "Buy PRO"
+msgstr "Kupite PRO"
+
+#: inc/logs.php:9
+msgid "Edit Files Logs"
+msgstr "Uredi zapisnike datoteka"
+
+#: inc/logs.php:11
+msgid "Download Files Logs"
+msgstr "Preuzmite zapisnike datoteka"
+
+#: inc/logs.php:13
+msgid "Upload Files Logs"
+msgstr "Učitaj zapisnike datoteka"
+
+#: inc/root.php:43
+msgid "Settings saved."
+msgstr "Postavke spremljene."
+
+#: inc/root.php:43 inc/root.php:46
+msgid "Dismiss this notice."
+msgstr "Odbaci ovu obavijest."
+
+#: inc/root.php:46
+msgid "You have not made any changes to be saved."
+msgstr "Niste unijeli nikakve promjene koje želite spremiti."
+
+#: inc/root.php:55
+msgid "Public Root Path"
+msgstr "Javni korijenski put"
+
+#: inc/root.php:58
+msgid "File Manager Root Path, you can change according to your choice."
+msgstr ""
+"Korijenski put upravitelja datoteka, možete promijeniti prema vašem izboru."
+
+#: inc/root.php:59
+msgid "Default:"
+msgstr "Zadano:"
+
+#: inc/root.php:60
+msgid ""
+"Please change this carefully, wrong path can lead file manager plugin to go "
+"down."
+msgstr ""
+"Molimo pažljivo promijenite ovo, pogrešan put može dovesti do pada dodatka "
+"za upravljanje datotekama."
+
+#: inc/root.php:64
+msgid "Enable Trash?"
+msgstr "Omogućiti otpad?"
+
+#: inc/root.php:67
+msgid "After enable trash, your files will go to trash folder."
+msgstr "Nakon omogućavanja otpada, vaše će datoteke ići u mapu smeća."
+
+#: inc/root.php:72
+msgid "Enable Files Upload to Media Library?"
+msgstr "Omogućiti prijenos datoteka u biblioteku medija?"
+
+#: inc/root.php:75
+msgid "After enabling this all files will go to media library."
+msgstr "Nakon što ovo omogućite, sve će datoteke ići u medijateku."
+
+#: inc/root.php:80
+msgid "Maximum allowed size at the time of database backup restore."
+msgstr ""
+"Maksimalna dopuštena veličina u vrijeme vraćanja sigurnosne kopije baze "
+"podataka."
+
+#: inc/root.php:83
+msgid "MB"
+msgstr ""
+
+#: inc/root.php:85
+msgid ""
+"Please increase field value if you are getting error message at the time of "
+"backup restore."
+msgstr ""
+"Molimo povećajte vrijednost polja ako dobijete poruku o pogrešci u vrijeme "
+"vraćanja iz sigurnosne kopije."
+
+#: inc/root.php:90
+msgid "Save Changes"
+msgstr "Spremi promjene"
+
+#: inc/settings.php:10
+msgid "Settings - General"
+msgstr "Postavke - Općenito"
+
+#: inc/settings.php:11 inc/settings.php:26
+msgid ""
+"Note: This is just a demo screenshot. To get settings please buy our pro "
+"version."
+msgstr ""
+"Napomena: Ovo je samo demo snimak zaslona. Da biste dobili postavke, kupite "
+"našu pro verziju."
+
+#: inc/settings.php:13
+msgid ""
+"Here admin can give access to user roles to use filemanager. Admin can set "
+"Default Access Folder and also control upload size of filemanager."
+msgstr ""
+"Ovdje administrator može dati pristup korisničkim ulogama za korištenje "
+"upravitelja datoteka. Administrator može postaviti zadanu mapu za pristup i "
+"također kontrolirati veličinu prijenosa upravitelja datoteka."
+
+#: inc/settings.php:15
+msgid "Settings - Code-editor"
+msgstr "Postavke - Uređivač koda"
+
+#: inc/settings.php:16
+msgid ""
+"File Manager has a code editor with multiple themes. You can select any "
+"theme for code editor. It will display when you edit any file. Also you can "
+"allow fullscreen mode of code editor."
+msgstr ""
+"Upravitelj datoteka ima uređivač koda s više tema. Za uređivač koda možete "
+"odabrati bilo koju temu. Prikazat će se kad uredite bilo koju datoteku. "
+"Također možete dopustiti način cijelog zaslona uređivača koda."
+
+#: inc/settings.php:18
+msgid "Code-editor View"
+msgstr "Prikaz uređivača koda"
+
+#: inc/settings.php:20
+msgid "Settings - User Restrictions"
+msgstr "Postavke - Korisnička ograničenja"
+
+#: inc/settings.php:21
+msgid ""
+"Admin can restrict actions of any user. Also hide files and folders and can "
+"set different - different folders paths for different users."
+msgstr ""
+"Administrator može ograničiti radnje bilo kojeg korisnika. Također možete "
+"sakriti datoteke i mape i možete postaviti različite putanje mapa za "
+"različite korisnike."
+
+#: inc/settings.php:23
+msgid "Settings - User Role Restrictions"
+msgstr "Postavke - Ograničenja uloga korisnika"
+
+#: inc/settings.php:24
+msgid ""
+"Admin can restrict actions of any userrole. Also hide files and folders and "
+"can set different - different folders paths for different users roles."
+msgstr ""
+"Administrator može ograničiti radnje bilo koje korisničke uloge. Također "
+"možete sakriti datoteke i mape i možete postaviti različite putanje mapa za "
+"različite uloge korisnika."
+
+#: inc/shortcode_docs.php:11
+msgid "File Manager - Shortcode"
+msgstr "Upravitelj datoteka - kratki kod"
+
+#: inc/shortcode_docs.php:15 inc/shortcode_docs.php:17
+#: inc/shortcode_docs.php:19
+msgid "USE:"
+msgstr "KORISTITI:"
+
+#: inc/shortcode_docs.php:15
+msgid ""
+"It will show file manager on front end. You can control all settings from "
+"file manager settings. It will work same as backend WP File Manager."
+msgstr ""
+"Na prednjem kraju će se prikazati upravitelj datoteka. Možete kontrolirati "
+"sve postavke iz postavki upravitelja datoteka. Radit će isto kao backend WP "
+"upravitelj datoteka."
+
+#: inc/shortcode_docs.php:17
+msgid ""
+"It will show file manager on front end. But only Administrator can access it "
+"and will control from file manager settings."
+msgstr ""
+"Na prednjem kraju će se prikazati upravitelj datoteka. Ali samo mu "
+"administrator može pristupiti i kontrolirat će iz postavki upravitelja "
+"datoteka."
+
+#: inc/shortcode_docs.php:23
+msgid "Parameters:"
+msgstr "Parametri:"
+
+#: inc/shortcode_docs.php:26
+msgid ""
+"It will allow all roles to access file manager on front end or You can "
+"simple use for particular user roles as like allowed_roles=\"editor,author"
+"\" (seprated by comma(,))"
+msgstr ""
+"Omogućit će svim ulogama pristup upravitelju datoteka na prednjem kraju ili "
+"možete jednostavno koristiti za određene korisničke uloge kao što je "
+"dopušteno_roles=\"urednik,autor\" (odvojeno zarezom(,))"
+
+#: inc/shortcode_docs.php:28
+msgid ""
+"Here \"test\" is the name of folder which is located on root directory, or "
+"you can give path for sub folders as like \"wp-content/plugins\". If leave "
+"blank or empty it will access all folders on root directory. Default: Root "
+"directory"
+msgstr ""
+"Ovdje je \"test\" naziv mape koja se nalazi u korijenskom direktoriju, ili "
+"možete dati put za podmape poput \"wp-content/plugins\". Ako ostavite prazno "
+"ili prazno, pristupit će svim mapama u korijenskom direktoriju. Zadano: "
+"korijenski direktorij"
+
+#: inc/shortcode_docs.php:30
+msgid "for access to write files permissions, note: true/false, default: false"
+msgstr ""
+"za pristup dopuštenjima za pisanje datoteka, napomena: true/false, default: "
+"false"
+
+#: inc/shortcode_docs.php:32
+msgid "for access to read files permission, note: true/false, default: true"
+msgstr ""
+"za dopuštenje za pristup čitanju datoteka, napomena: true/false, default: "
+"true"
+
+#: inc/shortcode_docs.php:34
+msgid "it will hide mentioned here. Note: seprated by comma(,). Default: Null"
+msgstr ""
+"sakriti će ovdje spomenuto. Napomena: odvojeno zarezom (,). Zadano: Null"
+
+#: inc/shortcode_docs.php:36
+msgid ""
+"It will lock mentioned in commas. you can lock more as like \".php,.css,.js"
+"\" etc. Default: Null"
+msgstr ""
+"Zaključat će se spomenuto u zarezima. možete zaključati više poput \".php,."
+"css,.js\" itd. Zadana postavka: Null"
+
+#: inc/shortcode_docs.php:38
+msgid ""
+"* for all operations and to allow some operation you can mention operation "
+"name as like, allowed_operations=\"upload,download\". Note: seprated by "
+"comma(,). Default: *"
+msgstr ""
+"* za sve operacije i za dopuštanje neke operacije možete spomenuti naziv "
+"operacije kao, dozvoljeno_operacije=\"upload,download\". Napomena: odvojeno "
+"zarezom (,). Zadano: *"
+
+#: inc/shortcode_docs.php:42
+msgid "File Operations List:"
+msgstr "Popis operacija datoteka:"
+
+#: inc/shortcode_docs.php:46
+msgid "mkdir ->"
+msgstr ""
+
+#: inc/shortcode_docs.php:46
+msgid "Make directory or folder"
+msgstr "Napravite direktorij ili mapu"
+
+#: inc/shortcode_docs.php:47
+msgid "mkfile ->"
+msgstr ""
+
+#: inc/shortcode_docs.php:47
+msgid "Make file"
+msgstr "Napravi datoteku"
+
+#: inc/shortcode_docs.php:48
+msgid "rename ->"
+msgstr ""
+
+#: inc/shortcode_docs.php:48
+msgid "Rename a file or folder"
+msgstr "Preimenujte datoteku ili mapu"
+
+#: inc/shortcode_docs.php:49
+msgid "duplicate ->"
+msgstr ""
+
+#: inc/shortcode_docs.php:49
+msgid "Duplicate or clone a folder or file"
+msgstr "Duplicirajte ili klonirajte mapu ili datoteku"
+
+#: inc/shortcode_docs.php:50
+msgid "paste ->"
+msgstr ""
+
+#: inc/shortcode_docs.php:50
+msgid "Paste a file or folder"
+msgstr "Zalijepite datoteku ili mapu"
+
+#: inc/shortcode_docs.php:51
+msgid "ban ->"
+msgstr ""
+
+#: inc/shortcode_docs.php:51
+msgid "Ban"
+msgstr "Zabrana"
+
+#: inc/shortcode_docs.php:52
+msgid "archive ->"
+msgstr ""
+
+#: inc/shortcode_docs.php:52
+msgid "To make a archive or zip"
+msgstr "Da napravite arhivu ili zip"
+
+#: inc/shortcode_docs.php:53
+msgid "extract ->"
+msgstr ""
+
+#: inc/shortcode_docs.php:53
+msgid "Extract archive or zipped file"
+msgstr "Izdvojite arhivu ili arhiviranu datoteku"
+
+#: inc/shortcode_docs.php:54
+msgid "copy ->"
+msgstr ""
+
+#: inc/shortcode_docs.php:54
+msgid "Copy files or folders"
+msgstr "Kopirajte datoteke ili mape"
+
+#: inc/shortcode_docs.php:58
+msgid "cut ->"
+msgstr ""
+
+#: inc/shortcode_docs.php:58
+msgid "Simple cut a file or folder"
+msgstr "Jednostavno izrežite datoteku ili mapu"
+
+#: inc/shortcode_docs.php:59
+msgid "edit ->"
+msgstr ""
+
+#: inc/shortcode_docs.php:59
+msgid "Edit a file"
+msgstr "Uredite datoteku"
+
+#: inc/shortcode_docs.php:60
+msgid "rm ->"
+msgstr ""
+
+#: inc/shortcode_docs.php:60
+msgid "Remove or delete files and folders"
+msgstr "Uklonite ili izbrišite datoteke i mape"
+
+#: inc/shortcode_docs.php:61
+msgid "download ->"
+msgstr ""
+
+#: inc/shortcode_docs.php:61
+msgid "Download files"
+msgstr "Preuzmi datoteke"
+
+#: inc/shortcode_docs.php:62
+msgid "upload ->"
+msgstr ""
+
+#: inc/shortcode_docs.php:62
+msgid "Upload files"
+msgstr "Učitaj datoteke"
+
+#: inc/shortcode_docs.php:63
+msgid "search -> "
+msgstr ""
+
+#: inc/shortcode_docs.php:63
+msgid "Search things"
+msgstr "Pretražite stvari"
+
+#: inc/shortcode_docs.php:64
+msgid "info ->"
+msgstr ""
+
+#: inc/shortcode_docs.php:64
+msgid "Info of file"
+msgstr "Podaci o datoteci"
+
+#: inc/shortcode_docs.php:65
+msgid "help ->"
+msgstr ""
+
+#: inc/shortcode_docs.php:65
+msgid "Help"
+msgstr "Pomozite"
+
+#: inc/shortcode_docs.php:71
+msgid ""
+"->  It will ban particular users by just putting their ids seprated by "
+"commas(,). If user is Ban then they will not able to access wp file manager "
+"on front end."
+msgstr ""
+"-> Zabranit će određenim korisnicima stavljanjem njihovih ID-ova razdvojenih "
+"zarezima (,). Ako je korisnik Ban, tada neće moći pristupiti upravitelju "
+"datoteka wp s prednje strane."
+
+#: inc/shortcode_docs.php:72
+msgid "-> Filemanager UI View. Default: grid"
+msgstr "-> Prikaz korisničkog sučelja Filemanager-a. Zadano: grid"
+
+#: inc/shortcode_docs.php:73
+msgid "-> File Modified or Create date format. Default: d M, Y h:i A"
+msgstr ""
+"-> Izmijenjena datoteka ili Stvori format datuma. Zadano: d M, Y h: i A"
+
+#: inc/shortcode_docs.php:74
+msgid "-> File manager Language. Default: English(en)"
+msgstr "-> Jezik upravitelja datotekama. Zadano: English(en)"
+
+#: inc/shortcode_docs.php:75
+msgid "-> File Manager Theme. Default: Light"
+msgstr "-> Tema Upravitelja datoteka. Zadano: Light"
+
+#: inc/system_properties.php:5
+msgid "File Manager - System Properties"
+msgstr "Upravitelj datoteka - Svojstva sustava"
+
+#: inc/system_properties.php:10
+msgid "PHP version"
+msgstr "PHP verzija"
+
+#: inc/system_properties.php:15
+msgid "Maximum file upload size (upload_max_filesize)"
+msgstr "Maksimalna veličina za prijenos datoteke (upload_max_filesize)"
+
+#: inc/system_properties.php:20
+msgid "Post maximum file upload size (post_max_size)"
+msgstr "Objavi maksimalnu veličinu za prijenos datoteke (post_max_size)"
+
+#: inc/system_properties.php:25
+msgid "Memory Limit (memory_limit)"
+msgstr "Ograničenje memorije (memory_limit)"
+
+#: inc/system_properties.php:30
+msgid "Timeout (max_execution_time)"
+msgstr "Istek vremena (max_execution_time)"
+
+#: inc/system_properties.php:35
+msgid "Browser and OS (HTTP_USER_AGENT)"
+msgstr "Preglednik i OS (HTTP_USER_AGENT)"
+
+#: lib/jquery/jquery-ui-1.11.4.js:8
+msgid "'"
+msgstr ""
+
+#: lib/wpfilemanager.php:31
+msgid "Change Theme Here:"
+msgstr "Promijenite temu ovdje:"
+
+#: lib/wpfilemanager.php:35
+msgid "Default"
+msgstr "Zadano"
+
+#: lib/wpfilemanager.php:39
+msgid "Dark"
+msgstr "Mračno"
+
+#: lib/wpfilemanager.php:43
+msgid "Light"
+msgstr "Svjetlo"
+
+#: lib/wpfilemanager.php:47
+msgid "Gray"
+msgstr "Siva"
+
+#: lib/wpfilemanager.php:52
+msgid "Windows - 10"
+msgstr ""
+
+#: lib/wpfilemanager.php:85
+msgid "Welcome to File Manager"
+msgstr "Dobrodošli u File Manager"
+
+#: lib/wpfilemanager.php:88
+msgid ""
+"We love making new friends! Subscribe below and we promise to\n"
+"    keep you up-to-date with our latest new plugins, updates,\n"
+"    awesome deals and a few special offers."
+msgstr ""
+"Volimo sklapati nova prijateljstva! Pretplatite se u nastavku i obećavamo\n"
+"    biti u toku s našim najnovijim novim dodacima, ažuriranjima,\n"
+"    sjajne ponude i nekoliko posebnih ponuda."
+
+#: lib/wpfilemanager.php:99
+msgid "Please Enter First Name."
+msgstr "Unesite ime."
+
+#: lib/wpfilemanager.php:107
+msgid "Please Enter Last Name."
+msgstr "Unesite prezime."
+
+#: lib/wpfilemanager.php:116
+msgid "Please Enter Email Address."
+msgstr "Unesite adresu e-pošte."
+
+#: lib/wpfilemanager.php:120
+msgid "Verify"
+msgstr "Potvrdite"
+
+#: lib/wpfilemanager.php:126
+msgid "No Thanks"
+msgstr "Ne hvala"
+
+#: lib/wpfilemanager.php:132
+msgid "Terms of Service"
+msgstr "Uvjeti pružanja usluge"
+
+#: lib/wpfilemanager.php:134
+msgid "Privacy Policy"
+msgstr "Pravila o privatnosti"
+
+#: lib/wpfilemanager.php:153
+msgid "Saving..."
+msgstr "Spremanje ..."
+
+#: lib/wpfilemanager.php:155
+msgid "OK"
+msgstr "u redu"
+
+#~ msgid "Backup not found!"
+#~ msgstr "Sigurnosna kopija nije pronađena!"
+
+#~ msgid "Backup removed successfully!"
+#~ msgstr "Sigurnosna kopija uspješno je uklonjena!"
+
+#~ msgid "<span class=\"fm_console_error\">Nothing selected for backup</span>"
+#~ msgstr ""
+#~ "<span class=\"fm_console_error\">Ništa nije odabrano za sigurnosnu "
+#~ "kopiju</span>"
+
+#~ msgid "<span class=\"fm_console_error\">Security Issue.</span>"
+#~ msgstr "<span class=\"fm_console_error\">Pitanje sigurnosti.</span>"
+
+#~ msgid "<span class=\"fm_console_success\">Database backup done.</span>"
+#~ msgstr ""
+#~ "<span class=\"fm_console_success\">Izrađena sigurnosna kopija baze "
+#~ "podataka.</span>"
+
+#~ msgid ""
+#~ "<span class=\"fm_console_error\">Unable to create database backup.</span>"
+#~ msgstr ""
+#~ "<span class=\"fm_console_error\">Nije moguće stvoriti sigurnosnu kopiju "
+#~ "baze podataka.</span>"
+
+#~ msgid "<span class=\"fm_console_success\">Plugins backup done.</span>"
+#~ msgstr ""
+#~ "<span class=\"fm_console_success\">Izrađena sigurnosna kopija dodataka.</"
+#~ "span>"
+
+#~ msgid "<span class=\"fm_console_error\">Plugins backup failed.</span>"
+#~ msgstr ""
+#~ "<span class=\"fm_console_error\">Izrada sigurnosne kopije dodataka nije "
+#~ "uspjela.</span>"
+
+#~ msgid "<span class=\"fm_console_success\">Themes backup done.</span>"
+#~ msgstr ""
+#~ "<span class=\"fm_console_success\">Izrađeno sigurnosno kopiranje tema.</"
+#~ "span>"
+
+#~ msgid "<span class=\"fm_console_error\">Themes backup failed.</span>"
+#~ msgstr ""
+#~ "<span class=\"fm_console_error\">Izrada sigurnosne kopije tema nije "
+#~ "uspjela.</span>"
+
+#~ msgid "<span class=\"fm_console_success\">Uploads backup done.</span>"
+#~ msgstr ""
+#~ "<span class=\"fm_console_success\">Prijenosi sigurnosne kopije izvršeni.</"
+#~ "span>"
+
+#~ msgid "<span class=\"fm_console_error\">Uploads backup failed.</span>"
+#~ msgstr ""
+#~ "<span class=\"fm_console_error\">Sigurnosna kopija prijenosa nije uspjela."
+#~ "</span>"
+
+#~ msgid "<span class=\"fm_console_success\">Others backup done.</span>"
+#~ msgstr ""
+#~ "<span class=\"fm_console_success\">Ostali sigurnosna kopija gotova.</span>"
+
+#~ msgid "<span class=\"fm_console_error\">Others backup failed.</span>"
+#~ msgstr ""
+#~ "<span class=\"fm_console_error\">Sigurnosna kopija drugih nije uspjela.</"
+#~ "span>"
+
+#~ msgid "<span class=\"fm_console_success\">All Done</span>"
+#~ msgstr "<span class=\"fm_console_success\">Sve gotovo</span>"
+
+#~ msgid ""
+#~ "<code>[wp_file_manager view=\"list\" lang=\"en\" theme=\"light\" "
+#~ "dateformat=\"d M, Y h:i A\" allowed_roles=\"editor,author\" access_folder="
+#~ "\"wp-content/plugins\" write = \"true\" read = \"false\" hide_files = "
+#~ "\"kumar,abc.php\" lock_extensions=\".php,.css\" allowed_operations="
+#~ "\"upload,download\" ban_user_ids=\"2,3\"]"
+#~ msgstr ""
+#~ "<code>[wp_file_manager view=\"list\" lang=\"en\" theme=\"light\" "
+#~ "dateformat=\"d M, Y h:i A\" allowed_roles=\"editor,author\" access_folder="
+#~ "\"wp-content/plugins\" write = \"true\" read = \"false\" hide_files = "
+#~ "\"kumar,abc.php\" lock_extensions=\".php,.css\" allowed_operations="
+#~ "\"upload,download\" ban_user_ids=\"2,3\"]"
+
+#~ msgid "Manage your WP files."
+#~ msgstr "Upravljanje WP datotekama."
+
+#~ msgid "Extensions"
+#~ msgstr "Proširenja"
+
+#~ msgid ""
+#~ "Please contribute some donation, to make plugin more stable. You can pay "
+#~ "amount of your choice."
+#~ msgstr ""
+#~ "Priložite neku donaciju kako biste dodatak stabilniji. Možete platiti "
+#~ "iznos po vašem izboru."

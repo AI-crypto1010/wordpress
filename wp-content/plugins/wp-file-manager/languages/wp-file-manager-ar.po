@@ -1,0 +1,993 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WP File Manager\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-02-25 15:15+0530\n"
+"PO-Revision-Date: 2022-02-25 15:19+0530\n"
+"Last-Translator: admin <munishthedeveloper48@gmail.com>\n"
+"Language-Team: \n"
+"Language: ar\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=6; plural=n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n%100 >= 3 "
+"&& n%100<=10 ? 3 : n%100 >= 11 && n%100<=99 ? 4 : 5;\n"
+"X-Generator: Poedit 3.0.1\n"
+"X-Poedit-KeywordsList: __;_e;esc_attr__\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: file_folder_manager.php:174
+msgid "Themes backup restored successfully."
+msgstr "تمت استعادة النسخ الاحتياطي للسمات بنجاح."
+
+#: file_folder_manager.php:177
+msgid "Unable to restore themes."
+msgstr "غير قادر على استعادة السمات."
+
+#: file_folder_manager.php:207
+msgid "Uploads backup restored successfully."
+msgstr "تمت استعادة النسخ الاحتياطي للتحميلات بنجاح."
+
+#: file_folder_manager.php:211
+msgid "Unable to restore uploads."
+msgstr "غير قادر على استعادة التحميلات."
+
+#: file_folder_manager.php:237
+msgid "Others backup restored successfully."
+msgstr "تمت استعادة النسخ الاحتياطية الأخرى بنجاح."
+
+#: file_folder_manager.php:241
+msgid "Unable to restore others."
+msgstr "غير قادر على استعادة الآخرين."
+
+#: file_folder_manager.php:267
+msgid "Plugins backup restored successfully."
+msgstr "تمت استعادة النسخ الاحتياطي للمكونات الإضافية بنجاح."
+
+#: file_folder_manager.php:271 file_folder_manager.php:301
+msgid "Unable to restore plugins."
+msgstr "غير قادر على استعادة المكونات الإضافية."
+
+#: file_folder_manager.php:286
+msgid "Database backup restored successfully."
+msgstr "تمت استعادة النسخ الاحتياطي لقاعدة البيانات بنجاح."
+
+#: file_folder_manager.php:286 file_folder_manager.php:297
+#: file_folder_manager.php:588 file_folder_manager.php:592
+msgid "All Done"
+msgstr "كله تمام"
+
+#: file_folder_manager.php:289
+msgid "Unable to restore DB backup."
+msgstr "غير قادر على استعادة نسخة قاعدة البيانات الاحتياطية."
+
+#: file_folder_manager.php:347
+msgid "Backups removed successfully!"
+msgstr "تمت إزالة النسخ الاحتياطية بنجاح!"
+
+#: file_folder_manager.php:349
+msgid "Unable to removed backup!"
+msgstr "غير قادر على إزالة النسخة الاحتياطية!"
+
+#: file_folder_manager.php:373
+msgid "Database backup done on date "
+msgstr "تم إجراء نسخ احتياطي لقاعدة البيانات في التاريخ "
+
+#: file_folder_manager.php:377
+msgid "Plugins backup done on date "
+msgstr "تم إجراء نسخ احتياطي للإضافات في التاريخ "
+
+#: file_folder_manager.php:381
+msgid "Themes backup done on date "
+msgstr "تم إجراء نسخ احتياطي للسمات في التاريخ "
+
+#: file_folder_manager.php:385
+msgid "Uploads backup done on date "
+msgstr "تم تحميل النسخ الاحتياطي في التاريخ "
+
+#: file_folder_manager.php:389
+msgid "Others backup done on date "
+msgstr "النسخ الاحتياطي للآخرين في التاريخ "
+
+#: file_folder_manager.php:393 file_folder_manager.php:776
+msgid "Logs"
+msgstr "السجلات"
+
+#: file_folder_manager.php:399
+msgid "No logs found!"
+msgstr "لم يتم العثور على سجلات!"
+
+#: file_folder_manager.php:496
+msgid "Nothing selected for backup"
+msgstr "لم يتم تحديد أي شيء للنسخ الاحتياطي"
+
+#: file_folder_manager.php:516
+msgid "Security Issue."
+msgstr "مشكلة أمنية."
+
+#: file_folder_manager.php:527
+msgid "Database backup done."
+msgstr "تم إجراء نسخ احتياطي لقاعدة البيانات."
+
+#: file_folder_manager.php:530
+msgid "Unable to create database backup."
+msgstr "تعذر إنشاء نسخة احتياطية لقاعدة البيانات."
+
+#: file_folder_manager.php:544
+msgid "Plugins backup done."
+msgstr "تم إجراء نسخ احتياطي للإضافات."
+
+#: file_folder_manager.php:547
+msgid "Plugins backup failed."
+msgstr "فشل النسخ الاحتياطي للمكونات الإضافية."
+
+#: file_folder_manager.php:556
+msgid "Themes backup done."
+msgstr "تم إجراء نسخ احتياطي للسمات."
+
+#: file_folder_manager.php:559
+msgid "Themes backup failed."
+msgstr "فشل النسخ الاحتياطي للسمات."
+
+#: file_folder_manager.php:569
+msgid "Uploads backup done."
+msgstr "تم تحميل النسخ الاحتياطي."
+
+#: file_folder_manager.php:572
+msgid "Uploads backup failed."
+msgstr "فشل النسخ الاحتياطي لعمليات التحميل."
+
+#: file_folder_manager.php:581
+msgid "Others backup done."
+msgstr "تم إجراء نسخ احتياطي للآخرين."
+
+#: file_folder_manager.php:584
+msgid "Others backup failed."
+msgstr "فشل النسخ الاحتياطي للآخرين."
+
+#: file_folder_manager.php:761 file_folder_manager.php:762
+#: lib/wpfilemanager.php:23
+msgid "WP File Manager"
+msgstr "ملف إدارة WP"
+
+#: file_folder_manager.php:769
+msgid "Settings"
+msgstr "إعدادات"
+
+#: file_folder_manager.php:771 inc/root.php:48
+msgid "Preferences"
+msgstr "التفضيلات"
+
+#: file_folder_manager.php:773
+msgid "System Properties"
+msgstr "خصائص النظام"
+
+#: file_folder_manager.php:775
+msgid "Shortcode - PRO"
+msgstr "شورتكود - برو"
+
+#: file_folder_manager.php:777
+msgid "Backup/Restore"
+msgstr "اسنرجاع البيانات"
+
+#: file_folder_manager.php:1033
+msgid "Buy Pro"
+msgstr "شراء Pro"
+
+#: file_folder_manager.php:1034
+msgid "Donate"
+msgstr "تبرع"
+
+#: file_folder_manager.php:1249
+msgid ""
+"<div class=\"updated settings-error notice is-dismissible\" id=\"setting-"
+"error-settings_updated\"> \n"
+"<p><strong>"
+msgstr ""
+
+#: file_folder_manager.php:1256
+msgid ""
+"<div class=\"error settings-error notice is-dismissible\" id=\"setting-error-"
+"settings_updated\"> \n"
+"<p><strong>"
+msgstr ""
+
+#: file_folder_manager.php:1395 file_folder_manager.php:1483
+msgid "File doesn't exist to download."
+msgstr "الملف غير موجود للتنزيل."
+
+#: file_folder_manager.php:1400 file_folder_manager.php:1488
+msgid "Invalid Security Code."
+msgstr "كود الحمايه خاطئ."
+
+#: file_folder_manager.php:1405 file_folder_manager.php:1493
+msgid "Missing backup id."
+msgstr "معرف النسخ الاحتياطي مفقود."
+
+#: file_folder_manager.php:1408 file_folder_manager.php:1496
+msgid "Missing parameter type."
+msgstr "نوع المعلمة مفقود."
+
+#: file_folder_manager.php:1411 file_folder_manager.php:1499
+msgid "Missing required parameters."
+msgstr "المعلمات المطلوبة مفقودة."
+
+#: inc/backup.php:24
+msgid ""
+"Error: Unable to restore backup because database backup is heavy in size. "
+"Please try to increase Maximum allowed size  from Preferences settings."
+msgstr ""
+"خطأ: غير قادر على استعادة النسخة الاحتياطية لأن النسخ الاحتياطي لقاعدة "
+"البيانات كبير الحجم. يرجى محاولة زيادة الحد الأقصى للحجم المسموح به من "
+"إعدادات التفضيلات."
+
+#: inc/backup.php:25
+msgid "Select backup(s) to delete!"
+msgstr "حدد النسخ الاحتياطية لحذفها!"
+
+#: inc/backup.php:26
+msgid "Are you sure want to remove selected backup(s)?"
+msgstr "هل تريد بالتأكيد إزالة النسخ الاحتياطية المحددة؟"
+
+#: inc/backup.php:31
+msgid "Backup is running, please wait"
+msgstr "النسخ الاحتياطي قيد التشغيل ، يرجى الانتظار"
+
+#: inc/backup.php:32
+msgid "Restore is running, please wait"
+msgstr "الاستعادة قيد التشغيل ، يرجى الانتظار"
+
+#: inc/backup.php:33
+msgid "Nothing selected for backup."
+msgstr "لم يتم تحديد أي شيء للنسخ الاحتياطي."
+
+#: inc/backup.php:45
+msgid "WP File Manager - Backup/Restore"
+msgstr "WP File Manager - النسخ الاحتياطي / الاستعادة"
+
+#: inc/backup.php:51
+msgid "Backup Options:"
+msgstr "خيارات النسخ الاحتياطي:"
+
+#: inc/backup.php:58
+msgid "Database Backup"
+msgstr "نسخه الاحتياطيه لقاعدة البيانات"
+
+#: inc/backup.php:64
+msgid "Files Backup"
+msgstr "ملفات النسخ الاحتياطي"
+
+#: inc/backup.php:68
+msgid "Plugins"
+msgstr "الإضافات"
+
+#: inc/backup.php:71
+msgid "Themes"
+msgstr "ثيمات"
+
+#: inc/backup.php:74
+msgid "Uploads"
+msgstr "تحميلات"
+
+#: inc/backup.php:77
+msgid "Others (Any other directories found inside wp-content)"
+msgstr "أخرى (أي أدلة أخرى موجودة داخل محتوى wp)"
+
+#: inc/backup.php:81
+msgid "Backup Now"
+msgstr "اعمل نسخة احتياطية الان"
+
+#: inc/backup.php:89
+msgid "Time now"
+msgstr "الوقت الآن"
+
+#: inc/backup.php:99
+msgid "SUCCESS"
+msgstr "نجاح"
+
+#: inc/backup.php:101
+msgid "Backup successfully deleted."
+msgstr "تم حذف النسخة الاحتياطية بنجاح."
+
+#: inc/backup.php:102
+msgid "Ok"
+msgstr "نعم"
+
+#: inc/backup.php:117
+msgid "DELETE FILES"
+msgstr "حذف الملفات"
+
+#: inc/backup.php:119
+msgid "Are you sure you want to delete this backup?"
+msgstr "هل أنت متأكد أنك تريد حذف هذه النسخة الاحتياطية؟"
+
+#: inc/backup.php:120 inc/backup.php:139
+msgid "Cancel"
+msgstr "يلغي"
+
+#: inc/backup.php:121 inc/backup.php:140
+msgid "Confirm"
+msgstr "يتأكد"
+
+#: inc/backup.php:136
+msgid "RESTORE FILES"
+msgstr "استعادة الملفات"
+
+#: inc/backup.php:138
+msgid "Are you sure you want to restore this backup?"
+msgstr "هل أنت متأكد أنك تريد استعادة هذه النسخة الاحتياطية؟"
+
+#: inc/backup.php:166
+msgid "Last Log Message"
+msgstr "آخر رسالة تسجيل"
+
+#: inc/backup.php:169
+msgid "The backup apparently succeeded and is now complete."
+msgstr "يبدو أن النسخ الاحتياطي نجح واكتمل الآن."
+
+#: inc/backup.php:171
+msgid "No log message"
+msgstr "لا توجد رسالة سجل"
+
+#: inc/backup.php:177
+msgid "Existing Backup(s)"
+msgstr "النسخ الاحتياطية الموجودة"
+
+#: inc/backup.php:184
+msgid "Backup Date"
+msgstr "تاريخ النسخ الاحتياطي"
+
+#: inc/backup.php:187
+msgid "Backup data (click to download)"
+msgstr "بيانات النسخ الاحتياطي (انقر للتنزيل)"
+
+#: inc/backup.php:190
+msgid "Action"
+msgstr "عمل"
+
+#: inc/backup.php:210
+msgid "Today"
+msgstr "اليوم"
+
+#: inc/backup.php:239
+msgid "Restore"
+msgstr "يعيد"
+
+#: inc/backup.php:240 inc/backup.php:250
+msgid "Delete"
+msgstr "حذف"
+
+#: inc/backup.php:241
+msgid "View Log"
+msgstr "سجل عرض"
+
+#: inc/backup.php:246
+msgid "Currently no backup(s) found."
+msgstr "حاليا لا توجد نسخ احتياطية."
+
+#: inc/backup.php:249
+msgid "Actions upon selected backup(s)"
+msgstr "إجراءات بناءً على النسخ الاحتياطية المحددة"
+
+#: inc/backup.php:251
+msgid "Select All"
+msgstr "اختر الكل"
+
+#: inc/backup.php:252
+msgid "Deselect"
+msgstr "إلغاء"
+
+#: inc/backup.php:254
+msgid "Note:"
+msgstr "ملحوظة:"
+
+#: inc/backup.php:254
+msgid "Backup files will be under"
+msgstr "ستكون ملفات النسخ الاحتياطي أقل من"
+
+#: inc/contribute.php:3
+msgid "WP File Manager Contribution"
+msgstr "مساهمة WP File Manager"
+
+#: inc/logs.php:7
+msgid ""
+"Note: These are demo screenshots. Please buy File Manager pro to Logs "
+"functions."
+msgstr ""
+"ملاحظة: هذه لقطات شاشة تجريبية. يرجى شراء File Manager pro إلى وظائف السجلات."
+
+#: inc/logs.php:8 lib/wpfilemanager.php:24
+msgid "Click to Buy PRO"
+msgstr "انقر لشراء PRO"
+
+#: inc/logs.php:8 inc/settings.php:12 inc/settings.php:27
+#: inc/system_properties.php:5 lib/wpfilemanager.php:25
+msgid "Buy PRO"
+msgstr "شراء برو"
+
+#: inc/logs.php:9
+msgid "Edit Files Logs"
+msgstr "تحرير سجلات الملفات"
+
+#: inc/logs.php:11
+msgid "Download Files Logs"
+msgstr "تنزيل ملفات السجلات"
+
+#: inc/logs.php:13
+msgid "Upload Files Logs"
+msgstr "تحميل ملفات السجلات"
+
+#: inc/root.php:43
+msgid "Settings saved."
+msgstr "تم حفظ الإعدادات."
+
+#: inc/root.php:43 inc/root.php:46
+msgid "Dismiss this notice."
+msgstr "تجاهل هذا الإشعار."
+
+#: inc/root.php:46
+msgid "You have not made any changes to be saved."
+msgstr "لم تقم بإجراء أي تغييرات ليتم حفظها."
+
+#: inc/root.php:55
+msgid "Public Root Path"
+msgstr "مسار الجذر العام"
+
+#: inc/root.php:58
+msgid "File Manager Root Path, you can change according to your choice."
+msgstr "مسار الجذر لمدير الملفات ، يمكنك التغيير وفقًا لاختيارك."
+
+#: inc/root.php:59
+msgid "Default:"
+msgstr "تقصير:"
+
+#: inc/root.php:60
+msgid ""
+"Please change this carefully, wrong path can lead file manager plugin to go "
+"down."
+msgstr ""
+"يرجى تغيير هذا بعناية ، حيث يمكن أن يؤدي المسار الخاطئ إلى نزول البرنامج "
+"المساعد لمدير الملفات."
+
+#: inc/root.php:64
+msgid "Enable Trash?"
+msgstr "تمكين المهملات؟"
+
+#: inc/root.php:67
+msgid "After enable trash, your files will go to trash folder."
+msgstr "بعد تمكين سلة المهملات ، ستنتقل ملفاتك إلى مجلد سلة المهملات."
+
+#: inc/root.php:72
+msgid "Enable Files Upload to Media Library?"
+msgstr "تمكين تحميل الملفات إلى مكتبة الوسائط؟"
+
+#: inc/root.php:75
+msgid "After enabling this all files will go to media library."
+msgstr "بعد تمكين هذا ، ستنتقل جميع الملفات إلى مكتبة الوسائط."
+
+#: inc/root.php:80
+msgid "Maximum allowed size at the time of database backup restore."
+msgstr ""
+"الحجم الأقصى المسموح به في وقت استعادة النسخة الاحتياطية لقاعدة البيانات."
+
+#: inc/root.php:83
+msgid "MB"
+msgstr ""
+
+#: inc/root.php:85
+msgid ""
+"Please increase field value if you are getting error message at the time of "
+"backup restore."
+msgstr ""
+"يرجى زيادة قيمة الحقل إذا كنت تتلقى رسالة خطأ في وقت استعادة النسخة "
+"الاحتياطية."
+
+#: inc/root.php:90
+msgid "Save Changes"
+msgstr "حفظ التغييرات"
+
+#: inc/settings.php:10
+msgid "Settings - General"
+msgstr "إعدادات - عام"
+
+#: inc/settings.php:11 inc/settings.php:26
+msgid ""
+"Note: This is just a demo screenshot. To get settings please buy our pro "
+"version."
+msgstr ""
+"ملاحظة: هذا هو مجرد لقطة تجريبي. للحصول على إعدادات يرجى شراء لدينا نسخة "
+"للمحترفين."
+
+#: inc/settings.php:13
+msgid ""
+"Here admin can give access to user roles to use filemanager. Admin can set "
+"Default Access Folder and also control upload size of filemanager."
+msgstr ""
+"هنا المشرف يمكن أن تعطي الوصول إلى أدوار المستخدم لاستخدام فيليماناجر. يمكن "
+"للمشرف تعيين المجلد الوصول الافتراضي وأيضا التحكم في تحميل حجم فيلماناجر."
+
+#: inc/settings.php:15
+msgid "Settings - Code-editor"
+msgstr "إعدادات - كود محرر"
+
+#: inc/settings.php:16
+msgid ""
+"File Manager has a code editor with multiple themes. You can select any theme "
+"for code editor. It will display when you edit any file. Also you can allow "
+"fullscreen mode of code editor."
+msgstr ""
+"مدير الملفات يحتوي على محرر التعليمات البرمجية مع مواضيع متعددة. يمكنك اختيار "
+"أي موضوع لمحرر التعليمات البرمجية. سيتم عرضه عند تعديل أي ملف. كما يمكنك "
+"السماح وضع ملء الشاشة من محرر التعليمات البرمجية."
+
+#: inc/settings.php:18
+msgid "Code-editor View"
+msgstr "كود-إديتور فيو"
+
+#: inc/settings.php:20
+msgid "Settings - User Restrictions"
+msgstr "إعدادات - قيود المستخدم"
+
+#: inc/settings.php:21
+msgid ""
+"Admin can restrict actions of any user. Also hide files and folders and can "
+"set different - different folders paths for different users."
+msgstr ""
+"يمكن للمشرف تقييد إجراءات أي مستخدم. أيضا إخفاء الملفات والمجلدات ويمكن تعيين "
+"مختلف - مسارات المجلدات المختلفة لمختلف المستخدمين."
+
+#: inc/settings.php:23
+msgid "Settings - User Role Restrictions"
+msgstr "الإعدادات - قيود دور المستخدم"
+
+#: inc/settings.php:24
+msgid ""
+"Admin can restrict actions of any userrole. Also hide files and folders and "
+"can set different - different folders paths for different users roles."
+msgstr ""
+"يمكن للمشرف تقييد الإجراءات من أي وسيرول. أيضا إخفاء الملفات والمجلدات ويمكن "
+"تعيين مختلف - مسارات المجلدات المختلفة لمختلف أدوار المستخدمين."
+
+#: inc/shortcode_docs.php:11
+msgid "File Manager - Shortcode"
+msgstr "مدير الملفات - الرمز القصير"
+
+#: inc/shortcode_docs.php:15 inc/shortcode_docs.php:17 inc/shortcode_docs.php:19
+msgid "USE:"
+msgstr "استعمال:"
+
+#: inc/shortcode_docs.php:15
+msgid ""
+"It will show file manager on front end. You can control all settings from "
+"file manager settings. It will work same as backend WP File Manager."
+msgstr ""
+"سيظهر مدير الملفات في الواجهة الأمامية. يمكنك التحكم في جميع الإعدادات من "
+"إعدادات مدير الملفات. سيعمل نفس مدير ملفات WP الخلفي."
+
+#: inc/shortcode_docs.php:17
+msgid ""
+"It will show file manager on front end. But only Administrator can access it "
+"and will control from file manager settings."
+msgstr ""
+"سيظهر مدير الملفات في الواجهة الأمامية. لكن المسؤول فقط هو من يمكنه الوصول "
+"إليه وسيتحكم في إعدادات مدير الملفات."
+
+#: inc/shortcode_docs.php:23
+msgid "Parameters:"
+msgstr "المعلمات:"
+
+#: inc/shortcode_docs.php:26
+msgid ""
+"It will allow all roles to access file manager on front end or You can simple "
+"use for particular user roles as like allowed_roles=\"editor,author"
+"\" (seprated by comma(,))"
+msgstr ""
+"سيسمح لجميع الأدوار بالوصول إلى مدير الملفات على الواجهة الأمامية أو يمكنك "
+"الاستخدام البسيط لأدوار مستخدم معينة مثل allow_roles = \"editor، author"
+"\" (مفصول بفاصلة (،))"
+
+#: inc/shortcode_docs.php:28
+msgid ""
+"Here \"test\" is the name of folder which is located on root directory, or "
+"you can give path for sub folders as like \"wp-content/plugins\". If leave "
+"blank or empty it will access all folders on root directory. Default: Root "
+"directory"
+msgstr ""
+"هنا \"test\" هو اسم المجلد الموجود في الدليل الجذر ، أو يمكنك إعطاء مسار "
+"للمجلدات الفرعية مثل \"wp-content / plugins\". إذا تم تركه فارغًا أو فارغًا ، "
+"فسيتم الوصول إلى جميع المجلدات الموجودة في الدليل الجذر. الافتراضي: الدليل "
+"الجذر"
+
+#: inc/shortcode_docs.php:30
+msgid "for access to write files permissions, note: true/false, default: false"
+msgstr "للوصول إلى أذونات كتابة الملفات ، لاحظ: صح / خطأ ، افتراضي: خطأ"
+
+#: inc/shortcode_docs.php:32
+msgid "for access to read files permission, note: true/false, default: true"
+msgstr "للوصول إلى إذن قراءة الملفات ، لاحظ: صحيح / خطأ ، افتراضي: صحيح"
+
+#: inc/shortcode_docs.php:34
+msgid "it will hide mentioned here. Note: seprated by comma(,). Default: Null"
+msgstr "سوف يخفي المذكورة هنا. ملاحظة: مفصولة بفاصلة (،). الافتراضي: لاغية"
+
+#: inc/shortcode_docs.php:36
+msgid ""
+"It will lock mentioned in commas. you can lock more as like \".php,.css,.js\" "
+"etc. Default: Null"
+msgstr ""
+"سيتم قفل المذكورة بالفواصل. يمكنك قفل المزيد مثل \".php ، .css ، .js\" إلخ. "
+"الافتراضي: Null"
+
+#: inc/shortcode_docs.php:38
+msgid ""
+"* for all operations and to allow some operation you can mention operation "
+"name as like, allowed_operations=\"upload,download\". Note: seprated by "
+"comma(,). Default: *"
+msgstr ""
+"* لجميع العمليات وللسماح ببعض العمليات ، يمكنك ذكر اسم العملية مثل ، "
+"allowed_operations = \"upload ، download\". ملاحظة: مفصولة بفاصلة (،). تقصير: "
+"*"
+
+#: inc/shortcode_docs.php:42
+msgid "File Operations List:"
+msgstr "قائمة عمليات الملف:"
+
+#: inc/shortcode_docs.php:46
+msgid "mkdir ->"
+msgstr ""
+
+#: inc/shortcode_docs.php:46
+msgid "Make directory or folder"
+msgstr "اصنع دليلًا أو مجلدًا"
+
+#: inc/shortcode_docs.php:47
+msgid "mkfile ->"
+msgstr ""
+
+#: inc/shortcode_docs.php:47
+msgid "Make file"
+msgstr "قم بعمل ملف"
+
+#: inc/shortcode_docs.php:48
+msgid "rename ->"
+msgstr ""
+
+#: inc/shortcode_docs.php:48
+msgid "Rename a file or folder"
+msgstr "أعد تسمية ملف أو مجلد"
+
+#: inc/shortcode_docs.php:49
+msgid "duplicate ->"
+msgstr ""
+
+#: inc/shortcode_docs.php:49
+msgid "Duplicate or clone a folder or file"
+msgstr "قم بتكرار أو استنساخ مجلد أو ملف"
+
+#: inc/shortcode_docs.php:50
+msgid "paste ->"
+msgstr ""
+
+#: inc/shortcode_docs.php:50
+msgid "Paste a file or folder"
+msgstr "الصق ملفًا أو مجلدًا"
+
+#: inc/shortcode_docs.php:51
+msgid "ban ->"
+msgstr ""
+
+#: inc/shortcode_docs.php:51
+msgid "Ban"
+msgstr "المنع"
+
+#: inc/shortcode_docs.php:52
+msgid "archive ->"
+msgstr ""
+
+#: inc/shortcode_docs.php:52
+msgid "To make a archive or zip"
+msgstr "لعمل أرشيف أو ملف مضغوط"
+
+#: inc/shortcode_docs.php:53
+msgid "extract ->"
+msgstr ""
+
+#: inc/shortcode_docs.php:53
+msgid "Extract archive or zipped file"
+msgstr "استخراج أرشيف أو ملف مضغوط"
+
+#: inc/shortcode_docs.php:54
+msgid "copy ->"
+msgstr ""
+
+#: inc/shortcode_docs.php:54
+msgid "Copy files or folders"
+msgstr "انسخ الملفات أو المجلدات"
+
+#: inc/shortcode_docs.php:58
+msgid "cut ->"
+msgstr ""
+
+#: inc/shortcode_docs.php:58
+msgid "Simple cut a file or folder"
+msgstr "قص ملف أو مجلد ببساطة"
+
+#: inc/shortcode_docs.php:59
+msgid "edit ->"
+msgstr ""
+
+#: inc/shortcode_docs.php:59
+msgid "Edit a file"
+msgstr "تحرير ملف"
+
+#: inc/shortcode_docs.php:60
+msgid "rm ->"
+msgstr ""
+
+#: inc/shortcode_docs.php:60
+msgid "Remove or delete files and folders"
+msgstr "إزالة أو حذف الملفات والمجلدات"
+
+#: inc/shortcode_docs.php:61
+msgid "download ->"
+msgstr ""
+
+#: inc/shortcode_docs.php:61
+msgid "Download files"
+msgstr "تحميل ملفات"
+
+#: inc/shortcode_docs.php:62
+msgid "upload ->"
+msgstr ""
+
+#: inc/shortcode_docs.php:62
+msgid "Upload files"
+msgstr "تحميل الملفات"
+
+#: inc/shortcode_docs.php:63
+msgid "search -> "
+msgstr ""
+
+#: inc/shortcode_docs.php:63
+msgid "Search things"
+msgstr "ابحث عن الأشياء"
+
+#: inc/shortcode_docs.php:64
+msgid "info ->"
+msgstr ""
+
+#: inc/shortcode_docs.php:64
+msgid "Info of file"
+msgstr "معلومات الملف"
+
+#: inc/shortcode_docs.php:65
+msgid "help ->"
+msgstr ""
+
+#: inc/shortcode_docs.php:65
+msgid "Help"
+msgstr "مساعدة"
+
+#: inc/shortcode_docs.php:71
+msgid ""
+"->  It will ban particular users by just putting their ids seprated by "
+"commas(,). If user is Ban then they will not able to access wp file manager "
+"on front end."
+msgstr ""
+"-> سيحظر مستخدمين معينين بمجرد وضع معرفاتهم مفصولة بفواصل (،). إذا كان "
+"المستخدم هو الحظر ، فلن يتمكن من الوصول إلى مدير ملفات wp على الواجهة "
+"الأمامية."
+
+#: inc/shortcode_docs.php:72
+msgid "-> Filemanager UI View. Default: grid"
+msgstr "-> عرض Filemanager UI. الافتراضي: الشبكة"
+
+#: inc/shortcode_docs.php:73
+msgid "-> File Modified or Create date format. Default: d M, Y h:i A"
+msgstr "-> تعديل الملف أو إنشاء تنسيق التاريخ. الافتراضي: د م ، ص ح: أنا أ"
+
+#: inc/shortcode_docs.php:74
+msgid "-> File manager Language. Default: English(en)"
+msgstr "-> لغة مدير الملفات. الافتراضي: الإنجليزية (ar)"
+
+#: inc/shortcode_docs.php:75
+msgid "-> File Manager Theme. Default: Light"
+msgstr "-> موضوع مدير الملفات. الافتراضي: ضوء"
+
+#: inc/system_properties.php:5
+msgid "File Manager - System Properties"
+msgstr "إدارة الملفات - خصائص النظام"
+
+#: inc/system_properties.php:10
+msgid "PHP version"
+msgstr "نسخة فب"
+
+#: inc/system_properties.php:15
+msgid "Maximum file upload size (upload_max_filesize)"
+msgstr "الحد الأقصى لحجم ملف التحميل (upload_max_filesize)"
+
+#: inc/system_properties.php:20
+msgid "Post maximum file upload size (post_max_size)"
+msgstr "نشر الحد الأقصى لحجم ملف التحميل (post_max_size)"
+
+#: inc/system_properties.php:25
+msgid "Memory Limit (memory_limit)"
+msgstr "حد الذاكرة (memory_limit)"
+
+#: inc/system_properties.php:30
+msgid "Timeout (max_execution_time)"
+msgstr "مهلة (max_execution_time)"
+
+#: inc/system_properties.php:35
+msgid "Browser and OS (HTTP_USER_AGENT)"
+msgstr "المتصفح ونظام التشغيل (HTTP_USER_AGENT)"
+
+#: lib/jquery/jquery-ui-1.11.4.js:8
+msgid "'"
+msgstr ""
+
+#: lib/wpfilemanager.php:31
+msgid "Change Theme Here:"
+msgstr "تغيير المظهر هنا:"
+
+#: lib/wpfilemanager.php:35
+msgid "Default"
+msgstr "تقصير"
+
+#: lib/wpfilemanager.php:39
+msgid "Dark"
+msgstr "داكن"
+
+#: lib/wpfilemanager.php:43
+msgid "Light"
+msgstr "ضوء"
+
+#: lib/wpfilemanager.php:47
+msgid "Gray"
+msgstr "رمادي"
+
+#: lib/wpfilemanager.php:52
+msgid "Windows - 10"
+msgstr ""
+
+#: lib/wpfilemanager.php:85
+msgid "Welcome to File Manager"
+msgstr "مرحبًا بك في مدير الملفات"
+
+#: lib/wpfilemanager.php:88
+msgid ""
+"We love making new friends! Subscribe below and we promise to\n"
+"    keep you up-to-date with our latest new plugins, updates,\n"
+"    awesome deals and a few special offers."
+msgstr ""
+"نحن نحب تكوين صداقات جديدة! اشترك أدناه ونعدك بذلك\n"
+"    إبقائك على اطلاع دائم بأحدث المكونات الإضافية والتحديثات\n"
+"    صفقات رائعة وبعض العروض الخاصة."
+
+#: lib/wpfilemanager.php:99
+msgid "Please Enter First Name."
+msgstr "الرجاء إدخال الاسم الأول."
+
+#: lib/wpfilemanager.php:107
+msgid "Please Enter Last Name."
+msgstr "الرجاء إدخال الاسم الأخير."
+
+#: lib/wpfilemanager.php:116
+msgid "Please Enter Email Address."
+msgstr "الرجاء إدخال عنوان البريد الإلكتروني."
+
+#: lib/wpfilemanager.php:120
+msgid "Verify"
+msgstr "تحقق"
+
+#: lib/wpfilemanager.php:126
+msgid "No Thanks"
+msgstr "لا شكرا"
+
+#: lib/wpfilemanager.php:132
+msgid "Terms of Service"
+msgstr "شروط الخدمة"
+
+#: lib/wpfilemanager.php:134
+msgid "Privacy Policy"
+msgstr "سياسة الخصوصية"
+
+#: lib/wpfilemanager.php:153
+msgid "Saving..."
+msgstr "إنقاذ..."
+
+#: lib/wpfilemanager.php:155
+msgid "OK"
+msgstr "نعم"
+
+#~ msgid "Backup not found!"
+#~ msgstr "لم يتم العثور على النسخ الاحتياطي!"
+
+#~ msgid "Backup removed successfully!"
+#~ msgstr "تمت إزالة النسخة الاحتياطية بنجاح!"
+
+#~ msgid "<span class=\"fm_console_error\">Nothing selected for backup</span>"
+#~ msgstr ""
+#~ "<span class=\"fm_console_error\">لم يتم تحديد أي شيء للنسخ الاحتياطي</span>"
+
+#~ msgid "<span class=\"fm_console_error\">Security Issue.</span>"
+#~ msgstr "<span class=\"fm_console_error\">مشكلة أمنية.</span>"
+
+#~ msgid "<span class=\"fm_console_success\">Database backup done.</span>"
+#~ msgstr ""
+#~ "<span class=\"fm_console_success\">تم إجراء نسخ احتياطي لقاعدة البيانات.</"
+#~ "span>"
+
+#~ msgid ""
+#~ "<span class=\"fm_console_error\">Unable to create database backup.</span>"
+#~ msgstr ""
+#~ "<span class=\"fm_console_error\">تعذر إنشاء نسخة احتياطية لقاعدة البيانات."
+#~ "</span>"
+
+#~ msgid "<span class=\"fm_console_success\">Plugins backup done.</span>"
+#~ msgstr ""
+#~ "<span class=\"fm_console_success\">تم إجراء نسخ احتياطي للإضافات.</span>"
+
+#~ msgid "<span class=\"fm_console_error\">Plugins backup failed.</span>"
+#~ msgstr ""
+#~ "<span class=\"fm_console_error\">فشل النسخ الاحتياطي للمكونات الإضافية.</"
+#~ "span>"
+
+#~ msgid "<span class=\"fm_console_success\">Themes backup done.</span>"
+#~ msgstr ""
+#~ "<span class=\"fm_console_success\">تم إجراء نسخ احتياطي للسمات. </span>"
+
+#~ msgid "<span class=\"fm_console_error\">Themes backup failed.</span>"
+#~ msgstr "<span class=\"fm_console_error\">فشل النسخ الاحتياطي للسمات.</span>"
+
+#~ msgid "<span class=\"fm_console_success\">Uploads backup done.</span>"
+#~ msgstr "<span class=\"fm_console_success\">تم تحميل النسخ الاحتياطي.</span>"
+
+#~ msgid "<span class=\"fm_console_error\">Uploads backup failed.</span>"
+#~ msgstr ""
+#~ "<span class=\"fm_console_error\">فشل النسخ الاحتياطي لعمليات التحميل.</"
+#~ "span>"
+
+#~ msgid "<span class=\"fm_console_success\">Others backup done.</span>"
+#~ msgstr ""
+#~ "<span class=\"fm_console_success\">تم إجراء نسخ احتياطي للآخرين. </span>"
+
+#~ msgid "<span class=\"fm_console_error\">Others backup failed.</span>"
+#~ msgstr ""
+#~ "<span class=\"fm_console_error\">فشل النسخ الاحتياطي للآخرين. </span>"
+
+#~ msgid "<span class=\"fm_console_success\">All Done</span>"
+#~ msgstr "<span class=\"fm_console_success\">كل ذلك</span>"
+
+#~ msgid ""
+#~ "<code>[wp_file_manager view=\"list\" lang=\"en\" theme=\"light\" "
+#~ "dateformat=\"d M, Y h:i A\" allowed_roles=\"editor,author\" access_folder="
+#~ "\"wp-content/plugins\" write = \"true\" read = \"false\" hide_files = "
+#~ "\"kumar,abc.php\" lock_extensions=\".php,.css\" allowed_operations="
+#~ "\"upload,download\" ban_user_ids=\"2,3\"]"
+#~ msgstr ""
+#~ "<code>[wp_file_manager view=\"list\" lang=\"en\" theme=\"light\" "
+#~ "dateformat=\"d M, Y h:i A\" allowed_roles=\"editor,author\" access_folder="
+#~ "\"wp-content/plugins\" write = \"true\" read = \"false\" hide_files = "
+#~ "\"kumar,abc.php\" lock_extensions=\".php,.css\" allowed_operations="
+#~ "\"upload,download\" ban_user_ids=\"2,3\"]"
+
+#~ msgid "allowed_roles = \"*\""
+#~ msgstr "allowed_roles = \"*\""
+
+#~ msgid "hide_files = \"wp-content/plugins,wp-config.php\""
+#~ msgstr "hide_files = \"wp-content/plugins,wp-config.php\""
+
+#~ msgid "Manage your WP files."
+#~ msgstr "إدارة ملفات الفسفور الابيض الخاص بك."
+
+#~ msgid "Extensions"
+#~ msgstr "ملحقات"
+
+#~ msgid ""
+#~ "Please contribute some donation, to make plugin more stable. You can pay "
+#~ "amount of your choice."
+#~ msgstr ""
+#~ "يرجى المساهمة بعض التبرع، لجعل البرنامج المساعد أكثر استقرارا. يمكنك دفع "
+#~ "مبلغ من اختيارك."

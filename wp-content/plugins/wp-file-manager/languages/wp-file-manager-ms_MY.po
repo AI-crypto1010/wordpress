@@ -1,0 +1,2711 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Theme Editor\n"
+"POT-Creation-Date: 2022-02-28 10:54+0530\n"
+"PO-Revision-Date: 2022-03-01 11:21+0530\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ms_MY\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Poedit 3.0.1\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: __;_e;esc_attr__;esc_html__\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: file_folder_manager.php:174
+msgid "Themes backup restored successfully."
+msgstr "Sandaran tema berjaya dipulihkan."
+
+#: file_folder_manager.php:177
+msgid "Unable to restore themes."
+msgstr "Tidak dapat memulihkan tema."
+
+#: file_folder_manager.php:207
+msgid "Uploads backup restored successfully."
+msgstr "Sandaran muat naik berjaya dipulihkan."
+
+#: file_folder_manager.php:211
+msgid "Unable to restore uploads."
+msgstr "Tidak dapat memulihkan muat naik."
+
+#: file_folder_manager.php:237
+msgid "Others backup restored successfully."
+msgstr "Sandaran yang lain berjaya dipulihkan."
+
+#: file_folder_manager.php:241
+msgid "Unable to restore others."
+msgstr "Tidak dapat memulihkan orang lain."
+
+#: file_folder_manager.php:267
+msgid "Plugins backup restored successfully."
+msgstr "Sandaran pemalam berjaya dipulihkan."
+
+#: file_folder_manager.php:271 file_folder_manager.php:301
+msgid "Unable to restore plugins."
+msgstr "Tidak dapat memulihkan pemalam."
+
+#: file_folder_manager.php:286
+msgid "Database backup restored successfully."
+msgstr "Sandaran pangkalan data berjaya dipulihkan."
+
+#: file_folder_manager.php:286 file_folder_manager.php:297
+#: file_folder_manager.php:588 file_folder_manager.php:592
+msgid "All Done"
+msgstr "Semua Selesai"
+
+#: file_folder_manager.php:289
+msgid "Unable to restore DB backup."
+msgstr "Tidak dapat memulihkan sandaran DB."
+
+#: file_folder_manager.php:347
+msgid "Backups removed successfully!"
+msgstr "Sandaran berjaya dikeluarkan!"
+
+#: file_folder_manager.php:349
+msgid "Unable to removed backup!"
+msgstr "Tidak dapat mengeluarkan sandaran!"
+
+#: file_folder_manager.php:373
+msgid "Database backup done on date "
+msgstr "Sandaran pangkalan data dilakukan pada tarikh "
+
+#: file_folder_manager.php:377
+msgid "Plugins backup done on date "
+msgstr "Sandaran pemalam dilakukan pada tarikh "
+
+#: file_folder_manager.php:381
+msgid "Themes backup done on date "
+msgstr "Pencadangan tema dilakukan pada tarikh "
+
+#: file_folder_manager.php:385
+msgid "Uploads backup done on date "
+msgstr "Muat naik sandaran dilakukan pada tarikh "
+
+#: file_folder_manager.php:389
+msgid "Others backup done on date "
+msgstr "Sandaran yang lain dilakukan pada tarikh "
+
+#: file_folder_manager.php:393 file_folder_manager.php:776
+msgid "Logs"
+msgstr "balak"
+
+#: file_folder_manager.php:399
+msgid "No logs found!"
+msgstr "Log tidak dijumpai!"
+
+#: file_folder_manager.php:496
+msgid "Nothing selected for backup"
+msgstr "Tiada apa-apa yang dipilih untuk sandaran"
+
+#: file_folder_manager.php:516
+msgid "Security Issue."
+msgstr "Isu Keselamatan."
+
+#: file_folder_manager.php:527
+msgid "Database backup done."
+msgstr "Sandaran pangkalan data selesai."
+
+#: file_folder_manager.php:530
+msgid "Unable to create database backup."
+msgstr "Tidak dapat membuat sandaran pangkalan data."
+
+#: file_folder_manager.php:544
+msgid "Plugins backup done."
+msgstr "Sandaran pemalam selesai."
+
+#: file_folder_manager.php:547
+msgid "Plugins backup failed."
+msgstr "Sandaran pemalam gagal."
+
+#: file_folder_manager.php:556
+msgid "Themes backup done."
+msgstr "Sandaran tema selesai."
+
+#: file_folder_manager.php:559
+msgid "Themes backup failed."
+msgstr "Sandaran tema gagal."
+
+#: file_folder_manager.php:569
+msgid "Uploads backup done."
+msgstr "Muat naik sandaran selesai."
+
+#: file_folder_manager.php:572
+msgid "Uploads backup failed."
+msgstr "Sandaran muat naik gagal."
+
+#: file_folder_manager.php:581
+msgid "Others backup done."
+msgstr "Sandaran yang lain selesai."
+
+#: file_folder_manager.php:584
+msgid "Others backup failed."
+msgstr "Sandaran yang lain gagal."
+
+#: file_folder_manager.php:761 file_folder_manager.php:762
+#: lib/wpfilemanager.php:23
+msgid "WP File Manager"
+msgstr "Pengurus Fail WP"
+
+#: file_folder_manager.php:769
+msgid "Settings"
+msgstr "Tetapan"
+
+#: file_folder_manager.php:771 inc/root.php:48
+msgid "Preferences"
+msgstr "Keutamaan"
+
+#: file_folder_manager.php:773
+msgid "System Properties"
+msgstr "Sifat Sistem"
+
+#: file_folder_manager.php:775
+msgid "Shortcode - PRO"
+msgstr "Kod pendek - PRO"
+
+#: file_folder_manager.php:777
+msgid "Backup/Restore"
+msgstr "Sandaran/Pulihkan"
+
+#: file_folder_manager.php:1033
+msgid "Buy Pro"
+msgstr "Beli Pro"
+
+#: file_folder_manager.php:1034
+msgid "Donate"
+msgstr "Sumbang"
+
+#: file_folder_manager.php:1249
+msgid ""
+"<div class=\"updated settings-error notice is-dismissible\" id=\"setting-"
+"error-settings_updated\"> \n"
+"<p><strong>"
+msgstr ""
+
+#: file_folder_manager.php:1256
+msgid ""
+"<div class=\"error settings-error notice is-dismissible\" id=\"setting-error-"
+"settings_updated\"> \n"
+"<p><strong>"
+msgstr ""
+
+#: file_folder_manager.php:1395 file_folder_manager.php:1483
+msgid "File doesn't exist to download."
+msgstr "Fail tidak wujud untuk dimuat turun."
+
+#: file_folder_manager.php:1400 file_folder_manager.php:1488
+msgid "Invalid Security Code."
+msgstr "Kod Keselamatan Tidak Sah."
+
+#: file_folder_manager.php:1405 file_folder_manager.php:1493
+msgid "Missing backup id."
+msgstr "Id sandaran tiada."
+
+#: file_folder_manager.php:1408 file_folder_manager.php:1496
+msgid "Missing parameter type."
+msgstr "Jenis parameter tiada."
+
+#: file_folder_manager.php:1411 file_folder_manager.php:1499
+msgid "Missing required parameters."
+msgstr "Parameter yang diperlukan tidak ada."
+
+#: inc/backup.php:24
+msgid ""
+"Error: Unable to restore backup because database backup is heavy in size. "
+"Please try to increase Maximum allowed size  from Preferences settings."
+msgstr ""
+"Ralat: Tidak dapat memulihkan sandaran kerana sandaran pangkalan data "
+"bersaiz berat. Sila cuba tingkatkan saiz Maksimum yang dibenarkan daripada "
+"tetapan Keutamaan."
+
+#: inc/backup.php:25
+msgid "Select backup(s) to delete!"
+msgstr "Pilih sandaran untuk dipadamkan!"
+
+#: inc/backup.php:26
+msgid "Are you sure want to remove selected backup(s)?"
+msgstr "Adakah anda pasti mahu membuang sandaran yang dipilih?"
+
+#: inc/backup.php:31
+msgid "Backup is running, please wait"
+msgstr "Sandaran sedang berjalan, sila tunggu"
+
+#: inc/backup.php:32
+msgid "Restore is running, please wait"
+msgstr "Pemulihan sedang berjalan, sila tunggu"
+
+#: inc/backup.php:33
+msgid "Nothing selected for backup."
+msgstr "Tiada apa-apa yang dipilih untuk sandaran."
+
+#: inc/backup.php:45
+msgid "WP File Manager - Backup/Restore"
+msgstr "Pengurus Fail WP - Sandaran / Pulihkan"
+
+#: inc/backup.php:51
+msgid "Backup Options:"
+msgstr "Pilihan Sandaran:"
+
+#: inc/backup.php:58
+msgid "Database Backup"
+msgstr "Sandaran Pangkalan Data"
+
+#: inc/backup.php:64
+msgid "Files Backup"
+msgstr "Sandaran Fail"
+
+#: inc/backup.php:68
+msgid "Plugins"
+msgstr "Pemalam"
+
+#: inc/backup.php:71
+msgid "Themes"
+msgstr "Tema"
+
+#: inc/backup.php:74
+msgid "Uploads"
+msgstr "Muat naik"
+
+#: inc/backup.php:77
+msgid "Others (Any other directories found inside wp-content)"
+msgstr "Lain-lain (Sebarang direktori lain terdapat di dalam wp-content)"
+
+#: inc/backup.php:81
+msgid "Backup Now"
+msgstr "Sandarkan Sekarang"
+
+#: inc/backup.php:89
+msgid "Time now"
+msgstr "Masa sekarang"
+
+#: inc/backup.php:99
+msgid "SUCCESS"
+msgstr "KEJAYAAN"
+
+#: inc/backup.php:101
+msgid "Backup successfully deleted."
+msgstr "Sandaran berjaya dipadamkan."
+
+#: inc/backup.php:102
+msgid "Ok"
+msgstr "Okey"
+
+#: inc/backup.php:117
+msgid "DELETE FILES"
+msgstr "HAPUS FILES"
+
+#: inc/backup.php:119
+msgid "Are you sure you want to delete this backup?"
+msgstr "Adakah anda pasti mahu memadamkan sandaran ini?"
+
+#: inc/backup.php:120 inc/backup.php:139
+msgid "Cancel"
+msgstr "Batal"
+
+#: inc/backup.php:121 inc/backup.php:140
+msgid "Confirm"
+msgstr "Sahkan"
+
+#: inc/backup.php:136
+msgid "RESTORE FILES"
+msgstr "KEMBALIKAN FIL"
+
+#: inc/backup.php:138
+msgid "Are you sure you want to restore this backup?"
+msgstr "Adakah anda pasti mahu memulihkan sandaran ini?"
+
+#: inc/backup.php:166
+msgid "Last Log Message"
+msgstr "Mesej Log Terakhir"
+
+#: inc/backup.php:169
+msgid "The backup apparently succeeded and is now complete."
+msgstr "Sandaran nampaknya berjaya dan kini lengkap."
+
+#: inc/backup.php:171
+msgid "No log message"
+msgstr "Tiada mesej log"
+
+#: inc/backup.php:177
+msgid "Existing Backup(s)"
+msgstr "Sandaran Sedia Ada"
+
+#: inc/backup.php:184
+msgid "Backup Date"
+msgstr "Tarikh Sandaran"
+
+#: inc/backup.php:187
+msgid "Backup data (click to download)"
+msgstr "Data sandaran (klik untuk memuat turun)"
+
+#: inc/backup.php:190
+msgid "Action"
+msgstr "Tindakan"
+
+#: inc/backup.php:210
+msgid "Today"
+msgstr "Hari ini"
+
+#: inc/backup.php:239
+msgid "Restore"
+msgstr "Pulihkan"
+
+#: inc/backup.php:240 inc/backup.php:250
+msgid "Delete"
+msgstr "Padam"
+
+#: inc/backup.php:241
+msgid "View Log"
+msgstr "Lihat Log"
+
+#: inc/backup.php:246
+msgid "Currently no backup(s) found."
+msgstr "Buat masa ini tidak ada sandaran."
+
+#: inc/backup.php:249
+msgid "Actions upon selected backup(s)"
+msgstr "Tindakan apabila sandaran terpilih"
+
+#: inc/backup.php:251
+msgid "Select All"
+msgstr "Pilih semua"
+
+#: inc/backup.php:252
+msgid "Deselect"
+msgstr "Nyahpilih"
+
+#: inc/backup.php:254
+msgid "Note:"
+msgstr "Nota:"
+
+#: inc/backup.php:254
+msgid "Backup files will be under"
+msgstr "Fail sandaran akan berada di bawah"
+
+#: inc/contribute.php:3
+msgid "WP File Manager Contribution"
+msgstr "Sumbangan Pengurus Fail WP"
+
+#: inc/logs.php:7
+msgid ""
+"Note: These are demo screenshots. Please buy File Manager pro to Logs "
+"functions."
+msgstr ""
+"Nota: Ini adalah tangkapan skrin demo. Sila beli fungsi Pengurus Fail pro ke "
+"Log."
+
+#: inc/logs.php:8 lib/wpfilemanager.php:24
+msgid "Click to Buy PRO"
+msgstr "Klik untuk Beli PRO"
+
+#: inc/logs.php:8 inc/settings.php:12 inc/settings.php:27
+#: inc/system_properties.php:5 lib/wpfilemanager.php:25
+msgid "Buy PRO"
+msgstr "Beli PRO"
+
+#: inc/logs.php:9
+msgid "Edit Files Logs"
+msgstr "Sunting Fail Log"
+
+#: inc/logs.php:11
+msgid "Download Files Logs"
+msgstr "Muat turun Log Fail"
+
+#: inc/logs.php:13
+msgid "Upload Files Logs"
+msgstr "Muat Naik Log Fail"
+
+#: inc/root.php:43
+msgid "Settings saved."
+msgstr "Tetapan disimpan."
+
+#: inc/root.php:43 inc/root.php:46
+msgid "Dismiss this notice."
+msgstr "Ketepikan notis ini."
+
+#: inc/root.php:46
+msgid "You have not made any changes to be saved."
+msgstr "Anda belum membuat perubahan untuk disimpan."
+
+#: inc/root.php:55
+msgid "Public Root Path"
+msgstr "Laluan Akar Awam"
+
+#: inc/root.php:58
+msgid "File Manager Root Path, you can change according to your choice."
+msgstr "Laluan Akar Pengurus Fail, anda boleh menukar mengikut pilihan anda."
+
+#: inc/root.php:59
+msgid "Default:"
+msgstr "Lalai:"
+
+#: inc/root.php:60
+msgid ""
+"Please change this carefully, wrong path can lead file manager plugin to go "
+"down."
+msgstr ""
+"Tolong ubah ini dengan berhati-hati, jalan yang salah boleh menyebabkan "
+"pemalam pengurus fail turun."
+
+#: inc/root.php:64
+msgid "Enable Trash?"
+msgstr "Dayakan Sampah?"
+
+#: inc/root.php:67
+msgid "After enable trash, your files will go to trash folder."
+msgstr "Setelah mengaktifkan sampah, fail anda akan masuk ke folder sampah."
+
+#: inc/root.php:72
+msgid "Enable Files Upload to Media Library?"
+msgstr "Dayakan Muat Naik Fail ke Perpustakaan Media?"
+
+#: inc/root.php:75
+msgid "After enabling this all files will go to media library."
+msgstr "Setelah mengaktifkan ini semua fail akan masuk ke perpustakaan media."
+
+#: inc/root.php:80
+msgid "Maximum allowed size at the time of database backup restore."
+msgstr ""
+"Saiz maksimum yang dibenarkan pada masa pemulihan sandaran pangkalan data."
+
+#: inc/root.php:83
+msgid "MB"
+msgstr ""
+
+#: inc/root.php:85
+msgid ""
+"Please increase field value if you are getting error message at the time of "
+"backup restore."
+msgstr ""
+"Sila tingkatkan nilai medan jika anda mendapat mesej ralat pada masa "
+"pemulihan sandaran."
+
+#: inc/root.php:90
+msgid "Save Changes"
+msgstr "Simpan Perubahan"
+
+#: inc/settings.php:10
+msgid "Settings - General"
+msgstr "Tetapan - Umum"
+
+#: inc/settings.php:11 inc/settings.php:26
+msgid ""
+"Note: This is just a demo screenshot. To get settings please buy our pro "
+"version."
+msgstr ""
+"Nota: Ini hanya tangkapan skrin demo. Untuk mendapatkan tetapan sila beli "
+"versi pro kami."
+
+#: inc/settings.php:13
+msgid ""
+"Here admin can give access to user roles to use filemanager. Admin can set "
+"Default Access Folder and also control upload size of filemanager."
+msgstr ""
+"Di sini admin dapat memberi akses kepada peranan pengguna untuk menggunakan "
+"filemanager. Admin boleh menetapkan Folder Akses Lalai dan juga mengawal "
+"ukuran muat naik filemanager."
+
+#: inc/settings.php:15
+msgid "Settings - Code-editor"
+msgstr "Tetapan - Penyunting kod"
+
+#: inc/settings.php:16
+msgid ""
+"File Manager has a code editor with multiple themes. You can select any "
+"theme for code editor. It will display when you edit any file. Also you can "
+"allow fullscreen mode of code editor."
+msgstr ""
+"Pengurus Fail mempunyai penyunting kod dengan pelbagai tema. Anda boleh "
+"memilih mana-mana tema untuk penyunting kod. Ia akan dipaparkan semasa anda "
+"mengedit fail apa pun. Anda juga boleh membenarkan mod skrin penuh "
+"penyunting kod."
+
+#: inc/settings.php:18
+msgid "Code-editor View"
+msgstr "Paparan editor kod"
+
+#: inc/settings.php:20
+msgid "Settings - User Restrictions"
+msgstr "Tetapan - Sekatan Pengguna"
+
+#: inc/settings.php:21
+msgid ""
+"Admin can restrict actions of any user. Also hide files and folders and can "
+"set different - different folders paths for different users."
+msgstr ""
+"Pentadbir boleh menyekat tindakan mana-mana pengguna. Sembunyikan juga fail "
+"dan folder dan boleh menetapkan jalur folder yang berbeza untuk pengguna "
+"yang berbeza."
+
+#: inc/settings.php:23
+msgid "Settings - User Role Restrictions"
+msgstr "Tetapan - Sekatan Peranan Pengguna"
+
+#: inc/settings.php:24
+msgid ""
+"Admin can restrict actions of any userrole. Also hide files and folders and "
+"can set different - different folders paths for different users roles."
+msgstr ""
+"Pentadbir boleh menyekat tindakan mana-mana pengguna. Sembunyikan juga fail "
+"dan folder dan boleh tetapkan jalur folder yang berbeza untuk peranan "
+"pengguna yang berbeza."
+
+#: inc/shortcode_docs.php:11
+msgid "File Manager - Shortcode"
+msgstr "Pengurus Fail - Kod Pendek"
+
+#: inc/shortcode_docs.php:15 inc/shortcode_docs.php:17
+#: inc/shortcode_docs.php:19
+msgid "USE:"
+msgstr "GUNAKAN:"
+
+#: inc/shortcode_docs.php:15
+msgid ""
+"It will show file manager on front end. You can control all settings from "
+"file manager settings. It will work same as backend WP File Manager."
+msgstr ""
+"Ia akan menunjukkan pengurus fail di bahagian hadapan. Anda boleh mengawal "
+"semua tetapan daripada tetapan pengurus fail. Ia akan berfungsi sama seperti "
+"Pengurus Fail WP belakang."
+
+#: inc/shortcode_docs.php:17
+msgid ""
+"It will show file manager on front end. But only Administrator can access it "
+"and will control from file manager settings."
+msgstr ""
+"Ia akan menunjukkan pengurus fail di bahagian hadapan. Tetapi hanya "
+"Pentadbir boleh mengaksesnya dan akan mengawal dari tetapan pengurus fail."
+
+#: inc/shortcode_docs.php:23
+msgid "Parameters:"
+msgstr "Parameter:"
+
+#: inc/shortcode_docs.php:26
+msgid ""
+"It will allow all roles to access file manager on front end or You can "
+"simple use for particular user roles as like allowed_roles=\"editor,author"
+"\" (seprated by comma(,))"
+msgstr ""
+"Ia akan membenarkan semua peranan untuk mengakses pengurus fail di bahagian "
+"hadapan atau Anda boleh menggunakan mudah untuk peranan pengguna tertentu "
+"seperti dibenarkan_roles=\"editor,author\" (dipisahkan dengan koma(,))"
+
+#: inc/shortcode_docs.php:28
+msgid ""
+"Here \"test\" is the name of folder which is located on root directory, or "
+"you can give path for sub folders as like \"wp-content/plugins\". If leave "
+"blank or empty it will access all folders on root directory. Default: Root "
+"directory"
+msgstr ""
+"Di sini \"ujian\" ialah nama folder yang terletak pada direktori akar, atau "
+"anda boleh memberikan laluan untuk sub folder seperti \"wp-content/plugins"
+"\". Jika dibiarkan kosong atau kosong ia akan mengakses semua folder pada "
+"direktori akar. Lalai: Direktori akar"
+
+#: inc/shortcode_docs.php:30
+msgid "for access to write files permissions, note: true/false, default: false"
+msgstr ""
+"untuk akses untuk menulis kebenaran fail, nota: benar/salah, lalai: palsu"
+
+#: inc/shortcode_docs.php:32
+msgid "for access to read files permission, note: true/false, default: true"
+msgstr "untuk kebenaran akses membaca fail, nota: benar/salah, lalai: benar"
+
+#: inc/shortcode_docs.php:34
+msgid "it will hide mentioned here. Note: seprated by comma(,). Default: Null"
+msgstr ""
+"ia akan menyembunyikan yang disebut di sini. Nota: dipisahkan dengan "
+"koma(,). Lalai: Null"
+
+#: inc/shortcode_docs.php:36
+msgid ""
+"It will lock mentioned in commas. you can lock more as like \".php,.css,.js"
+"\" etc. Default: Null"
+msgstr ""
+"Ia akan mengunci yang disebut dalam koma. anda boleh mengunci lebih banyak "
+"seperti \".php,.css,.js\" dsb. Lalai: Null"
+
+#: inc/shortcode_docs.php:38
+msgid ""
+"* for all operations and to allow some operation you can mention operation "
+"name as like, allowed_operations=\"upload,download\". Note: seprated by "
+"comma(,). Default: *"
+msgstr ""
+"* untuk semua operasi dan untuk membenarkan beberapa operasi anda boleh "
+"menyebut nama operasi seperti, allowed_operations=\"upload,download\". Nota: "
+"dipisahkan dengan koma(,). Lalai: *"
+
+#: inc/shortcode_docs.php:42
+msgid "File Operations List:"
+msgstr "Senarai Operasi Fail:"
+
+#: inc/shortcode_docs.php:46
+msgid "mkdir ->"
+msgstr ""
+
+#: inc/shortcode_docs.php:46
+msgid "Make directory or folder"
+msgstr "Buat direktori atau folder"
+
+#: inc/shortcode_docs.php:47
+msgid "mkfile ->"
+msgstr ""
+
+#: inc/shortcode_docs.php:47
+msgid "Make file"
+msgstr "Buat fail"
+
+#: inc/shortcode_docs.php:48
+msgid "rename ->"
+msgstr ""
+
+#: inc/shortcode_docs.php:48
+msgid "Rename a file or folder"
+msgstr "Namakan semula fail atau folder"
+
+#: inc/shortcode_docs.php:49
+msgid "duplicate ->"
+msgstr ""
+
+#: inc/shortcode_docs.php:49
+msgid "Duplicate or clone a folder or file"
+msgstr "Gandakan atau klon folder atau fail"
+
+#: inc/shortcode_docs.php:50
+msgid "paste ->"
+msgstr ""
+
+#: inc/shortcode_docs.php:50
+msgid "Paste a file or folder"
+msgstr "Tampal fail atau folder"
+
+#: inc/shortcode_docs.php:51
+msgid "ban ->"
+msgstr ""
+
+#: inc/shortcode_docs.php:51
+msgid "Ban"
+msgstr "Larangan"
+
+#: inc/shortcode_docs.php:52
+msgid "archive ->"
+msgstr ""
+
+#: inc/shortcode_docs.php:52
+msgid "To make a archive or zip"
+msgstr "Untuk membuat arkib atau zip"
+
+#: inc/shortcode_docs.php:53
+msgid "extract ->"
+msgstr ""
+
+#: inc/shortcode_docs.php:53
+msgid "Extract archive or zipped file"
+msgstr "Ekstrak fail arkib atau zip"
+
+#: inc/shortcode_docs.php:54
+msgid "copy ->"
+msgstr ""
+
+#: inc/shortcode_docs.php:54
+msgid "Copy files or folders"
+msgstr "Salin fail atau folder"
+
+#: inc/shortcode_docs.php:58
+msgid "cut ->"
+msgstr ""
+
+#: inc/shortcode_docs.php:58
+msgid "Simple cut a file or folder"
+msgstr "Potong fail atau folder dengan mudah"
+
+#: inc/shortcode_docs.php:59
+msgid "edit ->"
+msgstr ""
+
+#: inc/shortcode_docs.php:59
+msgid "Edit a file"
+msgstr "Edit fail"
+
+#: inc/shortcode_docs.php:60
+msgid "rm ->"
+msgstr ""
+
+#: inc/shortcode_docs.php:60
+msgid "Remove or delete files and folders"
+msgstr "Keluarkan atau hapus fail dan folder"
+
+#: inc/shortcode_docs.php:61
+msgid "download ->"
+msgstr ""
+
+#: inc/shortcode_docs.php:61
+msgid "Download files"
+msgstr "Muat turun fail"
+
+#: inc/shortcode_docs.php:62
+msgid "upload ->"
+msgstr ""
+
+#: inc/shortcode_docs.php:62
+msgid "Upload files"
+msgstr "Memuat naik fail"
+
+#: inc/shortcode_docs.php:63
+msgid "search -> "
+msgstr ""
+
+#: inc/shortcode_docs.php:63
+msgid "Search things"
+msgstr "Cari barang"
+
+#: inc/shortcode_docs.php:64
+msgid "info ->"
+msgstr ""
+
+#: inc/shortcode_docs.php:64
+msgid "Info of file"
+msgstr "Maklumat fail"
+
+#: inc/shortcode_docs.php:65
+msgid "help ->"
+msgstr ""
+
+#: inc/shortcode_docs.php:65
+msgid "Help"
+msgstr "Tolonglah"
+
+#: inc/shortcode_docs.php:71
+msgid ""
+"->  It will ban particular users by just putting their ids seprated by "
+"commas(,). If user is Ban then they will not able to access wp file manager "
+"on front end."
+msgstr ""
+"-> Ini akan melarang pengguna tertentu dengan hanya meletakkan ID mereka "
+"dengan tanda koma (,). Sekiranya pengguna adalah Ban maka mereka tidak akan "
+"dapat mengakses pengurus fail wp di bahagian depan."
+
+#: inc/shortcode_docs.php:72
+msgid "-> Filemanager UI View. Default: grid"
+msgstr "-> Paparan UI Filemanager. Lalai: grid"
+
+#: inc/shortcode_docs.php:73
+msgid "-> File Modified or Create date format. Default: d M, Y h:i A"
+msgstr "-> Fail diubah suai atau Buat format tarikh. Lalai: d M, Y h:i A"
+
+#: inc/shortcode_docs.php:74
+msgid "-> File manager Language. Default: English(en)"
+msgstr "-> Bahasa pengurus fail. Lalai: English(en)"
+
+#: inc/shortcode_docs.php:75
+msgid "-> File Manager Theme. Default: Light"
+msgstr "-> Tema Pengurus Fail. Lalai: Light"
+
+#: inc/system_properties.php:5
+msgid "File Manager - System Properties"
+msgstr "Pengurus Fail - Sifat Sistem"
+
+#: inc/system_properties.php:10
+msgid "PHP version"
+msgstr "Versi PHP"
+
+#: inc/system_properties.php:15
+msgid "Maximum file upload size (upload_max_filesize)"
+msgstr "Saiz muat naik fail maksimum (upload_max_filesize)"
+
+#: inc/system_properties.php:20
+msgid "Post maximum file upload size (post_max_size)"
+msgstr "Hantar saiz muat naik fail maksimum (post_max_size)"
+
+#: inc/system_properties.php:25
+msgid "Memory Limit (memory_limit)"
+msgstr "Had Memori (memory_limit)"
+
+#: inc/system_properties.php:30
+msgid "Timeout (max_execution_time)"
+msgstr "Waktu tamat (max_execution_time)"
+
+#: inc/system_properties.php:35
+msgid "Browser and OS (HTTP_USER_AGENT)"
+msgstr "Penyemak Imbas dan OS (HTTP_USER_AGENT)"
+
+#: lib/jquery/jquery-ui-1.11.4.js:8
+msgid "'"
+msgstr ""
+
+#: lib/wpfilemanager.php:31
+msgid "Change Theme Here:"
+msgstr "Tukar Tema Di Sini:"
+
+#: lib/wpfilemanager.php:35
+msgid "Default"
+msgstr "Lalai"
+
+#: lib/wpfilemanager.php:39
+msgid "Dark"
+msgstr "Gelap"
+
+#: lib/wpfilemanager.php:43
+msgid "Light"
+msgstr "Cahaya"
+
+#: lib/wpfilemanager.php:47
+msgid "Gray"
+msgstr "Kelabu"
+
+#: lib/wpfilemanager.php:52
+msgid "Windows - 10"
+msgstr ""
+
+#: lib/wpfilemanager.php:85
+msgid "Welcome to File Manager"
+msgstr "Selamat datang ke Pengurus Fail"
+
+#: lib/wpfilemanager.php:88
+msgid ""
+"We love making new friends! Subscribe below and we promise to\n"
+"    keep you up-to-date with our latest new plugins, updates,\n"
+"    awesome deals and a few special offers."
+msgstr ""
+"Kami gemar membuat rakan baru! Langgan di bawah dan kami berjanji untuk\n"
+"    membuat anda terkini dengan plugin, kemas kini baru kami yang terkini,\n"
+"    tawaran hebat dan beberapa tawaran istimewa."
+
+#: lib/wpfilemanager.php:99
+msgid "Please Enter First Name."
+msgstr "Sila Masukkan Nama Depan."
+
+#: lib/wpfilemanager.php:107
+msgid "Please Enter Last Name."
+msgstr "Sila Masukkan Nama Akhir."
+
+#: lib/wpfilemanager.php:116
+msgid "Please Enter Email Address."
+msgstr "Sila Masukkan Alamat E-mel."
+
+#: lib/wpfilemanager.php:120
+msgid "Verify"
+msgstr "Sahkan"
+
+#: lib/wpfilemanager.php:126
+msgid "No Thanks"
+msgstr "Tidak, Terima kasih"
+
+#: lib/wpfilemanager.php:132
+msgid "Terms of Service"
+msgstr "Syarat Perkhidmatan"
+
+#: lib/wpfilemanager.php:134
+msgid "Privacy Policy"
+msgstr "Dasar Privasi"
+
+#: lib/wpfilemanager.php:153
+msgid "Saving..."
+msgstr "Menyimpan ..."
+
+#: lib/wpfilemanager.php:155
+msgid "OK"
+msgstr "okey"
+
+#~ msgid "Backup not found!"
+#~ msgstr "Sandaran tidak dijumpai!"
+
+#~ msgid "Backup removed successfully!"
+#~ msgstr "Sandaran berjaya dikeluarkan!"
+
+#~ msgid "<span class=\"fm_console_error\">Nothing selected for backup</span>"
+#~ msgstr ""
+#~ "<span class=\"fm_console_error\">Tidak ada yang dipilih untuk sandaran</"
+#~ "span>"
+
+#~ msgid "<span class=\"fm_console_error\">Security Issue.</span>"
+#~ msgstr "<span class=\"fm_console_error\">Isu Keselamatan. </span>"
+
+#~ msgid "<span class=\"fm_console_success\">Database backup done.</span>"
+#~ msgstr ""
+#~ "<span class=\"fm_console_success\">Penyimpanan pangkalan data selesai.</"
+#~ "span>"
+
+#~ msgid ""
+#~ "<span class=\"fm_console_error\">Unable to create database backup.</span>"
+#~ msgstr ""
+#~ "<span class=\"fm_console_error\">Tidak dapat membuat sandaran pangkalan "
+#~ "data. </span>"
+
+#~ msgid "<span class=\"fm_console_success\">Plugins backup done.</span>"
+#~ msgstr "<span class=\"fm_console_success\">Sandaran pemalam selesai</span>"
+
+#~ msgid "<span class=\"fm_console_error\">Plugins backup failed.</span>"
+#~ msgstr "<span class=\"fm_console_error\">Sandaran pemalam gagal. </span>"
+
+#~ msgid "<span class=\"fm_console_success\">Themes backup done.</span>"
+#~ msgstr ""
+#~ "<span class=\"fm_console_success\">Penyelesaian tema selesai. </span>"
+
+#~ msgid "<span class=\"fm_console_error\">Themes backup failed.</span>"
+#~ msgstr "<span class=\"fm_console_error\">Sandaran tema gagal. </span>"
+
+#~ msgid "<span class=\"fm_console_success\">Uploads backup done.</span>"
+#~ msgstr ""
+#~ "<span class=\"fm_console_success\">Muat naik sandaran selesai. </span>"
+
+#~ msgid "<span class=\"fm_console_error\">Uploads backup failed.</span>"
+#~ msgstr "<span class=\"fm_console_error\">Gagal memuat naik gagal. </span>"
+
+#~ msgid "<span class=\"fm_console_success\">Others backup done.</span>"
+#~ msgstr ""
+#~ "<span class=\"fm_console_success\">Sandaran yang lain selesai. </span>"
+
+#~ msgid "<span class=\"fm_console_error\">Others backup failed.</span>"
+#~ msgstr "<span class=\"fm_console_error\">Sandaran yang lain gagal. </span>"
+
+#~ msgid "<span class=\"fm_console_success\">All Done</span>"
+#~ msgstr "<span class=\"fm_console_success\">Semua Selesai </span>"
+
+#~ msgid ""
+#~ "<code>[wp_file_manager view=\"list\" lang=\"en\" theme=\"light\" "
+#~ "dateformat=\"d M, Y h:i A\" allowed_roles=\"editor,author\" access_folder="
+#~ "\"wp-content/plugins\" write = \"true\" read = \"false\" hide_files = "
+#~ "\"kumar,abc.php\" lock_extensions=\".php,.css\" allowed_operations="
+#~ "\"upload,download\" ban_user_ids=\"2,3\"]"
+#~ msgstr ""
+#~ "<code>[wp_file_manager view=\"list\" lang=\"en\" theme=\"light\" "
+#~ "dateformat=\"d M, Y h:i A\" allowed_roles=\"editor,author\" access_folder="
+#~ "\"wp-content/plugins\" write = \"true\" read = \"false\" hide_files = "
+#~ "\"kumar,abc.php\" lock_extensions=\".php,.css\" allowed_operations="
+#~ "\"upload,download\" ban_user_ids=\"2,3\"]"
+
+#~ msgid "Image"
+#~ msgstr "Imej"
+
+#~ msgid "of"
+#~ msgstr "daripada"
+
+#~ msgid "Close"
+#~ msgstr "Tutup"
+
+#~ msgid ""
+#~ "This feature requires inline frames. You have iframes disabled or your "
+#~ "browser does not support them."
+#~ msgstr ""
+#~ "Ciri ini memerlukan bingkai sebaris. Anda mempunyai iframe yang "
+#~ "dilumpuhkan atau penyemak imbas anda tidak menyokongnya."
+
+#~ msgid "Theme Editor"
+#~ msgstr "Penyunting Tema"
+
+#~ msgid "Plugin Editor"
+#~ msgstr "Penyunting Pemalam"
+
+#~ msgid "Access Control"
+#~ msgstr "Kawalan Akses"
+
+#~ msgid "Notify Me"
+#~ msgstr "Beritahu saya"
+
+#~ msgid "Language folder has been downlaoded successfully."
+#~ msgstr "bahasa telah berjaya dimuat turun."
+
+#~ msgid "Language folder failed to downlaod."
+#~ msgstr "Folder bahasa gagal diturunkan."
+
+#~ msgid "Security token expired!"
+#~ msgstr "Token keselamatan tamat!"
+
+#~ msgid " language has been downloaded successfully."
+#~ msgstr "bahasa telah berjaya dimuat turun."
+
+#~ msgid "Currently language "
+#~ msgstr "Bahasa sekarang "
+
+#~ msgid " not available. Please click on the request language link."
+#~ msgstr " tidak ada. Sila klik pada pautan bahasa permintaan."
+
+#~ msgid ""
+#~ "You do not have sufficient permissions to edit plugins for this site."
+#~ msgstr ""
+#~ "Anda tidak mempunyai kebenaran yang mencukupi untuk mengedit pemalam "
+#~ "untuk laman web ini."
+
+#~ msgid "There are no plugins installed on this site."
+#~ msgstr "Tidak ada plugin yang dipasang di laman web ini."
+
+#~ msgid "There are no themes installed on this site."
+#~ msgstr "Tidak ada tema yang dipasang di laman web ini."
+
+#~ msgid "<p class=\"te_error\">Please enter folder name!</p>"
+#~ msgstr "<p class=\"te_error\">Masukkan nama folder! </p>"
+
+#~ msgid "<p class=\"te_error\">Please enter file name!</p>"
+#~ msgstr "<p class=\"te_error\">Masukkan nama fail! </p>"
+
+#~ msgid "Open"
+#~ msgstr "Buka"
+
+#~ msgid "Preview"
+#~ msgstr "Pratonton"
+
+#~ msgid "Edit"
+#~ msgstr "Edit"
+
+#~ msgid "Are you sure you want to abort the file uploading?"
+#~ msgstr "Adakah anda pasti mahu membatalkan muat naik fail?"
+
+#~ msgid "File renamed successfully."
+#~ msgstr "Fail berjaya dinamakan semula."
+
+#~ msgid "Are you sure you want to delete folder?"
+#~ msgstr "Adakah anda pasti mahu memadam folder?"
+
+#~ msgid "Folder deleted successfully."
+#~ msgstr "Folder berjaya dipadamkan."
+
+#~ msgid "File deleted successfully."
+#~ msgstr "Fail berjaya dipadamkan."
+
+#~ msgid "Folder renamed successfully."
+#~ msgstr "Folder dinamakan semula dengan jayanya."
+
+#~ msgid "<p class=\"te_error\">Not allowed more than 30 characters.</p>"
+#~ msgstr "<p class=\"te_error\">Tidak dibenarkan melebihi 30 aksara.</p>"
+
+#~ msgid "Invalid request!"
+#~ msgstr "Permintaan tidak sah!"
+
+#~ msgid "No change in file!"
+#~ msgstr "Tiada perubahan fail!"
+
+#~ msgid "File saved successfully!"
+#~ msgstr "Fail berjaya disimpan!"
+
+#~ msgid "File not saved!"
+#~ msgstr "Fail tidak disimpan!"
+
+#~ msgid "Unable to verify security token!"
+#~ msgstr "Tidak dapat mengesahkan token keselamatan!"
+
+#~ msgid "Folder created successfully!"
+#~ msgstr "Folder berjaya dibuat!"
+
+#~ msgid "This folder format is not allowed to upload by wordpress!"
+#~ msgstr "Format folder ini tidak dibenarkan memuat naik dengan wordpress!"
+
+#~ msgid "Folder already exists!"
+#~ msgstr "Folder sudah ada!"
+
+#~ msgid "File created successfully!"
+#~ msgstr "Fail berjaya dibuat!"
+
+#~ msgid "This file extension is not allowed to create!"
+#~ msgstr "Sambungan fail ini tidak dibenarkan dibuat!"
+
+#~ msgid "File already exists!"
+#~ msgstr "Fail sudah ada!"
+
+#~ msgid "Please enter a valid file extension!"
+#~ msgstr "Sila masukkan pelanjutan fail yang sah!"
+
+#~ msgid "Folder does not exists!"
+#~ msgstr "Folder tidak wujud!"
+
+#~ msgid "Folder deleted successfully!"
+#~ msgstr "Folder berjaya dipadamkan!"
+
+#~ msgid "File deleted successfully!"
+#~ msgstr "Fail berjaya dipadamkan!"
+
+#~ msgid "This file extension is not allowed to upload by wordpress!"
+#~ msgstr "Sambungan fail ini tidak dibenarkan dimuat naik dengan wordpress!"
+
+#~ msgid "File uploaded successfully: Uploaded file path is "
+#~ msgstr "Fail berjaya dimuat naik: Laluan fail yang dimuat naik ialah"
+
+#~ msgid "No file selected"
+#~ msgstr "Tiada fail yang dipilih"
+
+#~ msgid "Unable to rename file! Try again."
+#~ msgstr "Tidak dapat menamakan semula fail! Cuba lagi."
+
+#~ msgid "Folder renamed successfully!"
+#~ msgstr "Folder dinamakan semula dengan jayanya!"
+
+#~ msgid "Please enter correct folder name"
+#~ msgstr "Sila masukkan nama folder yang betul"
+
+#~ msgid "How can we help?"
+#~ msgstr "Bagaimana kita boleh menolong?"
+
+#~ msgid "Learning resources, professional support and expert help."
+#~ msgstr "Sumber pembelajaran, sokongan profesional dan bantuan pakar."
+
+#~ msgid "Documentation"
+#~ msgstr "Dokumentasi"
+
+#~ msgid "Find answers quickly from our comprehensive documentation."
+#~ msgstr "Dapatkan jawapan dengan cepat dari dokumentasi lengkap kami."
+
+#~ msgid "Learn More"
+#~ msgstr "Ketahui Lebih Lanjut"
+
+#~ msgid "Contact Us"
+#~ msgstr "Hubungi Kami"
+
+#~ msgid "Submit a support ticket for answers on questions you may have."
+#~ msgstr ""
+#~ "Hantarkan tiket sokongan untuk jawapan pada pertanyaan yang mungkin anda "
+#~ "ada."
+
+#~ msgid "Request a Feature"
+#~ msgstr "Minta Ciri"
+
+#~ msgid "Tell us what you want and will add it to our roadmap."
+#~ msgstr ""
+#~ "Beritahu kami apa yang anda mahukan dan tambahkan pada peta jalan kami."
+
+#~ msgid "Tell us what you think!"
+#~ msgstr "Beritahu kami apa yang anda fikirkan!"
+
+#~ msgid "Rate and give us a review on Wordpress!"
+#~ msgstr "Nilai dan beri kami ulasan mengenai Wordpress!"
+
+#~ msgid "Leave a Review"
+#~ msgstr "Leave a Review"
+
+#~ msgid "Update"
+#~ msgstr "Kemas kini"
+
+#~ msgid "Installed"
+#~ msgstr "Dipasang"
+
+#~ msgid "Theme Editor Pro Language:"
+#~ msgstr "Bahasa Pro Editor Tema:"
+
+#~ msgid " language"
+#~ msgstr " bahasa"
+
+#~ msgid "Click here to install/update "
+#~ msgstr "Klik di sini untuk memasang / mengemas kini "
+
+#~ msgid " language translation for Theme Editor Pro."
+#~ msgstr " terjemahan bahasa untuk Theme Editor Pro."
+
+#~ msgid "Available languages"
+#~ msgstr "Bahasa yang ada"
+
+#~ msgid "Click here to download all available languages."
+#~ msgstr "Klik di sini untuk memuat turun semua bahasa yang ada."
+
+#~ msgid "Request a language"
+#~ msgstr "Minta bahasa"
+
+#~ msgid "Tell us which language you want to add."
+#~ msgstr "Beritahu kami bahasa mana yang ingin anda tambahkan."
+
+#~ msgid "Contact us"
+#~ msgstr "Hubungi Kami"
+
+#~ msgid "Notifications"
+#~ msgstr "Pemberitahuan"
+
+#~ msgid ""
+#~ "<strong>Note: This is just a screenshot. Buy PRO Version for this feature."
+#~ "</strong>"
+#~ msgstr ""
+#~ "<strong> Catatan: Ini hanya tangkapan skrin. Beli Versi PRO untuk ciri "
+#~ "ini. </strong>"
+
+#~ msgid "Permissions"
+#~ msgstr "Kebenaran"
+
+#~ msgid "Edit Plugin"
+#~ msgstr "Edit Pemalam"
+
+#~ msgid ""
+#~ "<strong>This plugin is currently activated!</strong> Warning: Making "
+#~ "changes to active plugins is not recommended.\tIf your changes cause a "
+#~ "fatal error, the plugin will be automatically deactivated."
+#~ msgstr ""
+#~ "<strong> Pemalam ini sedang diaktifkan! </strong> Peringatan: Tidak "
+#~ "melakukan perubahan pada pemalam aktif. Sekiranya perubahan anda "
+#~ "menyebabkan ralat maut, pemalam akan dinyahaktifkan secara automatik."
+
+#~ msgid "Editing <span class=\"current_file\">"
+#~ msgstr "Penyuntingan <span class=\"current_file\">"
+
+#~ msgid "</span> (active)"
+#~ msgstr "</span> (aktif)"
+
+#~ msgid "Browsing <span class=\"current_file\">"
+#~ msgstr "Melayari <span class=\"current_file\">"
+
+#~ msgid "</span> (inactive)"
+#~ msgstr "</span> (tidak aktif)"
+
+#~ msgid "Update File"
+#~ msgstr "Kemas kini Fail"
+
+#~ msgid "Download Plugin"
+#~ msgstr "Muat turun Pemalam"
+
+#~ msgid ""
+#~ "You need to make this file writable before you can save your changes. See "
+#~ "<a href=\"https://wordpress.org/support/article/changing-file-permissions/"
+#~ "\" target=\"_blank\">the Codex</a> for more information."
+#~ msgstr ""
+#~ "Anda perlu membuat fail ini dapat ditulis sebelum dapat menyimpan "
+#~ "perubahan. Lihat <a href=\"https://wordpress.org/support/article/changing-"
+#~ "file-permissions/\" target=\"_blank\"> Codex </a> untuk maklumat lebih "
+#~ "lanjut."
+
+#~ msgid "Select plugin to edit:"
+#~ msgstr "Pilih pemalam untuk diedit:"
+
+#~ msgid "Create Folder and File"
+#~ msgstr "Buat Folder dan Fail"
+
+#~ msgid "Create"
+#~ msgstr "Buat"
+
+#~ msgid "Remove Folder and File"
+#~ msgstr "Keluarkan Folder dan Fail"
+
+#~ msgid "Remove "
+#~ msgstr "Keluarkan"
+
+#~ msgid "To"
+#~ msgstr "Ke"
+
+#~ msgid "Optional: Sub-Directory"
+#~ msgstr "Pilihan: Sub-Direktori"
+
+#~ msgid "Choose File "
+#~ msgstr "Pilih fail"
+
+#~ msgid "No file Chosen "
+#~ msgstr "Tiada fail dipilih "
+
+#~ msgid "Create a New Folder: "
+#~ msgstr "Buat Folder Baru:"
+
+#~ msgid "New folder will be created in: "
+#~ msgstr "Folder baru akan dibuat di:"
+
+#~ msgid "New Folder Name: "
+#~ msgstr "Nama Folder Baru:"
+
+#~ msgid "Create New Folder"
+#~ msgstr "Buat Folder Baru"
+
+#~ msgid "Create a New File: "
+#~ msgstr "Buat Fail Baru:"
+
+#~ msgid "New File will be created in: "
+#~ msgstr "Fail Baru akan dibuat dalam:"
+
+#~ msgid "New File Name: "
+#~ msgstr "Nama Fail Baru:"
+
+#~ msgid "Create New File"
+#~ msgstr "Buat Fail Baru"
+
+#~ msgid "Warning: please be careful before remove any folder or file."
+#~ msgstr ""
+#~ "Amaran: sila berhati-hati sebelum membuang folder atau fail apa pun."
+
+#~ msgid "Current Theme Path: "
+#~ msgstr "Laluan Tema Semasa:"
+
+#~ msgid "Remove Folder: "
+#~ msgstr "Keluarkan Folder:"
+
+#~ msgid "Folder Path which you want to remove: "
+#~ msgstr "Laluan Folder yang ingin anda alih keluar: "
+
+#~ msgid "Remove Folder"
+#~ msgstr "Keluarkan Folder"
+
+#~ msgid "Remove File: "
+#~ msgstr "Alih keluar Fail:"
+
+#~ msgid "File Path which you want to remove: "
+#~ msgstr "Laluan Fail yang ingin anda alih keluar: "
+
+#~ msgid "Remove File"
+#~ msgstr "Alih keluar Fail"
+
+#~ msgid "Please Enter Valid Email Address."
+#~ msgstr "Sila Masukkan Alamat E-mel yang Sah."
+
+#~ msgid "Warning: Please be careful before rename any folder or file."
+#~ msgstr ""
+#~ "Amaran: Harap berhati-hati sebelum menamakan semula folder atau fail apa "
+#~ "pun."
+
+#~ msgid "File/Folder will be rename in: "
+#~ msgstr "Fail / Folder akan dinamakan semula dalam:"
+
+#~ msgid "File/Folder Rename: "
+#~ msgstr "Namakan Fail / Folder:"
+
+#~ msgid "Follow us"
+#~ msgstr "Ikut kami"
+
+#~ msgid "Theme Editor Facebook"
+#~ msgstr "Penyunting Tema Facebook"
+
+#~ msgid "Theme Editor Instagram"
+#~ msgstr "Editor Tema Instagram"
+
+#~ msgid "Theme Editor Twitter"
+#~ msgstr "Editor Tema Twitter"
+
+#~ msgid "Theme Editor Linkedin"
+#~ msgstr "Editor Tema Linkedin"
+
+#~ msgid "Theme Editor Youtube"
+#~ msgstr "Youtube Editor Tema"
+
+#~ msgid "Go to ThemeEditor site"
+#~ msgstr "Pergi ke laman ThemeEditor"
+
+#~ msgid "Theme Editor Links"
+#~ msgstr "Pergi ke laman ThemeEditor"
+
+#~ msgid "Child Theme"
+#~ msgstr "Tema Kanak-kanak"
+
+#~ msgid "Child Theme Permissions"
+#~ msgstr "Kebenaran Tema Kanak-kanak"
+
+#~ msgid " is not available. Please click "
+#~ msgstr " tidak boleh didapati. Sila klik "
+
+#~ msgid "here"
+#~ msgstr "di sini"
+
+#~ msgid "to request language."
+#~ msgstr "untuk meminta bahasa."
+
+#~ msgid "Click"
+#~ msgstr "Klik"
+
+#~ msgid "to install "
+#~ msgstr "memasang"
+
+#~ msgid " language translation  for Theme Editor Pro"
+#~ msgstr " terjemahan bahasa untuk Theme Editor Pro"
+
+#~ msgid "Success: Settings Saved!"
+#~ msgstr "Kejayaan: Tetapan Disimpan!"
+
+#~ msgid "No changes have been made to save."
+#~ msgstr "Tidak ada perubahan yang dibuat untuk disimpan."
+
+#~ msgid "Enable Theme Editor For Themes"
+#~ msgstr "Dayakan Editor Tema Untuk Tema"
+
+#~ msgid "Yes"
+#~ msgstr "Ya"
+
+#~ msgid "No"
+#~ msgstr "Tidak"
+
+#~ msgid ""
+#~ "This will Enable/Disable the theme editor.<br/><strong class=\"defs"
+#~ "\">Default: </strong>Yes"
+#~ msgstr ""
+#~ "Ini akan Mengaktifkan / Menyahaktifkan penyunting tema. <br/><strong "
+#~ "class=\"defs\">Lalai: </strong> Ya"
+
+#~ msgid "Disable Default WordPress Theme Editor?"
+#~ msgstr "Lumpuhkan Editor Tema WordPress Lalai?"
+
+#~ msgid ""
+#~ "This will Enable/Disable the Default theme editor.<br/><strong class="
+#~ "\"defs\">Default: </strong>Yes"
+#~ msgstr ""
+#~ "Ini akan Mengaktifkan / Menyahaktifkan editor tema Lalai. <br/><strong "
+#~ "class=\"defs\">Lalai: </strong> Ya"
+
+#~ msgid "Enable Plugin Editor For Plugin"
+#~ msgstr "Dayakan Editor Plugin Untuk Pemalam"
+
+#~ msgid ""
+#~ "This will Enable/Disable the plugin editor.<br/><strong class=\"defs"
+#~ "\">Default: </strong>Yes"
+#~ msgstr ""
+#~ "Ini akan Mengaktifkan / Melumpuhkan editor pemalam. <br/><strong class="
+#~ "\"defs\">Lalai: </strong> Ya"
+
+#~ msgid "Disable Default WordPress Plugin Editor?"
+#~ msgstr "Lumpuhkan Editor Plugin WordPress Lalai?"
+
+#~ msgid ""
+#~ "This will Enable/Disable the Default plugin editor.<br/><strong class="
+#~ "\"defs\">Default: </strong>Yes"
+#~ msgstr ""
+#~ "Ini akan Mengaktifkan / Melumpuhkan editor pemalam Lalai. <br/><strong "
+#~ "class=\"defs\">Lalai: </strong> Ya"
+
+#~ msgid "Code Editor"
+#~ msgstr "Penyunting Kod"
+
+#~ msgid ""
+#~ "Allows you to select theme for theme editor.<br/><strong class=\"defs"
+#~ "\">Default: </strong>Cobalt"
+#~ msgstr ""
+#~ "Membolehkan anda memilih tema untuk penyunting tema. <br/><strong class="
+#~ "\"defs\">Lalai: </strong> Kobalt"
+
+#~ msgid "Edit Themes"
+#~ msgstr "Edit Tema"
+
+#~ msgid ""
+#~ "<strong>This theme is currently activated!</strong> Warning: Making "
+#~ "changes to active themes is not recommended."
+#~ msgstr ""
+#~ "<strong> Tema ini sedang diaktifkan! </strong> Peringatan: Tidak membuat "
+#~ "perubahan pada tema aktif tidak digalakkan."
+
+#~ msgid "Editing"
+#~ msgstr "Penyuntingan"
+
+#~ msgid "Browsing"
+#~ msgstr "Melayari"
+
+#~ msgid "Update File and Attempt to Reactivate"
+#~ msgstr "Kemas kini Fail dan Cuba Aktifkan Semula"
+
+#~ msgid "Download Theme"
+#~ msgstr "Muat turun Tema"
+
+#~ msgid "Select theme to edit:"
+#~ msgstr "Pilih tema untuk diedit:"
+
+#~ msgid "Theme Files"
+#~ msgstr "Fail Tema"
+
+#~ msgid "Choose File"
+#~ msgstr "Pilih fail"
+
+#~ msgid "No File Chosen"
+#~ msgstr "Tiada fail dipilih"
+
+#~ msgid "Warning: Please be careful before remove any folder or file."
+#~ msgstr ""
+#~ "Amaran: Harap berhati-hati sebelum mengeluarkan folder atau fail apa pun."
+
+#~ msgid "Child Theme Permission"
+#~ msgstr "Kebenaran Tema Kanak-kanak"
+
+#~ msgid "Translations"
+#~ msgstr "Terjemahan"
+
+#~ msgid "You do not have the permission to create new child theme."
+#~ msgstr "Anda tidak mempunyai kebenaran untuk membuat tema kanak-kanak baru."
+
+#~ msgid ""
+#~ "You do not have the permission to change configure existing child theme."
+#~ msgstr ""
+#~ "Anda tidak mempunyai kebenaran untuk mengubah konfigurasi tema kanak-"
+#~ "kanak yang ada."
+
+#~ msgid "You do not have the permission to duplicate the child theme."
+#~ msgstr "Anda tidak mempunyai kebenaran untuk mendua tema kanak-kanak."
+
+#~ msgid "You do not have the permission to access query/ selector menu."
+#~ msgstr ""
+#~ "Anda tidak mempunyai kebenaran untuk mengakses menu pertanyaan / pemilih."
+
+#~ msgid "You do not have the permission to access web fonts & CSS menu."
+#~ msgstr "Anda tidak mempunyai kebenaran untuk mengakses fon web & menu CSS."
+
+#~ msgid "You do not have the permission to copy files."
+#~ msgstr "Anda tidak mempunyai kebenaran untuk menyalin fail."
+
+#~ msgid "You do not have the permission to delete child files."
+#~ msgstr "Anda tidak mempunyai kebenaran untuk menghapus fail kanak-kanak."
+
+#~ msgid "You do not have the permission to upload new screenshot."
+#~ msgstr ""
+#~ "Anda tidak mempunyai kebenaran untuk memuat naik tangkapan skrin baru."
+
+#~ msgid "You do not have the permission to upload new images."
+#~ msgstr "Anda tidak mempunyai kebenaran untuk memuat naik gambar baru."
+
+#~ msgid "You do not have the permission to delete images."
+#~ msgstr "Anda tidak mempunyai kebenaran untuk menghapus gambar."
+
+#~ msgid "You do not have the permission to download file."
+#~ msgstr "Anda tidak mempunyai kebenaran untuk memuat turun fail."
+
+#~ msgid "You do not have the permission to create new directory."
+#~ msgstr "Anda tidak mempunyai kebenaran untuk membuat direktori baru."
+
+#~ msgid "You do not have the permission to create new file."
+#~ msgstr "Anda tidak mempunyai kebenaran untuk membuat fail baru."
+
+#~ msgid "You don't have permission to update file!"
+#~ msgstr "Anda tidak mempunyai kebenaran untuk mengemas kini fail!"
+
+#~ msgid "You don't have permission to create folder!"
+#~ msgstr "Anda tidak mempunyai kebenaran untuk membuat folder!"
+
+#~ msgid "You don't have permission to delete folder!"
+#~ msgstr "Anda tidak mempunyai kebenaran untuk menghapus folder!"
+
+#~ msgid "You don't have permission to delete file!"
+#~ msgstr "Anda tidak mempunyai kebenaran untuk memadam fail!"
+
+#~ msgid "You don't have permission to upload file!"
+#~ msgstr "Anda tidak mempunyai kebenaran untuk memuat naik fail!"
+
+#~ msgid "Child Theme permissions saved successfully."
+#~ msgstr "Kebenaran Tema Kanak-kanak berjaya disimpan."
+
+#~ msgid ""
+#~ "There are no changes made in the child theme permissions to be saved."
+#~ msgstr ""
+#~ "Tidak ada perubahan yang dibuat dalam kebenaran tema anak untuk disimpan."
+
+#~ msgid "Child Theme permission message saved successfully."
+#~ msgstr "Mesej kebenaran Tema Kanak-kanak berjaya disimpan."
+
+#~ msgid "Users"
+#~ msgstr "Pengguna"
+
+#~ msgid "Create New Child Theme"
+#~ msgstr "Buat Tema Kanak-kanak Baru"
+
+#~ msgid "Configure an Existing Child Themes"
+#~ msgstr "Konfigurasikan Tema Kanak-kanak Sedia Ada"
+
+#~ msgid "Duplicate Child Themes"
+#~ msgstr "Gandakan Tema Kanak-kanak"
+
+#~ msgid "Query/ Selector"
+#~ msgstr "Pertanyaan / Pemilih"
+
+#~ msgid "Web/font"
+#~ msgstr "Web / fon"
+
+#~ msgid "Copy File Parent Theme To Child Theme"
+#~ msgstr "Salin Tema Ibu Bapa Fail Ke Tema Anak"
+
+#~ msgid "Deleted Child Files"
+#~ msgstr "Fail Kanak-kanak yang Dihapuskan"
+
+#~ msgid "Upload New Screenshoot"
+#~ msgstr "Muat naik Tangkapan Skrin Baru"
+
+#~ msgid "Upload New Images"
+#~ msgstr "Muat Naik Gambar Baru"
+
+#~ msgid "Deleted Images "
+#~ msgstr "Gambar yang Dihapuskan"
+
+#~ msgid "Download Images"
+#~ msgstr "Muat turun Imej"
+
+#~ msgid "Create New Directory"
+#~ msgstr "Buat Direktori Baru"
+
+#~ msgid "Create New Files"
+#~ msgstr "Buat Fail Baru"
+
+#~ msgid "Export Theme"
+#~ msgstr "Tema Eksport"
+
+#~ msgid "User Roles"
+#~ msgstr "Peranan Pengguna"
+
+#~ msgid "Query/ Seletor"
+#~ msgstr "Pertanyaan / Seletor"
+
+#~ msgid "Deleted Images"
+#~ msgstr "Gambar yang Dihapuskan"
+
+#~ msgid "Child Theme Permission Message"
+#~ msgstr "Mesej Kebenaran Tema Kanak-kanak"
+
+#~ msgid "You do not have the permission to create new Child Theme."
+#~ msgstr "Anda tidak mempunyai kebenaran untuk membuat Tema Kanak-kanak baru."
+
+#~ msgid "Query/Selector"
+#~ msgstr "Pertanyaan / Pemilih"
+
+#~ msgid "You do not have the permission to access query / selector menu."
+#~ msgstr ""
+#~ "Anda tidak mempunyai kebenaran untuk mengakses menu pertanyaan / pemilih."
+
+#~ msgid " Web/font"
+#~ msgstr "Web / fon"
+
+#~ msgid " Export Theme"
+#~ msgstr "Tema Eksport"
+
+#~ msgid "Save Child Theme Message"
+#~ msgstr "Mesej Kebenaran Tema Kanak-kanak"
+
+#~ msgid "Please select atleast one image."
+#~ msgstr "Pilih sekurang-kurangnya satu gambar."
+
+#~ msgid "You don't have the permission to delete images."
+#~ msgstr "Anda tidak mempunyai kebenaran untuk menghapus gambar."
+
+#~ msgid "You don't have the permission to upload new images."
+#~ msgstr "Anda tidak mempunyai kebenaran untuk memuat naik gambar baru."
+
+#~ msgid "You don't have the permission to download."
+#~ msgstr "Anda tidak mempunyai kebenaran untuk memuat turun."
+
+#~ msgid "You don't have the permission to create new directory."
+#~ msgstr "Anda tidak mempunyai kebenaran untuk membuat direktori baru."
+
+#~ msgid "Please choose file type."
+#~ msgstr "Sila pilih jenis fail."
+
+#~ msgid "Please enter file name."
+#~ msgstr "Sila masukkan nama fail."
+
+#~ msgid "You don't have the permission to create new file."
+#~ msgstr "Anda tidak mempunyai kebenaran untuk membuat fail baru."
+
+#~ msgid "Are you sure to copy parent files into child theme?"
+#~ msgstr "Adakah anda pasti menyalin fail induk ke tema anak?"
+
+#~ msgid "Please select file(s)."
+#~ msgstr "Sila pilih fail."
+
+#~ msgid "You don't have the permission to copy files."
+#~ msgstr "Anda tidak mempunyai kebenaran untuk menyalin fail."
+
+#~ msgid "Are you sure you want to delete selected file(s)?"
+#~ msgstr "Adakah anda pasti mahu menghapus fail yang dipilih?"
+
+#~ msgid "You don't have the permission to delete child files."
+#~ msgstr "Anda tidak mempunyai kebenaran untuk menghapus fail anak."
+
+#~ msgid "You don't have the permission to upload new screenshot."
+#~ msgstr ""
+#~ "Anda tidak mempunyai kebenaran untuk memuat naik tangkapan skrin baru."
+
+#~ msgid "You don't have the permission to export theme."
+#~ msgstr "Anda tidak mempunyai kebenaran untuk mengeksport tema."
+
+#~ msgid "You don't have the permission to access Query/ Selector menu."
+#~ msgstr ""
+#~ "Anda tidak mempunyai kebenaran untuk mengakses menu Pertanyaan / Pemilih."
+
+#~ msgid "You don't have the permission to access Web Fonts & CSS menu."
+#~ msgstr "Anda tidak mempunyai kebenaran untuk mengakses menu Web Font & CSS."
+
+#~ msgid "Current Analysis Theme:"
+#~ msgstr "Tema Analisis Semasa:"
+
+#~ msgid "Preview Theme"
+#~ msgstr "Tema Pratonton"
+
+#~ msgid "Parent Themes"
+#~ msgstr "Tema Ibu Bapa"
+
+#~ msgid "Child Themes"
+#~ msgstr "Tema Kanak-kanak"
+
+#~ msgid "Error: Settings Not Saved!"
+#~ msgstr "Ralat: Tetapan Tidak Disimpan!"
+
+#~ msgid "Email List"
+#~ msgstr "Senarai E-mel"
+
+#~ msgid "Email Address"
+#~ msgstr "Alamat emel"
+
+#~ msgid "Enter Email"
+#~ msgstr "Masukkan email"
+
+#~ msgid "Add More"
+#~ msgstr "Tambah Lagi"
+
+#~ msgid ""
+#~ "This address is used for notification purposes, like theme/plugin "
+#~ "notification."
+#~ msgstr ""
+#~ "Alamat ini digunakan untuk tujuan pemberitahuan, seperti pemberitahuan "
+#~ "tema / pemalam."
+
+#~ msgid "Theme Notification"
+#~ msgstr "Pemberitahuan Tema"
+
+#~ msgid "Notify on file update"
+#~ msgstr "Maklumkan pada kemas kini fail"
+
+#~ msgid ""
+#~ "Notification on theme file edit or update.<br/><strong>Default: </"
+#~ "strong>Yes"
+#~ msgstr ""
+#~ "Pemberitahuan mengenai pengeditan atau kemas kini fail tema. <br/> "
+#~ "<strong> Lalai: </strong> Ya"
+
+#~ msgid "Notify on files download"
+#~ msgstr "Beritahu pada muat turun fail"
+
+#~ msgid ""
+#~ "Notification on theme file edit download.<br/><strong>Default: </"
+#~ "strong>Yes"
+#~ msgstr ""
+#~ "Pemberitahuan mengenai muat turun edit fail tema. <br/> <strong> Lalai: </"
+#~ "strong> Ya"
+
+#~ msgid "Notify on theme download"
+#~ msgstr "Maklumkan semasa memuat turun tema"
+
+#~ msgid "Notification on theme download.<br/><strong>Default: </strong>Yes"
+#~ msgstr ""
+#~ "Pemberitahuan mengenai muat turun tema. <br/> <strong> Lalai: </strong> Ya"
+
+#~ msgid "Notify on files upload"
+#~ msgstr "Maklumkan pada muat naik fail"
+
+#~ msgid ""
+#~ "Notification on files upload in theme.<br/><strong>Default: </strong>Yes"
+#~ msgstr ""
+#~ "Pemberitahuan mengenai fail yang dimuat naik dalam tema. <br/> <strong> "
+#~ "Lalai: </strong> Ya"
+
+#~ msgid "Notify on create new file/folder"
+#~ msgstr "Maklumkan pada buat fail / folder baru"
+
+#~ msgid ""
+#~ "Notification on create new file/folder in theme.<br/><strong>Default: </"
+#~ "strong>Yes"
+#~ msgstr ""
+#~ "Pemberitahuan tentang membuat fail / folder baru dalam tema. <br/> "
+#~ "<strong> Lalai: </strong> Ya"
+
+#~ msgid "Notify on delete"
+#~ msgstr "Maklumkan semasa hapus"
+
+#~ msgid ""
+#~ "Notify on delete any file and folder in themes.<br/><strong>Default: </"
+#~ "strong>Yes"
+#~ msgstr ""
+#~ "Beritahu untuk menghapus fail dan folder dalam tema. <br/> <strong> "
+#~ "Lalai: </strong> Ya"
+
+#~ msgid "Notify on create New Child theme"
+#~ msgstr "Maklumkan mengenai membuat tema Anak Baru"
+
+#~ msgid ""
+#~ "Notify on Create New Child themes. <br/><strong>Default: </strong>Yes"
+#~ msgstr ""
+#~ "Maklumkan mengenai tema Buat Anak Baru. <br/> <strong> Lalai: </strong> Ya"
+
+#~ msgid "Notify on configure an Existing Child themes"
+#~ msgstr "Maklumkan untuk mengkonfigurasi tema Anak Sedia Ada"
+
+#~ msgid ""
+#~ "Notify on configure an Existing Child themes.<br/><strong>Default: </"
+#~ "strong>Yes"
+#~ msgstr ""
+#~ "Beritahu untuk mengkonfigurasi tema Anak Sedia Ada. <br/> <strong> Lalai: "
+#~ "</strong> Ya"
+
+#~ msgid "Notify on Duplicate Child themes"
+#~ msgstr "Beritahu mengenai tema Pendua Anak"
+
+#~ msgid ""
+#~ "Notify on Configure an Existing Child themes.<br/><strong>Default: </"
+#~ "strong>Yes"
+#~ msgstr ""
+#~ "Beritahu mengenai Konfigurasikan tema Anak yang Ada. <br/> <strong> "
+#~ "Lalai: </strong> Ya"
+
+#~ msgid "Plugin Notification"
+#~ msgstr "Pemberitahuan Pemalam"
+
+#~ msgid ""
+#~ "Notification on theme file edit or update.<br/><strong>Default: </"
+#~ "strong>yes"
+#~ msgstr ""
+#~ "Pemberitahuan mengenai pengeditan atau kemas kini fail tema. <br/> "
+#~ "<strong> Lalai: </strong> ya"
+
+#~ msgid "Notify on Plugin download"
+#~ msgstr "Maklumkan pada muat turun Plugin"
+
+#~ msgid "Notification on Plugin download.<br/><strong>Default: </strong>Yes"
+#~ msgstr ""
+#~ "Pemberitahuan mengenai muat turun Plugin. <br/> <strong> Lalai: </strong> "
+#~ "Ya"
+
+#~ msgid ""
+#~ "Notification on file upload in theme.<br/><strong>Default: </strong>Yes"
+#~ msgstr ""
+#~ "Pemberitahuan mengenai muat naik fail dalam tema. <br/> <strong> Lalai: </"
+#~ "strong> Ya"
+
+#~ msgid "Permission saved successfully."
+#~ msgstr "Kebenaran berjaya disimpan."
+
+#~ msgid "Oops! Permission cannot saved because you have not made any changes."
+#~ msgstr ""
+#~ "Alamak! Kebenaran tidak dapat disimpan kerana anda belum membuat "
+#~ "perubahan."
+
+#~ msgid "Allowed User Roles"
+#~ msgstr "Peranan Pengguna yang Dibolehkan"
+
+#~ msgid "Update theme files"
+#~ msgstr "Kemas kini fail tema"
+
+#~ msgid "Create new theme files and folders"
+#~ msgstr "Buat fail dan folder tema baru"
+
+#~ msgid "Upload new theme files and folders"
+#~ msgstr "Muat naik fail tema dan folder baru"
+
+#~ msgid "Download theme files"
+#~ msgstr "Muat turun fail tema"
+
+#~ msgid "Download theme"
+#~ msgstr "Muat turun tema"
+
+#~ msgid "Update plugin files"
+#~ msgstr "Kemas kini fail pemalam"
+
+#~ msgid "Create new plugin files and folders"
+#~ msgstr "Buat fail dan folder pemalam baru"
+
+#~ msgid "Upload new plugin files and folders"
+#~ msgstr "Muat naik fail dan folder pemalam baru"
+
+#~ msgid "Delete plugin files and folders"
+#~ msgstr "Padamkan fail dan folder pemalam"
+
+#~ msgid "Download plugin files"
+#~ msgstr "Muat turun fail pemalam"
+
+#~ msgid "Download plugin"
+#~ msgstr "Muat turun pemalam"
+
+#~ msgid "Rename File"
+#~ msgstr "Namakan semula Fail"
+
+#~ msgid ""
+#~ "Theme Editor PRO - Please add your order details below. If Not <a href="
+#~ "\"https://themeeditor.pro/product/theme-editor/\" target=\"_blank\" class="
+#~ "\"page-title-action button button-primary\" title=\"click to buy Licence "
+#~ "Key\">Buy Now</a>"
+#~ msgstr ""
+#~ "Tema Editor PRO - Sila masukkan butiran pesanan anda di bawah. Jika tidak "
+#~ "<a href=\"https://themeeditor.pro/product/theme-editor/\" target=\"_blank"
+#~ "\" class=\"page-title-action button button-primary\" title=\"click to buy "
+#~ "Licence Key\">Beli Sekarang </a>"
+
+#~ msgid "ORDER ID (#) *"
+#~ msgstr "ID PESANAN (#) *"
+
+#~ msgid "Enter Order ID"
+#~ msgstr "Masukkan ID Pesanan"
+
+#~ msgid "Please Check Your email for order ID."
+#~ msgstr "Sila Periksa e-mel anda untuk mendapatkan ID pesanan."
+
+#~ msgid "LICENCE KEY *"
+#~ msgstr "KUNCI LESEN *"
+
+#~ msgid "Enter License Key"
+#~ msgstr "Masukkan Kunci Lesen"
+
+#~ msgid "Please Check Your email for Licence Key."
+#~ msgstr "Sila Periksa E-mel Anda untuk Kunci Lesen."
+
+#~ msgid "Click To Verify"
+#~ msgstr "Klik Untuk mengesahkan"
+
+#~ msgid "URL/None"
+#~ msgstr "URL / Tiada"
+
+#~ msgid "Origin"
+#~ msgstr "Asal"
+
+#~ msgid "Color 1"
+#~ msgstr "Warna 1"
+
+#~ msgid "Color 2"
+#~ msgstr "Warna 2"
+
+#~ msgid "Width/None"
+#~ msgstr "Lebar / Tiada"
+
+#~ msgid "Style"
+#~ msgstr "Gaya"
+
+#~ msgid "Color"
+#~ msgstr "Warna"
+
+#~ msgid "Configure Child Theme"
+#~ msgstr "Konfigurasikan Tema Kanak-kanak"
+
+#~ msgid "Duplicate Child theme"
+#~ msgstr "Gandakan Tema Kanak-kanak"
+
+#~ msgid ""
+#~ "After analyzing, this theme is working fine. You can use this as your "
+#~ "Child Theme."
+#~ msgstr ""
+#~ "Setelah menganalisis, tema ini berfungsi dengan baik. Anda boleh "
+#~ "menggunakannya sebagai Tema Anak anda."
+
+#~ msgid ""
+#~ "After analyzing this child theme appears to be functioning correctly."
+#~ msgstr ""
+#~ "Setelah menganalisis tema kanak-kanak ini nampaknya berfungsi dengan "
+#~ "betul."
+
+#~ msgid ""
+#~ "This theme loads additional stylesheets after the <code>style.css</code> "
+#~ "file:"
+#~ msgstr ""
+#~ "Tema ini memuatkan lembaran gaya tambahan selepas fail <code> style.css </"
+#~ "code>:"
+
+#~ msgid "The theme"
+#~ msgstr "Nama Tema"
+
+#~ msgid " could not be analyzed because the preview did not render correctly"
+#~ msgstr "tidak dapat dianalisis kerana pratonton tidak dibuat dengan betul"
+
+#~ msgid "This Child Theme has not been configured for this plugin"
+#~ msgstr "Tema Kanak-kanak ini belum dikonfigurasikan untuk pemalam ini"
+
+#~ msgid ""
+#~ "The Configurator makes significant modifications to the child theme, "
+#~ "including stylesheet changes and additional php functions. Please "
+#~ "consider using the DUPLICATE child theme option (see step 1, above) and "
+#~ "keeping the original as a backup."
+#~ msgstr ""
+#~ "Configurator membuat pengubahsuaian yang signifikan pada tema anak, "
+#~ "termasuk perubahan helaian gaya dan fungsi php tambahan. Pertimbangkan "
+#~ "untuk menggunakan pilihan tema anak DUPLICATE (lihat langkah 1, di atas) "
+#~ "dan simpan yang asli sebagai sandaran."
+
+#~ msgid "All webfonts/css information saved successfully."
+#~ msgstr "Semua maklumat webfonts / css berjaya disimpan."
+
+#~ msgid "Please enter value for webfonts/css."
+#~ msgstr "Sila masukkan nilai untuk webfonts / css."
+
+#~ msgid "You don\\'t have permission to update webfonts/css."
+#~ msgstr "Anda tidak mempunyai kebenaran untuk mengemas kini fon web / css."
+
+#~ msgid "All information saved successfully."
+#~ msgstr "Semua maklumat berjaya disimpan."
+
+#~ msgid ""
+#~ "Are you sure you wish to RESET? This will destroy any work you have done "
+#~ "in the Configurator."
+#~ msgstr ""
+#~ "Adakah anda pasti mahu MENGESAN semula? Ini akan menghancurkan setiap "
+#~ "kerja yang telah anda lakukan di Configurator."
+
+#~ msgid "Selectors"
+#~ msgstr "Pemilih"
+
+#~ msgid "Edit Selector"
+#~ msgstr "Edit Pemilih"
+
+#~ msgid "The stylesheet cannot be displayed."
+#~ msgstr "Lembaran gaya tidak dapat dipaparkan."
+
+#~ msgid "(Child Only)"
+#~ msgstr "(Kanak-kanak Sahaja)"
+
+#~ msgid "Please enter a valid Child Theme."
+#~ msgstr "Sila masukkan Tema Kanak-kanak yang sah."
+
+#~ msgid "Please enter a valid Child Theme name."
+#~ msgstr "Sila masukkan nama Tema Kanak-kanak yang sah."
+
+#, php-format
+#~ msgid "<strong>%s</strong> exists. Please enter a different Child Theme"
+#~ msgstr "<strong>%s</strong> ada. Sila masukkan Tema Kanak-kanak yang lain"
+
+#~ msgid "The page could not be loaded correctly."
+#~ msgstr "Halaman tidak dapat dimuat dengan betul."
+
+#~ msgid ""
+#~ "Conflicting or out-of-date jQuery libraries were loaded by another plugin:"
+#~ msgstr ""
+#~ "Perpustakaan jQuery yang bertentangan atau ketinggalan zaman dimuat oleh "
+#~ "pemalam lain:"
+
+#~ msgid "Deactivating or replacing plugins may resolve this issue."
+#~ msgstr ""
+#~ "Menyahaktifkan atau mengganti pemalam boleh menyelesaikan masalah ini."
+
+#~ msgid "No result found for the selection."
+#~ msgstr "Hasil tidak dijumpai untuk pemilihan."
+
+#, php-format
+#~ msgid "%sWhy am I seeing this?%s"
+#~ msgstr "%sMengapa saya melihat ini?%s"
+
+#~ msgid "Parent / Child"
+#~ msgstr "Ibu bapa / Anak"
+
+#~ msgid "Select an action:"
+#~ msgstr "Pilih tindakan:"
+
+#~ msgid "Create a new Child Theme"
+#~ msgstr "Buat Tema Kanak-kanak baru"
+
+#~ msgid "Configure an existing Child Theme"
+#~ msgstr "Konfigurasikan Tema Kanak-kanak yang ada"
+
+#~ msgid "Duplicate an existing Child Theme"
+#~ msgstr "Gandakan Tema Kanak-kanak yang ada"
+
+#~ msgid "Select a Parent Theme:"
+#~ msgstr "Pilih Tema Ibu Bapa:"
+
+#~ msgid "Analyze Parent Theme"
+#~ msgstr "Menganalisis Tema Ibu Bapa"
+
+#~ msgid ""
+#~ "Click \"Analyze\" to determine stylesheet dependencies and other "
+#~ "potential issues."
+#~ msgstr ""
+#~ "Klik \"Analisis\" untuk menentukan kebergantungan helaian gaya dan "
+#~ "kemungkinan masalah lain."
+
+#~ msgid "Analyze"
+#~ msgstr "Menganalisis"
+
+#~ msgid "Select a Child Theme:"
+#~ msgstr "Pilih Tema Kanak-kanak:"
+
+#~ msgid "Analyze Child Theme"
+#~ msgstr "Menganalisis Tema Kanak-kanak"
+
+#~ msgid "Name the new theme directory:"
+#~ msgstr "Namakan direktori tema baru:"
+
+#~ msgid "Directory Name"
+#~ msgstr "Nama Direktori"
+
+#~ msgid "NOTE:"
+#~ msgstr "NOTA:"
+
+#~ msgid ""
+#~ "This is NOT the name of the Child Theme. You can customize the name, "
+#~ "description, etc. in step 7, below."
+#~ msgstr ""
+#~ "Ini BUKAN nama Tema Kanak-kanak. Anda boleh menyesuaikan nama, "
+#~ "keterangan, dll di langkah 7, di bawah."
+
+#~ msgid "Verify Child Theme directory:"
+#~ msgstr "Sahkan direktori Tema Kanak-kanak:"
+
+#~ msgid ""
+#~ "For verification only (you cannot modify the directory of an existing "
+#~ "Child Theme)."
+#~ msgstr ""
+#~ "Untuk pengesahan sahaja (anda tidak dapat mengubah direktori Tema Kanak-"
+#~ "kanak yang ada)."
+
+#~ msgid "Select where to save new styles:"
+#~ msgstr "Pilih tempat menyimpan gaya baru:"
+
+#~ msgid "Primary Stylesheet (style.css)"
+#~ msgstr "Lembaran Gaya Utama (style.css)"
+
+#~ msgid ""
+#~ "Save new custom styles directly to the Child Theme primary stylesheet, "
+#~ "replacing the existing values. The primary stylesheet will load in the "
+#~ "order set by the theme."
+#~ msgstr ""
+#~ "Simpan gaya tersuai baru terus ke lembaran gaya utama Tema Kanak-kanak, "
+#~ "menggantikan nilai yang ada. Lembaran gaya utama akan dimuat mengikut "
+#~ "urutan yang ditetapkan oleh tema."
+
+#~ msgid "Separate Stylesheet"
+#~ msgstr "Lembaran Gaya yang berasingan"
+
+#~ msgid ""
+#~ "Save new custom styles to a separate stylesheet and combine any existing "
+#~ "child theme styles with the parent to form baseline. Select this option "
+#~ "if you want to preserve the existing child theme styles instead of "
+#~ "overwriting them. This option also allows you to customize stylesheets "
+#~ "that load after the primary stylesheet."
+#~ msgstr ""
+#~ "Simpan gaya tersuai baru ke helaian gaya yang terpisah dan gabungkan gaya "
+#~ "tema anak yang ada dengan ibu bapa untuk membentuk garis dasar. Pilih "
+#~ "pilihan ini jika anda ingin mengekalkan gaya tema kanak-kanak yang ada "
+#~ "dan bukannya menimpanya. Pilihan ini juga membolehkan anda menyesuaikan "
+#~ "helaian gaya yang dimuat setelah lembaran gaya utama."
+
+#~ msgid "Select Parent Theme stylesheet handling:"
+#~ msgstr "Pilih pengendalian lembaran gaya Tema Ibu Bapa:"
+
+#~ msgid "Use the WordPress style queue."
+#~ msgstr "Gunakan barisan gaya WordPress."
+
+#~ msgid ""
+#~ "Let the Configurator determine the appropriate actions and dependencies "
+#~ "and update the functions file automatically."
+#~ msgstr ""
+#~ "Biarkan Configurator menentukan tindakan dan kebergantungan yang sesuai "
+#~ "dan mengemas kini fail fungsi secara automatik."
+
+#~ msgid "Use <code>@import</code> in the child theme stylesheet."
+#~ msgstr "Gunakan <code> @import </code> di helaian gaya tema anak."
+
+#~ msgid ""
+#~ "Only use this option if the parent stylesheet cannot be loaded using the "
+#~ "WordPress style queue. Using <code>@import</code> is not recommended."
+#~ msgstr ""
+#~ "Hanya gunakan pilihan ini jika helaian gaya induk tidak dapat dimuat "
+#~ "menggunakan barisan gaya WordPress. Tidak digalakkan menggunakan <code> "
+#~ "@import </code>."
+
+#~ msgid "Do not add any parent stylesheet handling."
+#~ msgstr "Jangan tambah pengendalian helaian gaya ibu bapa."
+
+#~ msgid ""
+#~ "Select this option if this theme already handles the parent theme "
+#~ "stylesheet or if the parent theme's <code>style.css</code> file is not "
+#~ "used for its appearance."
+#~ msgstr ""
+#~ "Pilih pilihan ini jika tema ini sudah menangani lembaran gaya tema induk "
+#~ "atau jika fail <code> style.css </code> tema induk tidak digunakan untuk "
+#~ "penampilannya."
+
+#~ msgid "Advanced handling options"
+#~ msgstr "Pilihan pengendalian lanjutan"
+
+#~ msgid "Ignore parent theme stylesheets."
+#~ msgstr "Abaikan helaian gaya tema ibu bapa."
+
+#~ msgid ""
+#~ "Select this option if this theme already handles the parent theme "
+#~ "stylesheet or if the parent theme's style.css file is not used for its "
+#~ "appearance."
+#~ msgstr ""
+#~ "Pilih pilihan ini jika tema ini sudah menangani helaian gaya tema induk "
+#~ "atau jika fail gaya.css tema induk tidak digunakan untuk penampilannya."
+
+#~ msgid "Repair the header template in the child theme."
+#~ msgstr "Perbaiki templat tajuk dalam tema anak."
+
+#~ msgid ""
+#~ "Let the Configurator (try to) resolve any stylesheet issues listed above. "
+#~ "This can fix many, but not all, common problems."
+#~ msgstr ""
+#~ "Biarkan Configurator (cuba) menyelesaikan masalah helaian gaya yang "
+#~ "disenaraikan di atas. Ini dapat menyelesaikan banyak, tetapi tidak semua, "
+#~ "masalah biasa."
+
+#~ msgid "Remove stylesheet dependencies"
+#~ msgstr "Keluarkan kebergantungan helaian gaya"
+
+#~ msgid ""
+#~ "By default, the order of stylesheets that load prior to the primary "
+#~ "stylesheet is preserved by treating them as dependencies. In some cases, "
+#~ "stylesheets are detected in the preview that are not used site-wide. If "
+#~ "necessary, dependency can be removed for specific stylesheets below."
+#~ msgstr ""
+#~ "Secara lalai, susunan helaian gaya yang dimuat sebelum lembaran gaya "
+#~ "utama dipelihara dengan memperlakukannya sebagai dependensi. Dalam "
+#~ "beberapa kes, helaian gaya dikesan dalam pratonton yang tidak digunakan "
+#~ "di seluruh laman web. Sekiranya perlu, kebergantungan dapat dikeluarkan "
+#~ "untuk helaian gaya tertentu di bawah."
+
+#~ msgid "Child Theme Name"
+#~ msgstr "Nama Tema Kanak-kanak"
+
+#~ msgid "Theme Name"
+#~ msgstr "Nama Tema"
+
+#~ msgid "Theme Website"
+#~ msgstr "Laman Web Tema"
+
+#~ msgid "Author"
+#~ msgstr "Pengarang"
+
+#~ msgid "Author Website"
+#~ msgstr "Laman Web Pengarang"
+
+#~ msgid "Theme Description"
+#~ msgstr "Huraian Tema"
+
+#~ msgid "Description"
+#~ msgstr "Penerangan"
+
+#~ msgid "Tags"
+#~ msgstr "Teg"
+
+#~ msgid ""
+#~ "Copy Menus, Widgets and other Customizer Settings from the Parent Theme "
+#~ "to the Child Theme:"
+#~ msgstr ""
+#~ "Salin Menu, Widget dan Tetapan Penyesuai lain dari Tema Ibu Bapa ke Tema "
+#~ "Anak:"
+
+#~ msgid ""
+#~ "This option replaces the Child Theme's existing Menus, Widgets and other "
+#~ "Customizer Settings with those from the Parent Theme. You should only "
+#~ "need to use this option the first time you configure a Child Theme."
+#~ msgstr ""
+#~ "Pilihan ini menggantikan Menu, Widget dan Tetapan Penyesuai Tema Anak "
+#~ "yang ada dengan Tema Orang Tua. Anda hanya perlu menggunakan pilihan ini "
+#~ "pada kali pertama anda mengkonfigurasi Tema Kanak-kanak."
+
+#~ msgid "Click to run the Configurator:"
+#~ msgstr "Klik untuk menjalankan Configurator:"
+
+#~ msgid "Query / Selector"
+#~ msgstr "Pertanyaan / Pemilih"
+
+#~ msgid ""
+#~ "To find specific selectors within @media query blocks, first choose the "
+#~ "query, then the selector. Use the \"base\" query to edit all other "
+#~ "selectors."
+#~ msgstr ""
+#~ "Untuk mencari pemilih tertentu dalam blok pertanyaan @media, pertama "
+#~ "pilih pertanyaan, kemudian pemilih. Gunakan pertanyaan \"asas\" untuk "
+#~ "mengedit semua pemilih lain."
+
+#~ msgid "@media Query"
+#~ msgstr "Pertanyaan @media"
+
+#~ msgid "( or \"base\" )"
+#~ msgstr "(atau \"asas\")"
+
+#~ msgid "Selector"
+#~ msgstr "Pemilih"
+
+#~ msgid "Query/Selector Action"
+#~ msgstr "Pertanyaan / Tindakan Pemilih"
+
+#~ msgid "Save Child Values"
+#~ msgstr "Simpan Nilai Anak"
+
+#~ msgid "Delete Child Values"
+#~ msgstr "Padamkan Nilai Anak"
+
+#~ msgid "Property"
+#~ msgstr "Harta tanah"
+
+#~ msgid "Baseline Value"
+#~ msgstr "Nilai Asas"
+
+#~ msgid "Child Value"
+#~ msgstr "Nilai Anak"
+
+#~ msgid "error"
+#~ msgstr "kesilapan"
+
+#~ msgid "You do not have permission to configure child themes."
+#~ msgstr ""
+#~ "Anda tidak mempunyai kebenaran untuk mengkonfigurasi tema kanak-kanak."
+
+#, php-format
+#~ msgid "%s does not exist. Please select a valid Parent Theme."
+#~ msgstr "%s tidak wujud. Sila pilih Tema Ibu Bapa yang sah."
+
+#~ msgid "The Functions file is required and cannot be deleted."
+#~ msgstr "Fail Fungsi diperlukan dan tidak dapat dihapuskan."
+
+#~ msgid "Please select a valid Parent Theme."
+#~ msgstr "Sila pilih Tema Ibu Bapa yang sah."
+
+#~ msgid "Please select a valid Child Theme."
+#~ msgstr "Sila pilih Tema Kanak-kanak yang sah."
+
+#~ msgid "Please enter a valid Child Theme directory name."
+#~ msgstr "Sila masukkan nama direktori Tema Kanak-kanak yang sah."
+
+#, php-format
+#~ msgid ""
+#~ "<strong>%s</strong> exists. Please enter a different Child Theme template "
+#~ "name."
+#~ msgstr ""
+#~ "<strong>%s</strong> ada. Sila masukkan nama templat Tema Kanak-kanak yang "
+#~ "lain."
+
+#~ msgid "Your theme directories are not writable."
+#~ msgstr "Direktori tema anda tidak boleh ditulis."
+
+#~ msgid "Could not upgrade child theme"
+#~ msgstr "Tidak dapat menaik taraf tema kanak-kanak"
+
+#~ msgid "Your stylesheet is not writable."
+#~ msgstr "Lembaran gaya anda tidak boleh ditulis."
+
+#~ msgid ""
+#~ "A closing PHP tag was detected in Child theme functions file so \"Parent "
+#~ "Stylesheet Handling\" option was not configured. Closing PHP at the end "
+#~ "of the file is discouraged as it can cause premature HTTP headers. Please "
+#~ "edit <code>functions.php</code> to remove the final <code>?&gt;</code> "
+#~ "tag and click \"Generate/Rebuild Child Theme Files\" again."
+#~ msgstr ""
+#~ "Tag PHP penutup dikesan dalam fail fungsi tema Anak sehingga pilihan "
+#~ "\"Pengendalian Lembar Gaya Orang Tua\" tidak dikonfigurasi. Menutup PHP "
+#~ "di akhir fail tidak digalakkan kerana boleh menyebabkan tajuk HTTP "
+#~ "pramatang. Sila edit <code> functions.php </code> untuk membuang tag "
+#~ "<code>?&gt;</code> akhir dan klik \"Jana / Bangun semula Filem Tema Kanak-"
+#~ "kanak\" sekali lagi."
+
+#, php-format
+#~ msgid "Could not copy file: %s"
+#~ msgstr "Tidak dapat menyalin fail: %s"
+
+#, php-format
+#~ msgid "Could not delete %s file."
+#~ msgstr "Tidak dapat menghapus fail %s."
+
+#, php-format
+#~ msgid "could not copy %s"
+#~ msgstr "tidak dapat menyalin %s"
+
+#, php-format
+#~ msgid "invalid dir: %s"
+#~ msgstr "dir tidak sah: %s"
+
+#~ msgid "There were errors while resetting permissions."
+#~ msgstr "Terdapat ralat semasa menetapkan semula kebenaran."
+
+#~ msgid "Could not upload file."
+#~ msgstr "Tidak dapat memuat naik fail."
+
+#~ msgid "Invalid theme root directory."
+#~ msgstr "Direktori root tema tidak sah."
+
+#~ msgid "No writable temp directory."
+#~ msgstr "Tiada direktori temp yang boleh ditulis."
+
+#, php-format
+#~ msgid "Unpack failed -- %s"
+#~ msgstr "Membongkar gagal -- %s"
+
+#, php-format
+#~ msgid "Pack failed -- %s"
+#~ msgstr "Pek gagal -- %s"
+
+#~ msgid "Maximum number of styles exceeded."
+#~ msgstr "Melebihi bilangan gaya maksimum."
+
+#, php-format
+#~ msgid "Error moving file: %s"
+#~ msgstr "Ralat semasa memindahkan fail: %s"
+
+#~ msgid "Could not set write permissions."
+#~ msgstr "Tidak dapat menetapkan kebenaran menulis."
+
+#~ msgid "Error:"
+#~ msgstr "Ralat:"
+
+#, php-format
+#~ msgid "Current Analysis Child Theme <strong>%s</strong> has been reset."
+#~ msgstr ""
+#~ "Tema Anak Analisis Semasa <strong>%s</strong> telah ditetapkan semula."
+
+#~ msgid "Update Key saved successfully."
+#~ msgstr "Kunci Kemas kini berjaya disimpan."
+
+#~ msgid "Child Theme files modified successfully."
+#~ msgstr "Fail Tema Kanak-kanak berjaya diubah suai."
+
+#, php-format
+#~ msgid "Child Theme <strong>%s</strong> has been generated successfully."
+#~ msgstr "Tema Kanak-kanak <strong>%s</strong> telah berjaya dihasilkan."
+
+#~ msgid "Web Fonts & CSS"
+#~ msgstr "Fon Web & CSS"
+
+#~ msgid "Parent Styles"
+#~ msgstr "Gaya Ibu Bapa"
+
+#~ msgid "Child Styles"
+#~ msgstr "Gaya Kanak-kanak"
+
+#~ msgid "View Child Images"
+#~ msgstr "Lihat Imej Kanak-kanak"
+
+#~ msgid ""
+#~ "Use <code>@import url( [path] );</code> to link additional stylesheets. "
+#~ "This Plugin uses the <code>@import</code> keyword to identify them and "
+#~ "convert them to <code>&lt;link&gt;</code> tags. <strong>Example:</strong>"
+#~ msgstr ""
+#~ "Gunakan <code> @import url ([path]); </code> untuk memautkan helaian gaya "
+#~ "tambahan. Plugin ini menggunakan kata kunci <code> @import </code> untuk "
+#~ "mengenal pasti dan menukarnya menjadi tag <code> &lt;link&gt;</code>. "
+#~ "<strong> Contoh: </strong>"
+
+#~ msgid "Save"
+#~ msgstr "Jimat"
+
+#~ msgid "Uploading image with same name will replace with existing image."
+#~ msgstr ""
+#~ "Memuat naik gambar dengan nama yang sama akan diganti dengan gambar yang "
+#~ "ada."
+
+#~ msgid "Upload New Child Theme Image"
+#~ msgstr "Muat Naik Gambar Tema Kanak-kanak Baru"
+
+#~ msgid "Delete Selected Images"
+#~ msgstr "Padamkan Gambar Terpilih"
+
+#~ msgid "Create a New Directory"
+#~ msgstr "Buat Direktori Baru"
+
+#~ msgid "New Directory will be created in"
+#~ msgstr "Direktori Baru akan dibuat di"
+
+#~ msgid "New Directory Name"
+#~ msgstr "Nama Direktori Baru"
+
+#~ msgid "Create a New File"
+#~ msgstr "Buat Fail Baru"
+
+#~ msgid "New File will be created in"
+#~ msgstr "Fail Baru akan dibuat di"
+
+#~ msgid "New File Name"
+#~ msgstr "Nama Fail Baru"
+
+#~ msgid "File Type Extension"
+#~ msgstr "Sambungan Jenis Fail"
+
+#~ msgid "Choose File Type"
+#~ msgstr "Pilih Jenis Fail"
+
+#~ msgid "PHP File"
+#~ msgstr "Fail PHP"
+
+#~ msgid "CSS File"
+#~ msgstr "Fail CSS"
+
+#~ msgid "JS File"
+#~ msgstr "Fail JS"
+
+#~ msgid "Text File"
+#~ msgstr "Fail Teks"
+
+#~ msgid "PHP File Type"
+#~ msgstr "Jenis Fail PHP"
+
+#~ msgid "Simple PHP File"
+#~ msgstr "Fail PHP ringkas"
+
+#~ msgid "Wordpress Template File"
+#~ msgstr "Fail Templat Wordpress"
+
+#~ msgid "Template Name"
+#~ msgstr "Nama Templat"
+
+#~ msgid "Parent Templates"
+#~ msgstr "Templat Ibu Bapa"
+
+#~ msgid ""
+#~ "Copy PHP templates from the parent theme by selecting them here. The "
+#~ "Configurator defines a template as a Theme PHP file having no PHP "
+#~ "functions or classes. Other PHP files cannot be safely overridden by a "
+#~ "child theme."
+#~ msgstr ""
+#~ "Salin templat PHP dari tema induk dengan memilihnya di sini. Configurator "
+#~ "mendefinisikan templat sebagai fail PHP Tema yang tidak mempunyai fungsi "
+#~ "atau kelas PHP. Fail PHP yang lain tidak dapat diganti dengan selamat "
+#~ "oleh tema anak."
+
+#~ msgid ""
+#~ "CAUTION: If your child theme is active, the child theme version of the "
+#~ "file will be used instead of the parent immediately after it is copied."
+#~ msgstr ""
+#~ "PERHATIAN: Sekiranya tema anak anda aktif, versi tema kanak-kanak fail "
+#~ "akan digunakan dan bukannya ibu bapa sebaik sahaja disalin."
+
+#~ msgid " file is generated separately and cannot be copied here. "
+#~ msgstr "fail dihasilkan secara berasingan dan tidak dapat disalin di sini."
+
+#~ msgid "Copy Selected to Child Theme"
+#~ msgstr "Salin Dipilih ke Tema Kanak-kanak"
+
+#~ msgid " Child Theme Files "
+#~ msgstr "Fail Tema Kanak-kanak"
+
+#~ msgid "Click to edit files using the Theme Editor"
+#~ msgstr "Klik untuk mengedit fail menggunakan Tema Editor"
+
+#~ msgid "Delete child theme templates by selecting them here."
+#~ msgstr "Padamkan templat tema kanak-kanak dengan memilihnya di sini."
+
+#~ msgid "Delete Selected"
+#~ msgstr "Padam Terpilih"
+
+#~ msgid "Child Theme Screenshot"
+#~ msgstr "Tangkapan Skrin Tema Kanak-kanak"
+
+#~ msgid "Upload New Screenshot"
+#~ msgstr "Muat Naik Tangkapan Skrin Baru"
+
+#~ msgid ""
+#~ "The theme screenshot should be a 4:3 ratio (e.g., 880px x 660px) JPG, PNG "
+#~ "or GIF. It will be renamed"
+#~ msgstr ""
+#~ "Tangkapan skrin tema mestilah nisbah 4: 3 (mis., 880 piksel x 660 piksel) "
+#~ "JPG, PNG atau GIF. Ia akan dinamakan semula"
+
+#~ msgid "Screenshot"
+#~ msgstr "Tangkapan Skrin"
+
+#~ msgid "Upload New Child Theme Image "
+#~ msgstr "Muat Naik Gambar Tema Kanak-kanak Baru"
+
+#~ msgid ""
+#~ "Theme images reside under the images directory in your child theme and "
+#~ "are meant for stylesheet use only. Use the Media Library for content "
+#~ "images."
+#~ msgstr ""
+#~ "Gambar tema berada di bawah direktori gambar dalam tema anak anda dan "
+#~ "dimaksudkan untuk penggunaan gaya gaya sahaja. Gunakan Perpustakaan Media "
+#~ "untuk gambar kandungan."
+
+#~ msgid "Preview Current Child Theme (Current analysis)"
+#~ msgstr "Pratonton Tema Kanak-kanak Semasa (Analisis semasa)"
+
+#~ msgid "Preview Current Child Theme"
+#~ msgstr "Pratonton Tema Kanak-kanak Semasa"
+
+#~ msgid "Export Child Theme as Zip Archive"
+#~ msgstr "Eksport Tema Kanak-kanak sebagai Arkib Zip"
+
+#~ msgid ""
+#~ "Click \"Export Zip\" to save a backup of the currently loaded child "
+#~ "theme. You can export any of your themes from the Parent/Child tab."
+#~ msgstr ""
+#~ "Klik \"Export Zip\" untuk menyimpan sandaran tema kanak-kanak yang sedang "
+#~ "dimuat. Anda boleh mengeksport tema anda dari tab Ibu Bapa / Anak."
+
+#~ msgid "Export Child Theme"
+#~ msgstr "Eksport Tema Kanak-kanak"
+
+#~ msgid "Child Theme file(s) copied successfully!"
+#~ msgstr "Fail Tema Kanak-kanak berjaya disalin!"
+
+#~ msgid ""
+#~ "The file which you are trying to copy from Parent Templates does not exist"
+#~ msgstr "Fail yang anda cuba salin dari Parent Templates tidak ada"
+
+#~ msgid ""
+#~ "The file which you are trying to copy from Parent Templates is already "
+#~ "present in the Child Theme files."
+#~ msgstr ""
+#~ "Fail yang anda cuba salin dari Parent Templates sudah ada dalam fail Tema "
+#~ "Kanak-kanak."
+
+#~ msgid "Child "
+#~ msgstr "Anak"
+
+#~ msgid " and Parent "
+#~ msgstr "dan Ibu Bapa"
+
+#~ msgid " directories doesn't exist!"
+#~ msgstr "direktori tidak wujud!"
+
+#~ msgid " directory doesn't exist!"
+#~ msgstr "direktori tidak wujud!"
+
+#~ msgid "Parent "
+#~ msgstr "Ibu bapa"
+
+#~ msgid "Unknown error! "
+#~ msgstr "Ralat tidak diketahui!"
+
+#~ msgid "You don't have permission to copy the files!"
+#~ msgstr "Anda tidak mempunyai kebenaran untuk menyalin fail!"
+
+#~ msgid "All selected file(s) have been deleted successfully!"
+#~ msgstr "Semua fail yang dipilih berjaya dihapuskan!"
+
+#~ msgid " does not exists!"
+#~ msgstr "tidak wujud!"
+
+#~ msgid "This file extension is not allowed to upload!"
+#~ msgstr "Sambungan fail ini tidak dibenarkan dimuat naik!"
+
+#~ msgid "Image uploaded successfully!"
+#~ msgstr "Gambar berjaya dimuat naik!"
+
+#~ msgid "There is some issue in uploading image!"
+#~ msgstr "Terdapat beberapa masalah dalam memuat naik gambar!"
+
+#~ msgid ""
+#~ "This file extension is not allowed to upload as screenshot by wordpress!"
+#~ msgstr ""
+#~ "Sambungan fail ini tidak dibenarkan memuat naik sebagai tangkapan skrin "
+#~ "oleh wordpress!"
+
+#~ msgid "File uploaded successfully!"
+#~ msgstr "Fail berjaya dimuat naik!"
+
+#~ msgid "Child Theme files can't be modified."
+#~ msgstr "Fail Tema Kanak-kanak tidak dapat diubah suai."
+
+#~ msgid "File(s) deleted successfully!"
+#~ msgstr "Fail berjaya dipadam!"
+
+#~ msgid "You don't have permission to delete file(s)!"
+#~ msgstr "Anda tidak mempunyai kebenaran untuk menghapus fail!"
+
+#~ msgid "Entered directory name already exists"
+#~ msgstr "Nama direktori yang dimasukkan sudah ada"
+
+#~ msgid "You don't have permission to create directory!"
+#~ msgstr "Anda tidak mempunyai kebenaran untuk membuat direktori!"
+
+#~ msgid "Wordpress template file created"
+#~ msgstr "Fail templat Wordpress dibuat"
+
+#~ msgid "Wordpress template file not created"
+#~ msgstr "Fail templat Wordpress tidak dibuat"
+
+#~ msgid "PHP created file successfully"
+#~ msgstr "PHP berjaya membuat fail"
+
+#~ msgid "PHP file not created"
+#~ msgstr "Fail PHP tidak dibuat"
+
+#~ msgid " file not created"
+#~ msgstr "fail tidak dibuat"
+
+#~ msgid "Already exists"
+#~ msgstr "Sudah wujud"
+
+#~ msgid "You don't have permission to create file!"
+#~ msgstr "Anda tidak mempunyai kebenaran untuk membuat fail!"
+
+#~ msgid "create, edit, upload, download, delete Theme Files and folders"
+#~ msgstr "buat, edit, muat naik, muat turun, hapus Fail Tema dan folder"
+
+#~ msgid "Language folder has been downlaoded."
+#~ msgstr "Folder bahasa telah diturunkan."
+
+#~ msgid "Add single or multiple languages."
+#~ msgstr "Tambahkan bahasa tunggal atau berbilang."
+
+#~ msgid "Add single language file"
+#~ msgstr "Tambahkan fail bahasa tunggal"
+
+#~ msgid "Please click on language button."
+#~ msgstr "Sila tekan butang bahasa."
+
+#~ msgid "Add all languages zip folder"
+#~ msgstr "Tambahkan folder zip semua bahasa"
+
+#~ msgid "Zip Download"
+#~ msgstr "Muat turun Zip"

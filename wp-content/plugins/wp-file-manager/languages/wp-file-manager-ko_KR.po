@@ -1,0 +1,2651 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Theme Editor\n"
+"POT-Creation-Date: 2022-02-28 10:50+0530\n"
+"PO-Revision-Date: 2022-02-28 10:54+0530\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ko_KR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Poedit 3.0.1\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: __;_e;esc_attr__;esc_html__\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: file_folder_manager.php:174
+msgid "Themes backup restored successfully."
+msgstr "테마 백업이 성공적으로 복원되었습니다."
+
+#: file_folder_manager.php:177
+msgid "Unable to restore themes."
+msgstr "테마를 복원할 수 없습니다."
+
+#: file_folder_manager.php:207
+msgid "Uploads backup restored successfully."
+msgstr "업로드 백업이 성공적으로 복원되었습니다."
+
+#: file_folder_manager.php:211
+msgid "Unable to restore uploads."
+msgstr "업로드를 복원할 수 없습니다."
+
+#: file_folder_manager.php:237
+msgid "Others backup restored successfully."
+msgstr "기타 백업이 성공적으로 복원되었습니다."
+
+#: file_folder_manager.php:241
+msgid "Unable to restore others."
+msgstr "다른 사람을 복원할 수 없습니다."
+
+#: file_folder_manager.php:267
+msgid "Plugins backup restored successfully."
+msgstr "플러그인 백업이 성공적으로 복원되었습니다."
+
+#: file_folder_manager.php:271 file_folder_manager.php:301
+msgid "Unable to restore plugins."
+msgstr "플러그인을 복원할 수 없습니다."
+
+#: file_folder_manager.php:286
+msgid "Database backup restored successfully."
+msgstr "데이터베이스 백업이 성공적으로 복원되었습니다."
+
+#: file_folder_manager.php:286 file_folder_manager.php:297
+#: file_folder_manager.php:588 file_folder_manager.php:592
+msgid "All Done"
+msgstr "모두 완료"
+
+#: file_folder_manager.php:289
+msgid "Unable to restore DB backup."
+msgstr "DB 백업을 복원할 수 없습니다."
+
+#: file_folder_manager.php:347
+msgid "Backups removed successfully!"
+msgstr "백업이 성공적으로 제거되었습니다!"
+
+#: file_folder_manager.php:349
+msgid "Unable to removed backup!"
+msgstr "백업을 제거할 수 없습니다!"
+
+#: file_folder_manager.php:373
+msgid "Database backup done on date "
+msgstr "날짜에 데이터베이스 백업 완료 "
+
+#: file_folder_manager.php:377
+msgid "Plugins backup done on date "
+msgstr "날짜에 플러그인 백업 완료 "
+
+#: file_folder_manager.php:381
+msgid "Themes backup done on date "
+msgstr "날짜에 테마 백업 완료 "
+
+#: file_folder_manager.php:385
+msgid "Uploads backup done on date "
+msgstr "날짜에 업로드 백업 완료 "
+
+#: file_folder_manager.php:389
+msgid "Others backup done on date "
+msgstr "기타 백업이 날짜에 완료됨 "
+
+#: file_folder_manager.php:393 file_folder_manager.php:776
+msgid "Logs"
+msgstr "로그"
+
+#: file_folder_manager.php:399
+msgid "No logs found!"
+msgstr "로그를 찾을 수 없습니다!"
+
+#: file_folder_manager.php:496
+msgid "Nothing selected for backup"
+msgstr "백업을 위해 선택한 항목이 없습니다."
+
+#: file_folder_manager.php:516
+msgid "Security Issue."
+msgstr "보안 문제."
+
+#: file_folder_manager.php:527
+msgid "Database backup done."
+msgstr "데이터베이스 백업이 완료되었습니다."
+
+#: file_folder_manager.php:530
+msgid "Unable to create database backup."
+msgstr "데이터베이스 백업을 생성할 수 없습니다."
+
+#: file_folder_manager.php:544
+msgid "Plugins backup done."
+msgstr "플러그인 백업이 완료되었습니다."
+
+#: file_folder_manager.php:547
+msgid "Plugins backup failed."
+msgstr "플러그인 백업에 실패했습니다."
+
+#: file_folder_manager.php:556
+msgid "Themes backup done."
+msgstr "테마 백업이 완료되었습니다."
+
+#: file_folder_manager.php:559
+msgid "Themes backup failed."
+msgstr "테마 백업에 실패했습니다."
+
+#: file_folder_manager.php:569
+msgid "Uploads backup done."
+msgstr "업로드 백업이 완료되었습니다."
+
+#: file_folder_manager.php:572
+msgid "Uploads backup failed."
+msgstr "업로드 백업에 실패했습니다."
+
+#: file_folder_manager.php:581
+msgid "Others backup done."
+msgstr "기타 백업이 완료되었습니다."
+
+#: file_folder_manager.php:584
+msgid "Others backup failed."
+msgstr "기타 백업에 실패했습니다."
+
+#: file_folder_manager.php:761 file_folder_manager.php:762
+#: lib/wpfilemanager.php:23
+msgid "WP File Manager"
+msgstr "WP 파일 관리자"
+
+#: file_folder_manager.php:769
+msgid "Settings"
+msgstr "설정"
+
+#: file_folder_manager.php:771 inc/root.php:48
+msgid "Preferences"
+msgstr "기본 설정"
+
+#: file_folder_manager.php:773
+msgid "System Properties"
+msgstr "시스템 속성"
+
+#: file_folder_manager.php:775
+msgid "Shortcode - PRO"
+msgstr "단축 코드 - PRO"
+
+#: file_folder_manager.php:777
+msgid "Backup/Restore"
+msgstr "백업/복원"
+
+#: file_folder_manager.php:1033
+msgid "Buy Pro"
+msgstr "프로 구매"
+
+#: file_folder_manager.php:1034
+msgid "Donate"
+msgstr "기부"
+
+#: file_folder_manager.php:1249
+msgid ""
+"<div class=\"updated settings-error notice is-dismissible\" id=\"setting-"
+"error-settings_updated\"> \n"
+"<p><strong>"
+msgstr ""
+
+#: file_folder_manager.php:1256
+msgid ""
+"<div class=\"error settings-error notice is-dismissible\" id=\"setting-error-"
+"settings_updated\"> \n"
+"<p><strong>"
+msgstr ""
+
+#: file_folder_manager.php:1395 file_folder_manager.php:1483
+msgid "File doesn't exist to download."
+msgstr "다운로드할 파일이 없습니다."
+
+#: file_folder_manager.php:1400 file_folder_manager.php:1488
+msgid "Invalid Security Code."
+msgstr "잘못된 보안 코드입니다."
+
+#: file_folder_manager.php:1405 file_folder_manager.php:1493
+msgid "Missing backup id."
+msgstr "백업 ID가 없습니다."
+
+#: file_folder_manager.php:1408 file_folder_manager.php:1496
+msgid "Missing parameter type."
+msgstr "매개변수 유형이 누락되었습니다."
+
+#: file_folder_manager.php:1411 file_folder_manager.php:1499
+msgid "Missing required parameters."
+msgstr "필수 매개변수가 누락되었습니다."
+
+#: inc/backup.php:24
+msgid ""
+"Error: Unable to restore backup because database backup is heavy in size. "
+"Please try to increase Maximum allowed size  from Preferences settings."
+msgstr ""
+"오류: 데이터베이스 백업의 크기가 커서 백업을 복원할 수 없습니다. 기본 설정에"
+"서 최대 허용 크기를 늘리십시오."
+
+#: inc/backup.php:25
+msgid "Select backup(s) to delete!"
+msgstr "삭제할 백업을 선택하십시오!"
+
+#: inc/backup.php:26
+msgid "Are you sure want to remove selected backup(s)?"
+msgstr "선택한 백업을 제거하시겠습니까?"
+
+#: inc/backup.php:31
+msgid "Backup is running, please wait"
+msgstr "백업이 실행 중입니다. 잠시만 기다려 주십시오."
+
+#: inc/backup.php:32
+msgid "Restore is running, please wait"
+msgstr "복원이 실행 중입니다. 잠시만 기다려 주십시오."
+
+#: inc/backup.php:33
+msgid "Nothing selected for backup."
+msgstr "백업을 위해 선택된 것이 없습니다."
+
+#: inc/backup.php:45
+msgid "WP File Manager - Backup/Restore"
+msgstr "WP 파일 관리자 - 백업/복원"
+
+#: inc/backup.php:51
+msgid "Backup Options:"
+msgstr "백업 옵션:"
+
+#: inc/backup.php:58
+msgid "Database Backup"
+msgstr "데이터베이스 백업"
+
+#: inc/backup.php:64
+msgid "Files Backup"
+msgstr "파일 백업"
+
+#: inc/backup.php:68
+msgid "Plugins"
+msgstr "플러그인"
+
+#: inc/backup.php:71
+msgid "Themes"
+msgstr "테마"
+
+#: inc/backup.php:74
+msgid "Uploads"
+msgstr "업로드"
+
+#: inc/backup.php:77
+msgid "Others (Any other directories found inside wp-content)"
+msgstr "기타(wp-content 내에서 발견된 기타 모든 디렉토리)"
+
+#: inc/backup.php:81
+msgid "Backup Now"
+msgstr "백업 지금"
+
+#: inc/backup.php:89
+msgid "Time now"
+msgstr "지금이 시간"
+
+#: inc/backup.php:99
+msgid "SUCCESS"
+msgstr "성공"
+
+#: inc/backup.php:101
+msgid "Backup successfully deleted."
+msgstr "백업이 성공적으로 삭제되었습니다."
+
+#: inc/backup.php:102
+msgid "Ok"
+msgstr "확인"
+
+#: inc/backup.php:117
+msgid "DELETE FILES"
+msgstr "파일 삭제"
+
+#: inc/backup.php:119
+msgid "Are you sure you want to delete this backup?"
+msgstr "이 백업을 삭제하시겠습니까?"
+
+#: inc/backup.php:120 inc/backup.php:139
+msgid "Cancel"
+msgstr "취소"
+
+#: inc/backup.php:121 inc/backup.php:140
+msgid "Confirm"
+msgstr "확인"
+
+#: inc/backup.php:136
+msgid "RESTORE FILES"
+msgstr "파일 복원"
+
+#: inc/backup.php:138
+msgid "Are you sure you want to restore this backup?"
+msgstr "이 백업을 복원하시겠습니까?"
+
+#: inc/backup.php:166
+msgid "Last Log Message"
+msgstr "마지막 로그 메시지"
+
+#: inc/backup.php:169
+msgid "The backup apparently succeeded and is now complete."
+msgstr "백업이 성공적으로 완료되었으며 이제 완료되었습니다."
+
+#: inc/backup.php:171
+msgid "No log message"
+msgstr "로그 메시지 없음"
+
+#: inc/backup.php:177
+msgid "Existing Backup(s)"
+msgstr "기존 백업"
+
+#: inc/backup.php:184
+msgid "Backup Date"
+msgstr "백업 날짜"
+
+#: inc/backup.php:187
+msgid "Backup data (click to download)"
+msgstr "백업 데이터(다운로드하려면 클릭)"
+
+#: inc/backup.php:190
+msgid "Action"
+msgstr "동작"
+
+#: inc/backup.php:210
+msgid "Today"
+msgstr "오늘"
+
+#: inc/backup.php:239
+msgid "Restore"
+msgstr "복원"
+
+#: inc/backup.php:240 inc/backup.php:250
+msgid "Delete"
+msgstr "지우다"
+
+#: inc/backup.php:241
+msgid "View Log"
+msgstr "로그 보기"
+
+#: inc/backup.php:246
+msgid "Currently no backup(s) found."
+msgstr "현재 백업을 찾을 수 없습니다."
+
+#: inc/backup.php:249
+msgid "Actions upon selected backup(s)"
+msgstr "선택한 백업에 대한 작업"
+
+#: inc/backup.php:251
+msgid "Select All"
+msgstr "모두 선택"
+
+#: inc/backup.php:252
+msgid "Deselect"
+msgstr "선택 해제"
+
+#: inc/backup.php:254
+msgid "Note:"
+msgstr "노트 :"
+
+#: inc/backup.php:254
+msgid "Backup files will be under"
+msgstr "백업 파일은"
+
+#: inc/contribute.php:3
+msgid "WP File Manager Contribution"
+msgstr "WP 파일 관리자 투고"
+
+#: inc/logs.php:7
+msgid ""
+"Note: These are demo screenshots. Please buy File Manager pro to Logs "
+"functions."
+msgstr ""
+"참고: 데모 스크린샷입니다. 로그 기능을 사용하려면 File Manager pro를 구입하십"
+"시오."
+
+#: inc/logs.php:8 lib/wpfilemanager.php:24
+msgid "Click to Buy PRO"
+msgstr "클릭하여 PRO 구매하기"
+
+#: inc/logs.php:8 inc/settings.php:12 inc/settings.php:27
+#: inc/system_properties.php:5 lib/wpfilemanager.php:25
+msgid "Buy PRO"
+msgstr "프로 구매"
+
+#: inc/logs.php:9
+msgid "Edit Files Logs"
+msgstr "파일 로그 편집"
+
+#: inc/logs.php:11
+msgid "Download Files Logs"
+msgstr "파일 로그 다운로드"
+
+#: inc/logs.php:13
+msgid "Upload Files Logs"
+msgstr "파일 로그 업로드"
+
+#: inc/root.php:43
+msgid "Settings saved."
+msgstr "설정이 저장되었습니다."
+
+#: inc/root.php:43 inc/root.php:46
+msgid "Dismiss this notice."
+msgstr "이 알림을 닫습니다."
+
+#: inc/root.php:46
+msgid "You have not made any changes to be saved."
+msgstr "저장할 변경 사항이 없습니다."
+
+#: inc/root.php:55
+msgid "Public Root Path"
+msgstr "공개 루트 경로"
+
+#: inc/root.php:58
+msgid "File Manager Root Path, you can change according to your choice."
+msgstr "파일 관리자 루트 경로, 당신은 당신의 선택에 따라 변경할 수 있습니다."
+
+#: inc/root.php:59
+msgid "Default:"
+msgstr "기본:"
+
+#: inc/root.php:60
+msgid ""
+"Please change this carefully, wrong path can lead file manager plugin to go "
+"down."
+msgstr ""
+"경로를 잘못 지정하면 파일 관리자 플러그인이 다운될 수 있으므로 신중하게 변경"
+"하십시오."
+
+#: inc/root.php:64
+msgid "Enable Trash?"
+msgstr "휴지통을 사용하시겠습니까?"
+
+#: inc/root.php:67
+msgid "After enable trash, your files will go to trash folder."
+msgstr "휴지통을 활성화하면 파일이 휴지통 폴더로 이동합니다."
+
+#: inc/root.php:72
+msgid "Enable Files Upload to Media Library?"
+msgstr "미디어 라이브러리에 파일 업로드를 활성화하시겠습니까?"
+
+#: inc/root.php:75
+msgid "After enabling this all files will go to media library."
+msgstr "이 기능을 활성화하면 모든 파일이 미디어 라이브러리로 이동합니다."
+
+#: inc/root.php:80
+msgid "Maximum allowed size at the time of database backup restore."
+msgstr "데이터베이스 백업 복원 시 허용되는 최대 크기입니다."
+
+#: inc/root.php:83
+msgid "MB"
+msgstr ""
+
+#: inc/root.php:85
+msgid ""
+"Please increase field value if you are getting error message at the time of "
+"backup restore."
+msgstr "백업 복원 시 오류 메시지가 나타나면 필드 값을 늘리십시오."
+
+#: inc/root.php:90
+msgid "Save Changes"
+msgstr "변경 사항을 저장하다"
+
+#: inc/settings.php:10
+msgid "Settings - General"
+msgstr "설정 - 일반"
+
+#: inc/settings.php:11 inc/settings.php:26
+msgid ""
+"Note: This is just a demo screenshot. To get settings please buy our pro "
+"version."
+msgstr ""
+"참고: 이것은 데모 스크린샷일 뿐입니다. 설정을 얻으려면 프로 버전을 구입하십시"
+"오."
+
+#: inc/settings.php:13
+msgid ""
+"Here admin can give access to user roles to use filemanager. Admin can set "
+"Default Access Folder and also control upload size of filemanager."
+msgstr ""
+"여기에서 관리자는 파일 관리자를 사용하기 위한 사용자 역할에 대한 액세스 권한"
+"을 부여할 수 있습니다. 관리자는 기본 액세스 폴더를 설정하고 파일 관리자의 업"
+"로드 크기를 제어할 수 있습니다."
+
+#: inc/settings.php:15
+msgid "Settings - Code-editor"
+msgstr "설정 - 코드 편집기"
+
+#: inc/settings.php:16
+msgid ""
+"File Manager has a code editor with multiple themes. You can select any "
+"theme for code editor. It will display when you edit any file. Also you can "
+"allow fullscreen mode of code editor."
+msgstr ""
+"파일 관리자에는 여러 테마가 있는 코드 편집기가 있습니다. 코드 편집기의 테마"
+"를 선택할 수 있습니다. 파일을 편집할 때 표시됩니다. 또한 코드 편집기의 전체 "
+"화면 모드를 허용할 수 있습니다."
+
+#: inc/settings.php:18
+msgid "Code-editor View"
+msgstr "코드 편집기 보기"
+
+#: inc/settings.php:20
+msgid "Settings - User Restrictions"
+msgstr "설정 - 사용자 제한"
+
+#: inc/settings.php:21
+msgid ""
+"Admin can restrict actions of any user. Also hide files and folders and can "
+"set different - different folders paths for different users."
+msgstr ""
+"관리자는 모든 사용자의 작업을 제한할 수 있습니다. 또한 파일과 폴더를 숨기고 "
+"다른 사용자에 대해 다른 폴더 경로를 설정할 수 있습니다."
+
+#: inc/settings.php:23
+msgid "Settings - User Role Restrictions"
+msgstr "설정 - 사용자 역할 제한"
+
+#: inc/settings.php:24
+msgid ""
+"Admin can restrict actions of any userrole. Also hide files and folders and "
+"can set different - different folders paths for different users roles."
+msgstr ""
+"관리자는 모든 사용자 역할의 작업을 제한할 수 있습니다. 또한 파일과 폴더를 숨"
+"기고 다른 사용자 역할에 대해 다른 폴더 경로를 설정할 수 있습니다."
+
+#: inc/shortcode_docs.php:11
+msgid "File Manager - Shortcode"
+msgstr "파일 관리자 - 단축 코드"
+
+#: inc/shortcode_docs.php:15 inc/shortcode_docs.php:17
+#: inc/shortcode_docs.php:19
+msgid "USE:"
+msgstr "사용하다:"
+
+#: inc/shortcode_docs.php:15
+msgid ""
+"It will show file manager on front end. You can control all settings from "
+"file manager settings. It will work same as backend WP File Manager."
+msgstr ""
+"프런트 엔드에 파일 관리자가 표시됩니다. 파일 관리자 설정에서 모든 설정을 제어"
+"할 수 있습니다. 백엔드 WP 파일 관리자와 동일하게 작동합니다."
+
+#: inc/shortcode_docs.php:17
+msgid ""
+"It will show file manager on front end. But only Administrator can access it "
+"and will control from file manager settings."
+msgstr ""
+"프런트 엔드에 파일 관리자가 표시됩니다. 그러나 관리자만 액세스할 수 있으며 파"
+"일 관리자 설정에서 제어합니다."
+
+#: inc/shortcode_docs.php:23
+msgid "Parameters:"
+msgstr "매개변수:"
+
+#: inc/shortcode_docs.php:26
+msgid ""
+"It will allow all roles to access file manager on front end or You can "
+"simple use for particular user roles as like allowed_roles=\"editor,author"
+"\" (seprated by comma(,))"
+msgstr ""
+"모든 역할이 프론트 엔드의 파일 관리자에 액세스할 수 있도록 허용하거나 "
+"allowed_roles=\"editor,author\"(쉼표(,)로 구분)와 같이 특정 사용자 역할에 대"
+"해 간단하게 사용할 수 있습니다."
+
+#: inc/shortcode_docs.php:28
+msgid ""
+"Here \"test\" is the name of folder which is located on root directory, or "
+"you can give path for sub folders as like \"wp-content/plugins\". If leave "
+"blank or empty it will access all folders on root directory. Default: Root "
+"directory"
+msgstr ""
+"여기서 \"test\"는 루트 디렉터리에 있는 폴더의 이름이거나 \"wp-content/plugins"
+"\"와 같이 하위 폴더에 대한 경로를 지정할 수 있습니다. 비워두거나 비워두면 루"
+"트 디렉토리의 모든 폴더에 액세스합니다. 기본값: 루트 디렉터리"
+
+#: inc/shortcode_docs.php:30
+msgid "for access to write files permissions, note: true/false, default: false"
+msgstr "파일 쓰기 권한에 대한 액세스, 참고: true/false, 기본값: false"
+
+#: inc/shortcode_docs.php:32
+msgid "for access to read files permission, note: true/false, default: true"
+msgstr "파일 읽기 권한에 대한 액세스, 참고: true/false, 기본값: true"
+
+#: inc/shortcode_docs.php:34
+msgid "it will hide mentioned here. Note: seprated by comma(,). Default: Null"
+msgstr "여기에 언급 된 숨길 것입니다. 참고: 쉼표(,)로 구분합니다. 기본값: 널"
+
+#: inc/shortcode_docs.php:36
+msgid ""
+"It will lock mentioned in commas. you can lock more as like \".php,.css,.js"
+"\" etc. Default: Null"
+msgstr ""
+"쉼표로 표시된 잠금이 해제됩니다. \".php,.css,.js\" 등과 같이 더 많이 잠글 수 "
+"있습니다. 기본값: Null"
+
+#: inc/shortcode_docs.php:38
+msgid ""
+"* for all operations and to allow some operation you can mention operation "
+"name as like, allowed_operations=\"upload,download\". Note: seprated by "
+"comma(,). Default: *"
+msgstr ""
+"* 모든 작업에 대해 일부 작업을 허용하려면 작업 이름을 allowed_operations="
+"\"upload,download\"와 같이 언급할 수 있습니다. 참고: 쉼표(,)로 구분합니다. 기"
+"본: *"
+
+#: inc/shortcode_docs.php:42
+msgid "File Operations List:"
+msgstr "파일 작업 목록:"
+
+#: inc/shortcode_docs.php:46
+msgid "mkdir ->"
+msgstr ""
+
+#: inc/shortcode_docs.php:46
+msgid "Make directory or folder"
+msgstr "디렉토리 또는 폴더 만들기"
+
+#: inc/shortcode_docs.php:47
+msgid "mkfile ->"
+msgstr ""
+
+#: inc/shortcode_docs.php:47
+msgid "Make file"
+msgstr "파일 만들기"
+
+#: inc/shortcode_docs.php:48
+msgid "rename ->"
+msgstr ""
+
+#: inc/shortcode_docs.php:48
+msgid "Rename a file or folder"
+msgstr "파일 또는 폴더 이름 바꾸기"
+
+#: inc/shortcode_docs.php:49
+msgid "duplicate ->"
+msgstr ""
+
+#: inc/shortcode_docs.php:49
+msgid "Duplicate or clone a folder or file"
+msgstr "폴더 또는 파일 복제 또는 복제"
+
+#: inc/shortcode_docs.php:50
+msgid "paste ->"
+msgstr ""
+
+#: inc/shortcode_docs.php:50
+msgid "Paste a file or folder"
+msgstr "파일 또는 폴더 붙여넣기"
+
+#: inc/shortcode_docs.php:51
+msgid "ban ->"
+msgstr ""
+
+#: inc/shortcode_docs.php:51
+msgid "Ban"
+msgstr "반"
+
+#: inc/shortcode_docs.php:52
+msgid "archive ->"
+msgstr ""
+
+#: inc/shortcode_docs.php:52
+msgid "To make a archive or zip"
+msgstr "아카이브 또는 zip을 만들려면"
+
+#: inc/shortcode_docs.php:53
+msgid "extract ->"
+msgstr ""
+
+#: inc/shortcode_docs.php:53
+msgid "Extract archive or zipped file"
+msgstr "아카이브 또는 압축 파일 추출"
+
+#: inc/shortcode_docs.php:54
+msgid "copy ->"
+msgstr ""
+
+#: inc/shortcode_docs.php:54
+msgid "Copy files or folders"
+msgstr "파일 또는 폴더 복사"
+
+#: inc/shortcode_docs.php:58
+msgid "cut ->"
+msgstr ""
+
+#: inc/shortcode_docs.php:58
+msgid "Simple cut a file or folder"
+msgstr "파일이나 폴더를 간단하게 자르기"
+
+#: inc/shortcode_docs.php:59
+msgid "edit ->"
+msgstr ""
+
+#: inc/shortcode_docs.php:59
+msgid "Edit a file"
+msgstr "파일 편집"
+
+#: inc/shortcode_docs.php:60
+msgid "rm ->"
+msgstr ""
+
+#: inc/shortcode_docs.php:60
+msgid "Remove or delete files and folders"
+msgstr "파일 및 폴더 제거 또는 삭제"
+
+#: inc/shortcode_docs.php:61
+msgid "download ->"
+msgstr ""
+
+#: inc/shortcode_docs.php:61
+msgid "Download files"
+msgstr "파일 다운로드"
+
+#: inc/shortcode_docs.php:62
+msgid "upload ->"
+msgstr ""
+
+#: inc/shortcode_docs.php:62
+msgid "Upload files"
+msgstr "파일 업로드하다"
+
+#: inc/shortcode_docs.php:63
+msgid "search -> "
+msgstr ""
+
+#: inc/shortcode_docs.php:63
+msgid "Search things"
+msgstr "물건 검색"
+
+#: inc/shortcode_docs.php:64
+msgid "info ->"
+msgstr ""
+
+#: inc/shortcode_docs.php:64
+msgid "Info of file"
+msgstr "파일 정보"
+
+#: inc/shortcode_docs.php:65
+msgid "help ->"
+msgstr ""
+
+#: inc/shortcode_docs.php:65
+msgid "Help"
+msgstr "도움"
+
+#: inc/shortcode_docs.php:71
+msgid ""
+"->  It will ban particular users by just putting their ids seprated by "
+"commas(,). If user is Ban then they will not able to access wp file manager "
+"on front end."
+msgstr ""
+"-> 특정 사용자의 ID를 쉼표(,)로 구분하여 입력하면 차단됩니다. 사용자가 Ban인 "
+"경우 프런트 엔드에서 wp 파일 관리자에 액세스할 수 없습니다."
+
+#: inc/shortcode_docs.php:72
+msgid "-> Filemanager UI View. Default: grid"
+msgstr "-> 파일 관리자 UI 보기. 기본값: grid"
+
+#: inc/shortcode_docs.php:73
+msgid "-> File Modified or Create date format. Default: d M, Y h:i A"
+msgstr "-> 수정된 파일 또는 날짜 형식을 만듭니다. 기본값: d M, Y h:i A"
+
+#: inc/shortcode_docs.php:74
+msgid "-> File manager Language. Default: English(en)"
+msgstr "-> 파일 관리자 언어. 기본값: English(en)"
+
+#: inc/shortcode_docs.php:75
+msgid "-> File Manager Theme. Default: Light"
+msgstr "-> 파일 관리자 테마. 기본값: Light"
+
+#: inc/system_properties.php:5
+msgid "File Manager - System Properties"
+msgstr "파일 관리자 - 시스템 속성"
+
+#: inc/system_properties.php:10
+msgid "PHP version"
+msgstr "PHP 버전"
+
+#: inc/system_properties.php:15
+msgid "Maximum file upload size (upload_max_filesize)"
+msgstr "최대 파일 업로드 크기(upload_max_filesize)"
+
+#: inc/system_properties.php:20
+msgid "Post maximum file upload size (post_max_size)"
+msgstr "게시물 최대 파일 업로드 크기(post_max_size)"
+
+#: inc/system_properties.php:25
+msgid "Memory Limit (memory_limit)"
+msgstr "메모리 제한(memory_limit)"
+
+#: inc/system_properties.php:30
+msgid "Timeout (max_execution_time)"
+msgstr "시간 초과(max_execution_time)"
+
+#: inc/system_properties.php:35
+msgid "Browser and OS (HTTP_USER_AGENT)"
+msgstr "브라우저 및 OS(HTTP_USER_AGENT)"
+
+#: lib/jquery/jquery-ui-1.11.4.js:8
+msgid "'"
+msgstr ""
+
+#: lib/wpfilemanager.php:31
+msgid "Change Theme Here:"
+msgstr "여기에서 테마 변경:"
+
+#: lib/wpfilemanager.php:35
+msgid "Default"
+msgstr "기본"
+
+#: lib/wpfilemanager.php:39
+msgid "Dark"
+msgstr "어두운"
+
+#: lib/wpfilemanager.php:43
+msgid "Light"
+msgstr "빛"
+
+#: lib/wpfilemanager.php:47
+msgid "Gray"
+msgstr "회색"
+
+#: lib/wpfilemanager.php:52
+msgid "Windows - 10"
+msgstr ""
+
+#: lib/wpfilemanager.php:85
+msgid "Welcome to File Manager"
+msgstr "파일 관리자에 오신 것을 환영합니다"
+
+#: lib/wpfilemanager.php:88
+msgid ""
+"We love making new friends! Subscribe below and we promise to\n"
+"    keep you up-to-date with our latest new plugins, updates,\n"
+"    awesome deals and a few special offers."
+msgstr ""
+"우리는 새로운 친구를 사귀는 것을 좋아합니다! 아래를 구독하고 우리는 약속합니"
+"다\n"
+"    최신 새 플러그인, 업데이트,\n"
+"    멋진 거래와 몇 가지 특별 제안."
+
+#: lib/wpfilemanager.php:99
+msgid "Please Enter First Name."
+msgstr "이름을 입력하세요."
+
+#: lib/wpfilemanager.php:107
+msgid "Please Enter Last Name."
+msgstr "성을 입력하십시오."
+
+#: lib/wpfilemanager.php:116
+msgid "Please Enter Email Address."
+msgstr "이메일 주소를 입력하십시오."
+
+#: lib/wpfilemanager.php:120
+msgid "Verify"
+msgstr "검증"
+
+#: lib/wpfilemanager.php:126
+msgid "No Thanks"
+msgstr "고맙지 만 사양 할게"
+
+#: lib/wpfilemanager.php:132
+msgid "Terms of Service"
+msgstr "서비스 약관"
+
+#: lib/wpfilemanager.php:134
+msgid "Privacy Policy"
+msgstr "개인 정보 정책"
+
+#: lib/wpfilemanager.php:153
+msgid "Saving..."
+msgstr "절약..."
+
+#: lib/wpfilemanager.php:155
+msgid "OK"
+msgstr "확인"
+
+#~ msgid "Backup not found!"
+#~ msgstr "백업을 찾을 수 없습니다!"
+
+#~ msgid "Backup removed successfully!"
+#~ msgstr "백업이 성공적으로 제거되었습니다!"
+
+#~ msgid "<span class=\"fm_console_error\">Nothing selected for backup</span>"
+#~ msgstr ""
+#~ "<span class=\"fm_console_error\">백업을 위해 선택한 항목이 없습니다.</"
+#~ "span>"
+
+#~ msgid "<span class=\"fm_console_error\">Security Issue.</span>"
+#~ msgstr "<span class=\"fm_console_error\">보안 문제.</span>"
+
+#~ msgid "<span class=\"fm_console_success\">Database backup done.</span>"
+#~ msgstr ""
+#~ "<span class=\"fm_console_success\">데이터베이스 백업이 완료되었습니다.</"
+#~ "span>"
+
+#~ msgid ""
+#~ "<span class=\"fm_console_error\">Unable to create database backup.</span>"
+#~ msgstr ""
+#~ "<span class=\"fm_console_error\">데이터베이스 백업을 생성할 수 없습니다.</"
+#~ "span>"
+
+#~ msgid "<span class=\"fm_console_success\">Plugins backup done.</span>"
+#~ msgstr ""
+#~ "<span class=\"fm_console_success\">플러그인 백업이 완료되었습니다.</span>"
+
+#~ msgid "<span class=\"fm_console_error\">Plugins backup failed.</span>"
+#~ msgstr ""
+#~ "<span class=\"fm_console_error\">플러그인 백업에 실패했습니다.</span>"
+
+#~ msgid "<span class=\"fm_console_success\">Themes backup done.</span>"
+#~ msgstr ""
+#~ "<span class=\"fm_console_success\">테마 백업이 완료되었습니다.</span>"
+
+#~ msgid "<span class=\"fm_console_error\">Themes backup failed.</span>"
+#~ msgstr "<span class=\"fm_console_error\">테마 백업에 실패했습니다.</span>"
+
+#~ msgid "<span class=\"fm_console_success\">Uploads backup done.</span>"
+#~ msgstr "<span class=\"fm_console_success\">업로드 백업 완료</span>"
+
+#~ msgid "<span class=\"fm_console_error\">Uploads backup failed.</span>"
+#~ msgstr "<span class=\"fm_console_error\">업로드 백업에 실패했습니다.</span>"
+
+#~ msgid "<span class=\"fm_console_success\">Others backup done.</span>"
+#~ msgstr ""
+#~ "<span class=\"fm_console_success\">기타 백업이 완료되었습니다.</span>"
+
+#~ msgid "<span class=\"fm_console_error\">Others backup failed.</span>"
+#~ msgstr "<span class=\"fm_console_error\">다른 백업에 실패했습니다.</span>"
+
+#~ msgid "<span class=\"fm_console_success\">All Done</span>"
+#~ msgstr "<span class=\"fm_console_success\">완료</span>"
+
+#~ msgid ""
+#~ "<code>[wp_file_manager view=\"list\" lang=\"en\" theme=\"light\" "
+#~ "dateformat=\"d M, Y h:i A\" allowed_roles=\"editor,author\" access_folder="
+#~ "\"wp-content/plugins\" write = \"true\" read = \"false\" hide_files = "
+#~ "\"kumar,abc.php\" lock_extensions=\".php,.css\" allowed_operations="
+#~ "\"upload,download\" ban_user_ids=\"2,3\"]"
+#~ msgstr ""
+#~ "<code>[wp_file_manager view=\"list\" lang=\"en\" theme=\"light\" "
+#~ "dateformat=\"d M, Y h:i A\" allowed_roles=\"editor,author\" access_folder="
+#~ "\"wp-content/plugins\" write = \"true\" read = \"false\" hide_files = "
+#~ "\"kumar,abc.php\" lock_extensions=\".php,.css\" allowed_operations="
+#~ "\"upload,download\" ban_user_ids=\"2,3\"]"
+
+#~ msgid "Image"
+#~ msgstr "영상"
+
+#~ msgid "of"
+#~ msgstr "의"
+
+#~ msgid "Close"
+#~ msgstr "닫기"
+
+#~ msgid ""
+#~ "This feature requires inline frames. You have iframes disabled or your "
+#~ "browser does not support them."
+#~ msgstr ""
+#~ "이 기능에는 인라인 프레임이 필요합니다. iframe을 사용 중지했거나 브라우저"
+#~ "에서 지원하지 않습니다."
+
+#~ msgid "Theme Editor"
+#~ msgstr "테마 편집기"
+
+#~ msgid "Plugin Editor"
+#~ msgstr "플러그인 편집기"
+
+#~ msgid "Access Control"
+#~ msgstr "액세스 제어"
+
+#~ msgid "Notify Me"
+#~ msgstr "나를 통지"
+
+#~ msgid "Language folder has been downlaoded successfully."
+#~ msgstr " 언어가 성공적으로 다운로드되었습니다."
+
+#~ msgid "Language folder failed to downlaod."
+#~ msgstr "언어 폴더를 다운로드하지 못했습니다."
+
+#~ msgid "Security token expired!"
+#~ msgstr "보안 토큰이 만료되었습니다!"
+
+#~ msgid " language has been downloaded successfully."
+#~ msgstr " 언어가 성공적으로 다운로드되었습니다."
+
+#~ msgid "Currently language "
+#~ msgstr "현재 언어 "
+
+#~ msgid " not available. Please click on the request language link."
+#~ msgstr " 사용할 수 없습니다. 요청 언어 링크를 클릭하십시오."
+
+#~ msgid ""
+#~ "You do not have sufficient permissions to edit plugins for this site."
+#~ msgstr "이 사이트의 플러그인을 편집 할 수있는 권한이 없습니다."
+
+#~ msgid "There are no plugins installed on this site."
+#~ msgstr "이 사이트에 설치된 플러그인이 없습니다."
+
+#~ msgid "There are no themes installed on this site."
+#~ msgstr "이 사이트에 설치된 테마가 없습니다."
+
+#~ msgid "<p class=\"te_error\">Please enter folder name!</p>"
+#~ msgstr "<p class=\"te_error\">폴더 이름을 입력하십시오! </p>"
+
+#~ msgid "<p class=\"te_error\">Please enter file name!</p>"
+#~ msgstr "<p class=\"te_error\">파일 이름을 입력하십시오!</p>"
+
+#~ msgid "Open"
+#~ msgstr "열다"
+
+#~ msgid "Preview"
+#~ msgstr "시사"
+
+#~ msgid "Edit"
+#~ msgstr "편집하다"
+
+#~ msgid "Are you sure you want to abort the file uploading?"
+#~ msgstr "파일 업로드를 중단 하시겠습니까?"
+
+#~ msgid "File renamed successfully."
+#~ msgstr "파일 이름이 성공적으로 변경되었습니다."
+
+#~ msgid "Are you sure you want to delete folder?"
+#~ msgstr "폴더를 삭제 하시겠습니까?"
+
+#~ msgid "Folder deleted successfully."
+#~ msgstr "폴더가 성공적으로 삭제되었습니다."
+
+#~ msgid "File deleted successfully."
+#~ msgstr "파일이 성공적으로 삭제되었습니다."
+
+#~ msgid "Folder renamed successfully."
+#~ msgstr "폴더 이름이 성공적으로 변경되었습니다."
+
+#~ msgid "<p class=\"te_error\">Not allowed more than 30 characters.</p>"
+#~ msgstr "<p class=\"te_error\">30자를 초과 할 수 없습니다.</p>"
+
+#~ msgid "Invalid request!"
+#~ msgstr "잘못된 요청!"
+
+#~ msgid "No change in file!"
+#~ msgstr "파일 변경 없음!"
+
+#~ msgid "File saved successfully!"
+#~ msgstr "파일이 성공적으로 저장되었습니다!"
+
+#~ msgid "File not saved!"
+#~ msgstr "파일이 저장되지 않았습니다!"
+
+#~ msgid "Unable to verify security token!"
+#~ msgstr "보안 토큰을 확인할 수 없습니다!"
+
+#~ msgid "Folder created successfully!"
+#~ msgstr "폴더가 성공적으로 생성되었습니다!"
+
+#~ msgid "This folder format is not allowed to upload by wordpress!"
+#~ msgstr "이 폴더 형식은 워드 프레스로 업로드 할 수 없습니다!"
+
+#~ msgid "Folder already exists!"
+#~ msgstr "폴더가 이미 있습니다!"
+
+#~ msgid "File created successfully!"
+#~ msgstr "파일이 성공적으로 생성되었습니다!"
+
+#~ msgid "This file extension is not allowed to create!"
+#~ msgstr "이 파일 확장자는 만들 수 없습니다!"
+
+#~ msgid "File already exists!"
+#~ msgstr "존재하는 파일입니다!"
+
+#~ msgid "Please enter a valid file extension!"
+#~ msgstr "유효한 파일 확장자를 입력하십시오!"
+
+#~ msgid "Folder does not exists!"
+#~ msgstr "폴더가 없습니다!"
+
+#~ msgid "Folder deleted successfully!"
+#~ msgstr "폴더가 성공적으로 삭제되었습니다!"
+
+#~ msgid "File deleted successfully!"
+#~ msgstr "파일이 성공적으로 삭제되었습니다!"
+
+#~ msgid "This file extension is not allowed to upload by wordpress!"
+#~ msgstr "이 파일 확장자는 워드 프레스로 업로드 할 수 없습니다!"
+
+#~ msgid "File uploaded successfully: Uploaded file path is "
+#~ msgstr "성공적으로 업로드 된 파일 : 업로드 된 파일 경로 : "
+
+#~ msgid "No file selected"
+#~ msgstr "파일이 선택되지 않았습니다"
+
+#~ msgid "Unable to rename file! Try again."
+#~ msgstr "파일 이름을 바꿀 수 없습니다! 다시 시도하십시오."
+
+#~ msgid "Folder renamed successfully!"
+#~ msgstr "폴더 이름이 성공적으로 변경되었습니다!"
+
+#~ msgid "Please enter correct folder name"
+#~ msgstr "올바른 폴더 이름을 입력하십시오"
+
+#~ msgid "How can we help?"
+#~ msgstr "어떻게 도와 드릴까요?"
+
+#~ msgid "Learning resources, professional support and expert help."
+#~ msgstr "학습 리소스, 전문 지원 및 전문가 도움."
+
+#~ msgid "Documentation"
+#~ msgstr "선적 서류 비치"
+
+#~ msgid "Find answers quickly from our comprehensive documentation."
+#~ msgstr "포괄적 인 문서에서 신속하게 답변을 찾으십시오."
+
+#~ msgid "Learn More"
+#~ msgstr "더 알아보기"
+
+#~ msgid "Contact Us"
+#~ msgstr "문의하기"
+
+#~ msgid "Submit a support ticket for answers on questions you may have."
+#~ msgstr "질문에 대한 답변은 지원 티켓을 제출하십시오."
+
+#~ msgid "Request a Feature"
+#~ msgstr "기능 요청"
+
+#~ msgid "Tell us what you want and will add it to our roadmap."
+#~ msgstr "원하는 것을 알려 주시면 로드맵에 추가 할 것입니다."
+
+#~ msgid "Tell us what you think!"
+#~ msgstr "당신의 생각을 알려주세요!"
+
+#~ msgid "Rate and give us a review on Wordpress!"
+#~ msgstr "평가하고 Wordpress에 대한 리뷰를 남겨주세요!"
+
+#~ msgid "Leave a Review"
+#~ msgstr "리뷰를 남겨주세요"
+
+#~ msgid "Update"
+#~ msgstr "최신 정보"
+
+#~ msgid "Installed"
+#~ msgstr "설치됨"
+
+#~ msgid "Theme Editor Pro Language:"
+#~ msgstr "Theme Editor Pro 언어 :"
+
+#~ msgid " language"
+#~ msgstr " 언어"
+
+#~ msgid "Click here to install/update "
+#~ msgstr "설치 / 업데이트하려면 여기를 클릭하십시오. "
+
+#~ msgid " language translation for Theme Editor Pro."
+#~ msgstr " Theme Editor Pro의 언어 번역."
+
+#~ msgid "Available languages"
+#~ msgstr "사용 가능한 언어"
+
+#~ msgid "Click here to download all available languages."
+#~ msgstr "사용 가능한 모든 언어를 다운로드하려면 여기를 클릭하십시오."
+
+#~ msgid "Request a language"
+#~ msgstr "언어 요청"
+
+#~ msgid "Tell us which language you want to add."
+#~ msgstr "추가 할 언어를 알려주십시오."
+
+#~ msgid "Contact us"
+#~ msgstr "문의하기"
+
+#~ msgid "Notifications"
+#~ msgstr "알림"
+
+#~ msgid ""
+#~ "<strong>Note: This is just a screenshot. Buy PRO Version for this feature."
+#~ "</strong>"
+#~ msgstr ""
+#~ "<strong> 참고 : 이것은 스크린 샷일뿐입니다. 이 기능에 대한 PRO 버전을 구입"
+#~ "하세요.</strong>"
+
+#~ msgid "Permissions"
+#~ msgstr "권한"
+
+#~ msgid "Edit Plugin"
+#~ msgstr "플러그인 수정"
+
+#~ msgid ""
+#~ "<strong>This plugin is currently activated!</strong> Warning: Making "
+#~ "changes to active plugins is not recommended.\tIf your changes cause a "
+#~ "fatal error, the plugin will be automatically deactivated."
+#~ msgstr ""
+#~ "<strong>이 플러그인은 현재 활성화되어 있습니다! </strong> 경고 : 활성 플러"
+#~ "그인을 변경하지 않는 것이 좋습니다. 변경으로 인해 치명적인 오류가 발생하"
+#~ "면 플러그인이 자동으로 비활성화됩니다."
+
+#~ msgid "Editing <span class=\"current_file\">"
+#~ msgstr "편집 <span class=\"current_file\">"
+
+#~ msgid "</span> (active)"
+#~ msgstr "</ span> (활성)"
+
+#~ msgid "Browsing <span class=\"current_file\">"
+#~ msgstr "브라우징 <span class=\"current_file\">"
+
+#~ msgid "</span> (inactive)"
+#~ msgstr "</ span> (비활성)"
+
+#~ msgid "Update File"
+#~ msgstr "파일 업데이트"
+
+#~ msgid "Download Plugin"
+#~ msgstr "플러그인 다운로드"
+
+#~ msgid ""
+#~ "You need to make this file writable before you can save your changes. See "
+#~ "<a href=\"https://wordpress.org/support/article/changing-file-permissions/"
+#~ "\" target=\"_blank\">the Codex</a> for more information."
+#~ msgstr ""
+#~ "변경 사항을 저장하기 전에이 파일을 쓰기 가능하게 만들어야합니다. 자세한 내"
+#~ "용은 <a href=\"https://wordpress.org/support/article/changing-file-"
+#~ "permissions/\" target=\"_blank\"> Codex </a>를 참조하세요."
+
+#~ msgid "Select plugin to edit:"
+#~ msgstr "편집 할 플러그인 선택 :"
+
+#~ msgid "Create Folder and File"
+#~ msgstr "폴더 및 파일 생성"
+
+#~ msgid "Create"
+#~ msgstr "창조하다"
+
+#~ msgid "Remove Folder and File"
+#~ msgstr "폴더 및 파일 제거"
+
+#~ msgid "Remove "
+#~ msgstr "없애다"
+
+#~ msgid "To"
+#~ msgstr "에"
+
+#~ msgid "Optional: Sub-Directory"
+#~ msgstr "선택 사항 : 하위 디렉터리"
+
+#~ msgid "Choose File "
+#~ msgstr "파일을 선택"
+
+#~ msgid "No file Chosen "
+#~ msgstr "선택된 파일 없음 "
+
+#~ msgid "Create a New Folder: "
+#~ msgstr "새 폴더 만들기 :"
+
+#~ msgid "New folder will be created in: "
+#~ msgstr "다음 위치에 새 폴더가 생성됩니다."
+
+#~ msgid "New Folder Name: "
+#~ msgstr "새 폴더 이름 :"
+
+#~ msgid "Create New Folder"
+#~ msgstr "새 폴더 생성"
+
+#~ msgid "Create a New File: "
+#~ msgstr "새 파일 만들기 :"
+
+#~ msgid "New File will be created in: "
+#~ msgstr "새 파일은 다음 위치에 생성됩니다."
+
+#~ msgid "New File Name: "
+#~ msgstr "새 파일 이름 :"
+
+#~ msgid "Create New File"
+#~ msgstr "새 파일 생성"
+
+#~ msgid "Warning: please be careful before remove any folder or file."
+#~ msgstr "경고 : 폴더 나 파일을 제거하기 전에주의하십시오."
+
+#~ msgid "Current Theme Path: "
+#~ msgstr "현재 테마 경로 :"
+
+#~ msgid "Remove Folder: "
+#~ msgstr "폴더 제거 :"
+
+#~ msgid "Folder Path which you want to remove: "
+#~ msgstr "제거 할 폴더 경로 : "
+
+#~ msgid "Remove Folder"
+#~ msgstr "폴더 제거 "
+
+#~ msgid "Remove File: "
+#~ msgstr "파일을 지우다:"
+
+#~ msgid "File Path which you want to remove: "
+#~ msgstr "제거 할 폴더 경로 :"
+
+#~ msgid "Remove File"
+#~ msgstr "파일을 지우다"
+
+#~ msgid "Please Enter Valid Email Address."
+#~ msgstr "유효한 이메일 주소를 입력하십시오."
+
+#~ msgid "Warning: Please be careful before rename any folder or file."
+#~ msgstr "경고 : 폴더 또는 파일의 이름을 변경하기 전에주의하십시오."
+
+#~ msgid "File/Folder will be rename in: "
+#~ msgstr "파일 / 폴더의 이름이 다음에서 변경됩니다."
+
+#~ msgid "File/Folder Rename: "
+#~ msgstr "파일 / 폴더 이름 변경 :"
+
+#~ msgid "Follow us"
+#~ msgstr "우리를 따르라"
+
+#~ msgid "Theme Editor Facebook"
+#~ msgstr "테마 편집기 Facebook"
+
+#~ msgid "Theme Editor Instagram"
+#~ msgstr "테마 편집기 Instagram"
+
+#~ msgid "Theme Editor Twitter"
+#~ msgstr "테마 편집기 Twitter"
+
+#~ msgid "Theme Editor Linkedin"
+#~ msgstr "테마 편집기 Linkedin"
+
+#~ msgid "Theme Editor Youtube"
+#~ msgstr "테마 편집기 Youtube"
+
+#~ msgid "Logo"
+#~ msgstr "심벌 마크"
+
+#~ msgid "Go to ThemeEditor site"
+#~ msgstr "ThemeEditor 사이트로 이동"
+
+#~ msgid "Theme Editor Links"
+#~ msgstr "테마 편집기 링크"
+
+#~ msgid "Child Theme"
+#~ msgstr "아동 테마"
+
+#~ msgid "Child Theme Permissions"
+#~ msgstr "하위 테마 권한"
+
+#~ msgid " is not available. Please click "
+#~ msgstr " 사용할 수 없습니다. 클릭하세요"
+
+#~ msgid "here"
+#~ msgstr "여기"
+
+#~ msgid "to request language."
+#~ msgstr "언어를 요청합니다."
+
+#~ msgid "Click"
+#~ msgstr "딸깍 하는 소리"
+
+#~ msgid "to install "
+#~ msgstr "설치하기 위해서 "
+
+#~ msgid " language translation  for Theme Editor Pro"
+#~ msgstr " Theme Editor Pro 용 언어 번역을 설치하려면"
+
+#~ msgid "Success: Settings Saved!"
+#~ msgstr "성공 : 설정이 저장되었습니다!"
+
+#~ msgid "No changes have been made to save."
+#~ msgstr "저장하기 위해 변경된 사항이 없습니다."
+
+#~ msgid "Enable Theme Editor For Themes"
+#~ msgstr "테마에 대한 테마 편집기 활성화"
+
+#~ msgid "Yes"
+#~ msgstr "예"
+
+#~ msgid "No"
+#~ msgstr "아니"
+
+#~ msgid ""
+#~ "This will Enable/Disable the theme editor.<br/><strong class=\"defs"
+#~ "\">Default: </strong>Yes"
+#~ msgstr ""
+#~ "테마 편집기를 활성화 / 비활성화합니다. <br/><strong class=\"defs\"> 기본"
+#~ "값 : </ strong> 예"
+
+#~ msgid "Disable Default WordPress Theme Editor?"
+#~ msgstr "기본 WordPress 테마 편집기를 비활성화 하시겠습니까?"
+
+#~ msgid ""
+#~ "This will Enable/Disable the Default theme editor.<br/><strong class="
+#~ "\"defs\">Default: </strong>Yes"
+#~ msgstr ""
+#~ "기본 테마 편집기를 활성화 / 비활성화합니다. <br/><strong class=\"defs\"> "
+#~ "기본값 : </ strong> 예"
+
+#~ msgid "Enable Plugin Editor For Plugin"
+#~ msgstr "플러그인 용 플러그인 편집기 활성화"
+
+#~ msgid ""
+#~ "This will Enable/Disable the plugin editor.<br/><strong class=\"defs"
+#~ "\">Default: </strong>Yes"
+#~ msgstr ""
+#~ "플러그인 편집기를 활성화 / 비활성화합니다. <br/><strong class=\"defs\">기"
+#~ "본값 : </ strong> 예"
+
+#~ msgid "Disable Default WordPress Plugin Editor?"
+#~ msgstr "기본 WordPress 플러그인 편집기를 비활성화 하시겠습니까?"
+
+#~ msgid ""
+#~ "This will Enable/Disable the Default plugin editor.<br/><strong class="
+#~ "\"defs\">Default: </strong>Yes"
+#~ msgstr ""
+#~ "기본 플러그인 편집기를 활성화 / 비활성화합니다. <br/><strong class=\"defs"
+#~ "\">기본값 : </ strong> 예"
+
+#~ msgid "Code Editor"
+#~ msgstr "코드 편집기"
+
+#~ msgid ""
+#~ "Allows you to select theme for theme editor.<br/><strong class=\"defs"
+#~ "\">Default: </strong>Cobalt"
+#~ msgstr ""
+#~ "테마 편집 기용 테마를 선택할 수 있습니다. <br/><strong class=\"defs\">기본"
+#~ "값 : </ strong> Cobalt"
+
+#~ msgid "Edit Themes"
+#~ msgstr "테마 편집"
+
+#~ msgid ""
+#~ "<strong>This theme is currently activated!</strong> Warning: Making "
+#~ "changes to active themes is not recommended."
+#~ msgstr ""
+#~ "<strong>이 테마는 현재 활성화되어 있습니다! </strong> 경고 : 활성 테마는 "
+#~ "변경하지 않는 것이 좋습니다."
+
+#~ msgid "Editing"
+#~ msgstr "편집"
+
+#~ msgid "Browsing"
+#~ msgstr "브라우징"
+
+#~ msgid "Update File and Attempt to Reactivate"
+#~ msgstr "파일 업데이트 및 재 활성화 시도"
+
+#~ msgid "Download Theme"
+#~ msgstr "테마 다운로드"
+
+#~ msgid "Select theme to edit:"
+#~ msgstr "편집 할 테마 선택 :"
+
+#~ msgid "Theme Files"
+#~ msgstr "테마 파일"
+
+#~ msgid "Choose File"
+#~ msgstr "파일을 선택"
+
+#~ msgid "No File Chosen"
+#~ msgstr "선택된 파일 없음"
+
+#~ msgid "Warning: Please be careful before remove any folder or file."
+#~ msgstr "경고 : 폴더 나 파일을 제거하기 전에주의하십시오."
+
+#~ msgid "Child Theme Permission"
+#~ msgstr "아동 테마 권한"
+
+#~ msgid "Translations"
+#~ msgstr "번역"
+
+#~ msgid "You do not have the permission to create new child theme."
+#~ msgstr "새 하위 테마를 만들 수있는 권한이 없습니다."
+
+#~ msgid ""
+#~ "You do not have the permission to change configure existing child theme."
+#~ msgstr "기존 하위 테마 구성을 변경할 권한이 없습니다."
+
+#~ msgid "You do not have the permission to duplicate the child theme."
+#~ msgstr "하위 테마를 복제 할 권한이 없습니다."
+
+#~ msgid "You do not have the permission to access query/ selector menu."
+#~ msgstr "쿼리 / 선택기 메뉴에 액세스 할 수있는 권한이 없습니다."
+
+#~ msgid "You do not have the permission to access web fonts & CSS menu."
+#~ msgstr "웹 글꼴 및 CSS 메뉴에 액세스 할 수있는 권한이 없습니다."
+
+#~ msgid "You do not have the permission to copy files."
+#~ msgstr "파일을 복사 할 권한이 없습니다."
+
+#~ msgid "You do not have the permission to delete child files."
+#~ msgstr "하위 파일을 삭제할 권한이 없습니다."
+
+#~ msgid "You do not have the permission to upload new screenshot."
+#~ msgstr "새 스크린 샷을 업로드 할 권한이 없습니다."
+
+#~ msgid "You do not have the permission to upload new images."
+#~ msgstr "새 이미지를 업로드 할 권한이 없습니다."
+
+#~ msgid "You do not have the permission to delete images."
+#~ msgstr "이미지를 삭제할 권한이 없습니다."
+
+#~ msgid "You do not have the permission to download file."
+#~ msgstr "파일을 다운로드 할 권한이 없습니다."
+
+#~ msgid "You do not have the permission to create new directory."
+#~ msgstr "새 디렉토리를 만들 수있는 권한이 없습니다."
+
+#~ msgid "You do not have the permission to create new file."
+#~ msgstr "새 파일을 만들 수있는 권한이 없습니다."
+
+#~ msgid "You don't have permission to update file!"
+#~ msgstr "파일을 업데이트 할 권한이 없습니다!"
+
+#~ msgid "You don't have permission to create folder!"
+#~ msgstr "폴더를 만들 수있는 권한이 없습니다!"
+
+#~ msgid "You don't have permission to delete folder!"
+#~ msgstr "폴더를 삭제할 권한이 없습니다!"
+
+#~ msgid "You don't have permission to delete file!"
+#~ msgstr "파일을 삭제할 권한이 없습니다!"
+
+#~ msgid "You don't have permission to upload file!"
+#~ msgstr "파일을 업로드 할 권한이 없습니다!"
+
+#~ msgid "Child Theme permissions saved successfully."
+#~ msgstr "하위 테마 권한이 성공적으로 저장되었습니다."
+
+#~ msgid ""
+#~ "There are no changes made in the child theme permissions to be saved."
+#~ msgstr "저장할 하위 테마 권한에는 변경 사항이 없습니다."
+
+#~ msgid "Child Theme permission message saved successfully."
+#~ msgstr "하위 테마 권한 메시지가 성공적으로 저장되었습니다."
+
+#~ msgid "Users"
+#~ msgstr "사용자"
+
+#~ msgid "Create New Child Theme"
+#~ msgstr "새 자식 테마 만들기"
+
+#~ msgid "Configure an Existing Child Themes"
+#~ msgstr "기존 자식 테마 구성"
+
+#~ msgid "Duplicate Child Themes"
+#~ msgstr "중복 된 하위 테마"
+
+#~ msgid "Query/ Selector"
+#~ msgstr "쿼리 / 선택기"
+
+#~ msgid "Web/font"
+#~ msgstr "웹 / 글꼴"
+
+#~ msgid "Copy File Parent Theme To Child Theme"
+#~ msgstr "파일 상위 테마를 하위 테마로 복사"
+
+#~ msgid "Deleted Child Files"
+#~ msgstr "삭제 된 하위 파일"
+
+#~ msgid "Upload New Screenshoot"
+#~ msgstr "새 스크린 샷 업로드"
+
+#~ msgid "Upload New Images"
+#~ msgstr "새 이미지 업로드"
+
+#~ msgid "Deleted Images "
+#~ msgstr "삭제 된 이미지"
+
+#~ msgid "Download Images"
+#~ msgstr "이미지 다운로드"
+
+#~ msgid "Create New Directory"
+#~ msgstr "새 디렉토리 생성"
+
+#~ msgid "Create New Files"
+#~ msgstr "새 파일 생성"
+
+#~ msgid "Export Theme"
+#~ msgstr "테마 내보내기"
+
+#~ msgid "User Roles"
+#~ msgstr "사용자 역할"
+
+#~ msgid "Query/ Seletor"
+#~ msgstr "쿼리 / 셀 레터"
+
+#~ msgid "Deleted Images"
+#~ msgstr "삭제 된 이미지"
+
+#~ msgid "Child Theme Permission Message"
+#~ msgstr "아동 테마 허가 메시지"
+
+#~ msgid "You do not have the permission to create new Child Theme."
+#~ msgstr "새 하위 테마를 만들 수있는 권한이 없습니다."
+
+#~ msgid "Query/Selector"
+#~ msgstr "쿼리 / 선택기"
+
+#~ msgid "You do not have the permission to access query / selector menu."
+#~ msgstr "쿼리 / 선택 메뉴에 액세스 할 수있는 권한이 없습니다."
+
+#~ msgid " Web/font"
+#~ msgstr "웹 / 글꼴"
+
+#~ msgid " Export Theme"
+#~ msgstr "테마 내보내기"
+
+#~ msgid "Save Child Theme Message"
+#~ msgstr "아동 테마 허가 메시지"
+
+#~ msgid "Please select atleast one image."
+#~ msgstr "이미지를 하나 이상 선택하십시오."
+
+#~ msgid "You don't have the permission to delete images."
+#~ msgstr "이미지를 삭제할 권한이 없습니다."
+
+#~ msgid "You don't have the permission to upload new images."
+#~ msgstr "새 이미지를 업로드 할 권한이 없습니다."
+
+#~ msgid "You don't have the permission to download."
+#~ msgstr "다운로드 할 권한이 없습니다."
+
+#~ msgid "You don't have the permission to create new directory."
+#~ msgstr "새 디렉토리를 만들 수있는 권한이 없습니다."
+
+#~ msgid "Please choose file type."
+#~ msgstr "파일 형식을 선택하세요."
+
+#~ msgid "Please enter file name."
+#~ msgstr "파일 이름을 입력하십시오."
+
+#~ msgid "You don't have the permission to create new file."
+#~ msgstr "새 파일을 만들 수있는 권한이 없습니다."
+
+#~ msgid "Are you sure to copy parent files into child theme?"
+#~ msgstr "상위 파일을 하위 테마로 복사 하시겠습니까?"
+
+#~ msgid "Please select file(s)."
+#~ msgstr "파일을 선택하십시오."
+
+#~ msgid "You don't have the permission to copy files."
+#~ msgstr "파일을 복사 할 수있는 권한이 없습니다."
+
+#~ msgid "Are you sure you want to delete selected file(s)?"
+#~ msgstr "선택한 파일을 삭제 하시겠습니까?"
+
+#~ msgid "You don't have the permission to delete child files."
+#~ msgstr "하위 파일을 삭제할 권한이 없습니다."
+
+#~ msgid "You don't have the permission to upload new screenshot."
+#~ msgstr "새 스크린 샷을 업로드 할 권한이 없습니다."
+
+#~ msgid "You don't have the permission to export theme."
+#~ msgstr "테마를 내보낼 수있는 권한이 없습니다."
+
+#~ msgid "You don't have the permission to access Query/ Selector menu."
+#~ msgstr "쿼리 / 선택기 메뉴에 액세스 할 수있는 권한이 없습니다."
+
+#~ msgid "You don't have the permission to access Web Fonts & CSS menu."
+#~ msgstr "웹 글꼴 및 CSS 메뉴에 액세스 할 수있는 권한이 없습니다."
+
+#~ msgid "Current Analysis Theme:"
+#~ msgstr "현재 분석 주제 :"
+
+#~ msgid "Preview Theme"
+#~ msgstr "테마 미리보기"
+
+#~ msgid "Parent Themes"
+#~ msgstr "부모 테마"
+
+#~ msgid "Child Themes"
+#~ msgstr "어린이 테마"
+
+#~ msgid "Error: Settings Not Saved!"
+#~ msgstr "오류 : 설정이 저장되지 않았습니다!"
+
+#~ msgid "Email List"
+#~ msgstr "이메일 목록"
+
+#~ msgid "Email Address"
+#~ msgstr "이메일 주소"
+
+#~ msgid "Enter Email"
+#~ msgstr "이메일 입력"
+
+#~ msgid "Add More"
+#~ msgstr "더 추가"
+
+#~ msgid ""
+#~ "This address is used for notification purposes, like theme/plugin "
+#~ "notification."
+#~ msgstr "이 주소는 테마 / 플러그인 알림과 같은 알림 목적으로 사용됩니다."
+
+#~ msgid "Theme Notification"
+#~ msgstr "테마 알림"
+
+#~ msgid "Notify on file update"
+#~ msgstr "파일 업데이트 알림"
+
+#~ msgid ""
+#~ "Notification on theme file edit or update.<br/><strong>Default: </"
+#~ "strong>Yes"
+#~ msgstr ""
+#~ "테마 파일 수정 또는 업데이트 알림. <br/> <strong> 기본값 : </strong> 예"
+
+#~ msgid "Notify on files download"
+#~ msgstr "파일 다운로드시 알림"
+
+#~ msgid ""
+#~ "Notification on theme file edit download.<br/><strong>Default: </"
+#~ "strong>Yes"
+#~ msgstr "테마 파일 수정 다운로드 알림. <br/> <strong> 기본값 : </strong> 예"
+
+#~ msgid "Notify on theme download"
+#~ msgstr "테마 다운로드시 알림"
+
+#~ msgid "Notification on theme download.<br/><strong>Default: </strong>Yes"
+#~ msgstr "테마 다운로드 알림. <br/> <strong> 기본값 : </strong> 예"
+
+#~ msgid "Notify on files upload"
+#~ msgstr "파일 업로드시 알림"
+
+#~ msgid ""
+#~ "Notification on files upload in theme.<br/><strong>Default: </strong>Yes"
+#~ msgstr "테마의 파일 업로드 알림. <br/> <strong> 기본값 : </ strong> 예"
+
+#~ msgid "Notify on create new file/folder"
+#~ msgstr "새 파일 / 폴더 생성시 알림"
+
+#~ msgid ""
+#~ "Notification on create new file/folder in theme.<br/><strong>Default: </"
+#~ "strong>Yes"
+#~ msgstr ""
+#~ "테마에서 새 파일 / 폴더 생성에 대한 알림. <br/> <strong> 기본값 : </ "
+#~ "strong> 예"
+
+#~ msgid "Notify on delete"
+#~ msgstr "삭제시 알림"
+
+#~ msgid ""
+#~ "Notify on delete any file and folder in themes.<br/><strong>Default: </"
+#~ "strong>Yes"
+#~ msgstr ""
+#~ "테마의 모든 파일 및 폴더 삭제시 알림. <br/> <strong> 기본값 : </ strong> "
+#~ "예"
+
+#~ msgid "Notify on create New Child theme"
+#~ msgstr "새 자식 테마를 만들 때 알림"
+
+#~ msgid ""
+#~ "Notify on Create New Child themes. <br/><strong>Default: </strong>Yes"
+#~ msgstr ""
+#~ "새 하위 테마 만들기에 대해 알립니다. <br/> <strong> 기본값 : </ strong> 예"
+
+#~ msgid "Notify on configure an Existing Child themes"
+#~ msgstr "기존 하위 테마 구성시 알림"
+
+#~ msgid ""
+#~ "Notify on configure an Existing Child themes.<br/><strong>Default: </"
+#~ "strong>Yes"
+#~ msgstr "기존 하위 테마 구성시 알림. <br/> <strong> 기본값 : </ strong> 예"
+
+#~ msgid "Notify on Duplicate Child themes"
+#~ msgstr "중복 된 하위 테마 알림"
+
+#~ msgid ""
+#~ "Notify on Configure an Existing Child themes.<br/><strong>Default: </"
+#~ "strong>Yes"
+#~ msgstr ""
+#~ "기존 하위 테마 구성에 대한 알림. <br/> <strong> 기본값 : </ strong> 예"
+
+#~ msgid "Plugin Notification"
+#~ msgstr "플러그인 알림"
+
+#~ msgid ""
+#~ "Notification on theme file edit or update.<br/><strong>Default: </"
+#~ "strong>yes"
+#~ msgstr ""
+#~ "테마 파일 수정 또는 업데이트 알림. <br/> <strong> 기본값 : </ strong> 예"
+
+#~ msgid "Notify on Plugin download"
+#~ msgstr "플러그인 다운로드시 알림"
+
+#~ msgid "Notification on Plugin download.<br/><strong>Default: </strong>Yes"
+#~ msgstr "플러그인 다운로드 알림. <br/> <strong> 기본값 : </ strong> 예"
+
+#~ msgid ""
+#~ "Notification on file upload in theme.<br/><strong>Default: </strong>Yes"
+#~ msgstr "테마의 파일 업로드 알림. <br/> <strong> 기본값 : </ strong> 예"
+
+#~ msgid "Permission saved successfully."
+#~ msgstr "권한이 성공적으로 저장되었습니다."
+
+#~ msgid "Oops! Permission cannot saved because you have not made any changes."
+#~ msgstr "이런! 변경하지 않았으므로 권한을 저장할 수 없습니다."
+
+#~ msgid "Allowed User Roles"
+#~ msgstr "허용 된 사용자 역할"
+
+#~ msgid "Update theme files"
+#~ msgstr "테마 파일 업데이트"
+
+#~ msgid "Create new theme files and folders"
+#~ msgstr "새 테마 파일 및 폴더 만들기"
+
+#~ msgid "Upload new theme files and folders"
+#~ msgstr "새 테마 파일 및 폴더 업로드"
+
+#~ msgid "Download theme files"
+#~ msgstr "테마 파일 다운로드"
+
+#~ msgid "Download theme"
+#~ msgstr "테마 다운로드"
+
+#~ msgid "Update plugin files"
+#~ msgstr "플러그인 파일 업데이트"
+
+#~ msgid "Create new plugin files and folders"
+#~ msgstr "새 플러그인 파일 및 폴더 생성"
+
+#~ msgid "Upload new plugin files and folders"
+#~ msgstr "새 플러그인 파일 및 폴더 업로드"
+
+#~ msgid "Delete plugin files and folders"
+#~ msgstr "플러그인 파일 및 폴더 삭제"
+
+#~ msgid "Download plugin files"
+#~ msgstr "플러그인 파일 다운로드"
+
+#~ msgid "Download plugin"
+#~ msgstr "플러그인 다운로드"
+
+#~ msgid "Rename File"
+#~ msgstr "파일명 변경"
+
+#~ msgid "Facebook"
+#~ msgstr "페이스 북"
+
+#~ msgid "Twitter"
+#~ msgstr "트위터"
+
+#~ msgid "Youtube"
+#~ msgstr "유튜브"
+
+#~ msgid ""
+#~ "Theme Editor PRO - Please add your order details below. If Not <a href="
+#~ "\"https://themeeditor.pro/product/theme-editor/\" target=\"_blank\" class="
+#~ "\"page-title-action button button-primary\" title=\"click to buy Licence "
+#~ "Key\">Buy Now</a>"
+#~ msgstr ""
+#~ "Theme Editor PRO-아래에 주문 세부 정보를 추가하십시오. 그렇지 않다면 <a "
+#~ "href=\"https://themeeditor.pro/product/theme-editor/\" target=\"_blank\" "
+#~ "class=\"page-title-action button button-primary\" title=\"click to buy "
+#~ "Licence Key\">지금 구입 </a>"
+
+#~ msgid "ORDER ID (#) *"
+#~ msgstr "주문 아이디 (#) *"
+
+#~ msgid "Enter Order ID"
+#~ msgstr "주문 ID 입력"
+
+#~ msgid "Please Check Your email for order ID."
+#~ msgstr "주문 ID는 이메일을 확인하십시오."
+
+#~ msgid "LICENCE KEY *"
+#~ msgstr "라이센스 키 *"
+
+#~ msgid "Enter License Key"
+#~ msgstr "라이센스 키 입력"
+
+#~ msgid "Please Check Your email for Licence Key."
+#~ msgstr "이메일에서 라이센스 키를 확인하십시오."
+
+#~ msgid "Click To Verify"
+#~ msgstr "확인하려면 클릭"
+
+#~ msgid "URL/None"
+#~ msgstr "URL / 없음"
+
+#~ msgid "Origin"
+#~ msgstr "유래"
+
+#~ msgid "Color 1"
+#~ msgstr "색상 1"
+
+#~ msgid "Color 2"
+#~ msgstr "색상 2"
+
+#~ msgid "Width/None"
+#~ msgstr "너비 / 없음"
+
+#~ msgid "Style"
+#~ msgstr "스타일"
+
+#~ msgid "Color"
+#~ msgstr "색상"
+
+#~ msgid "Configure Child Theme"
+#~ msgstr "자식 테마 구성"
+
+#~ msgid "Duplicate Child theme"
+#~ msgstr "중복 된 하위 테마"
+
+#~ msgid ""
+#~ "After analyzing, this theme is working fine. You can use this as your "
+#~ "Child Theme."
+#~ msgstr ""
+#~ "분석 후이 테마는 잘 작동합니다. 이것을 자녀 테마로 사용할 수 있습니다."
+
+#~ msgid ""
+#~ "After analyzing this child theme appears to be functioning correctly."
+#~ msgstr "이 자식 테마를 분석 한 후 제대로 작동하는 것으로 보입니다."
+
+#~ msgid ""
+#~ "This theme loads additional stylesheets after the <code>style.css</code> "
+#~ "file:"
+#~ msgstr ""
+#~ "이 테마는 <code> style.css </ code> 파일 뒤에 추가 스타일 시트를로드합니"
+#~ "다."
+
+#~ msgid "The theme"
+#~ msgstr "테마 이름"
+
+#~ msgid " could not be analyzed because the preview did not render correctly"
+#~ msgstr "미리보기가 올바르게 렌더링되지 않았기 때문에 분석 할 수 없습니다."
+
+#~ msgid "This Child Theme has not been configured for this plugin"
+#~ msgstr "이 플러그인에 대해이 하위 테마가 구성되지 않았습니다."
+
+#~ msgid ""
+#~ "The Configurator makes significant modifications to the child theme, "
+#~ "including stylesheet changes and additional php functions. Please "
+#~ "consider using the DUPLICATE child theme option (see step 1, above) and "
+#~ "keeping the original as a backup."
+#~ msgstr ""
+#~ "Configurator는 스타일 시트 변경 및 추가 PHP 기능을 포함하여 자식 테마를 크"
+#~ "게 수정합니다. DUPLICATE 하위 테마 옵션 (위의 1 단계 참조)을 사용하고 원본"
+#~ "을 백업으로 유지하는 것이 좋습니다."
+
+#~ msgid "All webfonts/css information saved successfully."
+#~ msgstr "모든 웹 폰트 / css 정보가 성공적으로 저장되었습니다."
+
+#~ msgid "Please enter value for webfonts/css."
+#~ msgstr "webfonts / css에 대한 값을 입력하십시오."
+
+#~ msgid "You don\\'t have permission to update webfonts/css."
+#~ msgstr "webfonts / css를 업데이트 할 권한이 없습니다."
+
+#~ msgid "All information saved successfully."
+#~ msgstr "모든 정보가 성공적으로 저장되었습니다."
+
+#~ msgid ""
+#~ "Are you sure you wish to RESET? This will destroy any work you have done "
+#~ "in the Configurator."
+#~ msgstr ""
+#~ "재설정 하시겠습니까? 이렇게하면 Configurator에서 수행 한 모든 작업이 삭제"
+#~ "됩니다."
+
+#~ msgid "Selectors"
+#~ msgstr "선택자"
+
+#~ msgid "Edit Selector"
+#~ msgstr "선택기 편집"
+
+#~ msgid "The stylesheet cannot be displayed."
+#~ msgstr "스타일 시트를 표시 할 수 없습니다."
+
+#~ msgid "(Child Only)"
+#~ msgstr "(어린이 전용)"
+
+#~ msgid "Please enter a valid Child Theme."
+#~ msgstr "유효한 하위 테마를 입력하십시오."
+
+#~ msgid "Please enter a valid Child Theme name."
+#~ msgstr "유효한 하위 테마 이름을 입력하십시오."
+
+#, php-format
+#~ msgid "<strong>%s</strong> exists. Please enter a different Child Theme"
+#~ msgstr "<strong>%s</strong> 존재합니다. 다른 어린이 테마를 입력하십시오"
+
+#~ msgid "The page could not be loaded correctly."
+#~ msgstr "페이지를 올바르게로드 할 수 없습니다."
+
+#~ msgid ""
+#~ "Conflicting or out-of-date jQuery libraries were loaded by another plugin:"
+#~ msgstr ""
+#~ "충돌하거나 오래된 jQuery 라이브러리가 다른 플러그인에 의해로드되었습니다."
+
+#~ msgid "Deactivating or replacing plugins may resolve this issue."
+#~ msgstr "플러그인을 비활성화하거나 교체하면이 문제를 해결할 수 있습니다."
+
+#~ msgid "No result found for the selection."
+#~ msgstr "선택에 대한 결과가 없습니다."
+
+#, php-format
+#~ msgid "%sWhy am I seeing this?%s"
+#~ msgstr "%s이 표시되는 이유는 무엇입니까? %s"
+
+#~ msgid "Parent / Child"
+#~ msgstr "부모 / 자녀"
+
+#~ msgid "Select an action:"
+#~ msgstr "조치를 선택하십시오."
+
+#~ msgid "Create a new Child Theme"
+#~ msgstr "새 자식 테마 만들기"
+
+#~ msgid "Configure an existing Child Theme"
+#~ msgstr "기존 자식 테마 구성"
+
+#~ msgid "Duplicate an existing Child Theme"
+#~ msgstr "기존 하위 테마 복제"
+
+#~ msgid "Select a Parent Theme:"
+#~ msgstr "상위 테마 선택 :"
+
+#~ msgid "Analyze Parent Theme"
+#~ msgstr "상위 테마 분석"
+
+#~ msgid ""
+#~ "Click \"Analyze\" to determine stylesheet dependencies and other "
+#~ "potential issues."
+#~ msgstr ""
+#~ "스타일 시트 종속성 및 기타 잠재적 인 문제를 확인하려면 \"분석\"을 클릭하십"
+#~ "시오."
+
+#~ msgid "Analyze"
+#~ msgstr "분석"
+
+#~ msgid "Select a Child Theme:"
+#~ msgstr "하위 테마 선택 :"
+
+#~ msgid "Analyze Child Theme"
+#~ msgstr "하위 테마 분석"
+
+#~ msgid "Name the new theme directory:"
+#~ msgstr "새 테마 디렉토리의 이름을 지정하십시오."
+
+#~ msgid "Directory Name"
+#~ msgstr "디렉토리 이름"
+
+#~ msgid "NOTE:"
+#~ msgstr "노트:"
+
+#~ msgid ""
+#~ "This is NOT the name of the Child Theme. You can customize the name, "
+#~ "description, etc. in step 7, below."
+#~ msgstr ""
+#~ "이것은 Child Theme의 이름이 아닙니다. 아래 7 단계에서 이름, 설명 등을 사용"
+#~ "자 지정할 수 있습니다."
+
+#~ msgid "Verify Child Theme directory:"
+#~ msgstr "하위 테마 디렉토리 확인 :"
+
+#~ msgid ""
+#~ "For verification only (you cannot modify the directory of an existing "
+#~ "Child Theme)."
+#~ msgstr "확인 전용입니다 (기존 하위 테마의 디렉토리는 수정할 수 없음)."
+
+#~ msgid "Select where to save new styles:"
+#~ msgstr "새 스타일을 저장할 위치를 선택하십시오."
+
+#~ msgid "Primary Stylesheet (style.css)"
+#~ msgstr "기본 스타일 시트 (style.css)"
+
+#~ msgid ""
+#~ "Save new custom styles directly to the Child Theme primary stylesheet, "
+#~ "replacing the existing values. The primary stylesheet will load in the "
+#~ "order set by the theme."
+#~ msgstr ""
+#~ "새 사용자 정의 스타일을 하위 테마 기본 스타일 시트에 직접 저장하여 기존 값"
+#~ "을 바꿉니다. 기본 스타일 시트는 테마에 설정된 순서대로로드됩니다."
+
+#~ msgid "Separate Stylesheet"
+#~ msgstr "별도의 스타일 시트"
+
+#~ msgid ""
+#~ "Save new custom styles to a separate stylesheet and combine any existing "
+#~ "child theme styles with the parent to form baseline. Select this option "
+#~ "if you want to preserve the existing child theme styles instead of "
+#~ "overwriting them. This option also allows you to customize stylesheets "
+#~ "that load after the primary stylesheet."
+#~ msgstr ""
+#~ "새 사용자 정의 스타일을 별도의 스타일 시트에 저장하고 기존 하위 테마 스타"
+#~ "일을 상위 항목과 결합하여 기준선을 형성합니다. 기존 자식 테마 스타일을 덮"
+#~ "어 쓰지 않고 유지하려면이 옵션을 선택합니다. 이 옵션을 사용하면 기본 스타"
+#~ "일 시트 이후에로드되는 스타일 시트를 사용자 정의 할 수도 있습니다."
+
+#~ msgid "Select Parent Theme stylesheet handling:"
+#~ msgstr "상위 테마 스타일 시트 처리를 선택하십시오."
+
+#~ msgid "Use the WordPress style queue."
+#~ msgstr "WordPress 스타일 대기열을 사용합니다."
+
+#~ msgid ""
+#~ "Let the Configurator determine the appropriate actions and dependencies "
+#~ "and update the functions file automatically."
+#~ msgstr ""
+#~ "구성자가 적절한 작업 및 종속성을 결정하고 함수 파일을 자동으로 업데이트하"
+#~ "도록합니다."
+
+#~ msgid "Use <code>@import</code> in the child theme stylesheet."
+#~ msgstr "하위 테마 스타일 시트에서 <code> @import </code>를 사용합니다."
+
+#~ msgid ""
+#~ "Only use this option if the parent stylesheet cannot be loaded using the "
+#~ "WordPress style queue. Using <code>@import</code> is not recommended."
+#~ msgstr ""
+#~ "WordPress 스타일 대기열을 사용하여 상위 스타일 시트를로드 할 수없는 경우에"
+#~ "만이 옵션을 사용하십시오. <code> @import </code> 사용은 권장되지 않습니다."
+
+#~ msgid "Do not add any parent stylesheet handling."
+#~ msgstr "상위 스타일 시트 처리를 추가하지 마십시오."
+
+#~ msgid ""
+#~ "Select this option if this theme already handles the parent theme "
+#~ "stylesheet or if the parent theme's <code>style.css</code> file is not "
+#~ "used for its appearance."
+#~ msgstr ""
+#~ "이 테마가 이미 상위 테마 스타일 시트를 처리하거나 상위 테마의 <code> "
+#~ "style.css </code> 파일이 모양에 사용되지 않는 경우이 옵션을 선택하십시오."
+
+#~ msgid "Advanced handling options"
+#~ msgstr "고급 처리 옵션"
+
+#~ msgid "Ignore parent theme stylesheets."
+#~ msgstr "상위 테마 스타일 시트를 무시하십시오."
+
+#~ msgid ""
+#~ "Select this option if this theme already handles the parent theme "
+#~ "stylesheet or if the parent theme's style.css file is not used for its "
+#~ "appearance."
+#~ msgstr ""
+#~ "이 테마가 이미 상위 테마 스타일 시트를 처리하거나 상위 테마의 style.css 파"
+#~ "일이 모양에 사용되지 않는 경우이 옵션을 선택하십시오."
+
+#~ msgid "Repair the header template in the child theme."
+#~ msgstr "하위 테마에서 헤더 템플릿을 복구합니다."
+
+#~ msgid ""
+#~ "Let the Configurator (try to) resolve any stylesheet issues listed above. "
+#~ "This can fix many, but not all, common problems."
+#~ msgstr ""
+#~ "구성 관리자가 위에 나열된 스타일 시트 문제를 해결하도록하십시오. 이것은 전"
+#~ "부는 아니지만 많은 일반적인 문제를 해결할 수 있습니다."
+
+#~ msgid "Remove stylesheet dependencies"
+#~ msgstr "스타일 시트 종속성 제거"
+
+#~ msgid ""
+#~ "By default, the order of stylesheets that load prior to the primary "
+#~ "stylesheet is preserved by treating them as dependencies. In some cases, "
+#~ "stylesheets are detected in the preview that are not used site-wide. If "
+#~ "necessary, dependency can be removed for specific stylesheets below."
+#~ msgstr ""
+#~ "기본적으로 기본 스타일 시트 이전에로드되는 스타일 시트의 순서는 종속성으"
+#~ "로 처리하여 유지됩니다. 일부 경우 사이트 전체에서 사용되지 않는 스타일 시"
+#~ "트가 미리보기에서 감지됩니다. 필요한 경우 아래의 특정 스타일 시트에 대한 "
+#~ "종속성을 제거 할 수 있습니다."
+
+#~ msgid "Child Theme Name"
+#~ msgstr "하위 테마 이름"
+
+#~ msgid "Theme Name"
+#~ msgstr "테마 이름"
+
+#~ msgid "Theme Website"
+#~ msgstr "테마 웹 사이트"
+
+#~ msgid "Author"
+#~ msgstr "저자"
+
+#~ msgid "Author Website"
+#~ msgstr "저자 웹 사이트"
+
+#~ msgid "Theme Description"
+#~ msgstr "테마 설명"
+
+#~ msgid "Description"
+#~ msgstr "기술"
+
+#~ msgid "Tags"
+#~ msgstr "태그"
+
+#~ msgid ""
+#~ "Copy Menus, Widgets and other Customizer Settings from the Parent Theme "
+#~ "to the Child Theme:"
+#~ msgstr ""
+#~ "메뉴, 위젯 및 기타 사용자 정의 설정을 상위 테마에서 하위 테마로 복사 :"
+
+#~ msgid ""
+#~ "This option replaces the Child Theme's existing Menus, Widgets and other "
+#~ "Customizer Settings with those from the Parent Theme. You should only "
+#~ "need to use this option the first time you configure a Child Theme."
+#~ msgstr ""
+#~ "이 옵션은 하위 테마의 기존 메뉴, 위젯 및 기타 사용자 정의 설정을 상위 테마"
+#~ "의 설정으로 대체합니다. 이 옵션은 자식 테마를 처음 구성 할 때만 사용해야합"
+#~ "니다."
+
+#~ msgid "Click to run the Configurator:"
+#~ msgstr "구성자를 실행하려면 클릭하십시오."
+
+#~ msgid "Query / Selector"
+#~ msgstr "쿼리 / 선택기"
+
+#~ msgid ""
+#~ "To find specific selectors within @media query blocks, first choose the "
+#~ "query, then the selector. Use the \"base\" query to edit all other "
+#~ "selectors."
+#~ msgstr ""
+#~ "@media 쿼리 블록 내에서 특정 선택기를 찾으려면 먼저 쿼리를 선택한 다음 선"
+#~ "택기를 선택합니다. 다른 모든 선택기를 편집하려면 \"기본\"쿼리를 사용하십시"
+#~ "오."
+
+#~ msgid "@media Query"
+#~ msgstr "@ 미디어 쿼리"
+
+#~ msgid "( or \"base\" )"
+#~ msgstr "(또는 \"base\")"
+
+#~ msgid "Selector"
+#~ msgstr "선택자"
+
+#~ msgid "Query/Selector Action"
+#~ msgstr "쿼리 / 선택기 작업"
+
+#~ msgid "Save Child Values"
+#~ msgstr "자식 값 저장"
+
+#~ msgid "Delete Child Values"
+#~ msgstr "자식 값 삭제"
+
+#~ msgid "Property"
+#~ msgstr "특성"
+
+#~ msgid "Baseline Value"
+#~ msgstr "기준 값"
+
+#~ msgid "Child Value"
+#~ msgstr "아동 가치"
+
+#~ msgid "error"
+#~ msgstr "오류"
+
+#~ msgid "You do not have permission to configure child themes."
+#~ msgstr "하위 테마를 구성 할 권한이 없습니다."
+
+#, php-format
+#~ msgid "%s does not exist. Please select a valid Parent Theme."
+#~ msgstr "%s 이 (가) 없습니다. 유효한 상위 테마를 선택하십시오."
+
+#~ msgid "The Functions file is required and cannot be deleted."
+#~ msgstr "Functions 파일은 필수이며 삭제할 수 없습니다."
+
+#~ msgid "Please select a valid Parent Theme."
+#~ msgstr "유효한 상위 테마를 선택하십시오."
+
+#~ msgid "Please select a valid Child Theme."
+#~ msgstr "유효한 하위 테마를 선택하십시오."
+
+#~ msgid "Please enter a valid Child Theme directory name."
+#~ msgstr "유효한 하위 테마 디렉토리 이름을 입력하십시오."
+
+#, php-format
+#~ msgid ""
+#~ "<strong>%s</strong> exists. Please enter a different Child Theme template "
+#~ "name."
+#~ msgstr ""
+#~ "<strong>%s</strong> 존재합니다. 다른 하위 테마 템플릿 이름을 입력하십시오."
+
+#~ msgid "Your theme directories are not writable."
+#~ msgstr "테마 디렉토리에 쓸 수 없습니다."
+
+#~ msgid "Could not upgrade child theme"
+#~ msgstr "하위 테마를 업그레이드 할 수 없습니다."
+
+#~ msgid "Your stylesheet is not writable."
+#~ msgstr "스타일 시트에 쓸 수 없습니다."
+
+#~ msgid ""
+#~ "A closing PHP tag was detected in Child theme functions file so \"Parent "
+#~ "Stylesheet Handling\" option was not configured. Closing PHP at the end "
+#~ "of the file is discouraged as it can cause premature HTTP headers. Please "
+#~ "edit <code>functions.php</code> to remove the final <code>?&gt;</code> "
+#~ "tag and click \"Generate/Rebuild Child Theme Files\" again."
+#~ msgstr ""
+#~ "하위 테마 함수 파일에서 닫는 PHP 태그가 감지되어 \"상위 스타일 시트 처리"
+#~ "\"옵션이 구성되지 않았습니다. 파일 끝에서 PHP를 닫으면 HTTP 헤더가 너무 일"
+#~ "찍 발생할 수 있으므로 권장하지 않습니다. <code> functions.php </code>를 편"
+#~ "집하여 마지막 <code>?&gt;</code> 태그를 제거하고 \"Generate / Rebuild "
+#~ "Child Theme Files\"를 다시 클릭하십시오."
+
+#, php-format
+#~ msgid "Could not copy file: %s"
+#~ msgstr "파일을 복사 할 수 없습니다 : %s"
+
+#, php-format
+#~ msgid "Could not delete %s file."
+#~ msgstr "%s 파일을 삭제할 수 없습니다."
+
+#, php-format
+#~ msgid "could not copy %s"
+#~ msgstr "%s 을 (를) 복사 할 수 없습니다."
+
+#, php-format
+#~ msgid "invalid dir: %s"
+#~ msgstr "잘못된 디렉토리 : %s"
+
+#~ msgid "There were errors while resetting permissions."
+#~ msgstr "권한을 재설정하는 중에 오류가 발생했습니다."
+
+#~ msgid "Could not upload file."
+#~ msgstr "파일을 업로드 할 수 없습니다."
+
+#~ msgid "Invalid theme root directory."
+#~ msgstr "테마 루트 디렉터리가 잘못되었습니다."
+
+#~ msgid "No writable temp directory."
+#~ msgstr "쓰기 가능한 임시 디렉토리가 없습니다."
+
+#, php-format
+#~ msgid "Unpack failed -- %s"
+#~ msgstr "압축 해제 실패 -- %s"
+
+#, php-format
+#~ msgid "Pack failed -- %s"
+#~ msgstr "포장 실패 -- %s"
+
+#~ msgid "Maximum number of styles exceeded."
+#~ msgstr "최대 스타일 수를 초과했습니다."
+
+#, php-format
+#~ msgid "Error moving file: %s"
+#~ msgstr "파일 이동 오류 : %s"
+
+#~ msgid "Could not set write permissions."
+#~ msgstr "쓰기 권한을 설정할 수 없습니다."
+
+#~ msgid "Error:"
+#~ msgstr "오류:"
+
+#, php-format
+#~ msgid "Current Analysis Child Theme <strong>%s</strong> has been reset."
+#~ msgstr "현재 분석 하위 테마 <strong>%s</strong>이 (가) 재설정되었습니다."
+
+#~ msgid "Update Key saved successfully."
+#~ msgstr "업데이트 키가 성공적으로 저장되었습니다."
+
+#~ msgid "Child Theme files modified successfully."
+#~ msgstr "하위 테마 파일이 성공적으로 수정되었습니다."
+
+#, php-format
+#~ msgid "Child Theme <strong>%s</strong> has been generated successfully."
+#~ msgstr "하위 테마 <strong>%s</strong>이 (가) 성공적으로 생성되었습니다."
+
+#~ msgid "Web Fonts & CSS"
+#~ msgstr "웹 글꼴 및 CSS"
+
+#~ msgid "Parent Styles"
+#~ msgstr "부모 스타일"
+
+#~ msgid "Child Styles"
+#~ msgstr "아동 스타일"
+
+#~ msgid "View Child Images"
+#~ msgstr "어린이 이미지보기"
+
+#~ msgid ""
+#~ "Use <code>@import url( [path] );</code> to link additional stylesheets. "
+#~ "This Plugin uses the <code>@import</code> keyword to identify them and "
+#~ "convert them to <code>&lt;link&gt;</code> tags. <strong>Example:</strong>"
+#~ msgstr ""
+#~ "추가 스타일 시트를 연결하려면<code>@import url ([path]);</code>을 사용하세"
+#~ "요. 이 플러그인은 <code> @import </code> 키워드를 사용하여이를 식별하고 "
+#~ "<code>&lt;link&gt;</code> 태그로 변환합니다. <strong> 예 : </strong>"
+
+#~ msgid "Save"
+#~ msgstr "저장"
+
+#~ msgid "Uploading image with same name will replace with existing image."
+#~ msgstr "같은 이름의 이미지를 업로드하면 기존 이미지로 대체됩니다."
+
+#~ msgid "Upload New Child Theme Image"
+#~ msgstr "새 하위 테마 이미지 업로드"
+
+#~ msgid "Delete Selected Images"
+#~ msgstr "선택한 이미지 삭제"
+
+#~ msgid "Create a New Directory"
+#~ msgstr "새 디렉토리 생성"
+
+#~ msgid "New Directory will be created in"
+#~ msgstr "새 디렉토리가 생성됩니다."
+
+#~ msgid "New Directory Name"
+#~ msgstr "새 디렉토리 이름"
+
+#~ msgid "Create a New File"
+#~ msgstr "새 파일 생성"
+
+#~ msgid "New File will be created in"
+#~ msgstr "새 파일이 생성됩니다."
+
+#~ msgid "New File Name"
+#~ msgstr "새 파일 이름"
+
+#~ msgid "File Type Extension"
+#~ msgstr "파일 유형 확장자"
+
+#~ msgid "Choose File Type"
+#~ msgstr "파일 유형 선택"
+
+#~ msgid "PHP File"
+#~ msgstr "PHP 파일"
+
+#~ msgid "CSS File"
+#~ msgstr "CSS 파일"
+
+#~ msgid "JS File"
+#~ msgstr "JS 파일"
+
+#~ msgid "Text File"
+#~ msgstr "텍스트 파일"
+
+#~ msgid "PHP File Type"
+#~ msgstr "PHP 파일 유형"
+
+#~ msgid "Simple PHP File"
+#~ msgstr "간단한 PHP 파일"
+
+#~ msgid "Wordpress Template File"
+#~ msgstr "Wordpress 템플릿 파일"
+
+#~ msgid "Template Name"
+#~ msgstr "템플릿 이름"
+
+#~ msgid "Parent Templates"
+#~ msgstr "부모 템플릿"
+
+#~ msgid ""
+#~ "Copy PHP templates from the parent theme by selecting them here. The "
+#~ "Configurator defines a template as a Theme PHP file having no PHP "
+#~ "functions or classes. Other PHP files cannot be safely overridden by a "
+#~ "child theme."
+#~ msgstr ""
+#~ "여기에서 선택하여 상위 테마에서 PHP 템플릿을 복사합니다. Configurator는 템"
+#~ "플릿을 PHP 함수 나 클래스가없는 테마 PHP 파일로 정의합니다. 다른 PHP 파일"
+#~ "은 자식 테마로 안전하게 재정의 할 수 없습니다."
+
+#~ msgid ""
+#~ "CAUTION: If your child theme is active, the child theme version of the "
+#~ "file will be used instead of the parent immediately after it is copied."
+#~ msgstr ""
+#~ "주의 : 하위 테마가 활성화 된 경우 파일이 복사 된 직후에 상위 파일 대신 하"
+#~ "위 테마 버전이 사용됩니다."
+
+#~ msgid "The "
+#~ msgstr "그만큼"
+
+#~ msgid " file is generated separately and cannot be copied here. "
+#~ msgstr "파일은 별도로 생성되며 여기에 복사 할 수 없습니다."
+
+#~ msgid "Copy Selected to Child Theme"
+#~ msgstr "선택한 항목을 하위 테마로 복사"
+
+#~ msgid " Child Theme Files "
+#~ msgstr "하위 테마 파일"
+
+#~ msgid "Click to edit files using the Theme Editor"
+#~ msgstr "테마 편집기를 사용하여 파일을 편집하려면 클릭하십시오."
+
+#~ msgid "Delete child theme templates by selecting them here."
+#~ msgstr "여기에서 선택하여 하위 테마 템플릿을 삭제합니다."
+
+#~ msgid "Delete Selected"
+#~ msgstr "선택된 것을 지워 라"
+
+#~ msgid "Child Theme Screenshot"
+#~ msgstr "어린이 테마 스크린 샷"
+
+#~ msgid "Upload New Screenshot"
+#~ msgstr "새 스크린 샷 업로드"
+
+#~ msgid ""
+#~ "The theme screenshot should be a 4:3 ratio (e.g., 880px x 660px) JPG, PNG "
+#~ "or GIF. It will be renamed"
+#~ msgstr ""
+#~ "테마 스크린 샷은 4 : 3 비율 (예 : 880px x 660px) JPG, PNG 또는 GIF 여야합"
+#~ "니다. 이름이 변경됩니다"
+
+#~ msgid "Screenshot"
+#~ msgstr "스크린 샷"
+
+#~ msgid "Upload New Child Theme Image "
+#~ msgstr "새 하위 테마 이미지 업로드"
+
+#~ msgid ""
+#~ "Theme images reside under the images directory in your child theme and "
+#~ "are meant for stylesheet use only. Use the Media Library for content "
+#~ "images."
+#~ msgstr ""
+#~ "테마 이미지는 자식 테마의 images 디렉토리에 있으며 스타일 시트 전용입니"
+#~ "다. 콘텐츠 이미지 용 미디어 라이브러리를 사용합니다."
+
+#~ msgid "Preview Current Child Theme (Current analysis)"
+#~ msgstr "현재 하위 테마 미리보기 (현재 분석)"
+
+#~ msgid "Preview Current Child Theme"
+#~ msgstr "현재 하위 테마 미리보기"
+
+#~ msgid "Export Child Theme as Zip Archive"
+#~ msgstr "Zip 아카이브로 하위 테마 내보내기"
+
+#~ msgid ""
+#~ "Click \"Export Zip\" to save a backup of the currently loaded child "
+#~ "theme. You can export any of your themes from the Parent/Child tab."
+#~ msgstr ""
+#~ "현재로드 된 하위 테마의 백업을 저장하려면 \"내보내기 Zip\"을 클릭하십시"
+#~ "오. 상위 / 하위 탭에서 테마를 내보낼 수 있습니다."
+
+#~ msgid "Export Child Theme"
+#~ msgstr "하위 테마 내보내기"
+
+#~ msgid "Child Theme file(s) copied successfully!"
+#~ msgstr "하위 테마 파일이 성공적으로 복사되었습니다!"
+
+#~ msgid ""
+#~ "The file which you are trying to copy from Parent Templates does not exist"
+#~ msgstr "상위 템플릿에서 복사하려는 파일이 존재하지 않습니다."
+
+#~ msgid ""
+#~ "The file which you are trying to copy from Parent Templates is already "
+#~ "present in the Child Theme files."
+#~ msgstr "부모 템플릿에서 복사하려는 파일이 이미 자식 테마 파일에 있습니다."
+
+#~ msgid "Child "
+#~ msgstr "아이"
+
+#~ msgid " and Parent "
+#~ msgstr "및 부모"
+
+#~ msgid " directories doesn't exist!"
+#~ msgstr "디렉토리가 존재하지 않습니다!"
+
+#~ msgid " directory doesn't exist!"
+#~ msgstr "디렉토리가 없습니다!"
+
+#~ msgid "Parent "
+#~ msgstr "부모의"
+
+#~ msgid "Unknown error! "
+#~ msgstr "알수없는 오류!"
+
+#~ msgid "You don't have permission to copy the files!"
+#~ msgstr "파일을 복사 할 권한이 없습니다!"
+
+#~ msgid "All selected file(s) have been deleted successfully!"
+#~ msgstr "선택한 모든 파일이 성공적으로 삭제되었습니다!"
+
+#~ msgid " does not exists!"
+#~ msgstr "존재하지 않습니다!"
+
+#~ msgid "This file extension is not allowed to upload!"
+#~ msgstr "이 파일 확장자는 업로드 할 수 없습니다!"
+
+#~ msgid "Image uploaded successfully!"
+#~ msgstr "이미지가 성공적으로 업로드되었습니다!"
+
+#~ msgid "There is some issue in uploading image!"
+#~ msgstr "이미지 업로드에 문제가 있습니다!"
+
+#~ msgid ""
+#~ "This file extension is not allowed to upload as screenshot by wordpress!"
+#~ msgstr "이 파일 확장자는 워드 프레스로 스크린 샷으로 업로드 할 수 없습니다!"
+
+#~ msgid "File uploaded successfully!"
+#~ msgstr "파일이 성공적으로 업로드되었습니다!"
+
+#~ msgid "Child Theme files can't be modified."
+#~ msgstr "하위 테마 파일은 수정할 수 없습니다."
+
+#~ msgid "File(s) deleted successfully!"
+#~ msgstr "파일이 성공적으로 삭제되었습니다!"
+
+#~ msgid "You don't have permission to delete file(s)!"
+#~ msgstr "파일을 삭제할 권한이 없습니다!"
+
+#~ msgid "Entered directory name already exists"
+#~ msgstr "입력 한 디렉토리 이름이 이미 있습니다."
+
+#~ msgid "You don't have permission to create directory!"
+#~ msgstr "디렉토리를 만들 수있는 권한이 없습니다!"
+
+#~ msgid "Wordpress template file created"
+#~ msgstr "생성 된 Wordpress 템플릿 파일"
+
+#~ msgid "Wordpress template file not created"
+#~ msgstr "Wordpress 템플릿 파일이 생성되지 않았습니다."
+
+#~ msgid "PHP created file successfully"
+#~ msgstr "PHP가 파일을 성공적으로 생성했습니다."
+
+#~ msgid "PHP file not created"
+#~ msgstr "PHP 파일이 생성되지 않았습니다."
+
+#~ msgid " file not created"
+#~ msgstr "파일이 생성되지 않았습니다."
+
+#~ msgid "Already exists"
+#~ msgstr "이미 존재 함"
+
+#~ msgid "You don't have permission to create file!"
+#~ msgstr "파일을 만들 수있는 권한이 없습니다!"
+
+#~ msgid "create, edit, upload, download, delete Theme Files and folders"
+#~ msgstr "테마 파일 및 폴더 생성, 편집, 업로드, 다운로드, 삭제"
+
+#~ msgid "Language folder has been downlaoded."
+#~ msgstr "언어 폴더가 다운로드되었습니다."
+
+#~ msgid "Add single or multiple languages."
+#~ msgstr "단일 또는 여러 언어를 추가합니다."
+
+#~ msgid "Add single language file"
+#~ msgstr "단일 언어 파일 추가"
+
+#~ msgid "Please click on language button."
+#~ msgstr "언어 버튼을 클릭하세요."
+
+#~ msgid "Add all languages zip folder"
+#~ msgstr "모든 언어 zip 폴더 추가"
+
+#~ msgid "Zip Download"
+#~ msgstr "Zip 다운로드"

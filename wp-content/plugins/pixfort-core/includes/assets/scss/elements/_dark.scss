@@ -1,0 +1,134 @@
+.pix-invert-colors,
+.pix-dark-hover:hover {
+	.text-body-default,
+	&.text-body-default {
+		color: $dark-body-color !important;
+		&.btn {
+			&:hover,
+			&:focus,
+			&:active {
+				color: darken($dark-body-color, 10%) !important;
+			}
+		}
+	}
+	.svg-body-default {
+		color: $dark-body-color !important;
+	}
+	a.text-body-default {
+		&:hover,
+		&:focus,
+		&:active {
+			color: darken($dark-body-color, 10%) !important;
+		}
+	}
+
+	.text-heading-default,
+	&.text-heading-default {
+		color: $dark-heading-color !important;
+	}
+	.svg-heading-default {
+		color: $dark-heading-color;
+	}
+	a.text-heading-default {
+		&:hover,
+		&:focus,
+		&:active {
+			color: darken($dark-heading-color, 10%) !important;
+		}
+	}
+
+	// Contextual colors
+	.text-white {
+		color: $black !important;
+	}
+	.text-black {
+		color: $white !important;
+	}
+
+	transition: $transition-base;
+
+	@each $color, $value in $opacity-values {
+		@include text-emphasis-transparent-variant('.text-dark-#{$color}', #ffffff, $value, 'dark-#{$color}');
+		@include text-emphasis-transparent-variant('.text-light-#{$color}', darken($primary, 55%), $value, 'light-#{$color}');
+	}
+
+	.text-body {
+		color: $dark-body-color !important;
+	}
+	.text-muted {
+		color: $text-muted !important;
+	}
+
+	.text-black-50 {
+		color: rgba($white, 0.5) !important;
+	}
+	.text-white-50 {
+		color: rgba($black, 0.5) !important;
+	}
+
+	$dark-gray-colors: () !default;
+	$dark-gray-colors: map-merge(
+		(
+			'gray-1': $gray-900,
+			'gray-2': $gray-800,
+			'gray-3': $gray-700,
+			'gray-4': $gray-600,
+			'gray-5': $gray-500,
+			'gray-6': $gray-400,
+			'gray-7': $gray-300,
+			'gray-8': $gray-200,
+			'gray-9': $gray-100
+		),
+		$dark-gray-colors
+	);
+	@each $color, $value in $dark-gray-colors {
+		@include bg-variant('.bg-#{$color}', $value);
+	}
+	.bg-white {
+		--pix-bg-color: var(--pix-black);
+		background: var(--pix-black) !important;
+	}
+	.bg-black {
+		--pix-bg-color: var(--pix-white);
+		background: var(--pix-white) !important;
+	}
+	.pix-post-format-btn .pix-post-format-a:hover {
+		background: $black !important;
+	}
+	.pix-post-format-btn .pix-post-format-a.pix-post-btn-dark:hover {
+		background: var(--pix-white) !important;
+	}
+	a.bg-white:hover {
+		background-color: lighten($black, 20%) !important;
+	}
+	a.bg-black:hover {
+		background-color: lighten($white, 20%) !important;
+	}
+}
+.pix-is-dark {
+	.dropdown-item {
+		.pix-dropdown-title,
+		.pix-dropdown-title::after,
+		&::after {
+			color: $dark-body-color !important;
+			--pix-menu-color: #{$dark-body-color} !important;
+		}
+		&:hover,
+		&:focus,
+		&:active {
+			color: adjust-color(lighten($dark-body-color, 30%), $alpha: 0.3%) !important;
+			--pix-menu-color: #{adjust-color(lighten($dark-body-color, 30%), $alpha: 0.3%)} !important;
+			background-color: rgba($white, 0.12);
+			.pix-dropdown-title,
+			.pix-dropdown-title::after,
+			&::after {
+				color: adjust-color(lighten($dark-body-color, 30%), $alpha: 0.3%) !important;
+				--pix-menu-color: #{adjust-color(lighten($dark-body-color, 30%), $alpha: 0.3%)} !important;
+			}
+		}
+		&.pix-nav-link:hover {
+			color: adjust-color(lighten($dark-body-color, 30%), $alpha: 0.3%) !important;
+			--pix-menu-color: #{adjust-color(lighten($dark-body-color, 30%), $alpha: 0.3%)} !important;
+		}
+	}
+}

@@ -1,0 +1,938 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WP File Manager\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-02-25 16:49+0530\n"
+"PO-Revision-Date: 2022-03-03 11:32+0530\n"
+"Last-Translator: admin <kajal.gill@mysenseinc.in>\n"
+"Language-Team: \n"
+"Language: el\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Poedit 3.0.1\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: file_folder_manager.php:174
+msgid "Themes backup restored successfully."
+msgstr "Το αντίγραφο ασφαλείας θεμάτων αποκαταστάθηκε με επιτυχία."
+
+#: file_folder_manager.php:177
+msgid "Unable to restore themes."
+msgstr "Δεν είναι δυνατή η επαναφορά θεμάτων."
+
+#: file_folder_manager.php:207
+msgid "Uploads backup restored successfully."
+msgstr "Το αντίγραφο ασφαλείας των μεταφορτώσεων αποκαταστάθηκε με επιτυχία."
+
+#: file_folder_manager.php:211
+msgid "Unable to restore uploads."
+msgstr "Δεν είναι δυνατή η επαναφορά μεταφορτώσεων."
+
+#: file_folder_manager.php:237
+msgid "Others backup restored successfully."
+msgstr "Τα άλλα αντίγραφα ασφαλείας αποκαταστάθηκαν με επιτυχία."
+
+#: file_folder_manager.php:241
+msgid "Unable to restore others."
+msgstr "Δεν είναι δυνατή η επαναφορά άλλων."
+
+#: file_folder_manager.php:267
+msgid "Plugins backup restored successfully."
+msgstr "Το αντίγραφο ασφαλείας των προσθηκών αποκαταστάθηκε με επιτυχία."
+
+#: file_folder_manager.php:271 file_folder_manager.php:301
+msgid "Unable to restore plugins."
+msgstr "Δεν είναι δυνατή η επαναφορά των προσθηκών."
+
+#: file_folder_manager.php:286
+msgid "Database backup restored successfully."
+msgstr "Το αντίγραφο ασφαλείας της βάσης δεδομένων αποκαταστάθηκε με επιτυχία."
+
+#: file_folder_manager.php:286 file_folder_manager.php:297
+#: file_folder_manager.php:588 file_folder_manager.php:592
+msgid "All Done"
+msgstr "Ολα τελείωσαν"
+
+#: file_folder_manager.php:289
+msgid "Unable to restore DB backup."
+msgstr "Δεν είναι δυνατή η επαναφορά του αντιγράφου ασφαλείας DB."
+
+#: file_folder_manager.php:347
+msgid "Backups removed successfully!"
+msgstr "Τα αντίγραφα ασφαλείας καταργήθηκαν με επιτυχία!"
+
+#: file_folder_manager.php:349
+msgid "Unable to removed backup!"
+msgstr "Δεν είναι δυνατή η κατάργηση του αντιγράφου ασφαλείας!"
+
+#: file_folder_manager.php:373
+msgid "Database backup done on date "
+msgstr ""
+"Η δημιουργία αντιγράφων ασφαλείας της βάσης δεδομένων έγινε την ημερομηνία"
+
+#: file_folder_manager.php:377
+msgid "Plugins backup done on date "
+msgstr "Η δημιουργία αντιγράφων ασφαλείας των προσθηκών έγινε την ημερομηνία"
+
+#: file_folder_manager.php:381
+msgid "Themes backup done on date "
+msgstr "Η δημιουργία αντιγράφων ασφαλείας θεμάτων έγινε την ημερομηνία"
+
+#: file_folder_manager.php:385
+msgid "Uploads backup done on date "
+msgstr "Η μεταφόρτωση αντιγράφων ασφαλείας έγινε την ημερομηνία"
+
+#: file_folder_manager.php:389
+msgid "Others backup done on date "
+msgstr "Άλλα αντίγραφα ασφαλείας ολοκληρώθηκε την ημερομηνία"
+
+#: file_folder_manager.php:393 file_folder_manager.php:776
+msgid "Logs"
+msgstr "κούτσουρα"
+
+#: file_folder_manager.php:399
+msgid "No logs found!"
+msgstr "Δεν βρέθηκαν αρχεία καταγραφής!"
+
+#: file_folder_manager.php:496
+msgid "Nothing selected for backup"
+msgstr "Δεν έχει επιλεγεί τίποτα για δημιουργία αντιγράφων ασφαλείας"
+
+#: file_folder_manager.php:516
+msgid "Security Issue."
+msgstr "Θέμα ασφαλείας."
+
+#: file_folder_manager.php:527
+msgid "Database backup done."
+msgstr "Έγινε η δημιουργία αντιγράφων ασφαλείας της βάσης δεδομένων."
+
+#: file_folder_manager.php:530
+msgid "Unable to create database backup."
+msgstr "Δεν είναι δυνατή η δημιουργία αντιγράφων ασφαλείας βάσης δεδομένων."
+
+#: file_folder_manager.php:544
+msgid "Plugins backup done."
+msgstr "Έγινε η δημιουργία αντιγράφων ασφαλείας των προσθηκών."
+
+#: file_folder_manager.php:547
+msgid "Plugins backup failed."
+msgstr "Η δημιουργία αντιγράφων ασφαλείας προσθηκών απέτυχε."
+
+#: file_folder_manager.php:556
+msgid "Themes backup done."
+msgstr "Η δημιουργία αντιγράφων ασφαλείας θεμάτων ολοκληρώθηκε."
+
+#: file_folder_manager.php:559
+msgid "Themes backup failed."
+msgstr "Η δημιουργία αντιγράφων ασφαλείας θεμάτων απέτυχε."
+
+#: file_folder_manager.php:569
+msgid "Uploads backup done."
+msgstr "Ολοκληρώθηκε η μεταφόρτωση αντιγράφων ασφαλείας."
+
+#: file_folder_manager.php:572
+msgid "Uploads backup failed."
+msgstr "Η δημιουργία αντιγράφων ασφαλείας μεταφορτώσεων απέτυχε."
+
+#: file_folder_manager.php:581
+msgid "Others backup done."
+msgstr "Η δημιουργία αντιγράφων ασφαλείας άλλων ολοκληρώθηκε."
+
+#: file_folder_manager.php:584
+msgid "Others backup failed."
+msgstr "Άλλα αντίγραφα ασφαλείας απέτυχε."
+
+#: file_folder_manager.php:761 file_folder_manager.php:762
+#: lib/wpfilemanager.php:23
+msgid "WP File Manager"
+msgstr "Διαχείριση αρχείων WP"
+
+#: file_folder_manager.php:769
+msgid "Settings"
+msgstr "Ρυθμίσεις"
+
+#: file_folder_manager.php:771 inc/root.php:48
+msgid "Preferences"
+msgstr "Προτιμήσεις"
+
+#: file_folder_manager.php:773
+msgid "System Properties"
+msgstr "Ιδιότητες συστήματος"
+
+#: file_folder_manager.php:775
+msgid "Shortcode - PRO"
+msgstr "Σύντομος κώδικας - PRO"
+
+#: file_folder_manager.php:777
+msgid "Backup/Restore"
+msgstr "Δημιουργία αντιγράφων ασφαλείας/Επαναφορά"
+
+#: file_folder_manager.php:1033
+msgid "Buy Pro"
+msgstr "Αγοράστε Pro"
+
+#: file_folder_manager.php:1034
+msgid "Donate"
+msgstr "Προσφέρω"
+
+#: file_folder_manager.php:1249
+msgid ""
+"<div class=\"updated settings-error notice is-dismissible\" id=\"setting-"
+"error-settings_updated\"> \n"
+"<p><strong>"
+msgstr ""
+
+#: file_folder_manager.php:1256
+msgid ""
+"<div class=\"error settings-error notice is-dismissible\" id=\"setting-error-"
+"settings_updated\"> \n"
+"<p><strong>"
+msgstr ""
+
+#: file_folder_manager.php:1395 file_folder_manager.php:1483
+msgid "File doesn't exist to download."
+msgstr "Το αρχείο δεν υπάρχει για λήψη."
+
+#: file_folder_manager.php:1400 file_folder_manager.php:1488
+msgid "Invalid Security Code."
+msgstr "Μη έγκυρος κωδικός ασφαλείας."
+
+#: file_folder_manager.php:1405 file_folder_manager.php:1493
+msgid "Missing backup id."
+msgstr "Λείπει το αναγνωριστικό αντιγράφου ασφαλείας."
+
+#: file_folder_manager.php:1408 file_folder_manager.php:1496
+msgid "Missing parameter type."
+msgstr "Λείπει ο τύπος παραμέτρου."
+
+#: file_folder_manager.php:1411 file_folder_manager.php:1499
+msgid "Missing required parameters."
+msgstr "Λείπουν οι απαιτούμενες παράμετροι."
+
+#: inc/backup.php:24
+msgid ""
+"Error: Unable to restore backup because database backup is heavy in size. "
+"Please try to increase Maximum allowed size  from Preferences settings."
+msgstr ""
+"Σφάλμα: Δεν είναι δυνατή η επαναφορά του αντιγράφου ασφαλείας επειδή το "
+"αντίγραφο ασφαλείας της βάσης δεδομένων είναι μεγάλο σε μέγεθος. Προσπαθήστε "
+"να αυξήσετε το Μέγιστο επιτρεπόμενο μέγεθος από τις ρυθμίσεις Προτιμήσεων."
+
+#: inc/backup.php:25
+msgid "Select backup(s) to delete!"
+msgstr "Επιλέξτε αντίγραφα ασφαλείας για διαγραφή!"
+
+#: inc/backup.php:26
+msgid "Are you sure want to remove selected backup(s)?"
+msgstr "Είστε βέβαιοι ότι θέλετε να αφαιρέσετε επιλεγμένα αντίγραφα ασφαλείας;"
+
+#: inc/backup.php:31
+msgid "Backup is running, please wait"
+msgstr "Η δημιουργία αντιγράφων ασφαλείας εκτελείται, περιμένετε"
+
+#: inc/backup.php:32
+msgid "Restore is running, please wait"
+msgstr "Η επαναφορά εκτελείται, περιμένετε"
+
+#: inc/backup.php:33
+msgid "Nothing selected for backup."
+msgstr "Δεν έχει επιλεγεί τίποτα για δημιουργία αντιγράφων ασφαλείας."
+
+#: inc/backup.php:45
+msgid "WP File Manager - Backup/Restore"
+msgstr "Διαχείριση αρχείων WP - Δημιουργία αντιγράφων ασφαλείας/Επαναφορά"
+
+#: inc/backup.php:51
+msgid "Backup Options:"
+msgstr "Επιλογές δημιουργίας αντιγράφων ασφαλείας:"
+
+#: inc/backup.php:58
+msgid "Database Backup"
+msgstr "Δημιουργία αντιγράφων ασφαλείας βάσης δεδομένων"
+
+#: inc/backup.php:64
+msgid "Files Backup"
+msgstr "Δημιουργία αντιγράφων ασφαλείας αρχείων"
+
+#: inc/backup.php:68
+msgid "Plugins"
+msgstr "Πρόσθετα"
+
+#: inc/backup.php:71
+msgid "Themes"
+msgstr "Θέματα"
+
+#: inc/backup.php:74
+msgid "Uploads"
+msgstr "Μεταφορτώσεις"
+
+#: inc/backup.php:77
+msgid "Others (Any other directories found inside wp-content)"
+msgstr "Άλλοι (Οποιοι άλλοι κατάλογοι βρίσκονται μέσα στο wp-content)"
+
+#: inc/backup.php:81
+msgid "Backup Now"
+msgstr "Δημιουργία αντιγράφων ασφαλείας τώρα"
+
+#: inc/backup.php:89
+msgid "Time now"
+msgstr "Ώρα τώρα"
+
+#: inc/backup.php:99
+msgid "SUCCESS"
+msgstr "ΕΠΙΤΥΧΙΑ"
+
+#: inc/backup.php:101
+msgid "Backup successfully deleted."
+msgstr "Το αντίγραφο ασφαλείας διαγράφηκε με επιτυχία."
+
+#: inc/backup.php:102
+msgid "Ok"
+msgstr "Εντάξει"
+
+#: inc/backup.php:117
+msgid "DELETE FILES"
+msgstr "ΔΙΑΓΡΑΦΗ ΑΡΧΕΙΩΝ"
+
+#: inc/backup.php:119
+msgid "Are you sure you want to delete this backup?"
+msgstr "Είστε βέβαιοι ότι θέλετε να διαγράψετε αυτό το αντίγραφο ασφαλείας;"
+
+#: inc/backup.php:120 inc/backup.php:139
+msgid "Cancel"
+msgstr "Ματαίωση"
+
+#: inc/backup.php:121 inc/backup.php:140
+msgid "Confirm"
+msgstr "Επιβεβαιώνω"
+
+#: inc/backup.php:136
+msgid "RESTORE FILES"
+msgstr "ΕΠΑΝΑΦΟΡΑ ΑΡΧΕΙΩΝ"
+
+#: inc/backup.php:138
+msgid "Are you sure you want to restore this backup?"
+msgstr "Είστε βέβαιοι ότι θέλετε να επαναφέρετε αυτό το αντίγραφο ασφαλείας;"
+
+#: inc/backup.php:166
+msgid "Last Log Message"
+msgstr "Τελευταίο μήνυμα καταγραφής"
+
+#: inc/backup.php:169
+msgid "The backup apparently succeeded and is now complete."
+msgstr "Το αντίγραφο ασφαλείας προφανώς πέτυχε και έχει πλέον ολοκληρωθεί."
+
+#: inc/backup.php:171
+msgid "No log message"
+msgstr "Κανένα μήνυμα καταγραφής"
+
+#: inc/backup.php:177
+msgid "Existing Backup(s)"
+msgstr "Υπάρχοντα αντίγραφα ασφαλείας"
+
+#: inc/backup.php:184
+msgid "Backup Date"
+msgstr "Ημερομηνία δημιουργίας αντιγράφων ασφαλείας"
+
+#: inc/backup.php:187
+msgid "Backup data (click to download)"
+msgstr "Δημιουργία αντιγράφων ασφαλείας δεδομένων (κάντε κλικ για λήψη)"
+
+#: inc/backup.php:190
+msgid "Action"
+msgstr "Action"
+
+#: inc/backup.php:210
+msgid "Today"
+msgstr "Σήμερα"
+
+#: inc/backup.php:239
+msgid "Restore"
+msgstr "Επαναφέρω"
+
+#: inc/backup.php:240 inc/backup.php:250
+msgid "Delete"
+msgstr "Διαγράφω"
+
+#: inc/backup.php:241
+msgid "View Log"
+msgstr "Προβολή αρχείου καταγραφής"
+
+#: inc/backup.php:246
+msgid "Currently no backup(s) found."
+msgstr "Αυτήν τη στιγμή δεν βρέθηκαν αντίγραφα ασφαλείας."
+
+#: inc/backup.php:249
+msgid "Actions upon selected backup(s)"
+msgstr "Ενέργειες σε επιλεγμένα αντίγραφα ασφαλείας"
+
+#: inc/backup.php:251
+msgid "Select All"
+msgstr "Επιλογή όλων"
+
+#: inc/backup.php:252
+msgid "Deselect"
+msgstr "Αποεπιλογή"
+
+#: inc/backup.php:254
+msgid "Note:"
+msgstr "Σημείωση:"
+
+#: inc/backup.php:254
+msgid "Backup files will be under"
+msgstr "Τα αρχεία αντιγράφων ασφαλείας θα βρίσκονται κάτω"
+
+#: inc/contribute.php:3
+msgid "WP File Manager Contribution"
+msgstr "Συνεισφορά διαχειριστή αρχείων WP"
+
+#: inc/logs.php:7
+msgid ""
+"Note: These are demo screenshots. Please buy File Manager pro to Logs "
+"functions."
+msgstr ""
+"Σημείωση: Αυτά είναι στιγμιότυπα οθόνης επίδειξης. Αγοράστε τις λειτουργίες "
+"File Manager pro to Logs."
+
+#: inc/logs.php:8 lib/wpfilemanager.php:24
+msgid "Click to Buy PRO"
+msgstr "Κάντε κλικ για να αγοράσετε PRO"
+
+#: inc/logs.php:8 inc/settings.php:12 inc/settings.php:27
+#: inc/system_properties.php:5 lib/wpfilemanager.php:25
+msgid "Buy PRO"
+msgstr "Αγοράστε PRO"
+
+#: inc/logs.php:9
+msgid "Edit Files Logs"
+msgstr "Επεξεργασία αρχείων καταγραφής"
+
+#: inc/logs.php:11
+msgid "Download Files Logs"
+msgstr "Λήψη αρχείων καταγραφής"
+
+#: inc/logs.php:13
+msgid "Upload Files Logs"
+msgstr "Μεταφόρτωση αρχείων καταγραφής"
+
+#: inc/root.php:43
+msgid "Settings saved."
+msgstr "Οι ρυθμίσεις αποθηκεύτηκαν."
+
+#: inc/root.php:43 inc/root.php:46
+msgid "Dismiss this notice."
+msgstr "Παράβλεψη αυτής της ειδοποίησης."
+
+#: inc/root.php:46
+msgid "You have not made any changes to be saved."
+msgstr "Δεν έχετε κάνει καμία αλλαγή για αποθήκευση."
+
+#: inc/root.php:55
+msgid "Public Root Path"
+msgstr "Public Root Path"
+
+#: inc/root.php:58
+msgid "File Manager Root Path, you can change according to your choice."
+msgstr ""
+"Διαδρομή ρίζας Διαχείριση αρχείων, μπορείτε να αλλάξετε ανάλογα με την "
+"επιλογή σας."
+
+#: inc/root.php:59
+msgid "Default:"
+msgstr "Προκαθορισμένο:"
+
+#: inc/root.php:60
+msgid ""
+"Please change this carefully, wrong path can lead file manager plugin to go "
+"down."
+msgstr ""
+"Αλλάξτε αυτό προσεκτικά, η λανθασμένη διαδρομή μπορεί να οδηγήσει στην "
+"κατάρριψη της προσθήκης διαχείρισης αρχείων."
+
+#: inc/root.php:64
+msgid "Enable Trash?"
+msgstr "Ενεργοποίηση του Κάδου απορριμμάτων;"
+
+#: inc/root.php:67
+msgid "After enable trash, your files will go to trash folder."
+msgstr ""
+"Αφού ενεργοποιήσετε τον κάδο απορριμμάτων, τα αρχεία σας θα μεταβούν στον "
+"φάκελο απορριμμάτων."
+
+#: inc/root.php:72
+msgid "Enable Files Upload to Media Library?"
+msgstr "Ενεργοποίηση αποστολής αρχείων στη βιβλιοθήκη πολυμέσων;"
+
+#: inc/root.php:75
+msgid "After enabling this all files will go to media library."
+msgstr ""
+"Αφού την ενεργοποιήσετε όλα τα αρχεία θα μεταβούν στη βιβλιοθήκη πολυμέσων."
+
+#: inc/root.php:80
+msgid "Maximum allowed size at the time of database backup restore."
+msgstr ""
+"Μέγιστο επιτρεπόμενο μέγεθος τη στιγμή της επαναφοράς του αντιγράφου "
+"ασφαλείας της βάσης δεδομένων."
+
+#: inc/root.php:83
+msgid "MB"
+msgstr ""
+
+#: inc/root.php:85
+msgid ""
+"Please increase field value if you are getting error message at the time of "
+"backup restore."
+msgstr ""
+"Αυξήστε την τιμή του πεδίου εάν λαμβάνετε μήνυμα σφάλματος τη στιγμή της "
+"επαναφοράς αντιγράφων ασφαλείας."
+
+#: inc/root.php:90
+msgid "Save Changes"
+msgstr "Αποθήκευσε τις αλλαγές"
+
+#: inc/settings.php:10
+msgid "Settings - General"
+msgstr "Ρυθμίσεις - Γενικά"
+
+#: inc/settings.php:11 inc/settings.php:26
+msgid ""
+"Note: This is just a demo screenshot. To get settings please buy our pro "
+"version."
+msgstr ""
+"Σημείωση: Πρόκειται μόνο για ένα στιγμιότυπο οθόνης. Για να λάβετε "
+"ρυθμίσεις, παρακαλώ αγοράστε την επαγγελματική μας έκδοση."
+
+#: inc/settings.php:13
+msgid ""
+"Here admin can give access to user roles to use filemanager. Admin can set "
+"Default Access Folder and also control upload size of filemanager."
+msgstr ""
+"Εδώ ο διαχειριστής μπορεί να δώσει πρόσβαση στους ρόλους των χρηστών για να "
+"χρησιμοποιήσει το filemanager. Ο διαχειριστής μπορεί να ορίσει τον "
+"προεπιλεγμένο φάκελο πρόσβασης και επίσης να ελέγξει το μέγεθος φόρτωσης του "
+"filemanager."
+
+#: inc/settings.php:15
+msgid "Settings - Code-editor"
+msgstr "Ρυθμίσεις - Επεξεργαστής κώδικα"
+
+#: inc/settings.php:16
+msgid ""
+"File Manager has a code editor with multiple themes. You can select any "
+"theme for code editor. It will display when you edit any file. Also you can "
+"allow fullscreen mode of code editor."
+msgstr ""
+"Ο Διαχειριστής αρχείων έχει έναν επεξεργαστή κώδικα με πολλά θέματα. "
+"Μπορείτε να επιλέξετε οποιοδήποτε θέμα για τον επεξεργαστή κωδικών. "
+"Εμφανίζεται όταν επεξεργάζεστε οποιοδήποτε αρχείο. Επίσης, μπορείτε να "
+"επιτρέψετε τη λειτουργία πλήρους οθόνης του επεξεργαστή κώδικα."
+
+#: inc/settings.php:18
+msgid "Code-editor View"
+msgstr "Προβολή κώδικα επεξεργαστή"
+
+#: inc/settings.php:20
+msgid "Settings - User Restrictions"
+msgstr "Ρυθμίσεις - Περιορισμοί χρήστη"
+
+#: inc/settings.php:21
+msgid ""
+"Admin can restrict actions of any user. Also hide files and folders and can "
+"set different - different folders paths for different users."
+msgstr ""
+"Ο διαχειριστής μπορεί να περιορίσει τις ενέργειες κάποιου χρήστη. Επίσης, "
+"αποκρύπτει αρχεία και φακέλους και μπορεί να ορίσει διαφορετικές διαδρομές "
+"διαφορετικών φακέλων για διαφορετικούς χρήστες."
+
+#: inc/settings.php:23
+msgid "Settings - User Role Restrictions"
+msgstr "Ρυθμίσεις - Περιορισμοί ρόλων χρήστη"
+
+#: inc/settings.php:24
+msgid ""
+"Admin can restrict actions of any userrole. Also hide files and folders and "
+"can set different - different folders paths for different users roles."
+msgstr ""
+"Ο διαχειριστής μπορεί να περιορίσει τις ενέργειες οποιουδήποτε χρήστη. "
+"Επίσης, αποκρύπτει αρχεία και φακέλους και μπορεί να ορίσει διαφορετικές "
+"διαδρομές διαφορετικών φακέλων για διαφορετικούς ρόλους χρηστών."
+
+#: inc/shortcode_docs.php:11
+msgid "File Manager - Shortcode"
+msgstr "Διαχείριση αρχείων - Σύντομος κώδικας"
+
+#: inc/shortcode_docs.php:15 inc/shortcode_docs.php:17
+#: inc/shortcode_docs.php:19
+msgid "USE:"
+msgstr "ΧΡΗΣΗ:"
+
+#: inc/shortcode_docs.php:15
+msgid ""
+"It will show file manager on front end. You can control all settings from "
+"file manager settings. It will work same as backend WP File Manager."
+msgstr ""
+"Θα εμφανίσει τη διαχείριση αρχείων στο μπροστινό μέρος. Μπορείτε να ελέγξετε "
+"όλες τις ρυθμίσεις από τις ρυθμίσεις διαχείρισης αρχείων. Θα λειτουργεί όπως "
+"το backend WP File Manager."
+
+#: inc/shortcode_docs.php:17
+msgid ""
+"It will show file manager on front end. But only Administrator can access it "
+"and will control from file manager settings."
+msgstr ""
+"Θα εμφανίσει τη διαχείριση αρχείων στο μπροστινό μέρος. Αλλά μόνο ο "
+"Διαχειριστής μπορεί να έχει πρόσβαση σε αυτό και θα το ελέγξει από τις "
+"ρυθμίσεις διαχείρισης αρχείων."
+
+#: inc/shortcode_docs.php:23
+msgid "Parameters:"
+msgstr "Παράμετροι:"
+
+#: inc/shortcode_docs.php:26
+msgid ""
+"It will allow all roles to access file manager on front end or You can "
+"simple use for particular user roles as like allowed_roles=\"editor,author"
+"\" (seprated by comma(,))"
+msgstr ""
+"Θα επιτρέψει σε όλους τους ρόλους να έχουν πρόσβαση στον διαχειριστή αρχείων "
+"στη διεπαφή ή Μπορείτε να χρησιμοποιήσετε απλά για συγκεκριμένους ρόλους "
+"χρήστη, όπως allow_roles=\"editor,author\" (διαχωρίζονται με κόμμα(,))"
+
+#: inc/shortcode_docs.php:28
+msgid ""
+"Here \"test\" is the name of folder which is located on root directory, or "
+"you can give path for sub folders as like \"wp-content/plugins\". If leave "
+"blank or empty it will access all folders on root directory. Default: Root "
+"directory"
+msgstr ""
+"Εδώ \"test\" είναι το όνομα του φακέλου που βρίσκεται στον ριζικό κατάλογο ή "
+"μπορείτε να δώσετε διαδρομή για υποφακέλους όπως \"wp-content/plugins\". Εάν "
+"αφήσετε κενό ή κενό, θα έχει πρόσβαση σε όλους τους φακέλους στον ριζικό "
+"κατάλογο. Προεπιλογή: Κατάλογος ρίζας"
+
+#: inc/shortcode_docs.php:30
+msgid "for access to write files permissions, note: true/false, default: false"
+msgstr ""
+"για πρόσβαση σε δικαιώματα εγγραφής αρχείων, σημειώστε: true/false, default: "
+"false"
+
+#: inc/shortcode_docs.php:32
+msgid "for access to read files permission, note: true/false, default: true"
+msgstr ""
+"για πρόσβαση σε δικαιώματα ανάγνωσης αρχείων, σημείωση: true/false, default: "
+"true"
+
+#: inc/shortcode_docs.php:34
+msgid "it will hide mentioned here. Note: seprated by comma(,). Default: Null"
+msgstr ""
+"θα κρυφτεί που αναφέρεται εδώ. Σημείωση: χωρίζεται με κόμμα(,). Προεπιλογή: "
+"Μηδενικό"
+
+#: inc/shortcode_docs.php:36
+msgid ""
+"It will lock mentioned in commas. you can lock more as like \".php,.css,.js"
+"\" etc. Default: Null"
+msgstr ""
+"Θα κλειδώσει που αναφέρεται στα κόμματα. μπορείτε να κλειδώσετε περισσότερα "
+"όπως \".php,.css,.js\" κ.λπ. Προεπιλογή: Null"
+
+#: inc/shortcode_docs.php:38
+msgid ""
+"* for all operations and to allow some operation you can mention operation "
+"name as like, allowed_operations=\"upload,download\". Note: seprated by "
+"comma(,). Default: *"
+msgstr ""
+"* για όλες τις λειτουργίες και για να επιτρέψετε κάποια λειτουργία, μπορείτε "
+"να αναφέρετε το όνομα της λειτουργίας ως like, allow_operations=\"upload,"
+"download\". Σημείωση: χωρίζεται με κόμμα(,). Προκαθορισμένο: *"
+
+#: inc/shortcode_docs.php:42
+msgid "File Operations List:"
+msgstr "Λίστα λειτουργιών αρχείων:"
+
+#: inc/shortcode_docs.php:46
+msgid "mkdir ->"
+msgstr ""
+
+#: inc/shortcode_docs.php:46
+msgid "Make directory or folder"
+msgstr "Δημιουργία καταλόγου ή φακέλου"
+
+#: inc/shortcode_docs.php:47
+msgid "mkfile ->"
+msgstr ""
+
+#: inc/shortcode_docs.php:47
+msgid "Make file"
+msgstr "Δημιουργία αρχείου"
+
+#: inc/shortcode_docs.php:48
+msgid "rename ->"
+msgstr ""
+
+#: inc/shortcode_docs.php:48
+msgid "Rename a file or folder"
+msgstr "Μετονομάστε ένα αρχείο ή φάκελο"
+
+#: inc/shortcode_docs.php:49
+msgid "duplicate ->"
+msgstr ""
+
+#: inc/shortcode_docs.php:49
+msgid "Duplicate or clone a folder or file"
+msgstr "Αντιγράψτε ή κλωνοποιήστε έναν φάκελο ή ένα αρχείο"
+
+#: inc/shortcode_docs.php:50
+msgid "paste ->"
+msgstr ""
+
+#: inc/shortcode_docs.php:50
+msgid "Paste a file or folder"
+msgstr "Επικολλήστε ένα αρχείο ή φάκελο"
+
+#: inc/shortcode_docs.php:51
+msgid "ban ->"
+msgstr ""
+
+#: inc/shortcode_docs.php:51
+msgid "Ban"
+msgstr "Απαγόρευση"
+
+#: inc/shortcode_docs.php:52
+msgid "archive ->"
+msgstr ""
+
+#: inc/shortcode_docs.php:52
+msgid "To make a archive or zip"
+msgstr "Για να δημιουργήσετε ένα αρχείο ή zip"
+
+#: inc/shortcode_docs.php:53
+msgid "extract ->"
+msgstr ""
+
+#: inc/shortcode_docs.php:53
+msgid "Extract archive or zipped file"
+msgstr "Εξαγωγή αρχείου ή συμπιεσμένου αρχείου"
+
+#: inc/shortcode_docs.php:54
+msgid "copy ->"
+msgstr ""
+
+#: inc/shortcode_docs.php:54
+msgid "Copy files or folders"
+msgstr "Αντιγραφή αρχείων ή φακέλων"
+
+#: inc/shortcode_docs.php:58
+msgid "cut ->"
+msgstr ""
+
+#: inc/shortcode_docs.php:58
+msgid "Simple cut a file or folder"
+msgstr "Απλή αποκοπή ενός αρχείου ή φακέλου"
+
+#: inc/shortcode_docs.php:59
+msgid "edit ->"
+msgstr ""
+
+#: inc/shortcode_docs.php:59
+msgid "Edit a file"
+msgstr "Επεξεργαστείτε ένα αρχείο"
+
+#: inc/shortcode_docs.php:60
+msgid "rm ->"
+msgstr ""
+
+#: inc/shortcode_docs.php:60
+msgid "Remove or delete files and folders"
+msgstr "Αφαιρέστε ή διαγράψτε αρχεία και φακέλους"
+
+#: inc/shortcode_docs.php:61
+msgid "download ->"
+msgstr ""
+
+#: inc/shortcode_docs.php:61
+msgid "Download files"
+msgstr "Λήψη αρχείων"
+
+#: inc/shortcode_docs.php:62
+msgid "upload ->"
+msgstr ""
+
+#: inc/shortcode_docs.php:62
+msgid "Upload files"
+msgstr "Μεταφόρτωση αρχείων"
+
+#: inc/shortcode_docs.php:63
+msgid "search -> "
+msgstr ""
+
+#: inc/shortcode_docs.php:63
+msgid "Search things"
+msgstr "Ψάξε πράγματα"
+
+#: inc/shortcode_docs.php:64
+msgid "info ->"
+msgstr ""
+
+#: inc/shortcode_docs.php:64
+msgid "Info of file"
+msgstr "Πληροφορίες αρχείου"
+
+#: inc/shortcode_docs.php:65
+msgid "help ->"
+msgstr ""
+
+#: inc/shortcode_docs.php:65
+msgid "Help"
+msgstr "Βοήθεια"
+
+#: inc/shortcode_docs.php:71
+msgid ""
+"->  It will ban particular users by just putting their ids seprated by "
+"commas(,). If user is Ban then they will not able to access wp file manager "
+"on front end."
+msgstr ""
+"-> Θα απαγορεύσει συγκεκριμένους χρήστες βάζοντας απλώς τα αναγνωριστικά "
+"τους διαχωρισμένα με κόμμα(,). Εάν ο χρήστης είναι Ban, τότε δεν θα έχει "
+"πρόσβαση στον διαχειριστή αρχείων wp στο μπροστινό μέρος."
+
+#: inc/shortcode_docs.php:72
+msgid "-> Filemanager UI View. Default: grid"
+msgstr "-> Προβολή διεπαφής χρήστη Filemager. Προεπιλογή: πλέγμα"
+
+#: inc/shortcode_docs.php:73
+msgid "-> File Modified or Create date format. Default: d M, Y h:i A"
+msgstr ""
+"-> Τροποποίηση αρχείου ή Δημιουργία μορφής ημερομηνίας. Προεπιλογή: d M, Y h:"
+"i A"
+
+#: inc/shortcode_docs.php:74
+msgid "-> File manager Language. Default: English(en)"
+msgstr "-> Γλώσσα διαχείρισης αρχείων. Προεπιλογή: Αγγλικά (en)"
+
+#: inc/shortcode_docs.php:75
+msgid "-> File Manager Theme. Default: Light"
+msgstr "-> Θέμα Διαχείριση αρχείων. Προεπιλογή: Light"
+
+#: inc/system_properties.php:5
+msgid "File Manager - System Properties"
+msgstr "Διαχείριση αρχείων - Ιδιότητες συστήματος"
+
+#: inc/system_properties.php:10
+msgid "PHP version"
+msgstr "Έκδοση PHP"
+
+#: inc/system_properties.php:15
+msgid "Maximum file upload size (upload_max_filesize)"
+msgstr "Μέγιστο μέγεθος μεταφόρτωσης αρχείου (upload_max_filesize)"
+
+#: inc/system_properties.php:20
+msgid "Post maximum file upload size (post_max_size)"
+msgstr "Δημοσίευση μέγιστου μεγέθους μεταφόρτωσης αρχείου (post_max_size)"
+
+#: inc/system_properties.php:25
+msgid "Memory Limit (memory_limit)"
+msgstr "Όριο μνήμης (memory_limit))"
+
+#: inc/system_properties.php:30
+msgid "Timeout (max_execution_time)"
+msgstr "Χρονικό όριο (max_execution_time)"
+
+#: inc/system_properties.php:35
+msgid "Browser and OS (HTTP_USER_AGENT)"
+msgstr "Πρόγραμμα περιήγησης και λειτουργικό σύστημα (HTTP_USER_AGENT)"
+
+#: lib/jquery/jquery-ui-1.11.4.js:8
+msgid "'"
+msgstr ""
+
+#: lib/wpfilemanager.php:31
+msgid "Change Theme Here:"
+msgstr "Αλλάξτε το θέμα εδώ:"
+
+#: lib/wpfilemanager.php:35
+msgid "Default"
+msgstr "Προκαθορισμένο"
+
+#: lib/wpfilemanager.php:39
+msgid "Dark"
+msgstr "Σκοτάδι"
+
+#: lib/wpfilemanager.php:43
+msgid "Light"
+msgstr "Φως"
+
+#: lib/wpfilemanager.php:47
+msgid "Gray"
+msgstr "Γκρί"
+
+#: lib/wpfilemanager.php:52
+msgid "Windows - 10"
+msgstr ""
+
+#: lib/wpfilemanager.php:85
+msgid "Welcome to File Manager"
+msgstr "Καλώς ορίσατε στη Διαχείριση αρχείων"
+
+#: lib/wpfilemanager.php:88
+msgid ""
+"We love making new friends! Subscribe below and we promise to\n"
+"    keep you up-to-date with our latest new plugins, updates,\n"
+"    awesome deals and a few special offers."
+msgstr ""
+"Μας αρέσει να κάνουμε νέους φίλους! Εγγραφείτε παρακάτω και υποσχόμαστε να "
+"σας κρατάμε ενήμερους για τις τελευταίες μας νέες προσθήκες, ενημερώσεις, "
+"εκπληκτικές προσφορές και μερικές ειδικές προσφορές."
+
+#: lib/wpfilemanager.php:99
+msgid "Please Enter First Name."
+msgstr "Παρακαλώ εισάγετε Όνομα."
+
+#: lib/wpfilemanager.php:107
+msgid "Please Enter Last Name."
+msgstr "Παρακαλώ εισάγετε Επώνυμο."
+
+#: lib/wpfilemanager.php:116
+msgid "Please Enter Email Address."
+msgstr "Εισαγάγετε τη διεύθυνση email."
+
+#: lib/wpfilemanager.php:120
+msgid "Verify"
+msgstr "Επαληθεύω"
+
+#: lib/wpfilemanager.php:126
+msgid "No Thanks"
+msgstr "Οχι ευχαριστώ"
+
+#: lib/wpfilemanager.php:132
+msgid "Terms of Service"
+msgstr "Όροι χρήσης"
+
+#: lib/wpfilemanager.php:134
+msgid "Privacy Policy"
+msgstr "Πολιτική Απορρήτου"
+
+#: lib/wpfilemanager.php:153
+msgid "Saving..."
+msgstr "Οικονομία..."
+
+#: lib/wpfilemanager.php:155
+msgid "OK"
+msgstr "Εντάξει"
+
+#~ msgid "Manage your WP files."
+#~ msgstr "Διαχειριστείτε τα αρχεία WP"
+
+#~ msgid "Extensions"
+#~ msgstr "Επεκτάσεις"
+
+#~ msgid ""
+#~ "Please contribute some donation, to make plugin more stable. You can pay "
+#~ "amount of your choice."
+#~ msgstr ""
+#~ "Συμπληρώστε κάποια δωρεά, για να κάνετε το plugin πιο σταθερό. Μπορείτε "
+#~ "να πληρώσετε το ποσό της επιλογής σας."

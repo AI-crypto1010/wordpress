@@ -1,0 +1,1006 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WP File Manager\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-02-25 17:39+0530\n"
+"PO-Revision-Date: 2022-03-03 11:57+0530\n"
+"Last-Translator: admin <kajal.gill@mysenseinc.in>\n"
+"Language-Team: \n"
+"Language: eu\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Poedit 3.0.1\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: file_folder_manager.php:174
+msgid "Themes backup restored successfully."
+msgstr "Gaien segurtasun kopia behar bezala berrezarri da."
+
+#: file_folder_manager.php:177
+msgid "Unable to restore themes."
+msgstr "Ezin dira gaiak leheneratu."
+
+#: file_folder_manager.php:207
+msgid "Uploads backup restored successfully."
+msgstr "Kargak babeskopiak behar bezala berrezarri dira."
+
+#: file_folder_manager.php:211
+msgid "Unable to restore uploads."
+msgstr "Ezin dira kargak leheneratu."
+
+#: file_folder_manager.php:237
+msgid "Others backup restored successfully."
+msgstr "Beste segurtasun kopia batzuk ongi zaharberritu dira."
+
+#: file_folder_manager.php:241
+msgid "Unable to restore others."
+msgstr "Ezin dira beste batzuk leheneratu."
+
+#: file_folder_manager.php:267
+msgid "Plugins backup restored successfully."
+msgstr "Pluginen segurtasun kopia behar bezala berrezarri da."
+
+#: file_folder_manager.php:271 file_folder_manager.php:301
+msgid "Unable to restore plugins."
+msgstr "Ezin dira pluginak leheneratu."
+
+#: file_folder_manager.php:286
+msgid "Database backup restored successfully."
+msgstr "Datu basearen segurtasun kopia behar bezala berrezarri da."
+
+#: file_folder_manager.php:286 file_folder_manager.php:297
+#: file_folder_manager.php:588 file_folder_manager.php:592
+msgid "All Done"
+msgstr "Dena eginda"
+
+#: file_folder_manager.php:289
+msgid "Unable to restore DB backup."
+msgstr "Ezin da DB babeskopia leheneratu."
+
+#: file_folder_manager.php:347
+msgid "Backups removed successfully!"
+msgstr "Babeskopiak behar bezala kendu dira!"
+
+#: file_folder_manager.php:349
+msgid "Unable to removed backup!"
+msgstr "Ezin da kendu babeskopia!"
+
+#: file_folder_manager.php:373
+msgid "Database backup done on date "
+msgstr "Datu-basearen babeskopia egunean egin da "
+
+#: file_folder_manager.php:377
+msgid "Plugins backup done on date "
+msgstr "Pluginen segurtasun kopia egunean egin da "
+
+#: file_folder_manager.php:381
+msgid "Themes backup done on date "
+msgstr "Gaien segurtasun kopia egunean egina "
+
+#: file_folder_manager.php:385
+msgid "Uploads backup done on date "
+msgstr "Kargatutako segurtasun kopiak egunean egin dira "
+
+#: file_folder_manager.php:389
+msgid "Others backup done on date "
+msgstr "Beste kopia batzuk egunean egindakoak "
+
+#: file_folder_manager.php:393 file_folder_manager.php:776
+msgid "Logs"
+msgstr "Erregistroak"
+
+#: file_folder_manager.php:399
+msgid "No logs found!"
+msgstr "Ez da egunkaririk aurkitu!"
+
+#: file_folder_manager.php:496
+msgid "Nothing selected for backup"
+msgstr "Ez da ezer hautatu babeskopia egiteko"
+
+#: file_folder_manager.php:516
+msgid "Security Issue."
+msgstr "Segurtasun Arazoa."
+
+#: file_folder_manager.php:527
+msgid "Database backup done."
+msgstr "Datu-basearen babeskopia egin da."
+
+#: file_folder_manager.php:530
+msgid "Unable to create database backup."
+msgstr "Ezin da sortu datu-basearen babeskopia."
+
+#: file_folder_manager.php:544
+msgid "Plugins backup done."
+msgstr "Pluginen babeskopia egin da."
+
+#: file_folder_manager.php:547
+msgid "Plugins backup failed."
+msgstr "Pluginen babeskopia huts egin du."
+
+#: file_folder_manager.php:556
+msgid "Themes backup done."
+msgstr "Gaien babeskopia eginda."
+
+#: file_folder_manager.php:559
+msgid "Themes backup failed."
+msgstr "Gaien babeskopiak huts egin du."
+
+#: file_folder_manager.php:569
+msgid "Uploads backup done."
+msgstr "Kargatzen babeskopia eginda."
+
+#: file_folder_manager.php:572
+msgid "Uploads backup failed."
+msgstr "Ezin izan dira kargatzen babeskopiak."
+
+#: file_folder_manager.php:581
+msgid "Others backup done."
+msgstr "Beste batzuen babeskopia eginda."
+
+#: file_folder_manager.php:584
+msgid "Others backup failed."
+msgstr "Beste batzuen babeskopia huts egin dute."
+
+#: file_folder_manager.php:761 file_folder_manager.php:762
+#: lib/wpfilemanager.php:23
+msgid "WP File Manager"
+msgstr "WP fitxategi kudeatzailea"
+
+#: file_folder_manager.php:769
+msgid "Settings"
+msgstr "Ezarpenak"
+
+#: file_folder_manager.php:771 inc/root.php:48
+msgid "Preferences"
+msgstr "Lehentasunak"
+
+#: file_folder_manager.php:773
+msgid "System Properties"
+msgstr "Sistemaren propietateak"
+
+#: file_folder_manager.php:775
+msgid "Shortcode - PRO"
+msgstr "Shortcode - PRO"
+
+#: file_folder_manager.php:777
+msgid "Backup/Restore"
+msgstr "Babeskopia/Berreskuratu"
+
+#: file_folder_manager.php:1033
+msgid "Buy Pro"
+msgstr "Erosi Pro"
+
+#: file_folder_manager.php:1034
+msgid "Donate"
+msgstr "Eman"
+
+#: file_folder_manager.php:1249
+msgid ""
+"<div class=\"updated settings-error notice is-dismissible\" id=\"setting-"
+"error-settings_updated\"> \n"
+"<p><strong>"
+msgstr ""
+
+#: file_folder_manager.php:1256
+msgid ""
+"<div class=\"error settings-error notice is-dismissible\" id=\"setting-error-"
+"settings_updated\"> \n"
+"<p><strong>"
+msgstr ""
+
+#: file_folder_manager.php:1395 file_folder_manager.php:1483
+msgid "File doesn't exist to download."
+msgstr "Ez dago fitxategia deskargatzeko."
+
+#: file_folder_manager.php:1400 file_folder_manager.php:1488
+msgid "Invalid Security Code."
+msgstr "Segurtasun kodea baliogabea."
+
+#: file_folder_manager.php:1405 file_folder_manager.php:1493
+msgid "Missing backup id."
+msgstr "Babeskopiaren IDa falta da."
+
+#: file_folder_manager.php:1408 file_folder_manager.php:1496
+msgid "Missing parameter type."
+msgstr "Parametro mota falta da."
+
+#: file_folder_manager.php:1411 file_folder_manager.php:1499
+msgid "Missing required parameters."
+msgstr "Beharrezko parametroak falta dira."
+
+#: inc/backup.php:24
+msgid ""
+"Error: Unable to restore backup because database backup is heavy in size. "
+"Please try to increase Maximum allowed size  from Preferences settings."
+msgstr ""
+"Errorea: Ezin da babeskopia berrezarri datu-basearen babeskopia tamaina "
+"handikoa delako. Mesedez, saiatu Hobespenen ezarpenetatik onartutako "
+"Gehienezko tamaina handitzen."
+
+#: inc/backup.php:25
+msgid "Select backup(s) to delete!"
+msgstr "Hautatu ezabatzeko babeskopiak!"
+
+#: inc/backup.php:26
+msgid "Are you sure want to remove selected backup(s)?"
+msgstr "Ziur zaude hautatutako segurtasun kopiak kendu nahi dituzula?"
+
+#: inc/backup.php:31
+msgid "Backup is running, please wait"
+msgstr "Babeskopiak martxan daude, itxaron mesedez"
+
+#: inc/backup.php:32
+msgid "Restore is running, please wait"
+msgstr "Berreskuratzea martxan dago, itxaron mesedez"
+
+#: inc/backup.php:33
+msgid "Nothing selected for backup."
+msgstr "Ez da ezer hautatu babeskopia egiteko."
+
+#: inc/backup.php:45
+msgid "WP File Manager - Backup/Restore"
+msgstr "WP Fitxategi Kudeatzailea - Babeskopia / Berreskuratu"
+
+#: inc/backup.php:51
+msgid "Backup Options:"
+msgstr "Babeskopien aukerak:"
+
+#: inc/backup.php:58
+msgid "Database Backup"
+msgstr "Datu basearen babeskopia"
+
+#: inc/backup.php:64
+msgid "Files Backup"
+msgstr "Fitxategien babeskopia"
+
+#: inc/backup.php:68
+msgid "Plugins"
+msgstr "Pluginak"
+
+#: inc/backup.php:71
+msgid "Themes"
+msgstr "Gaiak"
+
+#: inc/backup.php:74
+msgid "Uploads"
+msgstr "Kargak"
+
+#: inc/backup.php:77
+msgid "Others (Any other directories found inside wp-content)"
+msgstr ""
+"Beste batzuk (wp-content barruan aurkitzen diren beste edozein direktorio)"
+
+#: inc/backup.php:81
+msgid "Backup Now"
+msgstr "Babeskopia orain"
+
+#: inc/backup.php:89
+msgid "Time now"
+msgstr "Ordua"
+
+#: inc/backup.php:99
+msgid "SUCCESS"
+msgstr "ARRAKASTA"
+
+#: inc/backup.php:101
+msgid "Backup successfully deleted."
+msgstr "Babeskopiak behar bezala ezabatu dira."
+
+#: inc/backup.php:102
+msgid "Ok"
+msgstr "Ados"
+
+#: inc/backup.php:117
+msgid "DELETE FILES"
+msgstr "EZABATU FITXATEGIAK"
+
+#: inc/backup.php:119
+msgid "Are you sure you want to delete this backup?"
+msgstr "Ziur zaude segurtasun kopia hau ezabatu nahi duzula?"
+
+#: inc/backup.php:120 inc/backup.php:139
+msgid "Cancel"
+msgstr "Utzi"
+
+#: inc/backup.php:121 inc/backup.php:140
+msgid "Confirm"
+msgstr "Berretsi"
+
+#: inc/backup.php:136
+msgid "RESTORE FILES"
+msgstr "FITXATEGIAK BERRESKURATU"
+
+#: inc/backup.php:138
+msgid "Are you sure you want to restore this backup?"
+msgstr "Ziur zaude segurtasun kopia hau leheneratu nahi duzula?"
+
+#: inc/backup.php:166
+msgid "Last Log Message"
+msgstr "Azken erregistro mezua"
+
+#: inc/backup.php:169
+msgid "The backup apparently succeeded and is now complete."
+msgstr "Badirudi babeskopiak arrakasta izan duela eta amaitu dela."
+
+#: inc/backup.php:171
+msgid "No log message"
+msgstr "Ez dago egunkari mezurik"
+
+#: inc/backup.php:177
+msgid "Existing Backup(s)"
+msgstr "Dauden segurtasun kopiak"
+
+#: inc/backup.php:184
+msgid "Backup Date"
+msgstr "Babeskopia-data"
+
+#: inc/backup.php:187
+msgid "Backup data (click to download)"
+msgstr "Babeskopia datuak (egin klik deskargatzeko)"
+
+#: inc/backup.php:190
+msgid "Action"
+msgstr "Ekintza"
+
+#: inc/backup.php:210
+msgid "Today"
+msgstr "Gaur"
+
+#: inc/backup.php:239
+msgid "Restore"
+msgstr "Berreskuratu"
+
+#: inc/backup.php:240 inc/backup.php:250
+msgid "Delete"
+msgstr "Ezabatu"
+
+#: inc/backup.php:241
+msgid "View Log"
+msgstr "Ikusi erregistroa"
+
+#: inc/backup.php:246
+msgid "Currently no backup(s) found."
+msgstr "Une honetan ez da babeskopiarik aurkitu."
+
+#: inc/backup.php:249
+msgid "Actions upon selected backup(s)"
+msgstr "Aukeratutako babeskopien gaineko ekintzak"
+
+#: inc/backup.php:251
+msgid "Select All"
+msgstr "Hautatu guztiak"
+
+#: inc/backup.php:252
+msgid "Deselect"
+msgstr "Desautatu"
+
+#: inc/backup.php:254
+msgid "Note:"
+msgstr "Ohar:"
+
+#: inc/backup.php:254
+msgid "Backup files will be under"
+msgstr "Babeskopien fitxategiak azpian egongo dira"
+
+#: inc/contribute.php:3
+msgid "WP File Manager Contribution"
+msgstr "WP fitxategi kudeatzailearen ekarpena"
+
+#: inc/logs.php:7
+msgid ""
+"Note: These are demo screenshots. Please buy File Manager pro to Logs "
+"functions."
+msgstr ""
+"Oharra: Demo pantaila-argazkiak dira. Mesedez, erosi File Manager pro "
+"egunkariak funtzioetarako."
+
+#: inc/logs.php:8 lib/wpfilemanager.php:24
+msgid "Click to Buy PRO"
+msgstr "Egin klik PRO erosteko"
+
+#: inc/logs.php:8 inc/settings.php:12 inc/settings.php:27
+#: inc/system_properties.php:5 lib/wpfilemanager.php:25
+msgid "Buy PRO"
+msgstr "Erosi PRO"
+
+#: inc/logs.php:9
+msgid "Edit Files Logs"
+msgstr "Editatu fitxategien erregistroak"
+
+#: inc/logs.php:11
+msgid "Download Files Logs"
+msgstr "Deskargatu fitxategien erregistroak"
+
+#: inc/logs.php:13
+msgid "Upload Files Logs"
+msgstr "Kargatu fitxategiak erregistroak"
+
+#: inc/root.php:43
+msgid "Settings saved."
+msgstr "Ezarpenak gorde dira."
+
+#: inc/root.php:43 inc/root.php:46
+msgid "Dismiss this notice."
+msgstr "Baztertu ohar hau."
+
+#: inc/root.php:46
+msgid "You have not made any changes to be saved."
+msgstr "Ez duzu gordetzeko aldaketarik egin."
+
+#: inc/root.php:55
+msgid "Public Root Path"
+msgstr "Sustraien bide publikoa"
+
+#: inc/root.php:58
+msgid "File Manager Root Path, you can change according to your choice."
+msgstr ""
+"Fitxategi kudeatzailearen erro bidea, zure aukeraren arabera alda dezakezu."
+
+#: inc/root.php:59
+msgid "Default:"
+msgstr "Lehenetsia:"
+
+#: inc/root.php:60
+msgid ""
+"Please change this carefully, wrong path can lead file manager plugin to go "
+"down."
+msgstr ""
+"Aldatu hau arretaz, bide okerrak fitxategi kudeatzailearen plugina jaistera "
+"eraman dezake."
+
+#: inc/root.php:64
+msgid "Enable Trash?"
+msgstr "Zaborrontzia gaitu nahi duzu?"
+
+#: inc/root.php:67
+msgid "After enable trash, your files will go to trash folder."
+msgstr ""
+"Zakarrontzia gaitu ondoren, zure fitxategiak zakarrontzira joango dira."
+
+#: inc/root.php:72
+msgid "Enable Files Upload to Media Library?"
+msgstr "Multimedia liburutegian fitxategiak kargatu nahi dituzu?"
+
+#: inc/root.php:75
+msgid "After enabling this all files will go to media library."
+msgstr "Gaitu ondoren fitxategi guztiak mediatekara joango dira."
+
+#: inc/root.php:80
+msgid "Maximum allowed size at the time of database backup restore."
+msgstr ""
+"Onartutako gehienezko tamaina datu-basearen babeskopia leheneratzeko unean."
+
+#: inc/root.php:83
+msgid "MB"
+msgstr ""
+
+#: inc/root.php:85
+msgid ""
+"Please increase field value if you are getting error message at the time of "
+"backup restore."
+msgstr ""
+"Mesedez, handitu eremuaren balioa babeskopia leheneratzeko unean errore-"
+"mezua jasotzen ari bazara."
+
+#: inc/root.php:90
+msgid "Save Changes"
+msgstr "Aldaketak gorde"
+
+#: inc/settings.php:10
+msgid "Settings - General"
+msgstr "Ezarpenak - Orokorra"
+
+#: inc/settings.php:11 inc/settings.php:26
+msgid ""
+"Note: This is just a demo screenshot. To get settings please buy our pro "
+"version."
+msgstr ""
+"Oharra: hau demo pantaila-argazkia da. Ezarpenak lortzeko, mesedez erosi "
+"gure pro bertsioa."
+
+#: inc/settings.php:13
+msgid ""
+"Here admin can give access to user roles to use filemanager. Admin can set "
+"Default Access Folder and also control upload size of filemanager."
+msgstr ""
+"Hemen administratzaileak erabiltzaileen roletarako sarbidea eman dezake "
+"filemanager erabiltzeko. Administratzaileak sarbide-karpeta lehenetsia ezar "
+"dezake eta fitxategi-kudeatzailearen igoeraren tamaina ere kontrola dezake."
+
+#: inc/settings.php:15
+msgid "Settings - Code-editor"
+msgstr "Ezarpenak - Kode editorea"
+
+#: inc/settings.php:16
+msgid ""
+"File Manager has a code editor with multiple themes. You can select any "
+"theme for code editor. It will display when you edit any file. Also you can "
+"allow fullscreen mode of code editor."
+msgstr ""
+"Fitxategi kudeatzaileak kode editorea du gai anitzekin. Kode editorerako "
+"edozein gai hauta dezakezu. Edozein fitxategi editatzen duzunean bistaratuko "
+"da. Kode editorearen pantaila osoko modua ere baimendu dezakezu."
+
+#: inc/settings.php:18
+msgid "Code-editor View"
+msgstr "Kode editorea Ikusi"
+
+#: inc/settings.php:20
+msgid "Settings - User Restrictions"
+msgstr "Ezarpenak - Erabiltzaileen murriztapenak"
+
+#: inc/settings.php:21
+msgid ""
+"Admin can restrict actions of any user. Also hide files and folders and can "
+"set different - different folders paths for different users."
+msgstr ""
+"Administratzaileak edozein erabiltzaileren ekintzak muga ditzake. "
+"Fitxategiak eta karpetak ere ezkutatu eta erabiltzaile desberdinentzako "
+"karpeten bide desberdinak ezar ditzakezu."
+
+#: inc/settings.php:23
+msgid "Settings - User Role Restrictions"
+msgstr "Ezarpenak - Erabiltzaile rolen mugak"
+
+#: inc/settings.php:24
+msgid ""
+"Admin can restrict actions of any userrole. Also hide files and folders and "
+"can set different - different folders paths for different users roles."
+msgstr ""
+"Administratzaileak edozein erabiltzaileren ekintzak muga ditzake. "
+"Fitxategiak eta karpetak ezkutatu eta karpeta desberdinak ezar ditzakezu "
+"erabiltzaileen rol desberdinetarako."
+
+#: inc/shortcode_docs.php:11
+msgid "File Manager - Shortcode"
+msgstr "Fitxategi kudeatzailea - Shortcode"
+
+#: inc/shortcode_docs.php:15 inc/shortcode_docs.php:17
+#: inc/shortcode_docs.php:19
+msgid "USE:"
+msgstr "ERABILERA:"
+
+#: inc/shortcode_docs.php:15
+msgid ""
+"It will show file manager on front end. You can control all settings from "
+"file manager settings. It will work same as backend WP File Manager."
+msgstr ""
+"Fitxategi-kudeatzailea frontend-ean erakutsiko du. Fitxategi-kudeatzailearen "
+"ezarpenetatik ezarpen guztiak kontrola ditzakezu. Backend WP Fitxategi-"
+"kudeatzaileak bezala funtzionatuko du."
+
+#: inc/shortcode_docs.php:17
+msgid ""
+"It will show file manager on front end. But only Administrator can access it "
+"and will control from file manager settings."
+msgstr ""
+"Fitxategi-kudeatzailea frontend-ean erakutsiko du. Baina Administratzaileak "
+"bakarrik atzi dezake eta fitxategi-kudeatzailearen ezarpenetatik "
+"kontrolatuko du."
+
+#: inc/shortcode_docs.php:23
+msgid "Parameters:"
+msgstr "Parametroak:"
+
+#: inc/shortcode_docs.php:26
+msgid ""
+"It will allow all roles to access file manager on front end or You can "
+"simple use for particular user roles as like allowed_roles=\"editor,author"
+"\" (seprated by comma(,))"
+msgstr ""
+"Rol guztiei fitxategi-kudeatzailea atzitzeko aukera emango die frontend-ean "
+"edo erabiltzaile-rol jakin batzuetarako erabil dezakezu, hala nola, "
+"allow_roles=\"editor,author\" (komaz bereizita (,))"
+
+#: inc/shortcode_docs.php:28
+msgid ""
+"Here \"test\" is the name of folder which is located on root directory, or "
+"you can give path for sub folders as like \"wp-content/plugins\". If leave "
+"blank or empty it will access all folders on root directory. Default: Root "
+"directory"
+msgstr ""
+"Hemen \"test\" erroko direktorioan dagoen karpetaren izena da, edo "
+"azpikarpeten bidea eman dezakezu \"wp-content/plugins\" bezala. Hutsik edo "
+"hutsik uzten baduzu, erroko direktorioko karpeta guztietara sartuko da. "
+"Lehenetsia: Erro direktorioa"
+
+#: inc/shortcode_docs.php:30
+msgid "for access to write files permissions, note: true/false, default: false"
+msgstr ""
+"fitxategiak idazteko baimenak sartzeko, oharra: egia/gezurra, lehenetsia: "
+"false"
+
+#: inc/shortcode_docs.php:32
+msgid "for access to read files permission, note: true/false, default: true"
+msgstr ""
+"fitxategiak irakurtzeko baimena eskuratzeko, oharra: egia/gezurra, "
+"lehenetsia: egia"
+
+#: inc/shortcode_docs.php:34
+msgid "it will hide mentioned here. Note: seprated by comma(,). Default: Null"
+msgstr ""
+"hemen aipatua ezkutatuko da. Oharra: komaz bereizita (,). Lehenetsia: nulua"
+
+#: inc/shortcode_docs.php:36
+msgid ""
+"It will lock mentioned in commas. you can lock more as like \".php,.css,.js"
+"\" etc. Default: Null"
+msgstr ""
+"Koma artean aipatutako blokeatuko da. \".php,.css,.js\" eta abar bezalako "
+"gehiago blokeatu ditzakezu. Lehenetsia: nulua"
+
+#: inc/shortcode_docs.php:38
+msgid ""
+"* for all operations and to allow some operation you can mention operation "
+"name as like, allowed_operations=\"upload,download\". Note: seprated by "
+"comma(,). Default: *"
+msgstr ""
+"* Eragiketa guztietarako eta eragiketa batzuk ahalbidetzeko, eragiketaren "
+"izena aipa dezakezu, hala nola, allow_operations=\"upload,download\". "
+"Oharra: komaz bereizita (,). Lehenetsia: *"
+
+#: inc/shortcode_docs.php:42
+msgid "File Operations List:"
+msgstr "Fitxategien eragiketen zerrenda:"
+
+#: inc/shortcode_docs.php:46
+msgid "mkdir ->"
+msgstr ""
+
+#: inc/shortcode_docs.php:46
+msgid "Make directory or folder"
+msgstr "Egin direktorioa edo karpeta"
+
+#: inc/shortcode_docs.php:47
+msgid "mkfile ->"
+msgstr ""
+
+#: inc/shortcode_docs.php:47
+msgid "Make file"
+msgstr "Egin fitxategia"
+
+#: inc/shortcode_docs.php:48
+msgid "rename ->"
+msgstr ""
+
+#: inc/shortcode_docs.php:48
+msgid "Rename a file or folder"
+msgstr "Aldatu fitxategi edo karpeta bat"
+
+#: inc/shortcode_docs.php:49
+msgid "duplicate ->"
+msgstr ""
+
+#: inc/shortcode_docs.php:49
+msgid "Duplicate or clone a folder or file"
+msgstr "Karpeta edo fitxategi bat bikoiztu edo klonatu"
+
+#: inc/shortcode_docs.php:50
+msgid "paste ->"
+msgstr ""
+
+#: inc/shortcode_docs.php:50
+msgid "Paste a file or folder"
+msgstr "Itsatsi fitxategi edo karpeta bat"
+
+#: inc/shortcode_docs.php:51
+msgid "ban ->"
+msgstr ""
+
+#: inc/shortcode_docs.php:51
+msgid "Ban"
+msgstr "Debeku"
+
+#: inc/shortcode_docs.php:52
+msgid "archive ->"
+msgstr ""
+
+#: inc/shortcode_docs.php:52
+msgid "To make a archive or zip"
+msgstr "Artxiboa edo zip kodea egiteko"
+
+#: inc/shortcode_docs.php:53
+msgid "extract ->"
+msgstr ""
+
+#: inc/shortcode_docs.php:53
+msgid "Extract archive or zipped file"
+msgstr "Atera artxiboa edo konprimitutako fitxategia"
+
+#: inc/shortcode_docs.php:54
+msgid "copy ->"
+msgstr ""
+
+#: inc/shortcode_docs.php:54
+msgid "Copy files or folders"
+msgstr "Kopiatu fitxategiak edo karpetak"
+
+#: inc/shortcode_docs.php:58
+msgid "cut ->"
+msgstr ""
+
+#: inc/shortcode_docs.php:58
+msgid "Simple cut a file or folder"
+msgstr "Fitxategi edo karpeta bat moztu sinpleki"
+
+#: inc/shortcode_docs.php:59
+msgid "edit ->"
+msgstr ""
+
+#: inc/shortcode_docs.php:59
+msgid "Edit a file"
+msgstr "Editatu fitxategi bat"
+
+#: inc/shortcode_docs.php:60
+msgid "rm ->"
+msgstr ""
+
+#: inc/shortcode_docs.php:60
+msgid "Remove or delete files and folders"
+msgstr "Kendu edo ezabatu fitxategiak eta karpetak"
+
+#: inc/shortcode_docs.php:61
+msgid "download ->"
+msgstr ""
+
+#: inc/shortcode_docs.php:61
+msgid "Download files"
+msgstr "Deskargatu fitxategiak"
+
+#: inc/shortcode_docs.php:62
+msgid "upload ->"
+msgstr ""
+
+#: inc/shortcode_docs.php:62
+msgid "Upload files"
+msgstr "Fitxategiak igo"
+
+#: inc/shortcode_docs.php:63
+msgid "search -> "
+msgstr ""
+
+#: inc/shortcode_docs.php:63
+msgid "Search things"
+msgstr "Gauzak bilatu"
+
+#: inc/shortcode_docs.php:64
+msgid "info ->"
+msgstr ""
+
+#: inc/shortcode_docs.php:64
+msgid "Info of file"
+msgstr "Fitxategiaren informazioa"
+
+#: inc/shortcode_docs.php:65
+msgid "help ->"
+msgstr ""
+
+#: inc/shortcode_docs.php:65
+msgid "Help"
+msgstr "Laguntza"
+
+#: inc/shortcode_docs.php:71
+msgid ""
+"->  It will ban particular users by just putting their ids seprated by "
+"commas(,). If user is Ban then they will not able to access wp file manager "
+"on front end."
+msgstr ""
+"-> Erabiltzaile partikularrak debekatuko ditu komaz bereizitako IDak jarrita "
+"(,). Erabiltzailea Debekatuta badago, ezin izango dute frontendean wp "
+"fitxategi kudeatzailea sartu."
+
+#: inc/shortcode_docs.php:72
+msgid "-> Filemanager UI View. Default: grid"
+msgstr "-> Filemanager UI View. Lehenetsia: grid"
+
+#: inc/shortcode_docs.php:73
+msgid "-> File Modified or Create date format. Default: d M, Y h:i A"
+msgstr ""
+"-> Fitxategia aldatu edo Sortu data formatua. Lehenetsia: d M, Y h: i A"
+
+#: inc/shortcode_docs.php:74
+msgid "-> File manager Language. Default: English(en)"
+msgstr "-> Fitxategi kudeatzailea Hizkuntza. Lehenetsia: English(en)"
+
+#: inc/shortcode_docs.php:75
+msgid "-> File Manager Theme. Default: Light"
+msgstr "-> Fitxategi kudeatzailearen gaia. Lehenetsia: Light"
+
+#: inc/system_properties.php:5
+msgid "File Manager - System Properties"
+msgstr "Fitxategi kudeatzailea - Sistemaren propietateak"
+
+#: inc/system_properties.php:10
+msgid "PHP version"
+msgstr "PHP bertsioa"
+
+#: inc/system_properties.php:15
+msgid "Maximum file upload size (upload_max_filesize)"
+msgstr "Gehienezko fitxategi kargaren tamaina (upload_max_filesize)"
+
+#: inc/system_properties.php:20
+msgid "Post maximum file upload size (post_max_size)"
+msgstr "Igotako gehienezko fitxategi kargaren tamaina (post_max_size)"
+
+#: inc/system_properties.php:25
+msgid "Memory Limit (memory_limit)"
+msgstr "Memoriaren muga (memory_limit)"
+
+#: inc/system_properties.php:30
+msgid "Timeout (max_execution_time)"
+msgstr "Denbora-muga (max_execution_time)"
+
+#: inc/system_properties.php:35
+msgid "Browser and OS (HTTP_USER_AGENT)"
+msgstr "Arakatzailea eta OS (HTTP_USER_AGENT)"
+
+#: lib/jquery/jquery-ui-1.11.4.js:8
+msgid "'"
+msgstr ""
+
+#: lib/wpfilemanager.php:31
+msgid "Change Theme Here:"
+msgstr "Hemen aldatu gaia:"
+
+#: lib/wpfilemanager.php:35
+msgid "Default"
+msgstr "Lehenetsia"
+
+#: lib/wpfilemanager.php:39
+msgid "Dark"
+msgstr "Iluna"
+
+#: lib/wpfilemanager.php:43
+msgid "Light"
+msgstr "Argia"
+
+#: lib/wpfilemanager.php:47
+msgid "Gray"
+msgstr "grisa"
+
+#: lib/wpfilemanager.php:52
+msgid "Windows - 10"
+msgstr ""
+
+#: lib/wpfilemanager.php:85
+msgid "Welcome to File Manager"
+msgstr "Ongi etorri fitxategi kudeatzailera"
+
+#: lib/wpfilemanager.php:88
+msgid ""
+"We love making new friends! Subscribe below and we promise to\n"
+"    keep you up-to-date with our latest new plugins, updates,\n"
+"    awesome deals and a few special offers."
+msgstr ""
+"Lagun berriak egitea maite dugu! Harpidetu behean eta hala agintzen dugu\n"
+"    eguneratuta mantendu zaitez gure azken plugin berriekin, "
+"eguneratzeekin,\n"
+"    eskaintza bikainak eta eskaintza berezi batzuk."
+
+#: lib/wpfilemanager.php:99
+msgid "Please Enter First Name."
+msgstr "Mesedez, jarri izena."
+
+#: lib/wpfilemanager.php:107
+msgid "Please Enter Last Name."
+msgstr "Mesedez, idatzi abizena."
+
+#: lib/wpfilemanager.php:116
+msgid "Please Enter Email Address."
+msgstr "Mesedez, idatzi helbide elektronikoa."
+
+#: lib/wpfilemanager.php:120
+msgid "Verify"
+msgstr "Egiaztatu"
+
+#: lib/wpfilemanager.php:126
+msgid "No Thanks"
+msgstr "Ez eskerrik asko"
+
+#: lib/wpfilemanager.php:132
+msgid "Terms of Service"
+msgstr "Zerbitzu-baldintzak"
+
+#: lib/wpfilemanager.php:134
+msgid "Privacy Policy"
+msgstr "Pribatutasun politika"
+
+#: lib/wpfilemanager.php:153
+msgid "Saving..."
+msgstr "Gordetzen ..."
+
+#: lib/wpfilemanager.php:155
+msgid "OK"
+msgstr "Ados"
+
+#~ msgid "Backup not found!"
+#~ msgstr "Babeskopia ez da aurkitu!"
+
+#~ msgid "Backup removed successfully!"
+#~ msgstr "Babeskopia behar bezala kendu da!"
+
+#~ msgid "<span class=\"fm_console_error\">Nothing selected for backup</span>"
+#~ msgstr ""
+#~ "<span class=\"fm_console_error\">BEz da ezer hautatu babeskopia egiteko</"
+#~ "span>"
+
+#~ msgid "<span class=\"fm_console_error\">Security Issue.</span>"
+#~ msgstr "<span class=\"fm_console_error\">Segurtasun arazoa.</span>"
+
+#~ msgid "<span class=\"fm_console_success\">Database backup done.</span>"
+#~ msgstr ""
+#~ "<span class=\"fm_console_success\">Datu-basearen babeskopia egin da.</"
+#~ "span>"
+
+#~ msgid ""
+#~ "<span class=\"fm_console_error\">Unable to create database backup.</span>"
+#~ msgstr ""
+#~ "<span class=\"fm_console_error\">Ezin da datu basearen segurtasun kopia "
+#~ "sortu.</span>"
+
+#~ msgid "<span class=\"fm_console_success\">Plugins backup done.</span>"
+#~ msgstr ""
+#~ "<span class=\"fm_console_success\">Pluginen babeskopia egin da.</span>"
+
+#~ msgid "<span class=\"fm_console_error\">Plugins backup failed.</span>"
+#~ msgstr ""
+#~ "<span class=\"fm_console_error\">Pluginen segurtasun kopiak huts egin du."
+#~ "</span>"
+
+#~ msgid "<span class=\"fm_console_success\">Themes backup done.</span>"
+#~ msgstr "<span class=\"fm_console_success\">Gaien babeskopia egin da.</span>"
+
+#~ msgid "<span class=\"fm_console_error\">Themes backup failed.</span>"
+#~ msgstr ""
+#~ "<span class=\"fm_console_error\">Gaien babeskopiak huts egin du.</span>"
+
+#~ msgid "<span class=\"fm_console_success\">Uploads backup done.</span>"
+#~ msgstr ""
+#~ "<span class=\"fm_console_success\">Kargatutako kopiak egin dira.</span>"
+
+#~ msgid "<span class=\"fm_console_error\">Uploads backup failed.</span>"
+#~ msgstr ""
+#~ "<span class=\"fm_console_error\">Ezin izan da kargatzearen segurtasun "
+#~ "kopia egin.</span>"
+
+#~ msgid "<span class=\"fm_console_success\">Others backup done.</span>"
+#~ msgstr ""
+#~ "<span class=\"fm_console_success\">Beste kopia batzuk egin dira.</span>"
+
+#~ msgid "<span class=\"fm_console_error\">Others backup failed.</span>"
+#~ msgstr ""
+#~ "<span class=\"fm_console_error\">Beste batzuek segurtasun kopia huts egin "
+#~ "dute.</span>"
+
+#~ msgid "<span class=\"fm_console_success\">All Done</span>"
+#~ msgstr "<span class=\"fm_console_success\">Guztia Eginda</span>"
+
+#~ msgid ""
+#~ "<code>[wp_file_manager view=\"list\" lang=\"en\" theme=\"light\" "
+#~ "dateformat=\"d M, Y h:i A\" allowed_roles=\"editor,author\" access_folder="
+#~ "\"wp-content/plugins\" write = \"true\" read = \"false\" hide_files = "
+#~ "\"kumar,abc.php\" lock_extensions=\".php,.css\" allowed_operations="
+#~ "\"upload,download\" ban_user_ids=\"2,3\"]"
+#~ msgstr ""
+#~ "<code>[wp_file_manager view=\"list\" lang=\"en\" theme=\"light\" "
+#~ "dateformat=\"d M, Y h:i A\" allowed_roles=\"editor,author\" access_folder="
+#~ "\"wp-content/plugins\" write = \"true\" read = \"false\" hide_files = "
+#~ "\"kumar,abc.php\" lock_extensions=\".php,.css\" allowed_operations="
+#~ "\"upload,download\" ban_user_ids=\"2,3\"]"
+
+#~ msgid "Manage your WP files."
+#~ msgstr "Kudeatu WP fitxategiak."
+
+#~ msgid "Extensions"
+#~ msgstr "Extensions"
+
+#~ msgid ""
+#~ "Please contribute some donation, to make plugin more stable. You can pay "
+#~ "amount of your choice."
+#~ msgstr ""
+#~ "Egin dohaintza batzuk, plugin gehiago egonkortu ahal izateko. Zure aukera "
+#~ "zenbatekoa ordaindu ahal izango duzu."

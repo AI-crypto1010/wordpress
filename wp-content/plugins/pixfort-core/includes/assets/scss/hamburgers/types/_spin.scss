@@ -1,0 +1,100 @@
+/*
+* Spin
+*/
+// .hamburger--spin {
+//     .hamburger-inner {
+//         transition-duration: 0.22s;
+//         transition-timing-function: cubic-bezier(0.55, 0.055, 0.675, 0.19);
+//         .hamburger-inner-before {
+//             transition: top 0.1s 0.25s ease-in, opacity 0.1s ease-in;
+//         }
+
+//         .hamburger-inner-after {
+//             transition: bottom 0.1s ease-in 0.25s, transform 0.22s cubic-bezier(0.55, 0.055, 0.675, 0.19);
+//         }
+//     }
+//     &:not(.is-active) {
+//         .hamburger-inner-after {
+//             bottom: -10px;
+//         }
+//     }
+//     &.is-active {
+//         .hamburger-inner {
+//             transform: rotate(225deg);
+//             transition-delay: 0.12s;
+//             transition-timing-function: cubic-bezier(0.215, 0.61, 0.355, 1);
+//             .hamburger-inner-before {
+//                 top: 0;
+//                 opacity: 0;
+//                 transition: top 0.1s ease-out, opacity 0.1s 0.12s ease-out;
+//             }
+//             .hamburger-inner-after {
+//                 bottom: 0 !important;
+//                 transform: rotate(-90deg);
+//                 transition: bottom 0.1s ease-out, transform 0.22s 0.12s cubic-bezier(0.215, 0.61, 0.355, 1);
+//             }
+//         }
+//     }
+// }
+.hamburger--spin {
+    .hamburger-inner {
+        // transition-duration: 0.22s;
+        // transition-timing-function: cubic-bezier(0.55, 0.055, 0.675, 0.19);
+        &:after {
+            transition: transform 0.22s cubic-bezier(0.215, 0.61, 0.355, 1) 0s;    
+        }
+        transition: transform 0.22s cubic-bezier(0.215, 0.61, 0.355, 1) 0s;
+        .hamburger-inner-before {
+            // transition: top 0.1s 0.25s ease-in, opacity 0.1s ease-in;
+            transition: transform 0.22s cubic-bezier(0.215, 0.61, 0.355, 1) 0.22s, opacity 0.22s cubic-bezier(0.215, 0.61, 0.355, 1) 0.22s ;
+        }
+
+        .hamburger-inner-after {
+            // transition: bottom 0.1s ease-in 0.25s, transform 0.22s cubic-bezier(0.55, 0.055, 0.675, 0.19);
+            transition: transform 0.22s cubic-bezier(0.215, 0.61, 0.355, 1) 0.22s, opacity 0.22s cubic-bezier(0.215, 0.61, 0.355, 1) 0.22s ;
+        }
+    }
+    &:not([aria-expanded="true"]) {
+        .hamburger-inner-after {
+            bottom: -10px;
+        }
+    }
+    &[aria-expanded="true"] {
+        .hamburger-inner {
+            // transform: rotate(225deg);
+            transform: rotate(135deg);
+            &:after {
+                transform: rotate(90deg);
+            }
+
+            &:after {
+                transition-delay: 0.12s;
+            }
+            transition-delay: 0.12s;
+
+            // transition-delay: 0.12s;
+            // transition-timing-function: cubic-bezier(0.215, 0.61, 0.355, 1);
+            .hamburger-inner-before {
+                // top: 0;
+                opacity: 0;
+                transform: translateY(($hamburger-layer-spacing + $hamburger-layer-height) * 1);
+                // transition: transform 0.22s cubic-bezier(0.215, 0.61, 0.355, 1) 0.12s;
+                transition-delay: 0s;
+            }
+            .hamburger-inner-after {
+                // bottom: 0 !important;
+                // transform: rotate(-90deg);
+                opacity: 0;
+                transform: translateY(($hamburger-layer-spacing + $hamburger-layer-height) * -1);
+                // transition: transform 0.22s cubic-bezier(0.215, 0.61, 0.355, 1) 0.12s ;
+                transition-delay: 0s;
+            }
+        }
+    }
+}
+/*
+* Safai iOS fix
+*/
+.pix-is-safari .hamburger--spin[aria-expanded="true"] .hamburger-inner .hamburger-inner-after {
+    bottom: -10px !important;
+    transform: translate(0, -10px) rotate(-90deg) !important; }

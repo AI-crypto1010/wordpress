@@ -1,0 +1,116 @@
+.pix-intro-1 {
+    position: relative;
+    &:not(section){
+        width: 100%;
+        display: inline-block;
+    }
+    .pix-intro-img {
+        position: absolute;
+        opacity: 0.9999;
+        left: 0;
+        overflow: hidden;
+        width: 100%;
+        height: 100%;
+        display: inline-block;
+        box-sizing: border-box;
+        transform-origin: center;
+        img {
+            top:0;
+            left:0;
+            width: 100% !important;
+            height: 100%;
+            -o-object-fit: cover;
+               object-fit: cover;
+            z-index: 10;
+        }
+        transform: scale(1.4);
+        transition: transform 3.5s cubic-bezier(0.165, 0.84, 0.44, 1);
+        transform-origin: center;
+        -o-object-fit: cover;
+            object-fit: cover;
+        -o-object-position: center;
+            object-position: center;
+        &.animated {
+            transform: none;
+        }
+    }
+    .pix-intro-video {
+        position: absolute;
+        opacity: 1;
+        overflow: hidden;
+        width: 100%;
+        height: 100%;
+        display: inline-block;
+        transform: scale(1.4);
+        opacity: 0;
+        transition: opacity 4.5s cubic-bezier(0.165, 0.84, 0.44, 1), transform 3.5s cubic-bezier(0.165, 0.84, 0.44, 1);
+        &.animated {
+            transform: none;
+            opacity: 0.5;
+            transition: opacity 4.5s cubic-bezier(0.165, 0.84, 0.44, 1), transform 3.5s cubic-bezier(0.165, 0.84, 0.44, 1);
+        }
+        .jarallax {
+            position: absolute;
+            top:0;
+            width: 100%;
+            height: 100%;
+            display: inline-block;
+        }
+        &.is-gray {
+            filter: grayscale(1);
+        }
+    }
+}
+.pix-main-intro.pix-intro-1, .pix-slider .carousel-cell  {
+    overflow: hidden;
+}
+.pix-main-intro.pix-intro-1 {
+    float: left;
+    backface-visibility: hidden;
+}
+body:not(.pix-padding-style) .pix-intro-1 .pix-intro-img img {
+    left:0 !important;
+}
+.pix-is-safari {
+    .pix-intro-1 {
+        .pix-intro-img {
+            img.jarallax-img {
+                box-sizing: border-box;
+                transition: all 0s !important;
+                will-change: transform;
+                &.animated {
+                    transition: all 0s !important;
+                    &.slow-transition {
+                        transition: all 0s !important;
+                    }
+                }
+            }
+        }
+    }
+}
+.fullpage-container {
+    width:100vw;
+    height:100%;
+    top:0;
+    left:0;
+    z-index:1;
+    margin-left: calc(-50vw + 50%);
+    position: absolute;
+    display: inline-block;
+    pointer-events: none;
+    transform-origin: center;
+}
+section.pix-intro-1:not([data-vc-full-width="true"]) {
+    .fullpage-container {
+        width: 100%;
+        left: auto;
+        right: 0;
+        img {
+            width: 100% !important;
+        }
+    }
+}
+.pix-intro-container {
+    z-index: 2;
+    transition: none !important;
+}
